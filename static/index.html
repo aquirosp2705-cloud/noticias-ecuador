@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Noticias Ecuador</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="encabezado">
+    <div class="fila">
+      <h1>Noticias del momento</h1>
+      <div class="acciones">
+        <label class="campo">
+          Periodo
+          <select id="periodo">
+            <option value="6h">Últimas 6 horas</option>
+            <option value="24h" selected>Últimas 24 horas</option>
+            <option value="3d">Últimos 3 días</option>
+            <option value="7d">Últimos 7 días</option>
+            <option value="30d">Últimos 30 días</option>
+          </select>
+        </label>
+        <button id="actualizar" type="button">Actualizar</button>
+      </div>
+    </div>
+    <nav class="pestanas" id="pestanas" aria-label="Zonas">
+      <button type="button" data-zona="guayaquil">Guayaquil</button>
+      <button type="button" data-zona="samborondon">Samborondón</button>
+      <button type="button" data-zona="ecuador" class="activa">Ecuador</button>
+      <button type="button" data-zona="internacional">Internacional</button>
+    </nav>
+    <p class="estado" id="estado" aria-live="polite"></p>
+  </header>
+
+  <main>
+    <div id="rejilla" class="rejilla"></div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
