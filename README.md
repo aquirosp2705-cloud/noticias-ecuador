@@ -16,6 +16,10 @@ Cada noticia incluye foto, medio, tiempo de publicación y enlace al artículo. 
 
 ## Uso
 
+**Forma fácil (Windows):** haz doble clic en `INICIAR NOTICIAS.bat`.
+
+**Desde la terminal:**
+
 ```bash
 python server.py
 ```
