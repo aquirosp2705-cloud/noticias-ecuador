@@ -1,8 +1,15 @@
 {
  "zona": "samborondon",
  "nombre": "Samborondón",
- "actualizado": "2026-10-16T17:38:34+00:00",
+ "actualizado": "2026-10-16T20:09:06+00:00",
  "noticias": [
+  {
+   "titulo": "Torneo intercantonal de fútbol LGBTI reunirá a equipos de 10 ciudades en Samborondón",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGI0MkViRHRFbHR3a2hQNUs1QlhuamZiSzlsSEZub3FnWXZKb1A4V1RHVWlWcVppaUJnNGpjTkxwbDJXWVhFSmRmT0gwMFRhWGczRG0tVTVJdUczU1RieUN4OUozaVBEMno3TFoxelB5MFREUlRNVGdiejcwcXR4aVFvNlBuVGlkaTdKckI0Zl9ESUxTbEFzelJfRlVhWV90akhtNXFWT0RxU29ydGczWEo4Nlk5VWJzOWc?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-16T19:26:54+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad278509b2d5.r_d.664-728-9375.jpeg"
+  },
   {
    "titulo": "Secuestro en Samborondón: Sujetos se llevan a un hombre y su hijo de urbanización",
    "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZjA1ckhaZ1FlcFhiTHoxUXp0UFRKTGhqbGxxWXNFV2tqZXU0MWJ5Z3hiVUNZcDRNYmVlYktDQXVudVNoWG5lY0dVZkNhM1dzSTJwOFVVU01xY2VlZDJHUEl0bUdOZll2TEFaUTI5bl81MGZmTjQzS2ZnRkdOUGlWSmNDcmNoUU12OW5qZzFVdWpPNmVvMXFFZFN2Mm5FcFZwZkd5dE5Xa0M3Zw?oc=5",
@@ -23,13 +30,6 @@
    "medio": "El Universo",
    "fecha": "2026-10-16T13:00:00+00:00",
    "imagen": "https://www.eluniverso.com/resources/images/logo_eu.svg"
-  },
-  {
-   "titulo": "NUMA lanza NUMA HUB y suma a ASIAUTO a su red de beneficios en Samborondón",
-   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSC1hQ1N0ZkpjSk1adzdVTWVGZmhJY0tPb2VSbFpJRFhnNk1uc1RPTFEzQlFFblNpM0s2MDlmLTI4NWo5ZGdlV3Y1Nk1pSm85UVRYazJVNmJVQ1p0MXNsdWd6LU0zWWk4VUluV3E4R1FkRGczTnduNXEwSm5oY1BxenpSOUs3Q0lTUi1SaVFTVTdNc3ZuV2FGMnBIdDY5RWRoN1ViekJNLTQ3bWgxZmptc01QaGFmR1ppSHfSAb8BQVVfeXFMTUw2ZWppdXhSSHRWVGZZUmVyRTF6N3RlV29vejMtMlZlLVIxd182UVQ2elRfaS1ENFVUZVRsSGlrRXViZ3h4OHM3bTFPc0NPdHgxQ1IwZnMtYm52WS04ak80Z1FFNUxXLTh1ckM2RWwxZmlFb0VxQ0NfNnphVmU4Nmcwbkh1RHVhR3lxN2Rmc2ZaWElJRWFLMjV2TlZkSHFiRVVnNVBvSm10TTFSa0ZNYWFyV3g2U1BJMUpFckJCU1U?oc=5",
-   "medio": "Vistazo",
-   "fecha": "2026-10-15T19:55:23+00:00",
-   "imagen": "https://www.vistazo.com/binrepository/900x600/144c1/600d600/none/12727/RERR/numa-2755683-2755683_2755683_20261014125820.jpg"
   },
   {
    "titulo": "Chats encriptados, 40 toneladas de droga y un entramado empresarial: las pistas con las que la Fiscalía reconstruye la presunta red de narco desmantelada en Samborondón",
@@ -121,6 +121,13 @@
    "medio": "Ecuavisa",
    "fecha": "2026-10-12T17:01:27+00:00",
    "imagen": "https://assets.ecuavisa.com/images-formats/originalxauto/t_2-p_9-q_100-ar_191-100-fpx_535-fpy_586/jpg/2026/10/12/ceneace_de-1-.jpg"
+  },
+  {
+   "titulo": "Dos sismos de magnitud 3,6 y 4,2 se registraron cerca de Samborondón y Muisne el 9 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORl9UR1lvTk94UVJGOVFYUmhQejlQeGx3Z1dKX0dyQmNTNU1NRnhNUzM0TXVMR3VvaXBIMEhzMjhMMkViekZiWDNxU0s5NkhTY25wQkRfUzBlOXk2ME9Mb2Z0T21tcGZVdk80andxOW13cjVKTFl4SHRqMkpoR0JEMWludkxseGp3MFlyV0hWTnFBQlVhM2FNTXljONIBoAFBVV95cUxPdmJGYW45VzZXaGc5WUZScFpkMkRkYk9EaVN2TDlhQWROMTM0T0pkVjBIR25mWUtwR0REOHlEMk4ybVlNZGY3ZDd4QXdveVZ3OVVtVGZuNzlFamIyMVZtRV90aGVuQV92Z3RyVXRiR2xmVDk1U0l2ZlRRS0VWazRUSGU0a2FVVjJHeXdOYlZGcG8tM2huQjhwY2lkNHhQWi1I?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-10-11T14:59:49+00:00",
+   "imagen": null
   },
   {
    "titulo": "Nueve policías fueron detenidos por caso de concusión en Samborondón",
@@ -401,13 +408,6 @@
    "medio": "Diario Extra",
    "fecha": "2026-09-11T07:00:00+00:00",
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/09/11/6aa42ff399231.png"
-  },
-  {
-   "titulo": "CamaRun alista su tercera edición en Samborondón con recorridos de 1K, 5K y 10K",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2JCSk42V3l6YjJWdEV5eGE0MTdDc25Bdk9IUGstZ190UUUwcXlZMEhfYmJzSl9qVVF0bV9nZ25GaWpXRWVyaTVmRHI4RDI2akpiWTBiOTNUMW50MGU5WmNkazdHTU45VDBfVE1oUHlQYzlmLXFEa1gwb1Z5T2hZZkdQSGxGaG5IQTFOeUtnNEQxd2VTNHJfZ0dGZW9pV2Q1RkZYb3hPVHlKb0RrTG54RVhXZGpGYnNpNWF5WNIBwgFBVV95cUxPd21ZaXcwR095OU1nRWlkMjlHVnc4ZE01Qm5ZLXdHQVdSZURPelptV3JiZ1hjV0VHVXhidnRSODhLS2xRWDZmWVIyVjhsX3NseW4ydFBhakpoc2o2QkRXbEdpYUstSm4xY2ZuNW1vck5CU1Q4bXBRVFFWeWk2V0QwVGhjVDF5b3JiRk1hM1JUS0Z3RjdMcmxaYTNWWFNTZ3ZoMk44MmN6eUI3aEpwX3ZUV0pVYURVYzdZOU5Tc2pxR2NSdw?oc=5",
-   "medio": "Vistazo",
-   "fecha": "2026-09-11T07:00:00+00:00",
-   "imagen": "https://www.vistazo.com/binrepository/900x600/150c0/600d600/none/12727/GYXC/dsc07040_2737973_20260911232905.jpg"
   },
   {
    "titulo": "Conductor señalado por la muerte de Mónica Martinich en Samborondón fue llamado a audiencia este jueves",
