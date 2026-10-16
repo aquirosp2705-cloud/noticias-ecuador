@@ -10,6 +10,7 @@ Uso:
 
 import concurrent.futures as cf
 import email.utils
+import os
 import json
 import re
 import threading
@@ -22,8 +23,11 @@ from datetime import datetime, timedelta, timezone
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
-HOST = "127.0.0.1"
-PORT = 8000
+# En un servidor en la nube (Render, Railway...) se usan las variables PORT y HOST.
+# En tu PC, por defecto, solo escucha en 127.0.0.1:8000.
+EN_NUBE = "PORT" in os.environ
+HOST = os.environ.get("HOST", "0.0.0.0" if EN_NUBE else "127.0.0.1")
+PORT = int(os.environ.get("PORT", 8000))
 BASE_DIR = Path(__file__).resolve().parent
 STATIC_DIR = BASE_DIR / "static"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) NoticiasEcuador/1.0"
@@ -265,7 +269,8 @@ def main():
     servidor = ThreadingHTTPServer((HOST, PORT), Manejador)
     url = f"http://{HOST}:{PORT}"
     print(f"Noticias Ecuador en {url} (Ctrl+C para detener)")
-    webbrowser.open(url)
+    if not EN_NUBE:
+        webbrowser.open(url)
     try:
         servidor.serve_forever()
     except KeyboardInterrupt:
