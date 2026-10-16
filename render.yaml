@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: noticias-ecuador
-    runtime: python
-    plan: free
-    buildCommand: echo "Sin dependencias externas"
-    startCommand: python server.py

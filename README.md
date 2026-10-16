@@ -37,13 +37,23 @@ Se abre el navegador en `http://127.0.0.1:8000`. Para detenerla, presiona `Ctrl+
 - Google News devuelve unas 100 noticias recientes por búsqueda; los periodos largos (30 días) pueden mostrar menos resultados.
 - Algunos medios no publican foto en su página; en ese caso se muestra un recuadro con la inicial del medio.
 - La primera carga de una zona tarda unos segundos mientras se buscan las fotos; las siguientes son casi inmediatas.
-- GitHub guarda el código, pero no ejecuta Python: la app corre en tu computador (o en un servicio como Render o Railway si quieres publicarla).
+## Versión publicada (cualquier dispositivo)
+
+La app está publicada con GitHub Pages en
+https://aquirosp2705-cloud.github.io/noticias-ecuador/
+
+- **GitHub Actions** ejecuta `scripts/generar_datos.py` cada hora, busca noticias y fotos y guarda los resultados en `docs/data/*.json`.
+- **GitHub Pages** publica la carpeta `docs/`, que lee esos JSON y filtra por periodo en el navegador.
+- Para forzar una actualización: pestaña **Actions → Actualizar noticias → Run workflow**.
 
 ## Estructura
 
 ```
-server.py          Servidor y lógica de noticias/fotos
-static/index.html  Página principal
-static/style.css   Estilos (modo claro y oscuro)
-static/app.js     Pestañas, periodo, actualización y tarjetas
+server.py                         Servidor local y lógica de noticias/fotos
+scripts/generar_datos.py          Genera los JSON para la versión publicada
+.github/workflows/actualizar.yml  Tarea programada de GitHub Actions
+docs/index.html                   Página principal
+docs/style.css                    Estilos (modo claro y oscuro)
+docs/app.js                       Pestañas, periodo, actualización y tarjetas
+docs/data/                        Noticias generadas (JSON)
 ```

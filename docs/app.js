@@ -5,8 +5,34 @@ const botonActualizar = document.getElementById("actualizar");
 const pestanas = document.querySelectorAll("#pestanas button");
 
 const INTERVALO_AUTO_MS = 10 * 60 * 1000; // refresco automático cada 10 minutos
+const PERIODOS_MS = {
+  "6h": 6 * 3600e3,
+  "24h": 24 * 3600e3,
+  "3d": 3 * 24 * 3600e3,
+  "7d": 7 * 24 * 3600e3,
+  "30d": 30 * 24 * 3600e3,
+};
+// En tu PC (servidor local) se usa la API; en GitHub Pages, los JSON que genera GitHub Actions.
+const EN_LOCAL = ["localhost", "127.0.0.1"].includes(location.hostname);
 let zona = "ecuador";
 let temporizador = null;
+
+async function obtenerDatos(zonaElegida, periodo, refrescar) {
+  if (EN_LOCAL) {
+    const params = new URLSearchParams({ zona: zonaElegida, periodo, refrescar: refrescar ? "1" : "0" });
+    const respuesta = await fetch(`/api/noticias?${params}`);
+    const datos = await respuesta.json();
+    if (!respuesta.ok) throw new Error(datos.error || "Error desconocido");
+    return datos;
+  }
+  // Modo publicado: se filtra el periodo en el navegador sobre los JSON ya generados.
+  const respuesta = await fetch(`data/${zonaElegida}.json?t=${Date.now()}`, { cache: "no-store" });
+  if (!respuesta.ok) throw new Error("No se pudieron leer las noticias publicadas");
+  const datos = await respuesta.json();
+  const desde = Date.now() - PERIODOS_MS[periodo];
+  const noticias = datos.noticias.filter((n) => new Date(n.fecha).getTime() >= desde);
+  return { ...datos, periodo, total: noticias.length, noticias };
+}
 
 function tiempoRelativo(fechaIso) {
   const minutos = Math.round((Date.now() - new Date(fechaIso).getTime()) / 60000);
@@ -75,11 +101,8 @@ async function cargar({ refrescar = false } = {}) {
   estado.textContent = `Cargando noticias de ${nombreZona}…`;
   mostrarEsqueleto();
 
-  const params = new URLSearchParams({ zona, periodo, refrescar: refrescar ? "1" : "0" });
   try {
-    const respuesta = await fetch(`/api/noticias?${params}`);
-    const datos = await respuesta.json();
-    if (!respuesta.ok) throw new Error(datos.error || "Error desconocido");
+    const datos = await obtenerDatos(zona, periodo, refrescar);
 
     if (datos.noticias.length === 0) {
       rejilla.replaceChildren(Object.assign(document.createElement("p"), {
@@ -90,7 +113,8 @@ async function cargar({ refrescar = false } = {}) {
       rejilla.replaceChildren(...datos.noticias.map(crearTarjeta));
     }
     const hora = new Date(datos.actualizado).toLocaleTimeString("es-EC", { hour: "2-digit", minute: "2-digit" });
-    estado.textContent = `${datos.total} noticias de ${nombreZona} · actualizado a las ${hora}`;
+    const nota = EN_LOCAL ? "" : " · se actualiza cada hora";
+    estado.textContent = `${datos.total} noticias de ${nombreZona} · actualizado a las ${hora}${nota}`;
   } catch (error) {
     rejilla.replaceChildren();
     estado.textContent = `Error: ${error.message}. Revisa tu conexión y vuelve a intentar.`;

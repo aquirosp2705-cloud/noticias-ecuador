@@ -29,7 +29,7 @@ EN_NUBE = "PORT" in os.environ
 HOST = os.environ.get("HOST", "0.0.0.0" if EN_NUBE else "127.0.0.1")
 PORT = int(os.environ.get("PORT", 8000))
 BASE_DIR = Path(__file__).resolve().parent
-STATIC_DIR = BASE_DIR / "static"
+STATIC_DIR = BASE_DIR / "docs"  # misma interfaz que publica GitHub Pages
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) NoticiasEcuador/1.0"
 
 # Zonas disponibles: cada una es una búsqueda en Google News con su edición regional.
