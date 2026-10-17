@@ -1,14 +1,91 @@
 {
  "zona": "guayaquil",
  "nombre": "Guayaquil",
- "actualizado": "2026-10-17T01:45:23+00:00",
+ "actualizado": "2026-10-17T06:18:03+00:00",
  "noticias": [
+  {
+   "titulo": "Fuerte lluvia en Guayaquil provoca acumulación de agua en 14 sectores, Sauces 6 fue una de las zonas más afectadas",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeFAyTU5hbWxhMUlrbWgybmNfVzA2WUpkNk9zY0tqUzE4NndYbnpGbThHLWlTdjBxWEJTTm0tMUozR2psOGJ1LXlLT3lYZVBPMHA2bnB6aWk5Rkp0QkhoLTNDXzFieE55cXNVYXpMN3BFdVFpUnFxR29fcnB2UkVpaEowQUV1ZE80QlNET3FwSE5rei1GYVZQRnZtcVl2aXpGc056VmhnZmJaM3NQdFFBa3hqd1NseWc?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-10-17T03:58:50+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/10/16/6ad2f185ab9d5.jpeg"
+  },
+  {
+   "titulo": "Policía decomisa botellas de whisky para envasar licor adulterado en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOano4SThxcEgxNmdLYURTNFotcG0weFhFdHF2bHREYUs0T2dIQ2NHLVJZOGtKRzdPWExaeS1fa3NqcjlfaEcxbTJDZWh6aWg4MDI3Q1FoU0RjV09qYndRSTBFWVNORFQ5U2pROGkybFJFVEhyLVk1ZTdycDRHUlQ3M21VQUprcHRCUEJ1dHdOOHl0ekZlQlc2d2ZLTzl4OEpoaGk4c3pMT2ZfUE04ajhVMDY3Q2Rtc1JCUXg4Y01Rbkk3ZFRoYmI3RQ?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-10-17T03:58:33+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Clima hoy en Guayaquil, Ecuador: el pronóstico del tiempo para este sábado 17 octubre de 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnpCUkNSLWZvOVFCeFNGWjlpVXg5aThibFJoWTI1OXRyNU10ZGd2cFJnMFllUVlKMEdPN0hpRWk3TEJReW02aGp4R09kcW1Pd3N3SmxfOGdIOUk1cjhtLVBZTjE3MUJJWlcwM25LblFXUWtWTWw0ODR0NGd5ckFpM2E3Z2tyUVFZX1FYQlh3akZ3TUZXUGVhbm5qRG9ETUttbTlDQmxaSlVJS2wwV3IyOVlqVjUwUkhmNFloc3o0RllXSVJseU1RRNIBzgFBVV95cUxPZkRTTHlDRVgxQnJYTm9yT09DSEpCYU5oV1Bic2x4N19CMGZrSk4yUXo0U00yeU5QaW1iUTAxVzBkbU83ZTl1UUp5YmNhdGFMeGt0ZlpzMkdVdUF1UGYtdGVEV01hdHFWbkI0OTh3Wjk5bThuSERxaEd3alRycWpyTU0xd1RTUjh0SU5XdXk0OVYtZkZNNUJNOTFfZGNaeFlZSnVra0NnUFBMTzhQd0VsLUFhZmR2NzFiUFk3YzQtX3hUSzIzSkk4VjYxaFVqdw?oc=5",
+   "medio": "Clarin.com",
+   "fecha": "2026-10-17T03:31:40+00:00",
+   "imagen": "https://www.clarin.com/img/2025/04/30/0tmlBHI7p_2000x1500__1.jpg"
+  },
+  {
+   "titulo": "Lluvias anegan calles de Guayaquil: estas son las zonas afectadas la noche del 16 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHFxOFBXVzhZOUFObTNjc1BzVWlCTUJkQWNIalBXU0ZwZFE3MlFQT2xDQ1VZalVtWms0bEt3blhJZDhjc1RsS2NzNjJaclhXdlZwampjd1R4WmNKY3p3VjVLZE5QQVJ1ZkN3eXpuZEZwcjgzcDhKRGhBN2xWcXI1ajdaV3Fubk1HakhNbnRWdHFVdW91bWVQeUZtemkxcDl2bmoyRjZHUERXSDBIb1lLN0hNMGNVbkE0aERNbWtTNA?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-10-17T02:33:12+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/10/16/6ad2dd5c177ed.png"
+  },
+  {
+   "titulo": "Horarios de mantenimiento eléctrico en Guayaquil este sábado 17 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbGhGaWdWLU12U0FVM1d1NnJGZWpqLVdPV3NwaGlNekV0c3F6b2NnX1JtU3Vaelh6NS00RmxOT0x3SHpvRWNibHZaaUs2TVQtRmF0VjFRMzVfaC1ZSGVFYUY4bnJzYlFZZVdhdzkzRGFFTkFlSnJ0VEhOUThEVGZHdExDRi1jNUwxM1EyUGdaaWVRV3QxNnhmYzByd0pzeE1ZV2ZOQTJhRFdsWVBESnBxdzJJNlpQTElzX2l5SWNkRXBYY3BYeVHSAdoBQVVfeXFMT2RHVno3QUw2c1RZQmptRGtpV01WOENIdDFkMmFJaE9ZNlhiaHRLZldoRDRnXzZYQUY4QXpkUHNnRGUta1hyWTY4N3JNc1EtVnpNMzhkMy1QWUdSWUlwTm9vRXJSajYtZ045TWRJbHRPdEtIYlZFU1ZUZlhITzRsVmMtU2dQbDB2VUlORUZTZnlIR25RSExFOHhIaTVtTXlickJoc0hsUi1tXzZsOVNheTZROUpYbXN6UW1uQzFhV0MycnRUM1hFNzU5TzlXS1lCWE9Zd0R4MHBDWmc?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-17T02:12:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/G62PUNBJQVCJNKFQUFMFEXBGV4.jpg?auth=615f3a1db0f7f8518b96f9fe118e397fe3def49fa44a7724640f1689ce40e07b&width=893&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Estos son los sectores de Guayaquil, Samborondón y Durán que tendrán cortes de luz por mantenimiento programado el 17 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1FTcmxJdXpOV0FLNEVKRHMzenBFdHZKOFprYjdxbURnZHJoU1BXbnVyV0JpUk9aeUVabS1IRzNXdDV2V0VpSGhnd0pCQkJrZU83N0VOTl9qTzVldEQwRXdWcXExQlhVWUxPN2gxSUowZkpvRUhxNUd5OGw4YjBlbGRHQWhEb3dZWlN5WE1OM0lJRTZJZXRobElaRlpxTVowSXFGR2tvazJYUW10NjRxallFWmg1U2wyT1VjLURNOHpxQ2cydlpJ?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-10-17T02:10:00+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/10/16/6ad2894df3ab0.jpeg"
+  },
+  {
+   "titulo": "Cortes de luz este sábado 17 de octubre: estas son las zonas afectadas en Guayaquil, Durán y Samborondón",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGdiTzM2aFJKMlN4MG5fRHhSekVWMDV5eFRQXzlRVlFyTTdCemdoNXQ4VzNLLWxDTnEzd1FKRFI5Y08zLVJRajh4dmR0cTRHblo3Ynh1S3N5dXBwT0wxdVBaMUt2aEpyV1BlTkVod2RoOU53NkVfZnZhaHhyQkVGVC15OFp0Wl94VmhORjdDNmU0QXkyUk9BZ2ZsVVBEcGlOV1ZiMnN3aWl0ejdRTXRJTzlDS2VaOFXSAbwBQVVfeXFMUEdESXJIWGZRNnBwZ2N6ZUdxWjBvalhwZEs1Q2prM0tveVZlaGhraTVGTUlzbldJNDdTdDFnX1NDX09oYmNURmVYdXFQZ0lhZXhqSlZ3NDIzR21pblZzdmk3elB2Z05xckE5eWphcE1BZXN4aHE3ekk2U1JEZTRuaHM3ZzN2NThfN3pWZm9FelR5NzNwclhRVC1sSDI5eU5WQUJxMzdBZTlUb3BuQ2xmazQ1dFUtOE1LZkE5aUQ?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-10-17T02:09:30+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Cortes de luz en Quito y Guayaquil este 17 de octubre: horarios y sectores",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUk1QalpSakxrRE9CMDBvdTdUNmczLWk2RW1NN2Z6UnJWbUhMNDBuVngxX1dXd0FwNzh5ZFh3LXlKMXBTck96dVZ3MU5oSDdHTmNkdGoxQ2tfU2YtMndicU1PQjQtdjEtUlotQ2NiOFA1dVpPTmxha0l2aUFoMUZ0NmFDc1U2cURMSnlFU1VzWjJTTUdHUHAyOEN3b3ZRODQ4XzNPNmF0U1ZtQjFtcnBwR2RVS05zMWZTMkJaeWNCcDMwR0N2bnJj?oc=5",
+   "medio": "ElOriente.com",
+   "fecha": "2026-10-17T02:02:20+00:00",
+   "imagen": "https://img.eloriente.com/pics/1280x960/ee625d851b0d640b8c272875cfb2e289a6495caa.jpg"
+  },
+  {
+   "titulo": "Lluvia en Guayaquil: estas son las zonas afectadas la noche del viernes 16 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTV5MEs3ZnVwVGI0TWNjcllWbWlPbHBWS29PbW9yMDkyWENKX3ZMN1lIT3d0bERQdjRtcE04U3JuaExsSDlCQWJZdWZXTFhuSWsxUWRoM1hzMWpHN3QyRUxyNjFveVh0YlRDa0tHWDl6S2UxQm1OZGxkV1g2b0taVVV4VUk0c0RiUDVwRzZ2TXBSMlFLVDNtYUdTM2I3TUxPeWFvSldNMFJWZw?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-17T01:47:14+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/16/6ad2d39fca9ee.jpeg"
+  },
+  {
+   "titulo": "Cortes de luz Guayaquil, sábado 17 de octubre: Consulta aquí el cronograma oficial de apagones",
+   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM0xadU1jUG53RDNHOW9hS3NBV1JXQnk2Mnl5cExmcTBXV056ckkxZjV6LWpscm5jaHRuWVY3aElnbThSdkxGYkpJLUVoanpqRHVXcjh0RWN6TGJKd1llQnBPSjJrZEx1ZDYzMm5MVzI4X2o0YmF5YlpIOXBKVk8yWUxBbndRcmdDQWJRdmc5cG55b0pSNUJIZTh1QVJ6amM0NTNaZExTNW1tUW1PS0cxbmY2S2EtdHVGRF9ZNnlNbTg1SU96UjctVmZLVjlwdjNkTUplMEJsYUp3UdIB3wFBVV95cUxOWFFxMl9QQUxON1h2ZmZvVUJULXNOc3QybzhqZUtpVDVHZVZONDBXOTZ0blRrdEpqWGVkdjQzN05UTlBTdFp6eFEzd0lRbzg3b0xacHZwZDNmS2hvSl9aRUcyZk1SRDU5V1c5b1lGQ3NnaV9SR2FMR2pYc0NqSl9VQVozaURPcnd6V1Fsa3hTNFB3Z1hQMERYNmlidTFabmlhUndVdFB6b2xNdmFTVllDTE9OV1BuVWU5WTR3QmJoNU9aZGxkb3A4Z185ZnE0LTNBX3pVRDFFYVNZblpId3FF?oc=5",
+   "medio": "Diario Extra",
+   "fecha": "2026-10-17T01:44:26+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/16/6ad2d2f2e45ef.png"
+  },
   {
    "titulo": "Cortes de energía en Guayaquil: estos son los sectores y horarios del 17 de octubre",
    "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTZ4Y1UzYkRaMWpyS19LZUdJbGpwMldHSmo5UmkwVk0yWE9paWZiLTJGOU5TSmo2NHFNUHA3QzFaLXkyUTZmMEY4aEE2N25SYkdXc09Ib0R0X0RUNnFKUEZTUzlkSmpyZWhmQjRlVk1XcmVTSUVzU0l6TEYwNnBjc2IwVHJwUXVMY3ZGbnZENEdaeUlCYWxkLVFxX25BV3BmRnZtMQ?oc=5",
    "medio": "expreso.ec",
    "fecha": "2026-10-17T01:26:08+00:00",
    "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/08/25/6a8e20f5976be.png"
+  },
+  {
+   "titulo": "Cámara de Industrias de Guayaquil pide coordinación ante la crisis energética",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ2dXOGRlajlxaWZZeng3Y3hFZW5oUC1PRV9RU2ZvUHdid0pJUnFIeFVZOVBiR2UzRVZIZTU5b2kwVnNaLVpNNHdTRmNubVBtX213cHFPUTdETGdiM3RiRWdiRUVGWnlZMFVlRmI5a2hSYUk3Z3VDRThiSW42eFpUN09ZZFFvSkZkZm5ScmdtaTh1ak96NDA5d3E3SVUtQUhoUzJ0Y203cjRodnJtdW03b9IBtgFBVV95cUxPS05OaUl3aTFPV3B3ZHZPMmlUbG9qaE1kRk5OeDJYelVSSkxjUFFQVTZ4NFJBWTJ2bmhQRnQzOF9RU09jSXE0dXNHZjVSRXV0ZnY1bEZZekZ4WGtNY0k1N1k3OG44VG5uZEZDZ0dHdEFuWWV5WEVmLWFKNk81dzNSMXk0MzA2b2FneFlmbURoNnM1TFl4cVgtRlZwcWxLMTJBUVNBZl83T0ZUdWYyVzMwN0ZwUVBzUQ?oc=5",
+   "medio": "FM Mundo",
+   "fecha": "2026-10-17T00:36:00+00:00",
+   "imagen": "https://statics.fmmundo.com/2025/04/680aedfbd1f4d.jpeg"
   },
   {
    "titulo": "De $96 a $600: qué factores influyen en la sanción por arrojar desechos en Guayaquil",
@@ -172,25 +249,11 @@
    "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad2747905b6b.r_d.488-701-10563.jpeg"
   },
   {
-   "titulo": "Ministro de Energía y representantes industriales mantienen reunión en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUN3UUQ4NURsekI1NU5IbVJ2TmFkT2FPbXUzLTdvY1Y2cnk4SHNPZjVTS0pqSWNzLXFfSmpzdjhGS2Rid21QS0ZGbV84X3VZLTNhN001LUxIZ2lYRFhWckhLbkZjVU5IZGg4cTdaOUU3RkdsRk03X1dBRGUwdmxDQThST0hGblVyQXBwQWNXOUI4Z1RWUW5xX19CQUlvREZMcXluWEExUQ?oc=5",
-   "medio": "Teleamazonas",
-   "fecha": "2026-10-16T18:56:28+00:00",
-   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/10/16/6ad273526f889.jpeg"
-  },
-  {
    "titulo": "Descubren presunto centro de adulteración de licor en Guayaquil durante operativo contra el crimen organizado",
    "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObXJON3RiYld5Z2RVcVU5dkRFLUQ4TENnME5UNXNQXzIya3pKU1psLXF0c242TWszWlNINUpvZTRhczZyNVVSdGUtMDZaWFUwNzg4ekw3OHd6SUszT2sxdFpJUWU3Tk5xUlJaUkVRcnQzLVJDaVRwWUpfT0xlS1ZaNUZxMkt6eU9uQmZpaGdpMUxldDlHbGJfSkpjeVNkVWxRZEtMU1lQd19XRW1fZ0cyT1ZIalVqUTBENEx6X0EzTlhvMy1GS2xTdGg5Wm04alFocmltZFV5N2lFdw?oc=5",
    "medio": "CRprensa.com",
    "fecha": "2026-10-16T18:40:10+00:00",
    "imagen": "https://crprensa.com/wp-content/uploads/2026/10/portada-676.webp"
-  },
-  {
-   "titulo": "¿Por qué se inundan Sauces 6 y 8 si no están cerca de un río ni de un estero?",
-   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkxmRkMtcHEtSXBlRkM2SExzU3ZPTFI0c2hrdURwWkxOX2c5TUpLS1o1cUwzZ0dlcmdzR29yZExkMEZ3QXFNVENISkM5alJaRzJlSEN3b20xMkdfLUhzbmVOV1hrU2dERmJrb0Nwby1ieFU3SDdNRzdJWWc5bHNCR294QXdtWS1jZmhXbU54WGMtUQ?oc=5",
-   "medio": "expreso.ec",
-   "fecha": "2026-10-16T18:12:19+00:00",
-   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/16/6ad26792151a7.jpeg"
   },
   {
    "titulo": "Tuberculosis en colegio de Guayaquil: qué se sabe del caso y qué medidas activó el MSP",
@@ -207,6 +270,13 @@
    "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/16/6ad2618a3d7e9.jpeg"
   },
   {
+   "titulo": "¡La Tri vuelve a casa! Ecuador confirma sus amistosos ante Costa Rica y Bolivia en Quito y Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRjZMRmVXMFQ1ZnYyVm82cE1pRzFaUU9QZmJhR0NlTFJta3dERXlfN3V3NzlEaWdRREI5TkJnRmpyUXJYQW9RZmgwd0E0Z1Q3M3VqOHhCcEJFZndUdnZ1N0Z0NWIwYjd6RTQtT2Z5eWlPUU12NW1uX0pLZWhuQ1UwbUpjVEJYUlhJOTFnaG9HWDRGOW03V2N2Wm9qa3BDMmRHczFWbW5CMEltQ09IeUhlS09HX2FNQXZ0dnM0TUo1a09xLVNNMUNXYWZQWlZLM1IweFg2RTV4WkxVNS1fa0cyZdIB9AFBVV95cUxQNG9KODd5N0U2aGFubDhCYkp1aGRnTGdLSkZueUZ0cUwxTndjS2dkcDlicWdDSkU3NFhBVDhPNWt6OGY3MWE0SDJhYjVnVXRUcHVicnROMzN4ZWdZVkZtN3lhU1JFd1B0TkhXdkNwUVZnX0FIV1lzandFdXV4djROZGNnZFNvSmdwQjdONEZseHZPOVRLNEhuMjhRWlZWR3lycEpfNTVGVGs0Uktib3hpdXJ4eVFFTlFraHR5WGh4MlVDR0pDX0FjNjFtZkJiUjdxRFRTNnBLTUNIM3J1UDZSbENldXV2Ql9YSnFoOF9RT0dVUkpi?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-16T17:41:38+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/7R33SGQDDJFUPFA34D2G4WT5BU.jpeg?auth=61862463302888d18497e9d2d943f609e14f3eb8d2a5cd9dcb627b43e469a324&width=893&height=670&quality=75&smart=true"
+  },
+  {
    "titulo": "Una Big Mac con sabor a solidaridad: así se vivió el ‘Gran Día’ en Guayaquil",
    "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNjVfbHgxMFBsUEJ2eTdSb2x0d1ktWjJ1OWdrNGlSYzR4Rnpkd0hfQ016RWNtd2FyLWRNRHhqR25YemVoV05oTV9JUVB4T1ljY2FYM0tkbW5Qd3VSclR3dFN6bVdGVXZiQmllN1hfQ3BDeXNEU01lWUNYSVp1U2VUQUg3V0RmMDBlZFpwSndZcXVkYnlnNHMxcFdVTzlVeVVicUdDMF9fcko3azQ0bGxvYUtqSVJxdEFPQjRYRVBRRktNQmRw?oc=5",
    "medio": "Metro Ecuador",
@@ -221,25 +291,11 @@
    "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/16/6ad25eb9cdb38.jpeg"
   },
   {
-   "titulo": "¡La Tri vuelve a casa! Ecuador confirma sus amistosos ante Costa Rica y Bolivia en Quito y Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRjZMRmVXMFQ1ZnYyVm82cE1pRzFaUU9QZmJhR0NlTFJta3dERXlfN3V3NzlEaWdRREI5TkJnRmpyUXJYQW9RZmgwd0E0Z1Q3M3VqOHhCcEJFZndUdnZ1N0Z0NWIwYjd6RTQtT2Z5eWlPUU12NW1uX0pLZWhuQ1UwbUpjVEJYUlhJOTFnaG9HWDRGOW03V2N2Wm9qa3BDMmRHczFWbW5CMEltQ09IeUhlS09HX2FNQXZ0dnM0TUo1a09xLVNNMUNXYWZQWlZLM1IweFg2RTV4WkxVNS1fa0cyZdIB9AFBVV95cUxQNG9KODd5N0U2aGFubDhCYkp1aGRnTGdLSkZueUZ0cUwxTndjS2dkcDlicWdDSkU3NFhBVDhPNWt6OGY3MWE0SDJhYjVnVXRUcHVicnROMzN4ZWdZVkZtN3lhU1JFd1B0TkhXdkNwUVZnX0FIV1lzandFdXV4djROZGNnZFNvSmdwQjdONEZseHZPOVRLNEhuMjhRWlZWR3lycEpfNTVGVGs0Uktib3hpdXJ4eVFFTlFraHR5WGh4MlVDR0pDX0FjNjFtZkJiUjdxRFRTNnBLTUNIM3J1UDZSbENldXV2Ql9YSnFoOF9RT0dVUkpi?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-16T17:22:11+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/7R33SGQDDJFUPFA34D2G4WT5BU.jpeg?auth=61862463302888d18497e9d2d943f609e14f3eb8d2a5cd9dcb627b43e469a324&width=893&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Ecuavisa transmitirá el Libertad FC vs. Guayaquil City, un duelo clave por la Sudamericana",
    "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ3Y0cGpNM1JJZWplcjhkdDhjUDl4bk4zY1hXcGJGVWNILV9uNU51MjZ0X3o2VXBHSVVoNEhhUy1tUlVMUDFiVFJpVUJ1VGx4ckZLU1hlazZuM0E3R0VOVlZXcTBUamQ0Q1V0Nmh2Y2huNVJ5NkM0eWsya29vcTE4eTJuOFh3ZnJkYmhNUWhsMFBBXzVxczZJNzlMcDVHQzNvSERRQ3JvVWptOHhMYVpaLVZGVm9mWGJRWUNSWjZER256ckhmTnk1V1hTeGxuWnJhWmZMWlBBcXJMVmM1bTd6MndWQdIB6AFBVV95cUxQaFhqUjFWVXpncEYxUzV0cGxjSU1UWFhpanhPNjZWUGZNSUVpbzg4eUpoSzR5ZmtTSkN0TzhydGQyTmZhUGhXSjVOSG83V21HbllKZU9HMWJRTnZfR3FZU3VjaTFIaTBobkV3TF9XUDYwQmphTl9GTUlyTU5sRHpZaG1JbHpsaXUxX0RJN2NjMUtRYmN4TGF3VGVYY0ZoTVpqUzdJenV0R2VYVnhOWG1Nb05aREZMbzl5V0dHR1hFNENDZ0ljUGlaM0RfRlphU1pPRDN5MWl3dVlqN3RpREZ3TTUxWmN2RmI3?oc=5",
    "medio": "Ecuavisa",
    "fecha": "2026-10-16T17:10:29+00:00",
    "imagen": "https://assets.ecuavisa.com/images-formats/originalxauto/t_2-p_9-q_100-ar_191-100-fpx_733-fpy_293/jpeg/2026/10/16/whatsapp_image_2026-10-16_at_12_09_20_pm.jpeg"
-  },
-  {
-   "titulo": "Secuestro en Samborondón: Sujetos se llevan a un hombre y su hijo de urbanización",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZjA1ckhaZ1FlcFhiTHoxUXp0UFRKTGhqbGxxWXNFV2tqZXU0MWJ5Z3hiVUNZcDRNYmVlYktDQXVudVNoWG5lY0dVZkNhM1dzSTJwOFVVU01xY2VlZDJHUEl0bUdOZll2TEFaUTI5bl81MGZmTjQzS2ZnRkdOUGlWSmNDcmNoUU12OW5qZzFVdWpPNmVvMXFFZFN2Mm5FcFZwZkd5dE5Xa0M3Zw?oc=5",
-   "medio": "expreso.ec",
-   "fecha": "2026-10-16T17:05:47+00:00",
-   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/16/6ad25526919b9.png"
   },
   {
    "titulo": "¿Lloverá en tu ciudad? El pronóstico para Quito, Guayaquil y otras localidades de Ecuador",
@@ -254,13 +310,6 @@
    "medio": "Diario La Hora",
    "fecha": "2026-10-16T16:50:36+00:00",
    "imagen": "https://assets.lahora.com.ec/__export/1792169430173/sites/lahora/img/2026/10/16/tuberculosis-ecuador-colegios.jpeg_929501623.jpeg"
-  },
-  {
-   "titulo": "Ecuador vs. Bolivia: el invicto histórico de La Tri en Guayaquil que Marcelo Gallardo buscará defender",
-   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR081TFlTSnF1T1ZWVDJwS1F2WUo5WUJfYlFFZmJZbjNXZm40UnI0SU1OS3VObHM2WV9xZ1NCejRBR21lUGFVd25DdVNTcTNRdms1anMwYTZfMTZFb1pRRnNtTlk0NjItZEpOdkF0YnVQU3dMNVQxYk01SGltdkRvR0NlMEF3OTBBWUMyTlJOcUdXYzRhZjFQdUdHaW5oR1hON2ZQTFBuN0dLdW93SUUtUmU4TzZIUVdCM3hoRmQ0UTZHWUJtSjFXS25jVEt1QWhVWUxyaXlnOHU2cEgydk5DSzVMaFlZRmVl?oc=5",
-   "medio": "Metro Ecuador",
-   "fecha": "2026-10-16T16:33:47+00:00",
-   "imagen": "https://www.metroecuador.com.ec/resizer/v2/T2B3JNWUO5GW7OYKWDX7IEQH4U.jpg?smart=true&auth=306fb4badbfd201650146e90252eae8d195939068ab44662e3cc5b5165940dbf&width=1200&height=630"
   },
   {
    "titulo": "Rafael Correa reacciona a la renuncia de Blanca López al Concejo de Guayaquil",
@@ -308,7 +357,7 @@
    "titulo": "Ecuador enfrentará a Costa Rica y Bolivia en Quito y Guayaquil durante la Fecha FIFA de noviembre",
    "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcWxMTURvUHNYYmpSQW1ibVgyUmRxOFJ3c3B2Yl83ODZueDZHTXRzYlR6bDVVVWRuN1YzaHllWUVmMTl0NzRUalVQcnc0TEVuTVdQMk5COEpabk1OU3A1ZGZwUjBwUWhzYTNpVHZ4dkUtajdoRzcxUjVVdWxXbHZkTnJhS1hOajZ4OGd4TzUzVlJ5a1JPNlI1M2pBMXNfdG9WOWhQS0NqTDJrb09uMTkwV0Z0REZ2YmVaVWxUSTZfcHUtaFNMdlVDRtIBzgFBVV95cUxQMXdlVUtoLTVvWXZQTXBFbklWN1J4VDU5ZkhNRHJqc2hjR0p4dGZJVjdIVWJzNmQ2MlRmVWF2d3diNlR4R1Z1ZnZOeFN5YUxCZjZHYmxfM2NKdWdBR0JpU0NEMENrOVFfSVdIUm80aU5rNVVSRFNlYTB4N3FTeTVfMmxHM2hISVA3RnJJaXNMQWFiVUdibVFxdWpmdkc2Q180RklXQUNjVEFRZG13RnhDdFZWMmE5dDVoOHozT1hjT3NhbTR3ZmQzVXh4dS11dw?oc=5",
    "medio": "Vistazo",
-   "fecha": "2026-10-16T15:44:57+00:00",
+   "fecha": "2026-10-16T15:46:08+00:00",
    "imagen": "https://www.vistazo.com/binrepository/601x794/0c44/600d600/none/12727/FDRW/seleccion-ecuador-reunida-antes-de-disputar_2756798_20261016104126.jpg"
   },
   {
@@ -354,6 +403,13 @@
    "imagen": "https://assets.ecuavisa.com/images-formats/1200xauto/t_2-p_9-q_100-ar_191-100-fpx_568-fpy_295/png/2026/10/07/imagen_-1200_x_800_px-_-_2026-10-07t062425-535.png"
   },
   {
+   "titulo": "Noticias, viernes 16 de octubre del 2026 | 24 Horas | Segunda Emisión Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZld4aXRrME5NbnBOaXN4dmNqbDJDbHMxOXlySjdEZTV3TG1EVEdYZlRDdTFfN1V3Nk5aNEU4ZXZ6ZGMtLS10Z1pjUE1vdm1kaVdycXpFWnJEQUd0RzIzZERDMU1xQmNWYkE5cUw3bGwxRU1mQ2hsa1AweVZiTDlaclV4YXA4UHh5c0JrY2VDRHNMdk5fTGFpSGZhdnhDS05hRkJIMXdLaDdLNzUxaWtrbkpnc29MZEFmMlBiaTdPbjJCNnhOTnR4QWpzbFRFdw?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-10-16T15:21:47+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/10/16/6ad2408393f52.png"
+  },
+  {
    "titulo": "Budokan regresa a Guayaquil con estrellas del entretenimiento asiático, anime y gaming",
    "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmFqdDY0RXhRQVZNUlFuT2g5cUItT09MWXBXUHVZSFVpaXNLVkZOeWhqcVQtMHZmZUpYcXRlZVllM0psSXNtVm16MHphNUlBVWF5Qy1LODVyTlVPOWtIM2tkaExTX20xcEVjN20tRTRmTFBvblFSUGlST296cThrQ1QydFpTUFRSS0dNMUV2eS1DOVhDU0JPc2Qwa0xIUk1taTJCT1ZVSzVUT1c4eURzajM0SG1HMW9MRG9zV3RxeUZnZGlNM291dUROWEw5dEtX0gHWAUFVX3lxTE5LZWVnYUlvcFlGZW5fV21Vdjh3Nnc2ZDRkNzBpWXpwUjVzVXEzUmdna2ZlOWJiQ0Q1XzRVMk9LTkpQT2lVZGNrOFJqMlBHRzhiblhva2F1Vm42S05rZFBpNkwyanpwbV91bDc4OW1jbnhnSkpFNFRtNUhzTjlQaXl0ZWo0ZWZmSHZUZ2xKUUNMb09aSHJkbVhQc0lpY2hhbkNVelJzb2tIUndOSWtiMWhqTlBMUFI1bmkzSm41ZWFhY3J4RWhCWUhfUFlDalAtWTMtemgtQ1E?oc=5",
    "medio": "Vistazo",
@@ -361,67 +417,11 @@
    "imagen": "https://www.vistazo.com/binrepository/1148x601/0c0/600d600/none/12727/FVCU/budokan-2756776-2756776_2756776_20261016101456.jpg"
   },
   {
-   "titulo": "Definen fecha para los amistosos de Ecuador en Quito y Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDQ2RXZjVUlYcUEzNEloa0QwcVVsS1pZUmszNkNOV3FNWE05WGFoU1FOaWYzZllRSGV1WEVwMnA4WGZZWmxlVW9raFdiYmZzVFJBQlBGQUIxRDBiQkZTWWxLZ2Y0MWU5RXZYNmN5WVlyM3lsQU1oMHJZZWpxcHcxczU3ZXVUWkl3VG5GbjFfTUUtQjJxbjJ0S2k0MEdOYmQ5?oc=5",
-   "medio": "Teleamazonas",
-   "fecha": "2026-10-16T15:12:04+00:00",
-   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/06/27/6a407a74345a6.jpeg"
-  },
-  {
    "titulo": "Ecuador confirma sus amistosos en Quito y Guayaquil",
    "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUl4TXNHSTR1S09idEtJNHlDajVXUGZNVGMtaVFTMGRzd2JIZUdMTlBid2RxRm5jSlFFcVVwWnFyNF9vMnkycW53UmNHLTNWVkhXaS0temRta0VMOXMwLV9PYUJ1WlN3Y3lPTDI5OV93Z2s4LXlHU0lzNzJXdkl4TkJ1RGVaVGI4WWxaM3hUYTF1T3JDLTYwYlltX1F4SXREM1lj?oc=5",
    "medio": "Ecuagol",
    "fecha": "2026-10-16T15:06:49+00:00",
    "imagen": "https://ecuagol.com/uploads/2026/OCTUBRE/AMISTOSOS%20DE%20ECUADOR/Amistosos_CostaRica.jpeg"
-  },
-  {
-   "titulo": "22 detenidos y armas incautadas en operativo Apolo 35, desarrollado en Guayaquil y Durán",
-   "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPalE3VlF0VkpDc1NYcWNOa1ZKYVlnZ2QwX3lsbGc1TnVzWWhWZ2lrN0w3dXBPMlhtUFV6UTV0LUoxbXZ3QjJOVWU0TjY4alJSTFJiMlBuVlNKbGF0YXU2d0tWSm9VUDVNRURxVE5WaUJldGM3azcydUJhbU9YZ0x2T1pHX1hFSWt6RHhwcUpTbTY2c2VhSGJMUktCSTNpSWQtb1k4ZFdrWmRlOFJmRldwWE1XZkZiV1NkMEVpTmVMVE1WdWhVQjlTaTYxdnhKOGJHMGdsRWRR0gHqAUFVX3lxTE1kb2Jyb01GWDdId3loR3lwN09Xc3BUdnZ6M2t0eGEwR1d2UGxCOFJVdXZ5eXpHTnlpY2lRbWtuOGZnTHNZOThrVkVnUjhKeTBKOFEzOE1XT2VTTmNaYkRyQks2U2tiUk9pZEpqTHZEOGdKNl9CXzRrYWRvM2tuRXg5bG5JaXhGZFRseTI1b25jQS1PX1NaTnhnODdtdmxrVEdDeEZvbXkxWTgxVFZKMzZEaGM0RzluQUM5UUx1QjVTYVNmaWx5dks4WkFnNHdrZ0pNUW9uWnlQTy1DWXkyZV9zdHo1OHVSVkNRdw?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-16T15:05:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/2XLP4LJ5PVGMNAYLMRZTX3245Y.jpg?auth=7d8f51edb234dc3058d2a93970a1a8dbc7aafb8b06d51a185702a000e13fb13d&width=1191&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Operativo Apolo en Guayaquil y Durán deja 22 detenidos y un sospechoso de sicariato",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnVpSWlkZS1qcmZqUU1yWjVhN3lyMGo2b3k2R1JpUmxNOG1UZHRSY1VNbmRtN1E3SEJuSklmWHFPRE5JRkZ1bzdoTHpIczNCLWRMczdMN0hEcGRKRUNLeng4ZWU2b0cxdDA1bTQtWUdYOWk3NDlMdjZmZTJHUDB1TFVXYkRsOXdGVklwVGFackU2UHVrSi1EakpRWDFlbmpSNGhSWFZiaDlsdzBnQXZlV2NZNA?oc=5",
-   "medio": "expreso.ec",
-   "fecha": "2026-10-16T14:52:10+00:00",
-   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/16/6ad239c159187.jpeg"
-  },
-  {
-   "titulo": "Operativo policial hoy en Guayaquil y Durán deja 22 detenidos",
-   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1pLcGJTUWZ3S1g1NTNHc1ZNN0ZSOXFNbVZRY05PVzd5cXNaZ2FaMVA1QU5YaVR2b3B1MGFETDc1emhBZTYxaEhxaVpsRWZ6SS1zNGIyblpXd2w3U2Flc2JvbG0wOVE4d0tuU3AzVnZEQXhqMDlPT1FsZENwR2RScWVhaDdqcVhSMHVCN2g4NUlPUQ?oc=5",
-   "medio": "Ecuador 221",
-   "fecha": "2026-10-16T14:49:00+00:00",
-   "imagen": "https://ecuador221.com.ec/wp-content/uploads/2026/10/operativo-policial-hoy-en-guayaquil-y-duran-deja-22-detenidos-ecuador221.com_.ec-.jpg"
-  },
-  {
-   "titulo": "Municipio de Guayaquil retira grafitis de adoquines de la Plaza de la Administración",
-   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3BJRmR4NHBRdFowcTJsbTI4b1RBbzN6blJiVWVsUGxEZzVtaDVYT3lmekN2eTBrT19oX2VWYV9aNENBUTU2TG5iX0dhZy02TGxYREwwUVVjR2hSNkUwSXVHbnFvOGRKU0NNbnpHbG5wUUdvZGNkRUJ1aUlDUFJPVGlOQ1pMMWl1WklFVmI3SUhqbEFDVEQwVTF5WHN4Z3lrd3BmUG41dWtmWUtlWWVERQ?oc=5",
-   "medio": "expreso.ec",
-   "fecha": "2026-10-16T14:22:57+00:00",
-   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/files/fp/uploads/2025/06/08/684648c3e9cde.r_d.3450-851-0.jpeg"
-  },
-  {
-   "titulo": "Siameses de Milagro: crean campaña en GoFundMe para ayudar a su familia",
-   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYkZ5emJfXzNBbWF3bzkzOTdRdGdzMXpsaXNwVElDdHBiUFlYNUJtNjNzQS1fd25GMWNYZlp0NkRXcGlENWd5bUktZGQ0anNWNzMtTUxhMmxfYm1CUjVDSUFndWN1ck82MFktX2U1RnhRU0JLRUdiVUpfazZDOU9RTVpPeW9JRTJ2eUQ5ZXpaV3RmZkdFR3RJTUhJVHBDQkRadjVOcjVmYk14YndnSzZHaHZULXg?oc=5",
-   "medio": "expreso.ec",
-   "fecha": "2026-10-16T14:00:28+00:00",
-   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/16/6ad22d6accf6b.jpeg"
-  },
-  {
-   "titulo": "Caso de tuberculosis en colegio de Guayaquil está \"estable\": Salud activa vigilancia epidemiológica",
-   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSTI2ckN2M01CTDU4ZkRiVTVldEM3NzRkblJiVVJhazFGWW5BT0xKVVBNa1FVT2xhc0RwU0NEb3ZaM195UzFsY2FxNlhvaWFmN1ZFUzB4dWUzOGh6akRLNHFaMW1Jb2dxREZQcnZDN3J3bElpV09WNi11dk5aRTltM0NJWEM3bjJaUE9PSDJfS3hDQTQ2UkNBNHNfU3liak5TaVRGY0VseWpGQ2lQYjhmQnU4M3pNS1lpUVJHWWwtUjVDOE1X?oc=5",
-   "medio": "expreso.ec",
-   "fecha": "2026-10-16T13:42:46+00:00",
-   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/16/6ad229c70d539.jpeg"
-  },
-  {
-   "titulo": "Accidente en la vía Perimetral de Guayaquil dejó un herido y provocó congestión",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMFdKQWpzRl8tOXNsNFFHQUtuUkdRYUpYREpPallpaTZKcnR6eGFjNldzWnZHUjdOcVNkdmRCRWhnTkhXNlV2NXl6SE56aFBOd05ZNnJYX0NUM1BXdGstajhuOXFfWEpqdlpLdmhvNFprbElOSW5NdmJNSmpaLU5zckVxb2x5U2VZN014N0lvOEp6VXdxWUk0dGpkc3FFX21iaVFvUl9FNDM1ZlVSTVBF?oc=5",
-   "medio": "expreso.ec",
-   "fecha": "2026-10-16T13:22:36+00:00",
-   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/16/6ad223fc572e6.png"
   }
  ]
 }
