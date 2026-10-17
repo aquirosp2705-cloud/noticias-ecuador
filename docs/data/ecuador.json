@@ -1,8 +1,92 @@
 {
  "zona": "ecuador",
  "nombre": "Ecuador",
- "actualizado": "2026-10-16T23:04:57+00:00",
+ "actualizado": "2026-10-17T01:45:23+00:00",
  "noticias": [
+  {
+   "titulo": "La Verde cierra el año con amistosos ante Perú y Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSFBYbHJ3YlNrUEtLNVdzLUVkT1BodjVwYnZ4OWdIN2Zmb2xwdGUwS3Z1dTVPMVNLc0Y0djN4Wk9jM1I5Q09kdjFxbS1zNHQzOW1aR1VwTnU2bHRDdkMwUzRNRnBQNWFVenh2dDd4XzkxYmZoTTJtM1BuQVpPVUNwX3FR?oc=5",
+   "medio": "La Patria Bolivia",
+   "fecha": "2026-10-17T01:28:40+00:00",
+   "imagen": "https://lapatria.bo/wp-content/uploads/2026/10/6ad2ce855e000.jpg"
+  },
+  {
+   "titulo": "Así serán los cortes de luz en Ecuador este sábado 17 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUh5eExwVXl4Szdxdy1xZ3paYXV6SGl6a1EzeGpITnJsbmtoSHVvZlUtRS1NbEY3elJQaWF1WUxqb3NpTHlZTi1UN3EtSFd3WlVULWhIVDNjMzcybVlQR25HTTJhZlhpMWJ3eFpxMFY1bFU2ZnYydU1aRFhQOHMzME9RWFEtOENkeGp2bEFvMGxJYmtzQURwM19hYmotXzgxYi1KN3pSbHRzYkFC?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-10-17T01:28:21+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/energia.jpg"
+  },
+  {
+   "titulo": "Cortes de luz por mantenimiento eléctrico este 17 de octubre en 15 provincias del Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORG1rUGFGb0dPQkFHVmRVb3d5RlJoU2VWWVFnRUQ2cVRUbVROWmRsMXpIdF9qcjFBdVBLbXpWUVpOSkFTZ3FERGJhR3pqRGZCdndUR1I0clFGeUZhcUhWaE5tN09XNXJtdDFnemZtT2I1RlIyZmFod2RaUk1MSkFXajFTd0g5OTktRVB2REZhZFlGRXk0RHd5MDc3UExnWmlfcUpSSE8zSDMzX3NpaDNWV0lhQ2lJUnJ2eFA0QVJSbW92TG51MzA4Q3dwYWZIM1Z2MWxtdXZKcktXNE0?oc=5",
+   "medio": "Diario La Hora",
+   "fecha": "2026-10-17T01:18:47+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Estado de las vías en Ecuador este viernes 16 de octubre: al menos 45 tramos presentan cierres o restricciones",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMms2TGt1Si0wb2JyM1MwZ0dIZ0p6UzNaMEJCbGczNER0S0d1WEozeFphMXZZdUpkeVBuMloxQmJUTHpfZWFaQXFmMi12aUZ1U043M2JDRU5mdDNyVy1YRUR3UUQ3ZE1uWHBWRVBPXzdpT1g4dGxOME5BR3h3dmtnbTJmaGR3bC1NLWpXNTlRbGFEd3JMdEVYcTdYMTBLN1lyWjM0MWxRVWFjUFgzc0s3dW1oQU1SQXo5NEdGYUliS0t0SHY3YnJyRtIBzgFBVV95cUxPY3pjZlUyVERuQUdPd1phLUYtMThkV0JqSzdEVm5oZXRoVDV2eUJOTnFtQVkyTHAwQ2VKVkxmM1hoRlFhOGswMGJIWENLVkZ1ajRpdV9OT3hYdXRBVjlkcndDZTk4akd6OEhmaUtlbzJCbktkb0FDUHFsOUw5Z2ZvU3puOGFnZnZENlhUSTlhT1JIYkFkMmlYNmg2RHNlZnl5dnFKbl94TEZnVGxZWmgtSlU3LXFGbnRiY3IwMjNldEF5S3I5QzhQNlptOFBydw?oc=5",
+   "medio": "Vistazo",
+   "fecha": "2026-10-17T01:14:22+00:00",
+   "imagen": "https://www.vistazo.com/binrepository/859x600/37c1/600d600/none/12727/FUDG/10d2038bfa4f4df2ae8879d9016d965f_2757215_20261016200818.jpg"
+  },
+  {
+   "titulo": "Horarios de cortes de luz por provincias en Ecuador este sábado 17 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzIycVBEMlJSbzgzOEpCRUM3WWNNeDh1NHRqb0JZRFFMTnlhTEMta09EdEpxWVVrVnJsU3dIeXJPaXpoZ1JsZXJ4aGhpT01Icl9nOG4zdTlzVlg2UGdYdlhRYzZaUGhqS2d4cFF4SDJ2N3NxXzFGLUN5TE1tcEZfaHFoMVVhM0tVUlN3YzRwTFh5Z093VGZXTFdJS1FKdm9JY0xYVndsaEprSndxYjE2Ug?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-10-17T01:06:22+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/10/16/6ad2bc358b3ef.jpeg"
+  },
+  {
+   "titulo": "Desconexiones programadas el 17 de octubre, de 03:00 a 06:00, en 15 provincias de Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRVNNVThLRGNmaDF2a0l1Wnd6T3c2WmRQZ0VBVkNkMkc3MXhhMDlISHNPVWxVWnJnamd2VjczT2NEbmd4d3dfWFpBVV9pakVJeGY5N3k1d1J5SlRKOWo5Vmttc3MtLTY4NVNmYTdZWC0yeUZGUUZOX3NKSzBwbFQ4dnlLWlFuTUVPaTd2dWVyT1BMVUxjZ2poaWJ2MU1RR0FtLXdIbnIwazMwUEhwdnROWnJISmZ6cjJzT1Nlbm5hdWk?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-10-17T00:58:37+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/01/06/695da6cfe19ba.jpeg"
+  },
+  {
+   "titulo": "¿Podrá Ecuador garantizar el suministro eléctrico durante los meses más intensos de El Niño?",
+   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0FCZ3oyRjBxY2VpS2E4c3dIejYtc2ZRc1lLaU9SR1p2ZS16WExUX3hnZTkwR0F0SHBFWmpMTjVLaFNablpmZ1ljU2FhOThXc21WVXk0MERPcE91WGNiZmFDbFEzSmctLXE3eml4a205Z2FVZUNJalh6SWxhR21xOGhrTXpmTGEwdkVRUDVFRmN3OVdORUxnajg0MlFzcDFYY2VxdVNGclQwcVN2dzlRcmdITWhVTzVQTXllUA?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-17T00:42:39+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/files/fp/uploads/2026/08/31/6a96480376677.r_d.1229-736-0.jpeg"
+  },
+  {
+   "titulo": "Crisis energética en Ecuador desata tensión social y legal",
+   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDZoamZ1d3Y2ckJXN2tBY3N5UmRfX25DMTJVZ2ZUUXdKcjNUVUdHVXpPZHVPS25sMkJ6cl9PTGhTMVdxcWEyZlBYX2pkX013Nldkd2FFRS0zeHFsLTlROGpLbDhtLTFtS1M0RjltSmZhSXVBNWFJb0FHMG1TTGFrSW9rQkk2dlBmTlV3TG9OLW9XUDRyeXJj?oc=5",
+   "medio": "La Radio del Sur",
+   "fecha": "2026-10-17T00:11:49+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Colombia y Ecuador realizan jornada binacional de salud y actividades humanitarias en Ipiales",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY1JDX1ViWHRCNnFZWDY5X3JSRDRHNmNjWVFtczJuRXRSOFNhYlpHWlUtYU5VSXZQclVyWjR0WTVibnk2VlZBMmJRY2pOSHJxaGdkQ09ZVi1NZlU3Q1Z3emRlVEFyalEtVWpMSjIyaS1MY1ZVM18tMHdBVlZJeDRLUEtpWHhZMXBzVVZ0bXNBck9yOHd3RlhmQmYzZXJGNXVibGpyVVItb19KMWJqZjlkcU9fZlZTOUF6RnVRMXVkb1NfZjJlaGhz0gHbAUFVX3lxTE9jUmJGQkVKYnVBSXV6bFpyQi1LcWVWd3ZNVUZjRHluRnNLXzRvSUZGbVlXRnhJcGhFRDJxSVp2eVM3QnJXTlE3TE94czNGNGJJd3ZQaHdKSEhvWjlHV0VnTy0wUi1tX3BuT0ZubHVtZ1dZSE5hUlpEWEFIclBhb0U1U09BM2kxSnBaRkxuOXc5Vm9MTW56VUxrTGoyT29ON1lfRjZGcDFsOXBOYUZWdWtBZUtsR3MwTWdnVldGdHpkZWlJOGRTQUVWMzliTnRDYndoVjRNRV9NSXRWVQ?oc=5",
+   "medio": "Caracol Radio",
+   "fecha": "2026-10-17T00:10:18+00:00",
+   "imagen": "https://caracol.com.co/resizer/v2/PISWY4CY3RFH7GKA5MAFJXIPDY.jpeg?auth=7828a93b4bcb8ff4d7b3af81d62341dc9194a205f7c48ff497c1df21a14e2c7b&quality=70&width=1200&height=675&smart=true"
+  },
+  {
+   "titulo": "Colombia y Ecuador unen esfuerzos para llevar servicios de salud y atención institucional a comunidades de frontera",
+   "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWVAwRlJHb0ZXUndzXzRzU2xMTlVBa05hZDR5bHYxbl92SDRqVko2ZGdoOEhfVFFkbU9KbjhEc0xzWmdqOUtfQTl6eFZRQWR0dG1hbHc4SDF3QV83dVdOU1dBQmVqcUtnSWcwOGNaTElSQWV6cmllU2RTV0g0ejJuenZlUkpfbm81eWd6aHliRUpVTUcwcHlwZ1pJajZya1JGRnE0SVRkMzRVUEZMeGV3Z3JiVmYyZ2JFMi14cDlXNkdXeGkwNWNyMmNadG42U2dCSzNSOWEyN08tR2oxNW1SRC1HS3VVT3VYdkV6VmowZlF0SHVIRldXWjM1NNIBgAJBVV95cUxNanRWaWRadHhyNWpZYmI0UDhSWW1oYnBGQTdlQUVKN09penYyQXdiWnFOQkRCWTZzbVN2SVJRWDYxanMyX0xSS1pCcDhqOEhRdFVSRWNQd0o2Z3VxVm9YSzBncElGQ0xQN0FZZ2NuZUFoZUN4ME1CU3pLT0hxUFFSWGNBd1l4RkZNdGRvTGhnT3JKQ2s1eTVVYWFxSVlZY3dYcExNR0xaSUpFU1RRY2p5cFhuMzFhVkxXand4YXBwd0hjelhqeXhDMG1lbl9ZOW1aZ2pyZ2VCS2dtQjEzSmlSaDJKWHk1aElMUU5tMUlkWXREQTkyWU5YeExzeEZnLXNi?oc=5",
+   "medio": "El Tiempo",
+   "fecha": "2026-10-16T23:36:56+00:00",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad2b3332973f.jpeg"
+  },
+  {
+   "titulo": "\"Los países hermanos se respaldan con hechos\": Daniel Noboa confirma que De la Espriella reanudó el envío de energía de Colombia a Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQU2t4QWZ0X3RSMTR2RVpvSFJmdzk5RlNRQzh1SHdUR29GMDhhODlNVVpJRFJiUFlrNVhJd3MtLWkxV25ZRC1nUGE3WnpSX2JkeGtiTHZES19IZHIxZG9oTUZ5Q0JLRDBMbFBJUUtrM3pLTUVWQUtENUxlM0VNakI5eGJqLUZ6dWFsMVdmY3hYMk5kZ3g0dnZJWExwYmtwamhzbk5iZ2dxUVIxalNDMDNzQmU1UGk2MGZ3WmJzV2Q0VUtMaGhUUTVkS2NheGI1RkxDUk1lLUF1bE9IZ0tOQkRVQmRVQnFnaFQ3Wkc4dEJ6NHVQVlI40gH0AUFVX3lxTE9fbXlfMHF2cTdodzhBZEt5U1BkejFWZzJtZlFUcDdHOFBiNVpIUTEycS1mTmxiZDlkdFZveXZGR2h2N2ZhdTQtOTRDVXFhUzBMYk5nMHJKekF2NXRJZS1jSGZkbllOMXdqaWphXzM3dmpTcDlRazBjTk5LZmg5R2FITmNrYW1jNjhRRDVPYVItQ0U4NVpBbm44anYtR1dOYkN2YVFXelNsdHItTEJxdUdxektPTVBHck4xdFhYS1dDMW1tY3kzU2xJUEVFRExCa21EX010U2hyaTd6akRTQTFsbU1Mem10d3ZmaDdYMDJ3ek5YWGc?oc=5",
+   "medio": "NTN24",
+   "fecha": "2026-10-16T23:30:16+00:00",
+   "imagen": "https://intn24.lalr.co/cms/2025/07/18191024/Daniel-Noboa-.jpg?w=1280"
+  },
+  {
+   "titulo": "Corte de Ecuador exige aval legislativo para acuerdo con EEUU",
+   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWVsbHBwNGZIT2pOdDBSYzFXaFZKZlUteEh2dkxNVHY1d05rYjFpRFpvQmRJTG9VZ3hId2tYNDRmbGFOSHktOVVqRmt3UlJJZVpKTkY5NndvTkFyZ1E1YmhOdjR6a0VIbXBHUmcxSVRkN2M0QTRRcy1sZXVVNUN3bXdaOWtuZXBBRkRtOHRSc2xCcVUyUnZraXpOUzNuUmdhNUE0LQ?oc=5",
+   "medio": "Prensa Latina",
+   "fecha": "2026-10-16T23:25:00+00:00",
+   "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2025/08/ecuador-Corte-Constitucional-1.jpg"
+  },
   {
    "titulo": "Energía de Colombia vuelve a Ecuador ¿cuánto aliviará el déficit?",
    "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXdoenhiT2ZmYmJ6bjlBVmwwTlRzVEVSUTY2NWY3cWt2enZmRmlHWEpDUUdpV0xUcjRLODhrcW8xRVIybS1QWWVXT0ZObWlxUnJqOGUwQy1KcS1JV2dfeWMtbUVxU2U4TDlwaGdHY1d1MjJack8tMi1sYVlJSEhfN3hxZ2pxaEsxS043SUZneUZxUldrSWhsZ01JRWRjaC1vSWg2M216dFNTWGxfdExSag?oc=5",
@@ -14,7 +98,7 @@
    "titulo": "Ecuador asume por primera vez la Vicepresidencia de la PRAI: César Martín fue elegido por unanimidad",
    "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMDhuamw4YXRzLUJpVmx3TXNTeU0yNUNCVEd2OWIzVGdjQ3owNjNWV0lFS3VrVl9KNkFwR0NMTEJFemJQX1RQRXJvSFdPWF92Mnk5Y2JoNXRTNXN2SV9wZFJBV0tXQ1A3cnF3c2o3WGdzYmZONzdwNW5aOElaRXkwQ09NS05xYlBsaC1saGR1Y0dwc2hYQnlEMHFWbVpXWmtkTTFPREdvN0g0a1lKZ0NweEJiSGxUYUcwd1ZSdTUyMkdleTd3aGlSenctOFc3Nlp4NDdoZ3RSVF9NSG84VEE?oc=5",
    "medio": "eltelegrafo.com.ec",
-   "fecha": "2026-10-16T22:49:09+00:00",
+   "fecha": "2026-10-16T22:49:26+00:00",
    "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/47aeba7b5ab85dad50d0ec0bbadb2158_L.jpg?t=3ef987fbe90b"
   },
   {
@@ -25,6 +109,13 @@
    "imagen": "https://www.quadratin.com.mx/www/wp-content/uploads/2026/10/siameses-de-Ecuador.jpg"
   },
   {
+   "titulo": "Qué hace tan diferente el paso de las estaciones cerca del ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUTE4X3JRUjZwcFNZNTNOVE9NeDJYN3luY1o5QjJmdUNaUzdIUUZIVDZsRnVBbTJpaHZ3dUVXb1dUekpudWlXTHJIVFNuX1RVS2JSTGl5QXV1bVBLMmtPMmd1ODBnaEpVMzY1MEZpZVZSai1HbnJEa1dvMHpUemJ1WVlZYy1jOUg5ODhLekpmRnhoU1JQSk1uM0xNQnBnMWpVbVZWdEhJcDB0Z1RUdXhDdGRqOUVVcW_SAdIBQVVfeXFMUFNCU2tGOTI5UTRTUnd5RndJLTFZeFZEbGhIaWFtQzhuX21xM3pXMVFOQnNHVXJVUDlvS2FMQUFLVmRkYW5BSDhfcWJudEtjelhLNVp1S3JfbDVSYTRQSlJ2YU1uaVlWYW1raHBTVGtsQXFvd3ZFMXEyOFI5dkZnRnZQZFAwaGYxbG5TOU45LWdfWUotSzl0ZGwyWjdrWHh1X1VLcjFPX3dMdV9Tdlc4Vkx4MUc0VWpfSU9la1NmUEdkSFpVZmgzYkZpMFloeTRySHNR?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-10-16T22:02:11+00:00",
+   "imagen": "https://www.infobae.com/resizer/v2/GHGITXZDTZDZBMEU2FESVB7LEY.png?auth=087af186b920d41ef87c15ed76cff69c1cd36189c5b09a1a7bb76ee4ee97c78f&smart=true&width=1024&height=512&quality=85"
+  },
+  {
    "titulo": "Everton vs. Chelsea, de Moisés Caicedo: hora en Ecuador y dónde ver la fecha 7 de la Premier League",
    "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTk5DZnlmZG9Ld3FhVDFIS3FUeHpaOWp6b25vbDFMX2swUGp5eWluWmFFYzhINXJCQzltLVgxMWVPSUhLb0o5ak9wVlBmS2I5My1fRTJBQ0VnZlNKemZiZzIxR3haeWZLdnpNUFZhZHBWa3dpN1ZRUV83TWdhYWxvWU9IU3NSdlFEeDNsMzlBUU5EZ2xyNEh4TW5tVDhZc1g1YkJzNkdWVUl6LW1DcEVoaTVka1NIODIyZWFodGluenBHd0dQdWxRdlhHS1dVcUF1ZGlDQnY3ZjFKTENEUWfSAfIBQVVfeXFMUFA5S2NUajVWd2N3TlNmdlFxV1l6M05SUTFLSmJXYWppeVA4a1dqZktlNVp2SlVSM01ybXJVeC1wb014THpxQUMxR1ZET3ppMkZ2QXNCcVR4VFhKR3JZN0ZHWjlfT192S21USnBLSXJ4OW9ZVmlHeXRNRjk1RUEwbURpaXZQQklyZHhRaER1cjlkNWZBRDdkN2EydDVGQkhPc1BGcVJSWTRtWmRPVTVEU2VvaC1oUHF3YWRMeTI2MndocTRVNkhybkxQSDkzS3d3R0daYjFtQjJvQThQOUtub2o1djJSYnNaa2pqdXlGOENZV2c?oc=5",
    "medio": "El Universo",
@@ -32,18 +123,18 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/BX4X3P7D75GQXJGYX734RGRUZY.jpg?auth=be1c17a8e5927f3d765b2dccc63ccd7d809b86f11ba6c16280bbadc15a001a33&width=536&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Qué hace tan diferente el paso de las estaciones cerca del ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUTE4X3JRUjZwcFNZNTNOVE9NeDJYN3luY1o5QjJmdUNaUzdIUUZIVDZsRnVBbTJpaHZ3dUVXb1dUekpudWlXTHJIVFNuX1RVS2JSTGl5QXV1bVBLMmtPMmd1ODBnaEpVMzY1MEZpZVZSai1HbnJEa1dvMHpUemJ1WVlZYy1jOUg5ODhLekpmRnhoU1JQSk1uM0xNQnBnMWpVbVZWdEhJcDB0Z1RUdXhDdGRqOUVVcW_SAdIBQVVfeXFMUFNCU2tGOTI5UTRTUnd5RndJLTFZeFZEbGhIaWFtQzhuX21xM3pXMVFOQnNHVXJVUDlvS2FMQUFLVmRkYW5BSDhfcWJudEtjelhLNVp1S3JfbDVSYTRQSlJ2YU1uaVlWYW1raHBTVGtsQXFvd3ZFMXEyOFI5dkZnRnZQZFAwaGYxbG5TOU45LWdfWUotSzl0ZGwyWjdrWHh1X1VLcjFPX3dMdV9Tdlc4Vkx4MUc0VWpfSU9la1NmUEdkSFpVZmgzYkZpMFloeTRySHNR?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-16T21:57:42+00:00",
-   "imagen": "https://www.infobae.com/resizer/v2/GHGITXZDTZDZBMEU2FESVB7LEY.png?auth=087af186b920d41ef87c15ed76cff69c1cd36189c5b09a1a7bb76ee4ee97c78f&smart=true&width=1024&height=512&quality=85"
-  },
-  {
    "titulo": "Colombia vuelve a vender electricidad a Ecuador y da un respiro a su industria",
    "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUhfLXlIQ1I4QlpNQzVsYnV0OElwcWJJN0s3S3JZVG9vUWRXOUJxN25ua20wNnlwSUJBZGlxU3NWYWRVNmF2TGJ0T3Nra1hScEo5bUNsYlJvVEc2R1pTc1cza2dtUUo0V1A1YS13TFJGUXJhdVdkN3gzcEVRN19fVFozZkQzUVFFaUhNN2tmcnBzSlhtNEdiSGlZeG1HNjhkaWZTZVZld1dpUF8yTVl6em5wNF9sVXlOY0xGcDMtbmY0Z1lHcUpv?oc=5",
    "medio": "AgroLatam",
    "fecha": "2026-10-16T21:43:43+00:00",
    "imagen": "https://www.agrolatam.com/files/image/82/82783/6ad2995c42db5_600_315!.jpg?s=be194a91a73242ff02a4c5fdba18d9b0&d=1792186861"
+  },
+  {
+   "titulo": "Colombia reanuda venta de electricidad a Ecuador, anuncia Noboa",
+   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd1lYbkZ0N0dLWG1YLUs5WFNXNFB6ODR0Q1cwNW4tQzVkQkhGRVFMaXg2emladGZGZk9WTGJ3dVlSbzhPdExrdEQwRHpyTGpJNDNHM0U3Q3hQREwwOHBNRjh2Zk5SYTlVUEZEcUhnb0psblVpLWtWR1dhSXRzUXNKSVhGNDEzMEFGQUVQU3FxTTQ2aVBYVjVVS2xRONIBmwFBVV95cUxPbHhEY0tkeHFJcHlSQW5uUHNsaW9nWEZVQl9yV3FUdG1nNXg3NGFOX3Jsc3lmcWM0TXg5bkp6d0IyeFh6MXoyU3ktQ1U5OTZDTjA2VDFvLUNOSzVOWmd1MzBvTFI4enM1ZTBvMEtDcTQtUEFIeVJRdE1uSTMxRmVGSUQxQ3hsRUM5bEV2YWlNMjlCY1JMLWV5YTI5bw?oc=5",
+   "medio": "DW.com",
+   "fecha": "2026-10-16T21:39:02+00:00",
+   "imagen": "https://static.dw.com/image/68853549_6.jpg"
   },
   {
    "titulo": "Corte de Ecuador determina que acuerdo comercial con EEUU requiere aprobación legislativa",
@@ -57,7 +148,14 @@
    "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNUZyRUV1eUNPN2NUbDZxVlFDWEk0bDU2ZXRuQmJpcW1sYlNNeTJNbUtEUElNN3d2U1ZJMEQ5bTB2WkI0bXc3N3dibXd3ZU80MzFjdk9hMm8tVmNBSExpOEhXLU1FSzJRbXRRcDZNNFhlLTF1TWJ4WWtJUng0eUtKRA?oc=5",
    "medio": "CW+",
    "fecha": "2026-10-16T21:21:37+00:00",
-   "imagen": null
+   "imagen": "https://cwmas.com.co/wp-content/uploads/2026/10/venta-energia-colombia-ecuador-noboa.jpg@2x-1024x553.png"
+  },
+  {
+   "titulo": "Mueren los siameses del Ecuador, José Luis y José Armando: así fueron sus últimas horas",
+   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkluMXdFNTRGY1BfU3lpRXczVm5DaFMzeTQwSWNHVkZMTlQ2c0xoRl9hdldSWU42SVJZTElVNS1VV2pZamNGVzlrYW5RVjJTQ2ZBTEhWVzZ3SEZTTHhLemFqZEtfMHRCMGxvQjZVOTFfV1hpcTJ0elRsc0dMc2d4MTVQM21ld0I5TDV5WVc3XzQ0N3Mxc1dwa2F5eVctV3dRa0Nz?oc=5",
+   "medio": "ElHeraldo.hn",
+   "fecha": "2026-10-16T21:09:00+00:00",
+   "imagen": "https://www.elheraldo.hn/binrepository/1200x900/0c0/0d0/none/45933/KANQ/hermanos-siameses-ecuador-muerte_15861678_20261016154845.jpg"
   },
   {
    "titulo": "Lluvias en Ecuador dejan 22 mil afectados y cuatro ríos desbordados",
@@ -68,7 +166,7 @@
   },
   {
    "titulo": "Ecuador no saldrá del país para la fecha FIFA de noviembre: estos son los tres impactos deportivos del día",
-   "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWFNHV1BHdlhScTFhdnBqdkFNeW9uelRpckF0OURWeG1kbGhuTWF1ZWNhQkRiUEFpSnhCTmlpTFdIRDNXMWs1TWhnMXEtd2JkbEFhUXFaM1BXYVgzV3l0WU9LWHZTQXBQeW1RNkJQUEhLSzZyczZqcFNsNkRqVEpUTkNJVHVoUWVRM1lRWVczVkNaSFgyR0NTNVRSRUxOZU96cEJZTTYzZFgxLWxJbV9zRXR2STFxZWxZd01VX1g3WmlYdlBQNjVvcHZwVFNJbUk2RlFGcEgyR1hmdWJfVFF4MTVJbkU2STB3TkE?oc=5",
+   "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWFNHV1BHdlhScTFhdnBqdkFNeW9uelRpckF0OURWeG1kbGhuTWF1ZWNhQkRiUEFpSnhCTmlpTFdIRDNXMWs1TWhnMXEtd2JkbEFhUXFaM1BXYVgzV3l0WU9LWHZTQXBQeW1RNkJQUEhLSzZyczZqcFNsNkRqVEpUTkNJVHVoUWVRM1lRWVczVkNaSFgyR0NTNVRSRUxOZU96cEJZTTYzZFgxLWxJbV9zRXR2STFxZWxZd01VX1g3WmlYdlBQNjVvcHZwVFNJbUk2RlFGcEgyR1hmdWJfVFF4MTVJbkU2STB3TkHSAf4BQVVfeXFMTjd6UzBvb3JJYjREdHp6Z2c0S2N3cEJYV3RheVgxS3RyLS05ZUpfU2t2OVNNVGh4cXA0Y3lnUzFaZnVMOUFkYWU3MV9HaEdMYlNQRV9faU9vc190a2hva0lTRWRscXNhN3BQRWdfWkZqU2lIRzY3ckpCc0E5ZXBMVDE3akFfMElyRVc3RXRxMmE3ZWJZekdRM01wMHhMaDRXTUxKSFJVUWJFMjdHZ3BuT0NDSUFyQlFLZ1oyM3VSUjlEaGpSenJnQlB4Q01FOXRHalIzZzg0LU9YdlJ4c3Nzbm8wTGJhMjY5MGJFeTdxWGFtWXBodmhGYVFsd1V5SEE?oc=5",
    "medio": "El Universo",
    "fecha": "2026-10-16T21:00:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/MCF4IA2RKFB2DGGSQVM5AEZVME.jpg?auth=2b655e7a5ed7de29abc9e32de94166d870fa52c909066dfb0c2eaf69ce7a4875&width=825&height=670&quality=75&smart=true"
@@ -95,13 +193,6 @@
    "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/16/6ad28b1420a28.webp"
   },
   {
-   "titulo": "Colombia reanuda venta de electricidad a Ecuador, anuncia Noboa",
-   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTkdvWVVWanJjRGd6ck0yQ3p4UVFvckZENjBtcDZmNzdhVFFwTV84UlpWVkdLSTg2anNLQTJ3M0s4Z1VrUzl5Sk9HYy1qTGtYVXpvQURpZmg4akMzUzdySjBlX0daY1ZCeFhTcnJWSzdRMWdMUFd5ZXQyUnlRMVlDSUtIWTBUVm03eFM5c0ZVSWpFc2ctOVE?oc=5",
-   "medio": "Yahoo",
-   "fecha": "2026-10-16T20:35:00+00:00",
-   "imagen": "https://s.yimg.com/lo/mysterio/api/d24afb3f7d87cda3f603135dfee78509b55658f5f5f1fa95ab6db1717df65598/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fdeutsche_welle_articles_es_448%2F9390fd5be50ca2ab008d58089fda569d.jpg"
-  },
-  {
    "titulo": "Marcelo Gallardo observa a jugador de Barcelona para la Selección de Ecuador",
    "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGN3X2E1NWRBZkVGRHZPZTZreVc0bGM3ZEV3RVpuenNNOXpBb2JoODFvU3NpRy1welg0YlhSM244b0c1cjVnUmprQ2tGclY0Y2k1UUlIbUdhOUNySVEyNndPTTFPZ1VnTU02Tk5GYmlNYmEwWGV0elpJdDJVcFZxTERlOWhvNTNkaUd0V0NlNVVldUZlNHM3Tk53VHBMajVXQTlBZGljeEpyM0lLU05QMdIBtgFBVV95cUxPY2ZvZjBwZ1F1ckVNejJYbHlvY0pRWGRxRkRVVDg0aFo3YVNmRFY0eC1fZG1Dc3ZYd0JSTU5iekFFSHVWLUFsR0ZrOXdzX2RCaTVISjd6VmxGX0IyeVJGMFJRVnZ3eEpHNlU1XzNYYTA3WlFzdGphODc2ek1SdURKYkhUaTNxZV9OdU1ua2JwZUVuQV85NGdfb1VZLWJpam1oRG4yNHR6aHZTbi1CdFVYVXkyNGRpdw?oc=5",
    "medio": "Bolavip",
@@ -109,18 +200,18 @@
    "imagen": "https://media.bolavip.com/wp-content/uploads/sites/26/2026/10/16172031/BSC-Ecuador-1200x740.webp"
   },
   {
-   "titulo": "Colombia volverá a venderle electricidad a Ecuador, según Daniel Noboa: \"Los países hermanos se respaldan\"",
-   "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZHlWdmRuS1BIVFduSEFaN2Y3UG9fNDdHS2FVRjNZNkxvTjhsWFc5YTZDRURRV3p6VDVXMkYwU0NLOXFWWEJzaU9seWViUXIyWGhNbC1GcGJuY0tfbGNpc2hjUXh6NG80dVExNXMzQVlrMERWQVVtazNQajUzVERTZnFZaEhDY05wT1ZJR3ZyMzVvSHJaREwxTzBTVTFQNEpMYTBPbFhpdTFtMkVMTFhsbmFrUlI2Qkl5TGFESU5TcDlGS1dqVkVCMURrYkVldWc5RC1aWWhGMDBrQ0M3Yk43N0daUdIB6AFBVV95cUxNTHFsVXR1ZE1aazVrb1hmOWM4WDI3QUhjWVdUV21sUm9JRW1rNkR2S3BPTFd1VGp3azFqWFQ1RWhaZnJuSlBudnJJT1BKcTRlNDhLSXJWdmdNV1NfUmlneFNuVGk0c1Frd1hSY3ZRUEZ3U2dBQnp4eUsxNmd5MkVIeWx3b1E4cjFJRGdwa2dzdS16S0ZyNW9Ka0dpbFp4Ynlra19tVzhJanBhQ2FLRXhjQzhUMHh6bTdoWENDOGloZ0JKbmxDWEZXdDNzandZUnBWdlVfY3d2MndLQlBlT0NMQ212dldQdFQy?oc=5",
-   "medio": "La República",
-   "fecha": "2026-10-16T20:15:19+00:00",
-   "imagen": "https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/10/16/6ad28050788123d5e608919b.jpg"
-  },
-  {
    "titulo": "Ecuador importa en promedio 65 MW desde Colombia: ¿será suficiente para evitar más cortes de luz?",
    "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU082c0NUU2pWTVZXcV9CbVk5RGM1emppM3A2U0c5LUwwNHhCYVBGNDVGTEJFV2tVUU5tNGlZcDJmRS1KVGU3MTJwU3Q2ZWU4aVVnMmFndlJMNnc5eGdULUktdWdKZzhGVnZuYm1qSmlfTm56bjZ1ZGg4OXFLemxfdVg0T0htRkw0LUx2bnpsR1RRSnFnb2EtSl8wLXFzZDZoUV9UN0tJV2ZXNjlhaHlxU3FwMWo4bkt6NmEtTllCUWpTTjJNVkRn?oc=5",
    "medio": "expreso.ec",
    "fecha": "2026-10-16T20:08:45+00:00",
    "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/06/01/6a1e2d4e44eb7.webp"
+  },
+  {
+   "titulo": "¡La Tri vuelve a Ecuador! Estos son los rivales y las fechas de sus amistosos en Quito y Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlFIZzlSWW5TMWZ3bFFESFVpeFJrWldOODZZdEhOY0pkV2p1MldSNG1fME5VN1FOQlJqeTRjUG1JU3N6d1pkdC02ZkVHU05Yenh4TXZJbVVQSUtYNVNyOGpKREJYNzBnUzU0dWV6MnNaMndFWUdUVTRSX203Q21TUHlPNzBLNmVWZlVTeXNlYlIydzNmOHRXb2FiU2s4Y1JBUksxQWlKX1RJRGlVdlFmUWxBeUJKREtrTDliXw?oc=5",
+   "medio": "Confirmado.net",
+   "fecha": "2026-10-16T20:01:20+00:00",
+   "imagen": "https://confirmado.net/wp-content/uploads/2026/10/futbol-ecuador-2.png"
   },
   {
    "titulo": "Aria Vega se presentará en Ecuador tras su nominación a los Latin Grammy 2026",
@@ -135,13 +226,6 @@
    "medio": "expreso.ec",
    "fecha": "2026-10-16T19:45:14+00:00",
    "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/16/6ad27e21cb95c.png"
-  },
-  {
-   "titulo": "Noboa: Colombia reanuda despacho de energía a Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdjBqUmZYb0x0UHJpdlJxaGxHMWdBX2JPazF2VmpreU9ULWVweFdCSUNEUjdLdHVhTzluU0lQZUxITC13VGZDZ01MU3Y1T0s4cWFrN282ZGlqR1RKd094UHg1REVIdTNoRms3aXpUQ2hReTJJM1FOd19aMXhPZnhkbTVpU3JoY2QteDI3WW1vSFFwVGs2ZWZ1WXA0V0tnZDJ6aDJaeTNiQS1EQzQ?oc=5",
-   "medio": "eltelegrafo.com.ec",
-   "fecha": "2026-10-16T19:30:00+00:00",
-   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/68d3cbe90b608236a940042096cd67d5_L.jpg?t=74a1e0224d6a"
   },
   {
    "titulo": "Costa Rica se enfrentará a Ecuador y Argentina en la fecha FIFA de noviembre",
@@ -172,25 +256,11 @@
    "imagen": "https://estaticos.elcolombiano.com/binrepository/1220x813/-30c0/1280d720/none/11101/BFHU/daniel-noboa-abelardo-de-la-espriell_51899675_20261016145948.jpg"
   },
   {
-   "titulo": "Ecuador se niega a enviar a Florida a cuatro funcionarios por el caso Progen",
-   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZHBmRzItNFV4VmphUUtiVnpiNDhfTDhMZzFtQ09hU1FZb1lwT1JxX2lqYXhLY1lzeFE2dmRTLWZwbkpRWWxoYmQ1Q0lfWTYtOEZma3RLSlNXLTJnNVBMeHdnTzZmNEpUczFQbjBUb1lURGlxTWNfYXAwVXI3QXlRcjlxU0QyNUNOaEHSAY8BQVVfeXFMTmtpakh6cGVkMlBRM3N6SXlSeXhUVmh1MVBZNEhjMC1LT0lDcjJKbHBVNDhnWkZiWVAzdVQtcjNVYlhoUnhHOTZRVUFxY1JRWUo4QkZyalA1dThpbnJDUWdzaC1fVnhpUy16MkZ3dmpDODhQWF9xTFVsaUtDUy01dFNFYXVFcVNCUUdna2RIWE0?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-10-16T19:13:25+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Cuándo juegan Ecuador vs Costa Rica EN VIVO: día, hora, dónde ver por TV y el historial",
-   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQXhwaHpTZnVEcERBZER2aUFtZ2xjd1d5dUJiaXBsLXJWc0lYZnZBbkJQZWxxM0dqdHR0S2J5MGxhN1A0alFDYmlLNVR3Z2ttYzlZd2lubHNUaUdlY1NwaVVKalRaRlI1Qm15Y1FRNGlhdFpTY0lyd1c3R1R4OEstcmZ2OTlCZlFyZzE0R0ROUjlmVVFQYS1kYm1GaGxHbkJQZTZ3Z3V3?oc=5",
-   "medio": "expreso.ec",
-   "fecha": "2026-10-16T19:06:00+00:00",
-   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/09/24/6ab559f686c0c.png"
-  },
-  {
-   "titulo": "¡La Tri vuelve a Ecuador! Estos son los rivales y las fechas de sus amistosos en Quito y Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlFIZzlSWW5TMWZ3bFFESFVpeFJrWldOODZZdEhOY0pkV2p1MldSNG1fME5VN1FOQlJqeTRjUG1JU3N6d1pkdC02ZkVHU05Yenh4TXZJbVVQSUtYNVNyOGpKREJYNzBnUzU0dWV6MnNaMndFWUdUVTRSX203Q21TUHlPNzBLNmVWZlVTeXNlYlIydzNmOHRXb2FiU2s4Y1JBUksxQWlKX1RJRGlVdlFmUWxBeUJKREtrTDliXw?oc=5",
-   "medio": "Confirmado.net",
-   "fecha": "2026-10-16T18:33:31+00:00",
-   "imagen": "https://confirmado.net/wp-content/uploads/2026/10/futbol-ecuador-2.png"
+   "titulo": "Becas Ecuador Productivo: estos son los requisitos para ser uno de los 595 beneficiarios del programa",
+   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDE5QkkyN3N2VUczQU5TdUdsbUp1MDh1amo0S2VITzNLMGRyaU5xZ0RGNXJDRWpESDcwQmNxNGZfV0ZISXZSMnVkODlidUNGUnRYcXlJcXlqRlE3Yk1WaDBNVV9xdFFILVNQVDhhV2c5MFRvMEtVa1FRcHhqV1o3d0Zsb0xmUUprOEJzZmh4SXkxZS13QTB6QjFHTzlFQWRtczRJ?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-10-16T18:34:34+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/10/16/6ad2569f926bb.jpeg"
   },
   {
    "titulo": "“Nacimos juntos y nos morimos juntos\": Mueren los siameses de Ecuador; se negaron a ser separados hasta el fin",
@@ -214,11 +284,18 @@
    "imagen": "https://www.univision.com/api/image/og/us/famosos/los-siameses-del-ecuador-tenian-planes-de-boda-se-enamoraron-de-la-misma-mujer-video"
   },
   {
+   "titulo": "Ecuador.- MINEDEC y UNIR ofrecen 50 becas de hasta el 65% para maestrías europeas",
+   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRGFKRFBzc1RwNTRrZmtfWnN5dF9PQTVNYlByTEJGdHN1aXZLelVqa1VQREcyRmlHWGxvN2tpR0R2VVNyUFo4T3l2a1c5TXpuRm5yLU1mNFdoOHdVNS1LQ3hyNUs3aUIyQ1RfTzB4ZjBSWVBPNzdwZGJUSEs5RFFFcTJNcXNNRndrZVpKdkVEZGc3RXJUdGxfRFRGcXBwbkY3M3J0MnN1cWVQelVuM3ZyWXFwX2NZaWRoN1NyTTlB?oc=5",
+   "medio": "Notimérica",
+   "fecha": "2026-10-16T17:56:56+00:00",
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261016195656_1200.jpg"
+  },
+  {
    "titulo": "Ecuador: organizaciones alertan sobre el incremento de la violencia de género en 2026",
    "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80aXhBY2xlUFc2Qk4tY3BlTnhCNHlkbDBmOVphZjZOZjhLa1pjQ1ZaOFIyeVpDUGdUZmVHN1FTMU9TZE9VSzNSUHBsTl82YnpTX1hIRlVOY0hJalkwRDR6WnNzeFdRVXcxQVY2Tkd0U3BRQjliaVV6c19uVzU?oc=5",
    "medio": "teleSUR",
    "fecha": "2026-10-16T17:53:44+00:00",
-   "imagen": null
+   "imagen": "https://ikona.telesurtv.net/content/uploads/2026/10/sng6rade.jpg.webp"
   },
   {
    "titulo": "Cortes eléctricos afectan producción de alimentos en Ecuador",
@@ -326,6 +403,13 @@
    "imagen": "https://imagenes.excelsior.com.mx/files/og_thumbnail/uploads/2026/09/28/6abb0c1d39f4e.png"
   },
   {
+   "titulo": "Colombia restableció el envío de energía a Ecuador, así lo agradeció Noboa",
+   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ1o0QU5ncHhBcHJFNTgyTDlqS29vMDM5S0tpbDdCNmpjbGpUT1JiUWpIU3hieTBDVG1NeXA4REwxNGZpMDJ2UDVoT3hkNE9hS2czUXh0Z3owcWl6UncwTkZEa1Nod0E0Qm1NRHlSUy02aWJHMjk0ODMzWXgxdWZ5TXFaUnFKZVhyclhKbjAyTVNMWk1UUXh1bGhQU1A5ZW5NazFz?oc=5",
+   "medio": "La Opinión Cúcuta",
+   "fecha": "2026-10-16T16:54:30+00:00",
+   "imagen": "https://laopinion.co/sites/default/files/2026-03/energia-colombia.jpg"
+  },
+  {
    "titulo": "Mueren a los 27 años los hermanos siameses de Ecuador tras una emergencia médica en Colombia",
    "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdzNJaU5iam41UG1xaGoxcV84Y3FDWUl3ek5QUTdqb29iQUZoeUNuMjA3N25JcGVrZHhwcWt5SDc1T3A0ZThPdWs2b2NQREs1T1RVUmRGSERDNDRKZ1BrRVBqWGI4Z2dGY3p1dEdqV0MxdFZJQ09iSFdVZTdmU2NwYlBNT1lnT3pnM2FySkk0cVp2N2M1SktNWTVnOUFxTzdkMnNRdWtxVEdDMVdqR3U5alJUM0RSRV80dnNTSzRTQkhTMlVYSWF4c2hnUzR1RnFFLXVtetIB2gFBVV95cUxOdkpzZkZBemwtdkpkb0wwemRrUlllRzRpdUxvUVlEdWJoU3RjRGVlQVF6WU9XSEVDb3NlNnlQSHNiVnVsTGVCMEtONG1nR3pPd1llOHhreDRFVDd5QVFyNE5VMXpyUm1rT0xyUFVtbTIwdnFSbXNWTGhvT3A2NWc2SkZ6MnFRRG0zTkRYOGdLdU1xZ2RRaFg2VXoxQjhrSlFzN1hEd3JVQkpoMU9oZWJaRVBIUVV0Y2NDbjlObFpyM3dGY3M2WDM0M2V1Zzc5QzN2Z05obU5rSDZzdw?oc=5",
    "medio": "20Minutos",
@@ -338,90 +422,6 @@
    "medio": "El Productor (Ecuador)",
    "fecha": "2026-10-16T16:40:30+00:00",
    "imagen": null
-  },
-  {
-   "titulo": "Costa Rica confirma amistosos ante Ecuador y Argentina",
-   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXEwVnRfdlBOOTRzSC1RUG1VRUVMRDRFU1EyTTUya19Uamh3RnROWEZCblhvaEhPanU0a19URVlYYVRISURSenBQRVhRY1AtbzVzNUZLWnhKblpFeEpwb1kwSFhLT1lLMEVCZnpwT3N2bU9WbHJ6SWlkcU5rVHBmRkI2dWZfbWt6LVhVWVdLMHZrQWE0NTdIWEFDQXpGMU5CZ29PQU5HR0Q?oc=5",
-   "medio": "ESPN Deportes",
-   "fecha": "2026-10-16T16:40:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Ecuador jugará frente a Costa Rica y Bolivia en amistosos de la fecha FIFA de noviembre",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOS03Z2FiNE9MYndFZERFajhQcHJ1d2o3NWpOR0VXazhrdHJHUWNmZ3JDS2RmcW5wR3hreGdPNXJpWDdQS0ZOcTg4NlV6aTZHSnFBUG00VEIyNmxiUTNqZHBsNHRRNXRuckR0ZnNUaHRCcnVQa3BlUHllX21IbFkyZGY1aVpZeElwZFRGREJUZVA4ODRWVUdYZ0poR2d6X1JVU0tnTkhEa05rTDhtekdMQXpkelU4aW51XzFzMDNZNEdab3VXTDBXZlhuYVA0Sk9IUnZFNjRZMNIB8gFBVV95cUxPcy1JUXRnQnp1a19nbXRNYjN5bXFwbWNBQURRcHRCbXE4YTZvYXBNSW1xd2lieTdqTFdFaXFaQWV0ZDFBWnNjdlM4cVpCSlotSEthOXlMbWpRSFRLbGtEN3Juc1ozcmRFTXRWN0M2dXZ2Z2JYRl91WDBnUF9PdnFmYjZWaFBJZ3RyS2l0RUdNRGpQMjltcXI5NWlXV3o4eWNfeS1JRHBweDhEUTI5ODd5R25VbE1ReUdhUVFXVEZvWDVndEtDZ2xyM1pGTXlOQmxRVTJKM0lrQl9pRzVPWG5BOS1MckxEdDduc09ycFpkYnF3Zw?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-16T16:34:53+00:00",
-   "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
-  },
-  {
-   "titulo": "El presidente de Ecuador anuncia que Colombia reanuda la venta de electricidad",
-   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNDQxbDFPTk5YSXMwc1lDVV9zcXkyUks0Z0VnaXBIb0tBR2pwN2tObktTazhaSE9fY0phNUZMTFNidzViQzdTNnNseXpPVkVBZE1iXzc2R3l2VnFBSkhIODRPMlZJTTN0TVBoWjBSR0tmejE5VGtFV0t6c05kTThlSVVHTG9ZUUk3WkIwTDhELS1mZlJmRzRsRnk4WFJSY3QxT2p5YnJGUlM2RmM3RFpiTXFlRDNFVDZfNUZnV0Z0T05hdWtlZC1oRXRTUQ?oc=5",
-   "medio": "France 24",
-   "fecha": "2026-10-16T16:33:26+00:00",
-   "imagen": "https://s.france24.com/media/display/4ebab5dc-c97f-11f1-bf41-2d1c143cdef3/w:1280/p:16x9/7227697815b3540b1da30d2b2b4a23bb52c5caf3.jpg"
-  },
-  {
-   "titulo": "Famosos siameses de Ecuador mueren en Colombia: esto se sabe de su deceso",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVE1uWTM4bjBVdjI3Z2dRS3VhX296WW5DRloxdThYSjRKOXp5cFFuVGxmM2hlNWhILTdpRDBPNUJ4V016OWN3UjZHVGVFR29KMURvUm5VOXBQTk1oMktvUXZMRkMwdkFnalBkcUd2SGNLVE5wcE8yRU8zNXJqZ3BlaXp6bE1UbXJtZXNGUjVOLUgtU0ZXS0QzU185ZVZBamtuTzJhSHczMFpVeTBEV0o2NUNOaG81d9IBwwFBVV95cUxOdlBEYXZpeDRudnN6VlBFd00tam5rc2NFSWF4SkZnMk02ckM4MTZ1RFBZTWJ2aGM1WEJELVlZQU96dTRIMkZpcXAtLVBXTjZFam9leW95REhxTEdBUmRtaUFqaHE5N043UENDZHdVN1dsb3lINDVSVW5fcFgwY2lXUkFDUjZHekhaTzNqRDBvWU83cnRhaFVtM1REOTV5bk56aW1PMVdqY1MybEMwS1dWQ21hc19mWmwtMVI1eWlBM2JWYUU?oc=5",
-   "medio": "Noticias Caracol",
-   "fecha": "2026-10-16T16:28:10+00:00",
-   "imagen": "https://caracoltv.brightspotcdn.com/dims4/default/8630459/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc9%2F2a%2Fb2dbeab94099996daffeeeb17f26%2Fportadas-caracol-web-2026-10-16t110845-397.png"
-  },
-  {
-   "titulo": "¿De qué murieron los Siameses de Ecuador? Esto se sabe sobre sus últimos días",
-   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaFlhR3JHVWRveUpHZ2tzbWZ4SHFhV1V3d0p3dWxKbWduY2xVdXd3MzluUWE5bDVhT2R5Tks5aVpRczJaeUR2aUxwa054c2d4c015YzlLTjdKSzQ4OFlZcmo4YkZCMmhUcTVLWUJ0WHAtcVpRSUt3MWNSVUlKa2k2UFZFVk5OWjdXMExHR0lvaEJFT2RfbmNvS1NCQlJxZFE1VUs1cmVGRGJfNGc5dWwwTGJldG1pNl8wbV9DUUprdmNKSnFtWHc4aURR?oc=5",
-   "medio": "Récord",
-   "fecha": "2026-10-16T16:18:00+00:00",
-   "imagen": "https://sportal365images.com/process/smp-images-production/record.mx/16102026/51985ef1-5260-4356-9b8a-4a7e1aba4ccb.jpg"
-  },
-  {
-   "titulo": "Colombia reanuda despacho de electricidad a Ecuador en medio de déficit energético",
-   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOREtFdTZnNVdVQ01La3JoYlVkMWZUSW5vTERNRjNiWEY3OURwOVgxbGI4NkVGLWdKb19aUk55MWFtMk9ONnpibGR2MHVjWFc2dEFuYVpWRUVWTUhITWNQdjFqdWZic3F4Qm02QVBaZHI3N1JFazZhMTEwRUYwdE1ER1BLdWtxSWtIRWVGUEZaWi1tOVZPN2ZmNlE0Nlh1ZTRiOS00MFJuZ1Q?oc=5",
-   "medio": "AP News",
-   "fecha": "2026-10-16T16:14:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Colombia restableció el suministro de energía a Ecuador: el presidente Daniel Noboa envió mensaje de agradecimiento a Abelardo de la Espriella",
-   "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQNWJ5SXpIZjBhb1puaWdkY0JIT3FHY1BsamluNVdxendVaGV3X0RnbnlmTEh3b3NIYmFpWnRCYnZfSUpBejFCZkUzb0FhN3R4bU14YkZfVmJpWDR6WDFib3Q1RWplLXJBTVl2RDdsVWx4cjQyYXZqcS1Yb0NwM3U4QTVBRnVkdjRMS2c0QVVlZWNPTjBneS1hcDdRUGtIamlSRXZ6T2J2T2VjaFVWdzU0SDIzcUluZFhpTVphMUtYam9qb3RSUzBtVHVOUTZtSWFvNEdwUlRPaWZMbFFUV0VXeko2eVdjTzdrY1hJZm9iVFpTVUpoUkVDM1RrWm9IUWNRNXk0RWJFd3dBeXlSR1l3aERUQ2bSAa8CQVVfeXFMTWo0b25ISGxpZmpMY1NDVDJpMEJpbXBrejNFZm95bXZZNVpwUXFueHRBSEltTHZyS3M4ZF9TTWJGS01TeW9GaXdkMG5WcXBTNHB5dlotcy1jVTBySmg2dkFGSzBMOW5tY0dhZ0ozYlZibEljNDZ2ZjhWQWNjMWdYNy0yeDJNd1dJbElUSkIxTXl1dXA5Ym1NSVpBRzd2U0FLTEFfRno1OS1NTHBub1AzY2tvTHhXaHRUNDdzcUNmWVJHY0h5R244YURfV1NaRFJ3Z1FLMUVTNTNHRExjbEVXSGJ4NFdYX3JEa3gyRHB1aGVLdXFVLTk0NjBQa2l6LWhLTG1QVjMwWG8zM25wak4zOFptUDVUdTNILXlGLURUUFR1LUZ4Umx0aXd1UUxmLWlF?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-16T16:13:01+00:00",
-   "imagen": "https://www.infobae.com/resizer/v2/XLV6RVPJEBFO3J2EONGACBI7AM.jpg?auth=88d3c068f904812318394a40f5f75fb50f0d19ee550761edbd7e33a655c58680&smart=true&width=1024&height=512&quality=85"
-  },
-  {
-   "titulo": "Costa Rica anuncia partidos amistosos ante Argentina y Ecuador en noviembre",
-   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnhhMER5YkZhOUJidGlnZHdRaEZmMC1mZmZMZGhPN0E1R1ZrRVhlNUE0dmFHZ05ocE5JTGtzSDVWS0pVM2dieDZOTURsRDJXdG5nckZjOGh1TThNb2tqYjM0ZklWeV9qcm1Ud0ZPb0ZjWDlKa2ZwV3VXS0ZhbGdzam5JbkhPTjRjS2ZMS3FWSmVSYk1jcVBIUXRxQkdaV2pXdTU1N1dnQ1h3dE9pcUxWVDI5NlZXNnJYbWRWN2E1UGcxVXAzWWI00gHiAUFVX3lxTE5QVlUzRVFIRGV4cjJKZjA4bTY5RTZSWDFMb1RTZVRrSDBPNWxjUU8tclhaOEZuOUpaSHBoMWw3WTNRTDBta0YtWExGaWN2akQxRFRZaTNGV3ZXdEg5dHBMVUthV25wMV9UTVZGZkpGQzBKQWdKUldHc0FobGViSWdLVWVQWElNRmV2N1RPX0Jadk9MME5VcE5lSGV1Nmd0V0tncWJhck04QkFaVkMzcjVjR1ZtQVVsdkJlYjhYT1VUWXJmOEI1bFNGZFktY1NTYldQSG14VGdGTkRKT3pRZjRNZHc?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-16T16:08:43+00:00",
-   "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
-  },
-  {
-   "titulo": "GLP: Perú plantea rutas alternas con Chile y Ecuador ante El Niño",
-   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ3lfZkdhTjRVVXlldm52aUJGSHZXc0stcGxkQUVqQmlWSDhuUDBfX0ZybnpCUk41M0tGeDlXLVRLc2NFT0dsZkpjUGx1X0lwcDJndzRhV3F4MC1zVENrNnhYUV84Q2l1Wkl0amhtV2l2cmlaZ2FzUjdUY3h4OS1Td1E1aTJ6UzVramFhZzFLRmRzejhoTmNXOC1Nb0Y4N2staURlcQ?oc=5",
-   "medio": "Rumbo Minero",
-   "fecha": "2026-10-16T16:02:10+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Ecuador confirmó que será local para sus amistosos para la próxima fecha FIFA",
-   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUm1fczlTdDUxcWlyeDBhQjJDTGtVS0VzVUtudlN4UnBRcy1ocEs0ZzBaM3FfYnRWNHJlenNQWXVtX0dWZ180anNGSW1GaGRkMWpGUHFSbDRRR3FhMkNXaWl4NE54cUkwcjhsLTBOMFpKT1lNNnhRalFNMzdNQU50SW1LamV0UC1PMW1hM3I2T00td3lFWnZjUTBXWVpoUnJZdGl3MGRPZVVNSmg4VHRBNlQzbW81RWR3SnkwNUx2Z0xiQlk2eWhqa3NyNW5wNmFpRE5uYncxeEc?oc=5",
-   "medio": "ESPN Deportes",
-   "fecha": "2026-10-16T15:52:00+00:00",
-   "imagen": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1016%2Fr1731668_1296x729_16%2D9.jpg"
-  },
-  {
-   "titulo": "Caracas FC finalmente podrá viajar a Ecuador para jugar contra Santa Fe por la Libertadores Femenina: la mayoría de las jugadoras recibieron la visa",
-   "enlace": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOQU5zcjZyd1FndDNkeEdTalM0Y01DTUs5bFcyd2RjX2RKZE40TVpVcHFmUFlvRFZUQ3pIZFZESDhJbkZoNGRxaGFId3JKVVZVZ0ViSzVGM1BXLUJqSmVxWGs2SjdROGZPNENNVmZpcTFQZTJCSk1pbGtwQVBuU1FiM3h0eF9McGxqS2kwdmhmb0o5WDliMFVlUEVNVjhnbzJWcGR2aGFBaGlMSXBURnE3NldnYVRfZ09tMm9mVFNQbi1sMEx5UHdEVWQwSEJjQ0NjY193OFJtZmNCSXBuQWZaZndPRGR3TGtyT0xRMW9OTU1hXy1ZN2FvUUlDQl93LTVYcERxcURPWnhBQVUtTUJzbEFrZEtZVjRZZVh5UE5sOWN3dXk4TmVXMtIBwwJBVV95cUxNN1YxRUhETWNoWlRlSmhNSE9BQU9tb0tBUmxObkZ4Z3ExaHBNMEhqUTIyY3RpS1RGeFdpc2VYM0F2R2hhT0JGaTRaTUw3VVFLTVJQUWVIWkFlT2hPQTdaSDY2czRKbTJhQm56VGNTVFo4TGNQRVpmOFBSczk3TDFyQXNBVHhjWDNIVnVwcnpCalVINFdMa1REN21OU2llVGRaeXppakoyTkZVSGloVXJYSS16LVYxeUVuWmRiRWRESFRhN3puSmlIVFBfYUxMNktZQ2xDUkpZZ1JJcXdsSHVESDlzTzdCZ0kteEJNS0xJdnZTSXA1dlQtcXF4WUhCRlBQbTF3SWNKQllvWUoyaTlvWVpyU0drUEVjcy1iYWR6X040RHAwVzFWSkNEcGZNM2drdndBRklXeHBlQ2lWSURaaXdBdw?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-16T15:50:00+00:00",
-   "imagen": "https://www.infobae.com/resizer/v2/A7BIVROTRRGWPB7UP5DSPNQN6M.jpg?auth=5c0e7b87c0c61ec5abbfff2f1c87ec8e242b05e55a4fa172a6f9d44660fd2663&smart=true&width=1024&height=512&quality=85"
-  },
-  {
-   "titulo": "Colombia reanuda la venta de energía a Ecuador en plena temporada de El Niño",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWV9TYXYxRU85Xy1WNC1McVhWZGtYTFUtcHB5V0w4bV9uQ2NwR1BYMzdOZHJ5TFlXcGNIa1pGVWVSOWNqSk9IRmk1YmxXQXJtakRYbDZkNmdNQ2s0cGtXbGhDRzN2bjRWcExXY0kxNldBWDlybGZWSE1JMi1lejEyVExoVVlyUU9aZlJ5M3JpUll1cHRqbmV1MVZ3T1B6YXNUb1N5UnpZdjM1UHFCNjNn?oc=5",
-   "medio": "IFM Noticias",
-   "fecha": "2026-10-16T15:45:41+00:00",
-   "imagen": "https://storage.googleapis.com/ifmnoticias-media/articles/ai-edited/edited-1792165355990.webp"
   }
  ]
 }
