@@ -1,8 +1,85 @@
 {
  "zona": "ecuador",
  "nombre": "Ecuador",
- "actualizado": "2026-10-17T21:48:05+00:00",
+ "actualizado": "2026-10-17T23:33:18+00:00",
  "noticias": [
+  {
+   "titulo": "Ecuador reinicia el paso de crudo colombiano por oleoductos tras suspensión por aranceles",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGJyUW5NVk1jQVNIME41WWZrbzNtOTdqR05uSVFqT1hOc0xjX3JRRFNWRUdXYW5reGtfMV8wQlI3WV9iR1BNUW1CQmVVamtUT25QM3VBNnJqcGZ3elJheE1vUVRVdWs3eDFsZWNwcTA1OXJlMnRZcmxlZjU5SksxQmJqWWoxZDJ6bEg4QkUtRHowTW9vYjlWVGU0eGZzWXEzWFJ0bEZWdFpEWE5tc0xvMWd1VkpySkY5NkE3bjFLV18?oc=5",
+   "medio": "Eje21",
+   "fecha": "2026-10-17T23:26:11+00:00",
+   "imagen": "https://www.eje21.com.co/site/wp-content/uploads/fly-images/450232/892c1366588d42d473336af40ecec20a-400x0.webp"
+  },
+  {
+   "titulo": "Policía de Ecuador incauta 113 kilos de cocaína en una provincia fronteriza con Colombia",
+   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU3VGdlN0cklJR1hiby13dVB1YW5ybU1PX3NYVEdMbFJ3eWhRcDY1Zzk5ZXpJX3ZKcnphMFJZb1VXdURuNUF6cGQ1NFhobGFKX1pGeVFJVFk1eUlkN1dNeVN6VDlaTUlCTDFfWFVVQnprbmlRTHNTQzNtbU1GVUJhalZjZkZVcVMwMXB6Z2hBZVJlT3F6WkI0dVYzT0s4NE5fd1ZXRVB2dnNHd0lXdGlkcHdCX3RIMTRWcER5dGZKZ2hRX09CazA4WUx2RmJVazJCcHJ6dmV0ZUzSAfMBQVVfeXFMTm93cGRnUEc0cmt3cGk1OFRvSVlFNkZjTnduZGRrSWtSaHhpSUFEZjJHRnBMaFFwWEVHMFFrVlN2aWR3THllMklqY092YlZOSEc5VjFfRDNfb0EzUEhpQnZCeTc3YjBfZ2IteVotWV9RWUdoQmV1Yl9vOVpDcHpPWHdDZDRuN1piRTZzb3d6Wmdvci1mRDIzYnRJcXJETHBJOFpFdk9xNVBPZHFsZEhrRUp5YW4yaHpRZUQ1OFVXMXpxcTIxcUVaQ19VM0huMlR0RlFObXZfNGxPWW0yOUdEcl84Q3hUS0xnUzNlNXg5UzRlVmxn?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-10-17T23:05:47+00:00",
+   "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
+  },
+  {
+   "titulo": "Ecuador sostiene su sistema eléctrico con térmicas y casi sin energía de Colombia",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXFqaXNhVkxUWHYxYkUycF9XaEdLUHhWQk9fU0FralBLUzE3bXdwNkRrbWx5YUswTnJlakZHUmM0OXc2eURmZXpXRnN1Wl9nX0wzazdnZ2lubUxTTG9nWmxUQzlBdnVOSndKYTFvdExGbzN1cFVGbHlFNVBKX0had0tMV3N0WmljeTlaamNma2w0ZkprN3NSb1N0UC1CdlZzN3VldHR3NHRYU2F1amc0ZThiSGZpZmlpTHpuWmdqbGV4VkE?oc=5",
+   "medio": "La República EC",
+   "fecha": "2026-10-17T22:42:05+00:00",
+   "imagen": "https://www.larepublica.ec/wp-content/uploads/2026/10/images-1-1.jpg"
+  },
+  {
+   "titulo": "Temblor en Ecuador hoy: Segundo sismo se sintió este 17 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjF3U3FHdUVyNVI0UmxGbnQyNC1SbzFIVzNkb2sxeWV0MGh6dGRoYU1WRjloSnVVWUlNQy1uNl9BLU0zdUllb3MtWU80bS05ZWhJM3Jsb1Y3LTI4NDljckd0RHk1SWJ6bjl2VG83a3BRcC1vdmNVUGR5enZzZE1xMXBKZzBwUjhzTG4xOEF1Zw?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-17T22:38:36+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/17/6ad3f8ccb5f72.png"
+  },
+  {
+   "titulo": "Ecuador volverá a transportar crudo colombiano por oleductos Sote y Osla",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcUpmWTJzZWkxd2Z0S2VtZkFTX19TOGswcGhtem9TODNjbWJxVTViVWxBbmkyQ1p4bzZrMnRiOUMzZDVZVHd3ell2WF82Wnd1VUhVR3pRSWlTNEY3Rlkxdng1LWFKYmNzd3dTN08zcTV3dW1zUUFLN1owNVpPY0h5V1ZIclZlWmRVWThIZFR2cS03T1ktQ1cybEV4NmFZWGE5V25VX1NLNzRnZXZxbC1Id1c4QTRaM2_SAbcBQVVfeXFMUDRCdjRlZEdINjdEOFNma0J4RmlDMHhNa0xfUWRWQUNWZk80aFliV3gwMkt0dVhteFgxQ09GMTdneDJaZjRQck4ySWNXakJrbVAwVmNMRjFjT3FGSkFhNi1wNXdMSjNQSHNNTXM0aktOTEpYUkplV185RXQ2YzJZRVhhM0NSMFBJRUdiSE42QmZuMHhTVTFtSVAyZFRINGZCYWxzeVhlSjRSUTdjYlpkcjAzcVh6TkhR?oc=5",
+   "medio": "LaRepublica.co",
+   "fecha": "2026-10-17T22:19:52+00:00",
+   "imagen": "https://img.lalr.co/cms/2026/01/27181205/WEB_Eco_Interconexion-EcuadorColombia-2.jpg?size=xl&ratio=r40_21"
+  },
+  {
+   "titulo": "Colombia reanuda la venta de energía eléctrica a Ecuador en medio de la sequía",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNHFta3VkM2FiUVJIQUR4Y0xTSGRQVVRhcy14Nl9JUnNvRmVCQUVOOC1DcEVNMlRMTkxpYW1oY09sYkdaNnJiaC1kSWFxUi1HVVRycEJKeEZmMTI0OFBlS0NLTDJCMGU3Mzd6WWxwVjY4eFhCbGRoaGFuUUM1dEhaWmxDYlpOVDVLWlpvYWFuYXZUTUdUbFFZRzU2LXlBZGZVT3drZW1Na2JSZl9TYmpkMA?oc=5",
+   "medio": "HSB Noticias",
+   "fecha": "2026-10-17T22:13:33+00:00",
+   "imagen": "http://localhost:3000/uploads/articles/a315f092-5ea1-4190-a121-d69b23070eaa.webp"
+  },
+  {
+   "titulo": "Gobierno de Ecuador reanudó el transporte de crudo colombiano por oleoductos ecuatorianos",
+   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWnJsR3lHdWlPTXc5b1JlNlVST3Y3dFlEUnh5VnJZRDJzQlUtRURULUw1QU1oaFNnbjlybVNGUTNmTXpBcmhvTXJhcmNZV2FaZ3I5YUg1QS1mV2NUdmJtdk5saFhNcExiMGtSRlpLS1Z5S2NMNlJ6c2VHeW1rbUxBOEo1RmV1UktMNUJjY0dnaVI2MHhpZFVBVFlkdXV1NFRwZnJyZHVJNjhiWmlJcG10VXZZbGxJa21HZ2ZsdERBdkZqOU9SZjItNUxaN0x1WWEw0gHWAUFVX3lxTE43Sm1YZFphREZVZzU4clltY0VOSDdPUXUzeTRsd2NJOWFrVk1TSXdTd19JdlZKYW9JUXRHc29DdnhIRl9EdzlwVkxlQTRLeWY5U1JVc2c0QkQ1QnFaT2g1MGJtUkh4eVpwSlRZRjFMSWtocVpnZW9JTkVfNVZZbWRfTWZ4MWZaZndPUFBSYTg4emJ2NjJGcHNxUVZob1JHZTA0YUJONHFjcl9PY0dqOWdxaW0yYWt2bWhYZkotWF9uaDZPb0JMdFRHWjV2MV9oWExNV3hkVVE?oc=5",
+   "medio": "Revista Semana",
+   "fecha": "2026-10-17T22:13:29+00:00",
+   "imagen": "https://www.semana.com/resizer/v2/A4QWOXDVHVFP7PUAAPYUTTZHJM.jpg?auth=ff402312247599871e5b915c4e90ce22998ce1eba650498f0c797698fceb4ef6&smart=true&quality=75&width=1280&height=720"
+  },
+  {
+   "titulo": "Es falso que la FAP combata incendios en Ecuador en lugar de atender los de Perú: las imágenes corresponden a 2024",
+   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVXBDLUFlSzhRODh2MXA2MG9SSmxaRnJLYlE5NFp5c29qbHQyTzIxa1cyOVhFelV4eVBpd1VsY3M3blUxRGhWSnRqTkR2Z3UxUzMyaW5ZQnRFTXJWaEVwbEljUkhscmZlLTZEOUtEdy1mcFNtaHZWLTI1M1hCcHNJT0ViempFaklZS1VB?oc=5",
+   "medio": "Yahoo",
+   "fecha": "2026-10-17T22:05:43+00:00",
+   "imagen": "https://s.yimg.com/lo/mysterio/api/b353082293338a3a079c032a836da07498767c5bbdf867aa6f3f0eb8d6249e6e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fla_republica_articles_761%2Fb101663fe2ae17b0c07e2555a19f3f43.png"
+  },
+  {
+   "titulo": "Ecuador implementa la certificación fitosanitaria digital para sus exportaciones a la Unión Europea",
+   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQTgtcDdqUEZ5QlU1Q0dzSE1HdXVzcEU1Qjc5dE9jMFpYdFZEbV9ueFVVc3lmbGphZ0tTQ2R5RVBMZUE5SkNDSkJNcmhiZ05nX3BqSkVuY3hNQ2pWTW9pUmE0ekY3T2Q3VllvLXczT2R4ZGxXeGJ4ZWxxUmlJdlZ1a01KUEQ3Wk4xS2JDQUdEMmtUbFdWMlJTdzdPdG02WEVqVG94UHNibEpRWGx5UVlFMmQyYTk3bmhjcGZrMlVZa3J0WmhHcWVLUU1jQnNWZ03SAeMBQVVfeXFMUG9YdWdfRk9Vd0FwemZwZ1Vxbi1sNmkzak1kNlN1aThMaUsxeUNTTjl0a0t4bXduaDczMTFkWTRfV3BveVlPLWhMZUtvTkpFQVV2UzVJYlkzZENYeUNXNGVxX2ZOeV9pVm5CcHZVSVJlb2FjRS14ajdFdXhubF9jVW9SRFl2RW9xc05wVTFUTTJReUlvbXNqejFzbVpzOU5jSUE1Q0JCcm1lR0hOaF9VUFdPbXlHenJadUhzUVZDbWdWWEotNDkzN1F2ZkQzeDlMSkswV3BGNlJyRGZWOEkzSVNmcWc?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-17T22:00:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/MKQRO6E6ABG7TED3TO2XLVVRXA.jpg?auth=d8b39ba901cc94f12ebbeec5c5fa447daa5b185079508ee13aa8036f0f2b249a&width=890&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Ecuador reinicia el paso de petróleo colombiano por oleoductos tras suspensión por aranceles",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSWZkX2JYaENyamt3ZmJScm9FSDdsQXhBVUFCOUdfdk9GOUhUaU51RXlXWEpyWXRoT2JHaGNLbjA2WW5sQVVwUjRrcVRKVWRBMmJwM2tYdHVwMFdZcDdOcDhWRnRvVmpOUkxkcjlNNVlHcFhIOFUyTlJ5Z0lvWmgtc3dKUzU5eC15azFfT1BCY29pMHNDTUJxblN0UFBNdTM3MVdoWDZsZXJJTHd2RDMtTzkxdXhxVXZZTXE5WUoyQ3B6aEQ1LVRrOG9qZFUxY045WEN5Z1Zfcw?oc=5",
+   "medio": "Vanguardia",
+   "fecha": "2026-10-17T21:49:00+00:00",
+   "imagen": "https://www.vanguardia.com/resizer/v2/EWXK56AZZRCT7ASBRZ66JKIUAE.jpeg?auth=17a77cfb0e155aba3cab6b58d2369d38c323bfe79d40c23863e45f966b355da7&smart=true&width=1200&height=630&quality=70"
+  },
+  {
+   "titulo": "Ecuador reanuda el transporte de crudo colombiano y proyecta ingresos por US$16,8 millones al año",
+   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSWZpTDBZbHk2WjhXQVJOMWdJTmFiaUhuaXlqZnlrWmRMdnhBczVsajVmM1hGSFRpY2F6emV1Q25mMFFfVm5SY2R1T0hQZ1ZZS2ZqczcxQTNuZ3pxZk42WThNNDV1TjNFc1BPbXNYVHFFRVk5aGVLejZfUVBDcjFQTVg5ZFFTTmJBY1ZkOHFaOWw5Nm8ySVpkNW8tRGM1dE11TzhvT2FwVkhrTDVmeFJzZnRNZlMxRS1NNWIxaGpBeU5ENjBzTjlNdnUxN2pfY3pDOV9nTNIB2gFBVV95cUxNd3duYVlNRkpjY0JnNGtoM1pNNW5oM0VxMW5mYUR6VFVBQnBTei14UGQwb0M0ZWFud0luTUZDSWozb3pkX3luOVNnbWlPZ1g0cnZiQW9CNTZBMlRkeDBybUtfeXhWbWVGVm1mMXgwTHE1bTJiUm5UX1d4QzJGbEJRamtxbW5xMHEtVHctSFJTZFlVeVRKZGNVRzNSRGVXX09OT3FjQ2M2N3VBX2Q4V3pNV0dEUzhsS2ZCX1BKVGpmRHVtTkdYaThJVnl0TVh0X0dQQmRCSmhYOGNpQQ?oc=5",
+   "medio": "Portafolio.co",
+   "fecha": "2026-10-17T21:45:55+00:00",
+   "imagen": "https://imagenes.portafolio.co/files/og_thumbnail/uploads/2026/09/06/6a9d97e510839.png"
+  },
   {
    "titulo": "Naufragio en Ecuador: rescataron a seis pescadores y buscan a otros 14 desaparecidos en el Pacífico",
    "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMndJMm1QNHFHZWhjSndzTGdfZEs2MDRxNXhpa01fM0l0VGhYT2xLcHJaVHJPc2RtdFVqZU1JME1kbF81VkM0cXlRa3ptaEtqM1BqSVduYm9SRXZGc1gtOFBiZ3JWQ1dVdHhfS3VUTllDUC1xSUVWQnA3NWFKdVR3TGhRYy1NeEpQZGlYUUFKRExoWVNFdGlJVWFSc25fSGlINWpGU0s2MVR6VktpX0VDZHlxdEJnV3c0UmdBYlBR?oc=5",
@@ -18,25 +95,11 @@
    "imagen": "https://media.tycsports.com/files/2024/11/07/784697/ecuador-_1440x810_wmk.webp"
   },
   {
-   "titulo": "Armada de Ecuador intensifica búsqueda de 14 tripulantes desaparecidos tras naufragio de pesquero en el Pacífico",
-   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRUZMeDVTOXlIbmcwREVVNTREM0p4WHFWWTQxZWtxT2w2TmE4OGJMUmtQZmVQQkVQaklhZ3R2MEIyMTJldGdNZ1dXeURObkdRZEpnZnI3NDdBZlhlNUhrR0llNGVINGdaT2IwaElMZ0JWZTN5SXJSQW5lNk4ta003dXo0S0Nadm9XSmJZMmZIUTB5MkQxVGJiaGhZSTdHUjhKbkRKWEJLM0kwbjhJcFBsNGhGVmpQYWJ1QXh2ZXZZek5RNXdJWGcxZlJ6MEVOSEF6akFsajlFZ2JhcXpiVjJz?oc=5",
-   "medio": "Diario del Norte",
-   "fecha": "2026-10-17T21:21:07+00:00",
-   "imagen": "https://diariodelnorte.net/wp-content/uploads/2026/10/Portada-Diario-del-Norte-22-1-1200x630.jpg"
-  },
-  {
    "titulo": "Lluvias dejan un fallecido y 21.307 personas afectadas en Ecuador",
    "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTTBxWGxWandRZzJLRVlnRzk2aDA5WVlqS0FhQkhJM2ZXOE02MmplMkt1cXZXZmFEWDdkb0gxUTAyQWlXMTR3OEo5blUyUXVTZ0M2eW83Y1BEZmo1NExSRFRoMkhxaGd1d0MxS2hNVlZZNWxTM3JMQkpYT3FnTUZsMjVPSXVaZVlpd2ROb2tSVkZmdGtuenlUNHlXV09aOXRtdlpSZTFaekdVWDjSAb8BQVVfeXFMTlNoYWtTbFJBdHpqcWFEYUoyLXNKMzNEbThONVdLanNidVE1N2hmRHpSMmV4NmRfaVFGczVlVHJNTVpDdUtzbjR6eWNnMC1rZzBuQ2I1Sm94N3pWbEItMFlyTXM2dHMyT3ZKVzFWYnZ4Nlo4X2JLdnZMc0Y0Wm00WkZDRFFDTk1HRnl0T2V5RlhCOU40cVM1SWw4cmRyNWNfbGYxOUpqdGVGYlBoWXZZQkloT1p3X0lQNEV0NkpOMlE?oc=5",
    "medio": "El Universo",
    "fecha": "2026-10-17T21:00:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/F7B6XWFWRJCWTJMLVOTXQEFHOI.jpg?auth=02e1e5b9c169173b0fa90425a0bd96fcd8d2da50330ea78e532ebbd7719fe2cb&width=1026&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Mushuc Runa vs. Orense en vivo: cómo llegan al partido",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR0Vybk1CYXc3eFRpUkdSVEl0cUtuMVg2SmxyMDZHMzVYejdPN09jaEJUaF8xSXgxTmFVd3lvTkV6VElmUVNZbnUxMmtEQUlmemwwRFVzc3BqLURDWUFqVmhQVG1UcUpycEQ4VE5UV3dDVVc3cVdHLUQwc1c3dVpEQXNtVl9TZFNxNWM1M0RNX21DcHpRQmRGNTk0RzFnQ0JaSDFvb1A0UlVvV0RPNm1kVEs5LWItYnc4?oc=5",
-   "medio": "TyC Sports",
-   "fecha": "2026-10-17T20:30:15+00:00",
-   "imagen": "https://media.tycsports.com/files/2026/10/17/996961/mushuc-runa-vs-orense-en-vivo-como-llegan-al-partido_862x485_wmk.webp"
   },
   {
    "titulo": "Ecuador reanuda el transporte de crudo colombiano por sus oleoductos",
@@ -88,11 +151,11 @@
    "imagen": null
   },
   {
-   "titulo": "China y Ecuador buscan fortalecer su cooperación cultural a través de la Fundación Guayasamín",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVVHdlphNUEyNHRLQXZZYnVYYVk3eFJ2MzNoSzduTmxYb3hTTDRlaEN1TTZqS0RwMEpRazRPcUwzYnQ2NkJZc2RNb3h1dGlMSVlBUndHMklROVktZFJyQnBweHg2bWIzcFEzUU9tVjF2S1lWRW5kdVVkV2FidVFxWkwzemNHdUNGSzE0VjhPWm40a2t2RDUwOWo0UWJrb1NhWmdTUDR6bDZaUjBkMzROSVZiVV9JVm9J?oc=5",
-   "medio": "Confirmado.net",
-   "fecha": "2026-10-17T18:59:53+00:00",
-   "imagen": "https://confirmado.net/wp-content/uploads/2026/10/fg_embajada_cn.png"
+   "titulo": "Noticiero, sábado 17 de octubre del 2026 | 24 Horas | Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFBiSXpvTHNUTk9PM2I5V0RyOXplNHo1Z0Z2dVlxeXNiTmFnNXJYeXQtcndCUkZjbzItNWdCVnFjVHFGWHlNUk1IOE41Y0o4QU41enRPQmdNS1VIYWFoMWlIWUFmbzFLWElGNDlMVVN2ZldUT1l6b3RIU1JMSWFha083a3hSQ0c4WUJPQ2ZCU0NmVXF0aHR4SW5uMUhzOWVVX0dHNU5NMHZGZktVb3BPNVlNTQ?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-10-17T18:56:16+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/10/17/6ad3c4b866e03.png"
   },
   {
    "titulo": "Sorpresa: Marcelo Gallardo tendrá estos nuevos convocados en la Selección de Ecuador",
@@ -130,15 +193,8 @@
    "imagen": "https://e01-phantom-elmundo.uecdn.es/09d099446f637fe60e79040b4f64119f/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/17/17922588453908.jpg"
   },
   {
-   "titulo": "Colombia reanuda exportación de energía eléctrica a Ecuador tras acuerdo bilateral y crisis por sequía",
-   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTl1c3Bhbm1qRnF5Z2xXS3ViTFF2WS14RkVUVjBYek5XSlBKSDhLTmhFMlZmUm5WdGNnOEt1TEZHSDVfb2VlZWxMbXJnVnRHNTlUeE9YODBZMWs4ZE8wTWYzV1VfZ1QtWk04Z3FNZDU4ZEpOSTN1T28waXI1dnBOd25DWWNRWG5va0dOWmtVMXJ1aGc4cFlra09ZcHhOUklkZU9RLWlBdHBHU1ZWZDhqVUJVaHNVUEZVMXJHd3A3d0NZMWvSAcgBQVVfeXFMTXRDN2FVNXBqY1c0S1ZUbFBSODlXS01pMzNaeEJDaDRfVU5mX0Y1aWVWVjFuUHM4NlpPYWt6eHdvWExlX19HbGt5LWtiYXZTZC1kUWRGRlBfRXBkSGpDZ1VQdVdxbFRRMGVfOHMzS1VQRlhiRFIxSldOQnRiQlVDREMySFdnMGo3bnR1dUowaWxGZ090NHJ5c0NHTE5DRC1GVDJwejZDSTZtVDhlZHBGYjNiekpWRDBKb3hodERVZE1WX09GVkcxbzI?oc=5",
-   "medio": "Pulzo",
-   "fecha": "2026-10-17T17:41:03+00:00",
-   "imagen": "https://hermes-files.pulzo2.com/images/8df2fb96-9f8e-48ed-a713-121702b47821.jpg"
-  },
-  {
    "titulo": "Luz para el vecino, penalizaciones en casa: Colombia exporta energía a Ecuador pese a cobros adicionales a usuarios",
-   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTHNxMXVNZVJfUWoyaXcyQXQ0Qi1LS0FBOWxWaDBrbVl2dkxzRjZMX1RWby1vMWJzazRUWnBWR0QyWmlZX0dQOHR4bFNHS3dpaWVEWnJxeWIyS3NwZHZiSGk0MVNiZTQ4MGxPaFZTQWtmNU1FQnNvTVdBQW90ajJ6ZUlTb1B0ZkUtOUJVekxTZUFycmdxcDVfS3JxQVB5Q2c2THZtUm1LaDdSZlNUSzV4QW1nTXota2FXR0M0VWJ3M3JKUFM1OUFEZl81R0ZZS3ZoLW9YUnZOLUJRYWlBb0E?oc=5",
+   "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWWl3dTBKVzlYbFF4WmM2MU1NWk5HcTh0VDUtMHZJemhxTW5zWTJ2Wk1pSW1hZkJUMFdPOUxodkpwb0wyN3djeWZJc3NoYUtpQzlQU3gzT05LSks1SHZ4VDBGTW8yTjhGVGhQV2lhNTUyNThVR1NDUS03dW56R0ZzaHpYOW5OVUJDTXJnSThEbnM3LXlxN0tvWDhNNmF6NDRPdHl4Z1BRQmE0dWFuRVpkbHQzdTg0MEdLSDZER1JRdGFVRWpnMmFjZVN2Z2dDanpjaWJhQTl2bFhTS3h2?oc=5",
    "medio": "El Pilón",
    "fecha": "2026-10-17T17:38:13+00:00",
    "imagen": "https://elpilon2024.s3.us-west-2.amazonaws.com/2026/10/Sociedad-2026-10-17T123012.423-1.webp"
@@ -165,6 +221,13 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/5MHFTEALPFDXPO6GSPCOF2ID24.jpeg?auth=b061e094a3cae132e51166cc6c04516b13ac0bbd68e9dca6c9ffec60e8137981&width=1004&height=670&quality=75&smart=true"
   },
   {
+   "titulo": "Los ingresos millonarios que proyecta Ecuador por transportar crudo colombiano",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObFVlTG5xcVlwcm85NWdNbHNhTU9PZ2VYZ2RYZmVkYlF2ZVhsVUNwX29ud012aVV0dWMwOFVTY0ZqNEdKMEdwWnpGZWk2Q3c0RVN3WnVaRDE4UjlnXzFWT0NqbDNTSHVpNHo4ZFhhbjNPdlRjV244RDZIZWJiMXdMMzZGN2xqSG5UcThZZWZJZ2lwaVZPb19HbDFZdGhRSGMtWERnNXlJWXIwWC13am1Yb2FOMlY4VnRZWHpRalJyQ2pxMXdYVnpseTZhVzZ4UQ?oc=5",
+   "medio": "eltelegrafo.com.ec",
+   "fecha": "2026-10-17T16:56:02+00:00",
+   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/a7b673729acd9c9f69da44441eb8b6ea_L.jpg?t=4ad1cd6eca2b"
+  },
+  {
    "titulo": "Ecuador: sector alimentario al borde del colapso operativo por apagones",
    "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHBUSlRDdkNobU1PajFoWUpybE5MV1VkeWNfMVpKVW0xcmM3TlpJSzFKSzB4VGZJMXpZZGNvaE1pOHlHSzA1cncwWFVhaWwweUJWSWREb0V6Y05XOGY0b1pSbVhWbUxCVHhoSE5wYXlncVp0WFhsaVQ5VWZ5eW9lMDMwREdNNHVOR0hDa0lvSVpQLVJFRjZDdFJaNDBfN19xT0NVajhTV0lOQmE1?oc=5",
    "medio": "Últimas Noticias",
@@ -184,13 +247,6 @@
    "medio": "Infobae",
    "fecha": "2026-10-17T16:27:51+00:00",
    "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
-  },
-  {
-   "titulo": "Los ingresos millonarios que proyecta Ecuador por transportar crudo colombiano",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObFVlTG5xcVlwcm85NWdNbHNhTU9PZ2VYZ2RYZmVkYlF2ZVhsVUNwX29ud012aVV0dWMwOFVTY0ZqNEdKMEdwWnpGZWk2Q3c0RVN3WnVaRDE4UjlnXzFWT0NqbDNTSHVpNHo4ZFhhbjNPdlRjV244RDZIZWJiMXdMMzZGN2xqSG5UcThZZWZJZ2lwaVZPb19HbDFZdGhRSGMtWERnNXlJWXIwWC13am1Yb2FOMlY4VnRZWHpRalJyQ2pxMXdYVnpseTZhVzZ4UQ?oc=5",
-   "medio": "eltelegrafo.com.ec",
-   "fecha": "2026-10-17T16:27:23+00:00",
-   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/a7b673729acd9c9f69da44441eb8b6ea_L.jpg?t=4ad1cd6eca2b"
   },
   {
    "titulo": "Intensas lluvias en Ecuador dejan a más de 22 mil personas afectadas Las fuertes lluvias en Ecuador afectaron a 22 mil 374 personas desde el pasado 29 de agosto, cuando se declaró la alerta roja nacional, mientras cuatro ríos permanecen desbordados e",
@@ -214,13 +270,6 @@
    "imagen": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/versus/wp-content/uploads/2026/09/27082600/Gustavito-1024x768.jpg"
   },
   {
-   "titulo": "Cortes de luz en Ecuador afectaron sectores de Quito y Guayaquil este sábado 17 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdnpxVVYxZ3c0QWFvUDJlSjVVMmFqVlVFZ1ZmbUNkelBRUTBncjdRUTJEdXN1VDYtU3JuNjRPaWNia3hFd18wa05fTC1jLTVaZXhOT1ZPRUxjQzBaNnZiWUpRQkUtRUxJMFJRaUhJS1ZGT3NoMDFQbjh1Z29JTnNQa0xSemtTQWZjOVhuSDNJbzlXTlB4WV9yUjVnb2l3U2dWSlFBc1VGUGhhN0tFUFpxdnljWFN3UVJwaTRMN2htMlNoYlFvZkFxYnk1WHVOc0lHM0MtSHVIVQ?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-10-17T14:50:45+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/arreglos-scaled.jpg"
-  },
-  {
    "titulo": "Mantenimientos eléctricos concluyeron en 15 provincias de Ecuador: ¿qué trabajos se realizaron?",
    "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGRVYkJxUmFTeWU4WnNFQ3RSU0dUUFJSbTR4T2hMazBkbC1US2hkZmRST1ZuTkdCRS1WU1prd2ZzYTVMQWU5WEZWajd4ZXpOTGtrZUdUX3NfUERXZ201S0FUUVFya3ItZGtqOTZYSHhXQXowdUVtTEJOSnB4aGhTMGZtWll5OG5SQ1N3Q0l6QzBhZE50YjlUYlBYaDdkMlF4aHp6NnBMcHZ2SE1MVW1FUENVTHFGX0xGRWJDWExEMEtHazF3WDNjYl9saGQ1Tnc?oc=5",
    "medio": "expreso.ec",
@@ -228,24 +277,10 @@
    "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/17/6ad386ba740e5.jpeg"
   },
   {
-   "titulo": "Lluvias en Ecuador: estas son las zonas con mayor riesgo este sábado 17 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVXpsOGdDQV95dDlzUjVuSHF4SnVZZHo1N0l2M0ljVUcxWGR5X3pxam1mOGtMTDV2d1lTREJWVTBQcUpqX2lTb3pXUHd5NVR5V3p5cXVXU2ZOSk1aRVo0OER0MngwYnZjYUNNbkNKTTI5c3RUYl9lcHpTWG5vempYaHRaNGl3a2F5VFZZeGtYdHRIRFEtbG94cUlmd09FRnk5M0Z0RHVJbjRHdzVjVGh1Tl8weGxNMl9zaEE5ZHZUbTR3QW1EU3Fz?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-10-17T14:30:39+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/Lluvias-Ecuador-octubre-2026-EL-COMERCIO-EC.jpg"
-  },
-  {
    "titulo": "Bolivia confirma amistosos frente a Perú y Ecuador en noviembre",
    "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3pTd2RDbDAxRnJQSVJmOHczWGFaOEc1bUN4VlZ6bEY3RzE2eGx4N0lVVEZpb0k4c05LQ3ZCMG82RTNPQ1VpTDdDRjN1ak5IVkN0QTVwSlV6VjJYcjJwNVB5R05SOE5pRTR1aFNwSWU1VlVIam43SWFiY2NpMHQ4X01xSEFzbFJQaUU5WlBzRURXMW0tWkRUckt2UDRsM3I5aW9HRUdFRzJmdw?oc=5",
    "medio": "El Potosí",
    "fecha": "2026-10-17T14:29:50+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Ecuador: INAMHI alerta por lluvias intensas, tormentas y crecida de ríos este 17 y 18 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOFNqODUwR1oxTENCd05jMjl0VTNodGNpZ2EyMjdLVTBDbGxXSGFfbjVUUlNvZ3BiSTFvaThJamdOZjdYZHptblZYRGQ4TDg0Wng1bGlxQk9RRGdQU2FKMkhoemNsWXJ0ODdHVjZvVU5jdFlyZ3lELTluN0FYLW15dURQM05xQUpqUjdFZ0dXQlhlRUZleVQ4dEhoak9ZMjlIc3JPSXlvV3dkQV9mMU5nVEtRNU9PSG1IZGRhbUFvSTFsbUVrTk5NSVdXdVhJUVJHdk1Dd2VFWU9ROWNvakoxcmR3?oc=5",
-   "medio": "Diario La Hora",
-   "fecha": "2026-10-17T14:19:36+00:00",
    "imagen": null
   },
   {
@@ -270,25 +305,11 @@
    "imagen": "https://static.dw.com/image/68853549_6.jpg"
   },
   {
-   "titulo": "Cortes de luz en Ecuador: por esta razón hubo apagones la madrugada del sábado 17 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWi1mT3d3M2phNmJ5ZzFPSlV1cHU1cGppclpqalRiU1VCa3J0cmp2RkM1QkJiUi0wY0VQOVI0Y3VvUHlPeU1FRk8xRXpvS21EMHB4b2lkNlY3NEh4VTBjSlpRR0J3SkR3Y3FoMHN4ZXA5MUdEenFJNlZTbDltb0lIY3NxQTRMU1FrT0syUFNZV1R0YnN0bVoyQWNVemZkaklIYWcwN1o0dVdpZjl6QUFTVndlc0FISGxO0gG-AUFVX3lxTFAtWUtoYi1ZbFpFSWJPdDE2VEVDbEROcjdxZlBpQUZaMFdhakpSWS1Nc0lyNHYwbURzd05SN1lTYjBxM0I5VmlIdzlqNVA5VWs4dkNNTk0yYXBQQlcxX2FnWG1RaGV3azJDVXhSMWpCN1NTOVlPaGF1bGFUVEpwOF9pdkU1TEZHOXpadlF0R2VQSEttOE1YcVd2YnNSRUx2Zy1RVWlvY3dwWXA3bk92bUNnSU1IclBzc2ZLUkVOUEE?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-10-17T12:45:59+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/17/6ad36d3cb9068.png"
-  },
-  {
    "titulo": "¡Ecuador se queda a oscuras! Apagones de hasta 18 horas golpean a varias ciudades",
    "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHhPaGZfc3k0OG4wWWtmTkZRMEdING15MW02SFFvUGxOR3N6ZURaa1pUSmR3ZUNaNHhDODVpc0UzUkJvZEZXd0tUekV6NFdVenF2YzJCVTNQckZkQ2QzWDVzMjQ4TThMMHplbGV6MWlRbDdYbjhIU0wtbmlyZzhWR2RWVUxCZFNMbGpPTWZya3UwdlFqSmJOU3UwaUlOWU1SX1RLZ0ZYRGh2UkppVkxBZl94Nkh0MDlaN3NmZUJEanI?oc=5",
    "medio": "NVI Noticias",
    "fecha": "2026-10-17T10:28:07+00:00",
    "imagen": "http://www.nvinoticias.com/sites/default/files/articulos/2026/Oct/apagones-en-ecuador-dejan-ciudades-oscuras.jpg"
-  },
-  {
-   "titulo": "Bolivia jugará amistosos ante Perú y Ecuador en noviembre",
-   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObDY4U1JrZWc4eF9wRG1jNktlZVc5TlhlbFNXbFlwQ25odW55N05pVWd4bFFBd2lHWTdjWVBkSnh2ZlRXdDVZN09zQ2VMbmNhZmZJN01wZEZEb2JYd2d1dUNkNmZ5eV9HdkVpdWp5d2g3SDk5QnktbEJSUTIwSi1RSDF5UlI4ZTV1cTBEYWpvOFJjVUlJeDdtOHhzc3RwVV95MGc?oc=5",
-   "medio": "El Potosí",
-   "fecha": "2026-10-17T08:53:19+00:00",
-   "imagen": null
   },
   {
    "titulo": "Ecuador rejuvenece en la protesta",
@@ -312,13 +333,6 @@
    "imagen": "https://www.elsaltodiario.com/uploads/fotos/rs600/16a7d7e5/Diego%20Salamea%20es%20un%20crimin%C3%B3logo%20cuencano._general.jpg"
   },
   {
-   "titulo": "Ecuador programa trabajos de \"mantenimiento\" eléctrico este sábado en 15 provincias",
-   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSjlhV1B5aWRiMm90NzlscW4xTkNjWkUxWGZ3dW1HM2hqSENnemVuVUFiS2dkdVZSQjhXSm5XNUZNWTRsaW1yak05dlpwelVaYnJpZGRycjh4UXZYNTBoU2thWXBXUVNtaTh6SUhqMFB3MzNBTWd6TjJrdzVSeWdKaWF1b2lSX1dSdnUzZjVhMXNlU0NVQjcyd3NETWg1TFVxanZXLVF1T29nczdidlVuc0dHQUdJakN6ejd0U0lEcTNUNXJBcENxNVlPYThzSGfSAeoBQVVfeXFMTlhjMXdlVjFidTVKa2QzTjdJaHp4TlplRC1mLUsycVlTdUF2QTBOQ3diOG1XWXRZWXZucEVzQzByUk5jZ3E3dDRQcnR5YTBnN1hOUjBQdmd1Q3E3WGNxMndRYzNFQkg5NC1CaEZFVzJWWGhBTXZ1bC0yVWk1cXdGSFIxYkRPNmxkRzlXSWhsVjNqY0p6V1llVTlJd1NZelgxcDZPM0dLOGgwV2FOa2Y4RWNEdFZ0WEdScDhfdWJETDhFeWJ2QkpSdFFwa184MTcwbDdJTkxtMllMZmdLV1dZa1lGYkpxTzBxRHhR?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-17T03:52:47+00:00",
-   "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
-  },
-  {
    "titulo": "Clima hoy en Cuenca, Ecuador: el pronóstico del tiempo para este sábado 17 octubre de 2026",
    "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWkx2djE5cDREdlI4RmRDU1h3Vng3cEllRUNDSk5fdGc4NDhKR05HeURfNWktbEpwd0FWYXhjZzBtaEhETks3RlFmYUFjZ0k2bERGd0Y0eG9hcG40NEdBMlU5RER0QVR4VjRLYXVlNjFvcjJOUW44ZEozWTI2VDVaUm5RczYwWDlmMmRHc2twenFjdnpLV05uODI2dFMxMGNzd0lFbkZaNnRfMTQ1cGFHX1NEOHhTRlhPZUIxNFFMN0hodTFo0gHKAUFVX3lxTE5oQUt4ancxSmdSNGhTM0xiZURaZ29EdEFRSzh6aFk2UTREX3hrMFVyWUZ2MW15V1dGM2F6c1l4clIxSlZidHRXY2UxUXJqeFltWXdQWHJxRU9nSlZ1SU1hSmNSQkpUQl84RUdaeVcwYlRHMS1LdkE4V0xVOWJkcktMQUxSUEE3MkR1a2FYVVoxR3AxSXdnc0lVaHdqMXlrVFdWWW5kS1BfVnNXekdZa0sxTVhlRWh2OTMyUDM1MGZSTmhrbzRZVEpQaHc?oc=5",
    "medio": "Clarin.com",
@@ -333,13 +347,6 @@
    "imagen": "https://www.clarin.com/img/2025/04/30/0tmlBHI7p_2000x1500__1.jpg"
   },
   {
-   "titulo": "Clima hoy en Islas Galápagos, Ecuador: el pronóstico del tiempo para este sábado 17 octubre de 2026",
-   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcVdEdmFzOXNUTUtqVzgtM1Z2bHdNUW5ZSlZXNmxzQzFrWnNXVkZMQ0xtWVRmcGdESXZmZWZubXR1S1EzdlFnTlNFbmJBek5UWVNKS1luSTRkbUFGXzJKWlEzZmp1TEdYUG5aTVZONzQ1akFXYW5CS2VDNFlHVzJSRWhfZUt2ZS1BM3BkLVJ4T3FaNFhEN09sTHMwbzMwS1ozc2ozMWt4WERickN2dGFmakh6MjVtZzFpaHdLVjNnbVA2SUxDWHl2QmRvcW9xNjVG0gHWAUFVX3lxTE5ubm9COURCdFNLUF8yQWFCXzR5LW1wMDMtUjJxX0I4NF91Mi0zcERTTWxGUzRqZVE1UFBfZTZtY2VhZ3JIRGNaU2UxRkt3MG04eUtvRVd2a0lQYVZSQWg2TmNZRXpjdmRIVExVQkpKSE5fYTJNWkFpcXE5RWVwbnIwOFIyZEZJT19pMGU0U3VJRFZTM3FtZF9zTklYVHJmb0RQYUhXeVdqdDIxUXlGQnYtemJ0Q0JXTUdUY05tb0ppRTZ6SF9EbHFqSXM5RGxubTZ3OHJyYUE?oc=5",
-   "medio": "Clarin.com",
-   "fecha": "2026-10-17T03:31:40+00:00",
-   "imagen": "https://www.clarin.com/img/2025/04/30/rypcttiZZ_2000x1500__1.jpg"
-  },
-  {
    "titulo": "Horarios de mantenimiento eléctrico en Manabí este sábado 17 de octubre",
    "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0RXd2VtQnFodnktWVY4S2hhTERLUkxXTUczXzlURWppUzF6clFCa0pyN1c4VjFOOGhkX1JZdkJEbExMRlhGZmRGdzF3Q2FUZ29KOWhjMVEyNmNjSTJFZzdMUXlZdjhrVTlXNHJFVGVobVkzNkNlaWNDTm1kVHU5NHc0c0kwNzZCQUNjS0Jlc05lVXFEM0Q4YkluQVJJT2I1WGdYVkNiZEJ4MWViSlNVMDFkZVJiUGNVbGxoSDVQONIB0wFBVV95cUxNazVJZDZnUW1VYk8xV0JKZHV3NE9ZbFZ4eFBObXk3aFkxWkY4UDJBQ2dWSEtWX1JONmdsVU5vTWd3WUZlVHZ2NFJTOHI3X3IxTFVBSGVVcUs1eXVlQTFGb2RFLXNKX19YeTZIeVhObVN1NkhJamZvYU45ZmcxcWd2OGNQbGIyNkRfUHpRckhRQ2FzSGJsZnd6X2t0cnQ0MVgyN3hQWGpEcm0zcUZ6cmpqVmFzSk5TWW9HTmtVRXF6akVMWFNIR1VKenU0SWZpTVQxQkc0?oc=5",
    "medio": "El Universo",
@@ -351,6 +358,13 @@
    "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGtERVQ1NDhkR2lWN1pGYmRzbjJud0hiclJONXY2b0dkMHZLRG84VE5jM3gwQWdvSmxkcGtzczJFLTNIbU1aSnh0cEhaSEF2eDFud2NsOUUyRVlqRFlUSlJKelA2UGo5N1J4MWd5WjRuZTBoLXdSR0xjM01qb2RGR1BwNkNOb3JXOGtLOTJVMFBQd005aGFncnRZSGZLVUVIeTljWGpwdw?oc=5",
    "medio": "Fuerza Aeroespacial Colombiana",
    "fecha": "2026-10-17T02:47:32+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Colombia reanuda despacho de electricidad a Ecuador en medio de déficit energético",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOREtFdTZnNVdVQ01La3JoYlVkMWZUSW5vTERNRjNiWEY3OURwOVgxbGI4NkVGLWdKb19aUk55MWFtMk9ONnpibGR2MHVjWFc2dEFuYVpWRUVWTUhITWNQdjFqdWZic3F4Qm02QVBaZHI3N1JFazZhMTEwRUYwdE1ER1BLdWtxSWtIRWVGUEZaWi1tOVZPN2ZmNlE0Nlh1ZTRiOS00MFJuZ1Q?oc=5",
+   "medio": "AP News",
+   "fecha": "2026-10-17T02:16:00+00:00",
    "imagen": null
   },
   {
@@ -375,10 +389,10 @@
    "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/energia.jpg"
   },
   {
-   "titulo": "Cortes de luz por mantenimiento eléctrico este 17 de octubre en 15 provincias del Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORG1rUGFGb0dPQkFHVmRVb3d5RlJoU2VWWVFnRUQ2cVRUbVROWmRsMXpIdF9qcjFBdVBLbXpWUVpOSkFTZ3FERGJhR3pqRGZCdndUR1I0clFGeUZhcUhWaE5tN09XNXJtdDFnemZtT2I1RlIyZmFod2RaUk1MSkFXajFTd0g5OTktRVB2REZhZFlGRXk0RHd5MDc3UExnWmlfcUpSSE8zSDMzX3NpaDNWV0lhQ2lJUnJ2eFA0QVJSbW92TG51MzA4Q3dwYWZIM1Z2MWxtdXZKcktXNE0?oc=5",
-   "medio": "Diario La Hora",
-   "fecha": "2026-10-17T01:18:47+00:00",
+   "titulo": "Cortes de luz este sábado 17 de octubre en sectores de 15 provincias de Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakppSm5XckdxTkxHVHU3Mm4yQ0RCckFXNF83Wm1QRVJRX29IN2ZMd1dMLXV2djZjaU9pQjhablpzajRoTzVMd0h1YUNmQ2g0MW8yNVpsT1hodUVLRUs0dTZ5NXhFLUpCbVhjYy02XzJvT3JlNEdTeXJ0TjBnVTBjVEtJUVQyMklqb0RyVFNfLW0tNVlTOUF2RGVUTHNGN08xcjVEdW96cGdoWGJydk5pZlVYQ0dWUWxJczlJd21R0gHDAUFVX3lxTE9vd1NyV09RRldGRWNCMFRyWkVPY2JpWkdfUXc3d0ZZSGg2dDV6YktIUkZ3SXE2UXVtdFhaRG9tc0U2a1VsQmhjRy1paVFvQzdMNDUySVRQZmVyZTFIUk5GeTZwc3ZxN1g0Q2twRHI2bVZaTERUbGJjZkxiWXVyUjFmT1JCQjFET0dpay0yZnc2WmJLQ2M4b0NidGwwZFJjNXpBRm84YXZHdlE2QWdUVE5NZmQyYkZPTVNZVi0zaV8yNFV0aw?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-10-17T01:17:17+00:00",
    "imagen": null
   },
   {
@@ -408,20 +422,6 @@
    "medio": "Noticias Caracol",
    "fecha": "2026-10-17T00:44:53+00:00",
    "imagen": "https://caracoltv.brightspotcdn.com/dims4/default/7e0b5eb/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F5a%2F6e%2Fc2c3c8454ede92a075a354dd212c%2Fnoboa-y-abelardo.jpg"
-  },
-  {
-   "titulo": "Corte de Ecuador exige aval legislativo para acuerdo con EEUU",
-   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWVsbHBwNGZIT2pOdDBSYzFXaFZKZlUteEh2dkxNVHY1d05rYjFpRFpvQmRJTG9VZ3hId2tYNDRmbGFOSHktOVVqRmt3UlJJZVpKTkY5NndvTkFyZ1E1YmhOdjR6a0VIbXBHUmcxSVRkN2M0QTRRcy1sZXVVNUN3bXdaOWtuZXBBRkRtOHRSc2xCcVUyUnZraXpOUzNuUmdhNUE0LQ?oc=5",
-   "medio": "Prensa Latina",
-   "fecha": "2026-10-16T23:25:00+00:00",
-   "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2025/08/ecuador-Corte-Constitucional-1.jpg"
-  },
-  {
-   "titulo": "Qué hace tan diferente el paso de las estaciones cerca del ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUTE4X3JRUjZwcFNZNTNOVE9NeDJYN3luY1o5QjJmdUNaUzdIUUZIVDZsRnVBbTJpaHZ3dUVXb1dUekpudWlXTHJIVFNuX1RVS2JSTGl5QXV1bVBLMmtPMmd1ODBnaEpVMzY1MEZpZVZSai1HbnJEa1dvMHpUemJ1WVlZYy1jOUg5ODhLekpmRnhoU1JQSk1uM0xNQnBnMWpVbVZWdEhJcDB0Z1RUdXhDdGRqOUVVcW_SAdIBQVVfeXFMUFNCU2tGOTI5UTRTUnd5RndJLTFZeFZEbGhIaWFtQzhuX21xM3pXMVFOQnNHVXJVUDlvS2FMQUFLVmRkYW5BSDhfcWJudEtjelhLNVp1S3JfbDVSYTRQSlJ2YU1uaVlWYW1raHBTVGtsQXFvd3ZFMXEyOFI5dkZnRnZQZFAwaGYxbG5TOU45LWdfWUotSzl0ZGwyWjdrWHh1X1VLcjFPX3dMdV9Tdlc4Vkx4MUc0VWpfSU9la1NmUEdkSFpVZmgzYkZpMFloeTRySHNR?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-16T22:50:00+00:00",
-   "imagen": "https://www.infobae.com/resizer/v2/GHGITXZDTZDZBMEU2FESVB7LEY.png?auth=087af186b920d41ef87c15ed76cff69c1cd36189c5b09a1a7bb76ee4ee97c78f&smart=true&width=1024&height=512&quality=85"
   }
  ]
 }
