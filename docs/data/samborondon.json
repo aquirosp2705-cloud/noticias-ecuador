@@ -1,8 +1,15 @@
 {
  "zona": "samborondon",
  "nombre": "Samborondón",
- "actualizado": "2026-10-18T06:41:51+00:00",
+ "actualizado": "2026-10-18T11:48:37+00:00",
  "noticias": [
+  {
+   "titulo": "Entre galopes y juegos: así se vive un domingo en el hipódromo de Samborondón",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc25sbVo2SjFkSHJFeHNhaFY0OXg2VE1mM1JLaHlJS1pZUjJaZ25KYlR4ZkdpUHRpaldHNUZlcEtYY2lONkJ1RlRNMlNJZXdQVVl3OENrQ01hSE51Ynp5UmVhZVlJdU1MbE03cDBGbnVpOU5Qc3psUFpXcUJfNWtPVFAwZHBnVlFzc3ZWMWV3OUtDT3NMb1ZZMjJuVllYZlU?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-18T10:00:00+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/17/6ad44d52a3b22.jpeg"
+  },
   {
    "titulo": "Bagels y café de especialidad: el food truck que combina sabor y practicidad en Samborondón",
    "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeG4xU3ZyMzRZMFdhQm9uUE9XSmxxUXkxcmE2SUpvR2JYMllFODl3Ukg0NWMwSWd6S0R5Zlp3OTc5V3hRQ0RubHhiZ0ZOQ2VHdDBTOVA2R3BGb1YyMWdFN1cyV0E1eXB2WFFtdTJSWnlxaUVlX2tCY3hmMWNuUjNPWTRHVGRKNlliN2NHTVIwRGdMUEx5UW1KOFFwNUJaakRVeEs3R29XMGhESGpSeVByZ1NhZ3dOLWtsNlE?oc=5",
@@ -67,13 +74,6 @@
    "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad292456610f.r_d.640-428-9375.jpeg"
   },
   {
-   "titulo": "Torneo intercantonal de fútbol LGBTI reunirá a equipos de 10 ciudades en Samborondón",
-   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGI0MkViRHRFbHR3a2hQNUs1QlhuamZiSzlsSEZub3FnWXZKb1A4V1RHVWlWcVppaUJnNGpjTkxwbDJXWVhFSmRmT0gwMFRhWGczRG0tVTVJdUczU1RieUN4OUozaVBEMno3TFoxelB5MFREUlRNVGdiejcwcXR4aVFvNlBuVGlkaTdKckI0Zl9ESUxTbEFzelJfRlVhWV90akhtNXFWT0RxU29ydGczWEo4Nlk5VWJzOWc?oc=5",
-   "medio": "expreso.ec",
-   "fecha": "2026-10-16T19:26:54+00:00",
-   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad278509b2d5.r_d.664-728-9375.jpeg"
-  },
-  {
    "titulo": "Secuestro en Samborondón: Sujetos se llevan a un hombre y su hijo de urbanización",
    "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZjA1ckhaZ1FlcFhiTHoxUXp0UFRKTGhqbGxxWXNFV2tqZXU0MWJ5Z3hiVUNZcDRNYmVlYktDQXVudVNoWG5lY0dVZkNhM1dzSTJwOFVVU01xY2VlZDJHUEl0bUdOZll2TEFaUTI5bl81MGZmTjQzS2ZnRkdOUGlWSmNDcmNoUU12OW5qZzFVdWpPNmVvMXFFZFN2Mm5FcFZwZkd5dE5Xa0M3Zw?oc=5",
    "medio": "expreso.ec",
@@ -100,6 +100,13 @@
    "medio": "expreso.ec",
    "fecha": "2026-10-14T17:31:05+00:00",
    "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/14/6acfbc366d1a0.jpeg"
+  },
+  {
+   "titulo": "Chats encriptados, 40 toneladas de droga y un entramado empresarial: las pistas con las que la Fiscalía reconstruye la presunta red de narco desmantelada en Samborondón",
+   "enlace": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOb1NVdGliaVVxc2wycGRaQUJzT2pZbE1KUkpJSjZ6LXBPMUtmeFVVbXNJQnpjXzJrVEpmR3piZlVabk1wMWtBLWhkRVN1WjBiNGlZaGYzWDZzVkc1ZlVSSV9sLU1EZmJuRFRBaWx5Q3Zwd0ZCRTcyMWRUM3huaUVVV083RFAzYVhMVzd6M1dwd0hTUEdmMDNtV3dPUVhnYlRqazZjRjhzSmRmbkEyOEt2Z2JaYzRqU1J4SGFIb0VBLVg3dVBIOG5UWHA5cGZxckRzb3ZIX3dickdxc2ctMzRidTZBS3luQWxQZEZHN0xwUlkzYzZ5TEZHWlJsbWVtM3FJb2FLV05zcjhINV9FdUkwbHZTSDZaRzFkc1ljR3hSX2wxWTZRMzRER1lPZXIzcC00UmVxRXBRQzdUVTZLS2Vn0gHTAkFVX3lxTE9FSEFJdlpjLS1VVVJHX1dnZkFGdG5BcEdrVEpXekhYQlBEYnd0MmdDWTkwSGRIYmR4QjlfajUwQ2FnSW1sbFo0R0I3MExacGlrNm1qQzZQMXBMOFp5ZEdCUHpmalgyd3RuZnQ4UkozQ0VXQkg5ZTFQQ3ZXZFRtQVlhdjdIMTdzdWlWenRpdGRNQ3NENEtXR0ZQazFQQWh3Sm9JdS1nTFBUb3duMWJRZktibXNPSlE3QnNlbjlnTm1SUEtudGVSMWthcl94YmlsRXRVZGJoZEp0OWozem9IX2MwcXRWSjVJb3prQ3l4Ullyc1lEcXktNzBIZVFsYkx4SE1MRm1TcUNkXzk5VUFoeWU0NmZSbGhZN3piZU1BZkxPekdfckpzRG5uTHU5X0llRUdhZi16OVNBeWtQVXpWNW9iNW9rOHdpd283d3lRc0xXY21uYw?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-14T15:00:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/O7QY75GUUBDYJAR7YTKEJFUNEY.JPG?auth=26e5aa7f4c885f960e8f7982cfaea1b685a78191adf900987b83bcb50e100e44&width=1190&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Cortes de luz en Guayaquil y otras ciudades este 14 de octubre: estos sectores reportaron interrupciones",
@@ -144,13 +151,6 @@
    "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/704fe5aab51a068fe2076e259ec87fb5_L.jpg?t=de8e6a6e00a5"
   },
   {
-   "titulo": "Corte de luz en Guayas duró casi tres horas este lunes 12 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenhsdmxnY0J4bmhFSFRNeDBhdmN0OHVZX0ZoaGhYVDUwa29aS0dtbnJ3OC1rZkRtV2FNNmhtdnZxUEIwak9ZX21EclNfOVhlVDk0bHpiNTRMTHM4N3ZiOGxnRHFfSnR0MUpZTTE1RmtoRUNxM2QwNnNzOHdFY1pyVmh3REY0OHc1NVg4clFVZjRzTVZaeVh1UUVNUVJTUXlVYjFKSFdkaTNGMThlMEFxZVNINzM2LTJz?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-10-12T18:57:04+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/HUSUqJLXMAEFJaI.jpg"
-  },
-  {
    "titulo": "Cortes de luz afectan a Samborondón, Daule y otros cantones de Guayas tras el feriado",
    "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbWpWTkliQmNRdGNWQlNVa25JVmZGbEMwdzNIWllOUFJ3bVY5YnR0ZmNPVDhRbHF6YTFnWnZqNG1jSVZZeGFERnZ2Z0tpV0hjeWNJT053WUx0LWFLQU5Pdy1EcUJ0LTVkVGtUa2YwUW8wNVdqUjdaRVZGVFg3RHBiSEhaLXZDZUl4TVE1dEhvZWN0YTNuazlPc2g0TmV4Y0h2UnFjWUJONTRZdU84S1FiOQ?oc=5",
    "medio": "expreso.ec",
@@ -177,13 +177,6 @@
    "medio": "Ecuavisa",
    "fecha": "2026-10-12T17:01:27+00:00",
    "imagen": "https://assets.ecuavisa.com/images-formats/originalxauto/t_2-p_9-q_100-ar_191-100-fpx_535-fpy_586/jpg/2026/10/12/ceneace_de-1-.jpg"
-  },
-  {
-   "titulo": "Dos sismos de magnitud 3,6 y 4,2 se registraron cerca de Samborondón y Muisne el 9 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORl9UR1lvTk94UVJGOVFYUmhQejlQeGx3Z1dKX0dyQmNTNU1NRnhNUzM0TXVMR3VvaXBIMEhzMjhMMkViekZiWDNxU0s5NkhTY25wQkRfUzBlOXk2ME9Mb2Z0T21tcGZVdk80andxOW13cjVKTFl4SHRqMkpoR0JEMWludkxseGp3MFlyV0hWTnFBQlVhM2FNTXljONIBoAFBVV95cUxPdmJGYW45VzZXaGc5WUZScFpkMkRkYk9EaVN2TDlhQWROMTM0T0pkVjBIR25mWUtwR0REOHlEMk4ybVlNZGY3ZDd4QXdveVZ3OVVtVGZuNzlFamIyMVZtRV90aGVuQV92Z3RyVXRiR2xmVDk1U0l2ZlRRS0VWazRUSGU0a2FVVjJHeXdOYlZGcG8tM2huQjhwY2lkNHhQWi1I?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-10-11T14:59:49+00:00",
-   "imagen": null
   },
   {
    "titulo": "Nueve policías fueron detenidos por caso de concusión en Samborondón",
@@ -347,6 +340,13 @@
    "imagen": "https://assets.ecuavisa.com/images-formats/originalxauto/t_2-p_9-q_100-ar_191-100-fpx_782-fpy_499/jpg/2026/09/25/really_fast_clip0_441765_ecuavisa_1790333510187-1790333589706_-_frame_at_0m16s.jpg"
   },
   {
+   "titulo": "Tropas estadounidenses y Policía Nacional ejecutan allanamientos en Samborondón y desarticulan presunta red vinculada al CJNG",
+   "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUk9CVm95WjJicVpjVnVHaWNsSzR6VThUWUhHNjM5TldqR2tUcUZBTFZ2VmprQ0tRM2VmZ0dzeDlCMmR0SXg0N2hTakNUWjhmWEQ3bjRJUV9oOWlKbnkzN1otYk9DSnZPMHdKOHNnTE1MWXpSMDlBV1F5RGxNckZELWsybGZpcU1pZHEzWFJNS3E4dXRNZEQyZC11Rmx0X19ld2VGdjJyY3ZXdWloVTM2QV9zM1R2MVhyRlJMOHVIUXhsRzZFaXpjQ1Zsd3NKM09IZjFqNTIyMkN6SkJPdG5lRTNxOUpEZUF0LVJaejROV1FITHdwRGNWaTdFOGVyZUh4TEZKVVd3VXXSAZwCQVVfeXFMTUZpODk4c2ZlZF9SNFZJX09PdlBKVzVjQTM1UGQyMGx3UmpXazl1dk1qZFNueVd0WFZXN25iUHFEcjI5X0V5YXFpaVZtSEFBVnFldXZqX25DSEZLRnA0WWE3VXl6eXhOMjVmb3BWN1VhbTBHSWdzQ1FjWFhGNl9uX1BZeGthQVpBVUYyZ25TV1hHMlhBQUNPc1R2OG5EM2lzQ1ZhTUtZT2FqRkRHRm15WVhIaUJNRURIZk5oY2ZiMGhJSkNPcEoyLUxJXy1ERDJ5S3duaE9fSUlmNTk5RHRXMGM4VWREd3RZRkVoZnUyREUzY0x0X1Q5QUFZS2xJRE1KYUttLXBrNU1aNjJGVENZUmtRV3ZjZ2xlbFhRRTE?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-09-24T07:00:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/Z2EOKX37PNHERLD53SHYT5XBNE.jpeg?auth=7e9f55faddf35c4b7c1bc8494b66a4e62ed4f5f7328bfe3f0ffddfea0cf0d4b4&width=843&height=670&quality=75&smart=true"
+  },
+  {
    "titulo": "Allanamientos en Samborondón y militares de Estados Unidos: así fue el operativo contra una estructura presuntamente vinculada al CJNG que movió siete toneladas de droga",
    "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdlFJYXZ2bmxCcnNhUkdGX1lCR3hsSk1tVGRhZjlEN2c1S25fbTdTaWs1b25GTkVfbVVEOEtocHhhQkxpRWpJXy11QThPSmc0Z0Zrb0JrZFhOUFQ3TVUzUkpCT3FQNkZWcjBjdDFxY0QwUllrVGRxaVBZc2tHVDdzcEc0QU8xdWFMeW1DY3BHTXVFbTd4YTM2Sk04YWE2MTFlRUpzeDJEb29vYW5OV0xuRk5jd2NON3RWUXFVcHMxbWU?oc=5",
    "medio": "Primicias",
@@ -417,11 +417,11 @@
    "imagen": "https://assets.ecuavisa.com/images-formats/originalxauto/t_2-p_9-q_100-ar_191-100-fpx_800-fpy_600/jpeg/2026/09/10/whatsapp_image_2026-09-10_at_10_37_06_am.jpeg"
   },
   {
-   "titulo": "El caso Mónica Martinich devela los problemas de la Vía a Samborondón: cinco años de muertes anunciadas",
-   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSk9ZQm1nMDR4S05TQ2JZaDRkTnpLMTd4UDctNFZkaE5jMHpDbExERW82WTdFUnRNbFJsVkhyX1Nrd3BxeTN1eDdPdzlVaHMyVEVYOGVoQ0lRRDgzUGJYNDRZOHFYSUhaZkMyTHozM1RIaFJ1bUd3OVMtRjNKVzFxMEFaakNqSm9mdE9YcE9uYVJhY2JYN2VDZ1dnMElFVWN2Rk9qVVoySC1jb3pheUNxTDJub1U4VUd0SjlENnFhazdFZmIxNlBzMnhxbDFBeE83TnfSAdcBQVVfeXFMT3cta3pBZ0hxeGQzbUpoa3d3WFJ2V0w4TlVXMEtJeHQtbnlOYVlNR3Jwa1MwQ2tsNGRVQUJPQUoydnJJYmp3bF9tQzZfaEhFanlEczVkTGw4QnMzeTZaaTJSRmN4NHY1RUNKUF92NnJieENiNjlVZ09aZzFaTElYanpGTTBWMmszTUpJa3VSU2c2YTFwSnpRTjlPQUJOcHEzMVVvaFBRU3g4TnZmV0JOQlNQc2tpbzJhUXpOemFSeXdra012bnlGcHlqbU16WkloLXFGbnpvb0k?oc=5",
-   "medio": "Vistazo",
-   "fecha": "2026-09-07T07:00:00+00:00",
-   "imagen": "https://www.vistazo.com/binrepository/1148x601/304c0/600d600/none/12727/CDEQ/caso-monica-martinich-via-samborondon-27341_2734147_20260907152115.jpg"
+   "titulo": "Samborondón: ¿cómo puede el cantón más caro del país tener problemas de agua, parques y movilidad?",
+   "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTWVvRUs3RHJHT1k1MU96RE9ZVlNpeGJreGJVeGloVXNyaVg3SUJBeUVjNnJ3ZU04LTRUVXBPaWhQcmZRZW11Qm5aNURxcWFSSDRaWlJxTF9HZTI1T2dpS1BXU1FJT0JleXNyZi1ncTVWUVJXV1F4RU5acnprS0JyRmdQTUlGQjh5b05lVGxlMlVDS0NzTlNSVW9uM2JFT1RONWdZU01iay0xNG5JeWVjTUhLeHJvWWhtR0sxbkpFUlktRS1UXzBwdlpuSmcyZkc5WmxKcGpVU05tYVNfY2FHVnhEaw?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-09-08T07:00:00+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/09/07/6a9f2c1600ac7.png"
   }
  ]
 }
