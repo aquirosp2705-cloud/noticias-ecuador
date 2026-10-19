@@ -1,28 +1,413 @@
 {
  "zona": "guayaquil",
  "nombre": "Guayaquil",
- "actualizado": "2026-10-19T08:08:33+00:00",
+ "actualizado": "2026-10-19T15:55:36+00:00",
  "noticias": [
   {
-   "titulo": "Padre Patricio Sánchez muere tras accidente en el sur de Guayaquil: Los datos no conocidos",
-   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUml2WF9hekQ2YXh1bFE5aTk5aXM1WUZBd3c5cFpuTXdSdGdJSUZMR2NWY1ZGZldQd3BKS2p3c2VYRDVtTk5sR2NLaGdjcW9Ga2xhTUlYZU9IQnhRYTRzM1BzRmFlMWFkNEZ5ODlseTFTX2JYNG1mSThfV3NNU2hkY3R4VDFRLVJEWDA4REdMUnpHcFdPSGM4cnpBdm5PVlZvd2diaEx3cW5jTzhvbVBpYUdsLVcydjUtdkFwcEFab9IBxAFBVV95cUxOcXBNdG5ldVJyRlZuN3cyYThTRklKc1BHbGxhWk04TlNXWEtWYUhPdlpZU2JsWnpvQ01DREUtREFrbHBPc09CWHZIaHduQzNuR2VKSFB3Zmt5T1FlZ2hOd2s3OV9YbkpUSkpmWWlJSWgwTFNsREw4UlFIU1M5TEZpanROUnUyS1U4VVNZZVRZa1VSeXZXOHVadGpsZ2dobHEzRTM4T3dqWks0Qld3S3pHZG1CNE9YMzI3c01UTVZEbUFTeFdz?oc=5",
+   "titulo": "Municipio de Guayaquil pide no salir de casa por inundaciones este 19 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM0FtYm04cXg5LUp2SEtsLXB6NzNJRU1ZSGZUXzFhU0dzZXlpVnE0NVUyYWMyQjlycmZtLWhSWkFSOUJ3eDdXRlBWWjRtOXd3YU9jQTdmZ3lDS0V5WXlpbktScUdEb3Q2NXpMMVFvdEQ1RDMtdWJmZnZpSjgydTVMUGxnS1NtZWhfMmFTbVl4SVUyckRzcUdTdzVnY21YeVZxY2x2TElwNW5Jb0pncEEwWFNRbk40XzhDSkFRdGx4VUxFcXJDX1Ywckhyd19nUQ?oc=5",
+   "medio": "Metro Ecuador",
+   "fecha": "2026-10-19T15:49:55+00:00",
+   "imagen": "https://www.metroecuador.com.ec/resizer/v2/5XAIT2M27NDJTAAKKBYKMDJKPU.jpg?smart=true&auth=c55d48428a39faa1cc86eaca06e988a6dc298dac5f746b1b6361e8a8def4cb82&width=1200&height=630"
+  },
+  {
+   "titulo": "Sacerdote que murió durante una misa en Guayaquil será sepultado en Cuenca",
+   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWFsV08tbTVCSFpJMl94cmxBbjB2bDdZUFp1ZElaYkZlaEJuUDU3ZHZRUm9rbVEzWFFFaVRRNUNfWUdmMUkzTEJ2RV9fZWZ1NlJzUWRjRHJ4T3gzMnM2ME1PeG5NUWdMS0x0djBEckxHUDJBcHFpWjRva1hCQm1LZWhLVnpkRXV1UVd6akhFNDFzVGxWWWhwc29kUVI?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-10-19T15:49:41+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/cura-guayaquil-1.jpg"
+  },
+  {
+   "titulo": "Lluvia en Guayaquil: Esperar un bus le tomó más de media hora a los pasajeros",
+   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3B5MF82cGdVYndid2JhVG5fczZ3ZWlKQVNsdE5uVXdaTngtODhtUlk2SDM2bmduby1jeEswdTNGcjhUSzdqWTVQd3RKZFJpanRXYmZNaWQyd19Ca3A4RFlxNW9HcFU0ODZVYUJqeGIyNEY1RVAxNVEwMDNMM3cxUzhMZ2g0T0xHVzNWZXpKVkNBb1R3UTczYjh4VDVwcWhROG9nUg?oc=5",
+   "medio": "www.expreso.ec",
+   "fecha": "2026-10-19T15:47:57+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad636ed60337.png"
+  },
+  {
+   "titulo": "Más de 50 sectores inundados tras intenso aguacero en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDRKYkxscUJCbWFDTWM5QlJlcVlQV256QzI3RkgtVmhUb1ZJMjVyVW9icllLeWJWWlhXX1FvaWtGQW9La3pnOVU1S0l0UERteTNfc1pKM3lzdm5zY1BPeHJMQl95WGFTVXZvMUo1TEFYdV9BTUtobk1BaU1CaVhrY2x1SHRnR0RYUWdIbi1EV2ZHZnpqV1JFUHU1S01MeElUTDBPQ0Nwb0Vua1YwaU9fSEczS0o?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-10-19T15:47:24+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Guayaquil tendrá una tarde mayormente nublada tras las intensas lluvias de la madrugada",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNkx4TmpPdGlJbnhJX1JDSVFxZEcwZVhiV0Rsd2Z5QzBPQmlhOThIZm44b2hPLVZBS3lMTXFYWDBma1hRdlYyVXdyVEl2RUZHM0pNcmVHTnZlM1JEZkZnN1ZMdGVieERyUTRLRjNhY2NqZDhXcHpEWHRtTlkzbjBiZkFJV2ZUM3pnaVp4ZjVYMWY0WVNoUDdmOWJJZ2NkQVR0VWNMaDEzTUtEUE9iUkEtS1pzR2pDQloxUzQxRE9Hd0pMTHpGb2pkT1lBcjJqNi1oSGV6UF9qQdIB6wFBVV95cUxQNlFfUmRIRWJOb2ctbWhRRmJOMlpEcy14NWJxVDFhRFBtbjYzX0ZBU0c0TXdLb1hPclBXM2RhZnRnN2NoX29UeW5BWXk1QXk4VDJqVVJ4bnoxY0ZqZWIxWHBZdmFkVEgwNVI4Xzc5QUFUN2hnanVPaVZCWS1JTU56X0RIRTd5QmNNME9ueTVwVzNXMjItdnFPM0xfOHhmWExxSlFBY01xYkFtQWY4MndtNG9wRDJfWkJSUlNGemFBM2RmcDNVb1NIWnVsdVAtR0hmQTJXaDNoal9OR0pWNkJudVdDTEZaZG5FWkg0?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-19T15:45:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/BDQ573RXHNDU3AZYVL4WGX2ZMI.jpg?auth=38ca72902b939e48375bc2afea8e9da348a54f848c0c9a8f836f7d1eb0b6c3ff&width=1191&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "ECUADOR: AQUAEXPO 2026 arranca esta noche en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDhQUHR2RXVwYVZncEVybmJzZHhpc1NybDY2enNUSU9WdjdiOTdZOTg4QnRiVGM2dXRGekJZTkVGcmVjamljUnRJZVh6TllIdUVtNDBNczRVaE5rNkFDbUg4Rkt0SlJSWjBwS2ZnZkc5ejZiYURhMzlfVGtJN0ZYWWlBaC1UZnVGaVRRVUlwZDVaQzN5?oc=5",
+   "medio": "www.elproductor.com",
+   "fecha": "2026-10-19T15:23:18+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Así luce Guayaquil hoy tras las intensas lluvias: fotos de las calles inundadas",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUg3MlpGZWdkYXlnMVV6UUZaSUE4VGd3bFdwZ3FKOXFlWXlibU9Db1ZzWmtfenY3SHV6WTJFNTJ1RFFBN21pSFJ6ZXJwZ0xTTmJ4OVlvMEZ5andLZWUxTE5FNnQ3VWZGWmNJOVRKclhUWFp5Y1pEc282ZHNtdmR1ay1tLTkxcXpMVnhyZ0F0ZnVsRlIwaGhKZ0xiTXdpWE9OSFQ1UFBDTi0?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T15:21:41+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad6312b26112.jpeg"
+  },
+  {
+   "titulo": "Fuertes lluvias en Guayaquil dejan 57 puntos inundados y siete árboles caídos",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYUFLOXhaMXhBU2t5MW9jQ0o2SVM0SndDaFZrWE5hejRSZTFRTGRuZzI0OC1jTE1PTFpMb2RqUnpfU3pqdlVScDI0c1Nwbk04dE9FTUFhX25yYUNBRno3Y09XdGg0a3p1Q0NDN2tfZXFVV0FpN3ZobXI3VTZsNkVtbFBKNFBCLW93MnlRUDc2QXpvcHpEZGY5am15cVNtMU5PZlFrbk1pdGNpbnlBczAtcVZLQjUxQQ?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-10-19T15:21:31+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/10/19/6ad632d088b41.jpeg"
+  },
+  {
+   "titulo": "¿Seguirá lloviendo en Guayaquil? Este es el pronóstico del clima para este 19 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbW1CYmNta1dGQU4xUUpWS2NPOXZmSDZyXzA5ZGpoVHBCd1R1U0F2bkF3V0VQb3ZBMjdFNzVtSnk2R3VZLVU4d3RCUzhrdlRXU0dFSFFEV1d1QjNwbG53R1JEQUZidVZhNldfM2lqNzZlVEFfRGU2bEk4WkkxSmhhSWVIMGR3aUYyRzdPTEpoRHhtVThSZFRKSmwzNzNsTUd6TkJhLXFFQ1h6QkJ0TzlXNW5zYzJHRHNUUUpjQ2Q3WGhWQjJrTEtqbE1VTTAwUVptS0dZMA?oc=5",
+   "medio": "eltelegrafo.com.ec",
+   "fecha": "2026-10-19T15:12:34+00:00",
+   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/f21c747fdc8d63943570b4129ca3fb60_L.jpg?t=b0b3a07f55ed"
+  },
+  {
+   "titulo": "Lluvias en Guayaquil: Cuatro personas heridas en accidente de tránsito en la vía Perimetral",
+   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN1FTWnI2d0Q2N2pFSjZRSVJKZ2xjNjBlZ3RGLXhPZ0dYRDFlamo4OVQ5akxhY3JPZ1NZd1dSWVZfWWxIQlN4Sm0zaFh1QWgwc001eW9vU1NjYzJxTEFYOHlOeV8yQ2JnOWxIZlh0Zlc1VEw5QmlxV0stZjBnLUVKSWxXY1lsRVFaUm9aVVhWblIxbTZ6Tkk3ZUpFMEpkUEtvQ0w3UXFabnNkWkdYX0FQMUJQYnhFUE56dUdOSA?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T15:08:29+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad63259c4268.jpeg"
+  },
+  {
+   "titulo": "Inundaciones en Guayaquil: Municipio recomienda no salir de casa",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVE0V1phNEVzTmxpdDhjY082d2Z4bEFRaFg3TDFFSXc3Mm9iZjJkaHU5ck9fRklrRWY0anNhRk9sYzFSeVA0V0JMbndoS3RNX3MxNXgza09nUGtNLS0zV1BSY0M3M2hCczN6S0g3RFpHNUwxM3FLM1NYbDE1TjJGRVh1TGxXd1lDdmZTTEFKdFROWWpfQjdrNjdfQ0lwYWY2MVBhRE9PdkNHWk85SFdlYXhDd3fSAboBQVVfeXFMUF9KUnI2Ui1DU3VGalh1YjJqVExHSXhTbU5IUjlQaGZQaHpkTW1pYzB6M3lQSFEzczQyeVJQMlRBZ3pza2RxWGdXVUVBVjNvVDhYMGpzVkNoYWlXZG94X3BNUUNWLTFubE5pblZMbUtsTVZ5VXl6V2c5cDJlYzR2MmxveF9KbzRlMWIzaGc2NXhrckhhc1pmam91V1V5c1BOb1RyQmhfcjlmdGhoNzdhTlBTeDhZekl2TzBB?oc=5",
+   "medio": "Vistazo",
+   "fecha": "2026-10-19T14:56:29+00:00",
+   "imagen": "https://www.vistazo.com/binrepository/1126x600/263c0/600d600/none/12727/RNUD/lluvia-guayaquil-2757797-2757797_2757797_20261019094840.jpg"
+  },
+  {
+   "titulo": "Lluvias en Guayaquil: 57 puntos inundados y recomendaciones de Segura EP",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0pVVDA5b3hISlcyNl9ZbEZGdnRfTlZTVUc1QVMtVlJFanRwWFdGR3hyYWpqWnpnTUJHNU1Ub1NNQllDSFVZSXNiRGFOV1dCT2VMbUR3YS1HTHpGeVA2Qlk1cXRjQ1BCaG1EeUJNRzhnUnJVaklyUWNLUmhJTnZ2UURCbjVDZXBMM3BBNHFyNk1sWDBwc0Z1MVA3cnR6cWRC0gGmAUFVX3lxTE8xb2VQRGpmZTR6c1pUWFQ4WU0wbDZ0SGVkV0s1ajV2N21iX016M0FsMldWYzJLV0dOaF9mVlZtcFdCRG5TVnFWM3JfazZyV1g5VXRxTmpxM2pUZ1I0WjVCMFo4M1JRblJXTGZ5dV9Nd1FsakJSODI0R0tkTFNsNC1OZ0NRZFdLQTF2UXBCMWJfSTYxbTF5YzRiN2l3cDdibml5d3JOSUE?oc=5",
    "medio": "Diario Extra",
-   "fecha": "2026-10-19T04:18:44+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/18/6ad5985c677ad.jpeg"
+   "fecha": "2026-10-19T14:52:33+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/19/6ad62d9ca3871.jpeg"
   },
   {
-   "titulo": "🔴🔵 En Guayaquil, Ecuador, el sacerdote Patricio Alfredo Sánchez Molinari perdió la vida tras ser golpeado por una pesada cruz de madera que cayó desde lo alto de un altar al desprenderse a causa de un desafortunado accidente. Hecho ocurrió mientras re",
-   "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbjgtUmlEa0FRSmp1eldhTDZFR2V4YjJ0NkNUclI1cGt4cElLaFVqeTVtQVZtWnRycGdLOFdPTFZFRnM5MVdzSlJ4ZjBIZ01OMXJFcUtKSTB5bTRfbGpodjU5ZVF1TVVtbElXZGxwc3UtZ24wWnZGdks1djJaX0JxZWNPbWVUU0EwQndpWjlOWkY5Z2VPbjd4ajZZR1JKN2lheEhLNm1uVzVrRkwtMEdhSzlNR2dFUmNXVDk2eklfb1JzbVNHd0daNlpTRmdlaDlLVzVKYWx6RXdUbk1UMUhVLVRRcUgyZmwzbWNF?oc=5",
-   "medio": "Facebook",
-   "fecha": "2026-10-19T04:13:29+00:00",
-   "imagen": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/854862818_28459212940367296_3449931298767233361_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=1&ccb=1-7&_nc_sid=cae128&_nc_ohc=vCjCCPv7qbQQ7kNvwGXH_8a&_nc_oc=Adp8u-_dF44VpMPV7pyKPRFmAbVefLt47o03Iq_438MZ7Z7Bfx9VKNFr4PEd-Q5KqOY&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=HjNRfDGF1pxthZrbxSprHQ&_nc_ss=7e20f&oh=00_AQP3lXYD3-iasO6PY32LGc7RlAXsp8Sdqi-WJosFLnI8-g&oe=6ADAC61E"
+   "titulo": "Lluvias en Guayaquil: Tatiana Coronel advierte que serán meses duros",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNDhBVG9YQXdrb18wLVVQY0pWSVpSeTRwSUk1cjZKbElJb3NBaXNQQTNIRXYteEdzaDhjZ0lKMndUalJmRjU3R0lnMXdWaTZMbGs2WEtPczBxeHdudjJzZGRaZjVlUXVaWGg4NjlyWWNYcE9VSnZkYk1QNEhnU1ZHZ0hmWEV6b1ZobWFJengwMkM5X3dqUTJ3T05iRDdZQUtiY1RJdU4xUUI?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T14:51:00+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/08/6ac7d6cfe576b.jpeg"
   },
   {
-   "titulo": "Agenda de eventos por las fiestas de Guayaquil: cine, ferias, música y encuentros deportivos se darán del lunes 19 al domingo 25 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQTnE1UjZ0M2R3MS1ya21ocll4X1E4RzYtNGJNalBfMjljSlNSWC1TUWdNZXhtRGhxY3I0MTZ2YlJVT2ZYaDhJWEl2TjRKSU5zSkgwU1V1bjI0OTdSYXNVcjRkQl9GRU5MYUlKVGdQZENISTRSTDlTS1c0MGpoYThxM0YyWHl2dlNzNXNpRXFZc3hsWGZrUUx3RC1BcmYxODRqZzNDd0xxXzRSS1Y5VFoyQW5qaEV3OEZOd2RsN01CNGVVZDlnUFp4c3p5ZV9rd2x1eVhSWEFUQklUS3M5WUVuQ2ZYUl9CZFk0dDJMMDdDdm1oOEpuVmJTVlQyb1VTTm1DYk9BRTZVbzRSVC0zTFNHYUticEw4b3BQ0gGsAkFVX3lxTE9laXBVckhrN0hwRkFGVTRtekNzWFQ0QkJpTTE1cll0cTNZMXZFN2Rwak9lZUJlY0MwbmdLT3l2b0VIbkZhVWJmbkhTX24wRmFGemFQcE9QOGY5WnpuRFRPbUlvWjFiRDFnalVHaXRabFlKcl9oREV4bndMR3JpRWpBLS1iY3FLRnE0eHgyaHJfSW1ReVJoc0pKa3pjUWF1UzVoVFRMVmgyelEwMUtZSnJmZHNUS29lMFhaaEFaLVlKckdNajZ0cGhPeFZodmlkbWxYWFFUNW9Ha3QtZGFrTmRxYk5VM3FuSGh2cHJpZkhoUTg1VWhwLVJFdTZLbWQ2NDNKdC1MdWNydkdrazJmYkJzbkE2ejJxdEcxYkVYUHZQUmYxWXVENy11d0N3NA?oc=5",
+   "titulo": "Daños por inundación en casa: cómo solicitar ayudas en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZEtMa1RlTDAtZXR5LWMxTlZmeEhUekw5YVB4UF9YV3dPT01JWmE4M0kwU2oxY3dzbWdMZ28wUEN3WVV6a3dJRFNyc3ptaGM2WEtweHRaTjA2WGpSaWx6QjRYeGtjalVyZWcxdDA0RklUWFRjODVDc2NoZ2tjM3hjTHBOZXNMc01NRFhmaUhDNHRYUDJuV09RQg?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T14:44:36+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad627d90ace7.png"
+  },
+  {
+   "titulo": "Lluvias en Guayaquil: árbol cae sobre cables eléctricos en Urdesa",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQamI2UTUyU2VrYndvaV8wRG9MM1E0b29MY1h1aDltSXZCTkUxNlRPOE5DdVJhMVNxbFpPNDRISHk0X3Q4bjQ2VkNxYlMwM2MyY2QwaTJCTXRwU0hkWGhHemM5dDRFQjdtengtbHhiVGlnTF9LRW4xSGcyblQ0UHd0aldrdGhjRk92dTZaREVGZnNkZVRaLUt6aW1sYmFtUUt2TlhVcUp3?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T14:30:14+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad6288c59ab5.r_d.541-810-0.jpeg"
+  },
+  {
+   "titulo": "COE Cantonal recomienda teletrabajo y clases virtuales ante intensas lluvias en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzlxRGhTdHVwQ1hUOXhONkxuZklhdlg1dlVSdjZVOXdDRkI0dzM4Z05oM1ZxZzV3bEJTbExzUkM3Q3B6ZTlaY05oVVVreV9VSjhwNkViOGpqWXNxRTRDb2tfWHI4X0ozRHAxYUJMVkRTYUVRNTNHY1VEMlJmenJtc3FiVGwyeGZRZGxCNDg2dnBWQUZYRzNCb0NxZHlqUGpveEFXRWFqWVQ5Yl9KZS1BUw?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-10-19T14:26:56+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/HU_cIToWUAAnLYo.jpg"
+  },
+  {
+   "titulo": "Guayaquil amanece con más de 50 sectores anegados tras intensa lluvia nocturna",
+   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0gyXzRjRnM4aV81SGFmU2RIQWtDbXVlam03VWtzMXByVEdGOUN3TmlOUHdDQUZEN3FtZ3YzcnkxYXM0RUpwVEh3QUhIclFGNlNnN1hhQjJqbjJ6ajNKM2Z5QlNpS013d0RXQ3B4U2JBVXBEQkd4YUhZTFRkQnlSN2tCSng3Vlg1LTNJZ1JvTGcza291Z1lUTlZBdTZCY2lrbmwtOVpfZWxKanlsWTZaOHFHaURublpmQk13SUZlQUtiTzBHbV9GZzlsMNIB3wFBVV95cUxPVDlXLXRpdmFMZm5mZWZsclJ1QVF3YVkzazF1Vy1ROUdSeV8wV1pSUmc4dlptNzIxUWE5TDFlUFNQbXZEYm9reTI5UzJiZThyNTZxTVFxdktqbm5NVzZsQmZ5bVdzYl9IZDVpRThqVHd6MlB2VDNvVVhoVWhPLXZ4QlZ1am43TnRDTkxMd1NDYmNOYjQ3WWE1a0piLWozcWpOVVhCUVVfeEtVOXk2a0RVWm1ycG4tTTdtRk9nNXppNG5OaFVnWnQyb2EwcTU1Vk9GQkI2VDY5OTk2cUVVLUJz?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-19T14:12:45+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/F6JUCOQQB5FVVPCAVGDIIG7VWI.jpg?auth=b843ec2c3f8c5b0980c8791c081250b9cefeeb4959525dedcb1ed4539da14fe6&width=1005&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Lluvias en Guayaquil: COE pide quedarse en casa tras reportar 57 puntos inundados y socavones",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWxGOU5KMHlhRkF5Nk82XzFYWFRTb2VqejJFcTd6dmQ3dTluMk9xalNld1cwS3pIa2NrVHhSYTJMUDVVU21seF84TVNKVDdGdXE3SGM5MWRGeGtVdldWbE9DRHN0RV9PWlZvTGxuSkNFanhHTXlLQVU4Ui1FaDZ2bFN0MmluSTJtcEtNd0FEampodXQwMHpKMkh0bWFxQVM0eDNXY1FhSVRZU2w5?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T14:10:12+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad625c9b87a9.jpeg"
+  },
+  {
+   "titulo": "Lluvias en Guayaquil: ¿habrá cortes de luz? Esto respondió CNEL",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcW1RZVR5WTlUTkJLejVRRG5ZWmhlSUh4cDBha2M5Z2NPM2lkTlcyV25taVU3a3hJMHpwLUhSeUhmVW1VeFBTbTYyeDl0T2NYM004Ty1rVzZwQzlleFJvanVJLU9Nb3ZPbDJjb3dlSm94cUhSWnQtZThuVDZ3NHJYNnZjcThGbnk0OXpZOXFHZXRJQjlHeDZZY0gxYVZycWFn?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T14:05:52+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad61f4093907.png"
+  },
+  {
+   "titulo": "Universidad de Guayaquil suspende clases presenciales por las fuertes lluvias",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVhpaDk3TllON2NRaUpZTk5QOTNveU9oTVlUVG1MeDYwaTQzNjJsUktEX05WcHZWMUl1SGNYWW5FRmtXLW9zbTZYYktzcXBUNlVELTd2bzVyRUxaLTduVVE4NDlKTHlWc2otZXp6WGs5YXoxTjBIa09UMWpMZVA1WGpEYkNvUEVsOVdlTjhtLXBwdk1XbTRNdGxHZ1JSR0xxM2UtUjdlWXdQS3N3NlJMQQ?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T14:05:25+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad61ff1cc2b7.webp"
+  },
+  {
+   "titulo": "Socavones, inundaciones y caída de árboles: el balance de las intensas lluvias en el cantón Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVHFZWUdVazk2eEh3LWhWZ01tZm1TNEZnMV90ZzZtNzBha2NyVkREZGJrZGFUS0VfeTZSYy1FUmp2Mk5qaGhQSjBsVERLRl9JVUtGWHNBOHF5dHByRnFEWmRIa3htSUJPOVBqLUZOV25rMWpNSzVsTDIwLXhPbks4cmlMTVhFX1lCTzNaV0dKdG1XZk1yRVJfN3N6S3R5OWp3bE9DdWNYVlBnZVoyN1ZwbmJEU0FwUFlvakQtZlc1MUtTUXdiblBHYmNsX19JcDVROXdYMldmZ19MN1hQTW84WmlFLVBHQ03SAfsBQVVfeXFMTVhfTXZLVmZQT3lHa2d0X3RQX2laWG9WR0YxaHBsVWZfX3V6VHlDWmZ2ZFdGbHVzdEowOVhhNnRoY2hlQ3pNaWNhYTFfU3l3cTJzQTIzMVZTQzlfNmdGVDVhM3FlNmR0dU5rd2U5UnNRRE9zVE9qSF84N3lFRHV5Ui1PMU1aR3NZbmxoMXdtQUtHOVFZSlVqMGlyOVpIR09qNjlXU3Z1a1I3bTJMUUppX3Q0NDVjdlJoZUdubHVkQUxqUXVuWThodWxEME5vX0xYemdncWZkUlJrcmpvb3pqdDJjY2wxaVZiNEluc3VJSVo0RldzS1lkS2xrLVE?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-19T14:04:56+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/PWIZLCOIPVGA3ND2YM36AD7BGQ.jpeg?auth=5ec06075506dfe9403f144ecfaf55ee75fd006c94024586d134e63c658f27ec0&width=1190&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Guayaquil acumula 170 litros de lluvia por metro cuadrado y 57 zonas están afectadas",
+   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZHFEeEo5dHFOTl9IU1hIYVcxYTkzY2dSQVE1ejZTNVZBa1pSQlp1dDAyamJMR2ptYm82QVJqbmRNTWJsVTRxQVo3XzA3VmRfd2c4cDZhSHhaMTZXNTM1aHhmWnVUQWZLVk9NaEoxM3dQQW1EaWhua2pUeklHS3Z6QTZrUy1UaUZhUXNkUWR2bnlqdkhjbDRaTw?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-10-19T13:57:19+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-7.07.11-AM.jpeg"
+  },
+  {
+   "titulo": "Guayaquil: Municipio pide evitar salidas innecesarias por las inundaciones",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdFd3TUhCSU5oc2NKVzRVeDNXcU5NMzRqdndfWjdpUEZ5V2drb1VmaU9OZktoY3MtbXFubC1NYTFSeXNJRTI3YVpUVXZkblFua213aE9WTGVJQ0FYOGk4b2hkYVlXeWxnTnFad0xsOVpKY1NIeHZQWHhpb1JlamljbzhSaloxZFdXMFBTWnpGUHI1WVVUNWVBNlJZM3JtRDTSAaQBQVVfeXFMTTJiVzdYODF3WFBjZlVVcFFXZ2U0QjdkSWFpS0NhRmlQSEtxYmZEdDctRldQZlA5VkhWQkdPeGo3ZTJYRG9MSXFfb29iYktkUTdMM0l3Y3FjeDI3V1JUNVZTTWNGUFVtMjk1ZGQtRlk3ejJoQWlOWjV1SkJmZ1VVOGJMdjVlVFdFamRIZDFLRGVDaGpTbDMyNDlJc2RrZ0s5aWFra2o?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-10-19T13:57:05+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Guayaquil suspende clases por lluvias e inundaciones en 38 sectores",
+   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmNQOXJodEVCX25xVkdBYXBmZ1dHSWtmVUl5aUl1UHNiOHR1T2JWOV84VTRITjVJVUkzUXdSSHFIUWMwQVZkY3d0SlhTQTg1NkxZOGxYdXJiSXdyazlfREhWWTA1cnNJTXJZRFBhZlhkM2dEMm0zNWtQelNnbGJpdm5XYW10cVF5NWpWTFRwQS1CMFNUcFg5cFpuOG5YUlB1ckdNSFhPc1FkYThvbmd0eXAyS2N0SFFpZjlDZ09R?oc=5",
+   "medio": "Diario La Hora",
+   "fecha": "2026-10-19T13:49:05+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Moisés Caicedo organiza la Niño Moi Cup, un torneo juvenil en Guayaquil, para 2027",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaWdVcHNtOVZVWjZIenFpejhMNFFHMHNOeEpWWWpNWUhYN2plc0gtcDhBdkpWXzFyYl9PMldnU2lGM1A0eFQwcnk2RjlRelhwWkpiZWkySWtnZDJiS0hRNWZOS19jYjE0cDRRZ0ozTkJ1SV9Zc2VQWEN4RUlOUXd5emEwZ25aRHdTdTJjM0JrZXRmeG5KN3hDT2xkeHY1R0JRdWlHWTJRczhVU1hMVlJ4eGQ4bUllU2RweUJOSHF1Qk40LTRv0gHKAUFVX3lxTE1RVVE1UGEzOV9YY1pHLVN4MEtmWko2TDVsVGx3MnFlYUtueVhkYjhqZUNSNnBQZU54NGZkVDg2R1ZTbU80Xzc4VmVfbmkwY19UNTBmcU12UUF3SVFVak1mMUdqZURwM0RfWGZIZm8zTnJ3N2J6d29BYXd5azZZVkZZXzJuZkhqWDJZWm5sWnVmblpFOFQ3MnNjblU0aVZ3S280MmItdWFkUEQ2OHZTWml0NmZfNDliTWZiNWxid3FQdkExWUJiNVhZb0E?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-10-19T13:46:19+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "En imágenes y videos, Guayaquil colapsa tras una fuerte lluvia 'poco habitual para octubre' asociada a El Niño",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcU5hUWtnUlFxbF82aDlJUVF1Qk5lLTRnM0p3dVRlR2RMaHNpR081ZzBhVEdUTG9SUDVfYV94c0NOU2NTczhpN3hqWVhfZ2FSMGVHN0pnSE5pWlRvVWFETGFxUnZhX25mc2lNT0tIektzRkRtVFYzZXU4SGRHeXh5UG1kZmt2ZTFQVnBvYmZsX0VHQXJneVROdkNxd2daQ0dVam9nQ0R0QVhnRV9BSWFyRA?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-10-19T13:39:00+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/10/19/6ad61bc17680d.jpeg"
+  },
+  {
+   "titulo": "Guayaquil soportó lluvias de más de 70 litros de agua por metro cuadrado en una hora",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnBYNUVtZDd6Vi1OaU9wcjFwdkxlb2FDaTVvYl9aV3ZsQ1E0bFVRc3Q2SEtkVURELXA2YXhnS0Raa0loaGxkdTZfSU5aMGsyS1FYYTU0X2ZqRWdTdHZ4S2xsU1JDMmc4eHRfQWpHcXZ1YW1MNTI2bWJ2Vjc5NU5tWVFKMEJDanBERmRnSHp2R0YtaFpYd3oydTRoMEpNUjBINUs5elBWQUNBWkdo?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T13:38:37+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad61c5e703db.jpeg"
+  },
+  {
+   "titulo": "Lluvias en Guayaquil: más de 30 sectores amanecen inundados este 19 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRCNG4xT2VDbkJpUjJsRHNKNS1qNnFEdjVRT09QRk9pbzJHSjNHRzF0NVFPbjUzRWozVzRhVjBQbk1iWUdqU2VkZzJLcWdaR09KRUZ0UzBUM0wzUlRVOGwyN1NuRWJaWjdWcUlldHYzc19BRlpIaEtHM3c0a3FvV3YwYmtUdVdDNlRGSzl3aXNnYU5ZMGVPeTBJOElNelpzaW1IRENJTQ?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T13:35:04+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad61a7c9095d.jpeg"
+  },
+  {
+   "titulo": "Lluvias anegan sectores de Durán y complican los traslados de trabajadores hacia Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTl9zYWVPREd0eWxRclFOc09SOVQzcUpqUHYzMUlPd01ZZFMxQXd2SHNVNlNKS0RyXzBZWU1GbGIyNTc4S3U4ekd1WTNWRnVTSld6R0Y5aEdXaXNJU2RwbjNBN0ZWTThUZXZBZ0dUU3dwZXQ2UVpEV3cyUnNaMnJtWnh1dTA4QVk0OXZVc01XUGRueFh4X1Nfd3pQcTk5dU9ERGtoWDROTnF6TTVYQjlZSnV6Y2lEdElBQ3pZMmQyRXFNN1hydnlBVWJnYUE2bnRiZ09sMG5sNkHSAewBQVVfeXFMUGVLSEZ2M2liWS1UMm01My1ldUc5YkxHSDZMcjJfZ3RRVnptRkxtYjV6MWp1Zkg2ZGEyNThndkVQM3FhS3ZncGU0SnR6UC1RWHdzc3ppQVlsY2pkTmFidTNmSDJkdmd4WUV2c1RwVkFuSzdHWjhTLW1NcUwtRUFNdFNKRHhuTE5NVkFEdERMd0gxcjVaUTFEQ0hRY04yd1lVR1BOWVQzcGNtUUxkSTNMWUt6a0RSS3ZJZ0p1QmVOMXFIbGlZZGswUjBrdXJfV29zR2luLVBHNDFiZ3psOXBxdW12SS0zcWYwcGZONU4?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-19T13:34:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/PPO6FTJVIBBIJDPR7C63ROKTFY.jpeg?auth=905ab706300e20645ffb102cdb066e42d2c136e85a54e5a98c92429f18a9561e&width=929&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Perro expuesto al sol y atrapado en un espacio reducido genera indignación en el norte de Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb3lENXdyaXBDNHNnSkdXWjJ4NDU0ellNU3N4QTZ5QmVMMEsxZkNjYks5R3pYQ1B5NTBOQW5TNVV6enI3SVR0eVFlaXFfSXRkbTlZcUhDYTAxem9rSUlZN3Bab1BuUnpRZjNPcVYxUVNDSU9mS0w5OFdFSDZUazVEWEFOUEt0TUU1Qy1QcTNJLU4wZUJfbEVULUJMMnVScTF1RGVCZUZuZGVfVm9LTVBmVW1NMzl3cUhPbzJNVXhIWWNGZWFPaUU5YnpwV2N3LTlBc1k1a096Y0RtcGZ1ZExmN2sxNEtnUUnSAewBQVVfeXFMTUlvdWFXa3pORmlmcmdiSDlibDVXTk5lcFZwalp1ZWFWN2RxUUdELXJWbzN2enFDcHFaSXJYaVVWMVAxUkJlck1hSEFfeFhmNEJLNzh6TmhCS2RaeDZGeW84YkFxV0NzUVZJcjhPdmFDaVA0M19WcWlGTGFveFJIUG9lTjdCS3I2VWkzQjFWM1VKeVk4WHp4alhDbWJKcXFYR0g0cEVVMGpvaVVoeWhYY2lqcUVYTno1YTgtaUxSWE5hbkJCLXBjdUJRSzhiRXp4VnlpRy11aUlyLUd0eTFBd2hQNjNjRVFQVEFnZGM?oc=5",
+   "medio": "Vistazo",
+   "fecha": "2026-10-19T13:32:35+00:00",
+   "imagen": "https://www.vistazo.com/binrepository/1147x600/274c0/600d600/none/12727/WVSR/perro-urdesa-norte-2757760-2757760_2757760_20261019083238.jpg"
+  },
+  {
+   "titulo": "Sacerdote murió aplastado por una cruz en plena misa tras pronunciar impactante frase: “Todos vamos a morir”",
+   "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPZUlnUGg3VkxRVGdnd1p2SzVENXpxOG5jSGdtdFEtcWZ1dE01TGNpNXprSmIyVHA0M1k5R081Rm5kTm44VXJKemt1cDA0OVdBd2tlY1JSZWhTSzMwMm1hd2llVThpTzRGMVRvMlVISHRKWk9CT2pFMTBTMVkyajZPVUl6b3E5NU1mNDQ1dGQ1VWNQRmNIcTVyQ0ExZ1BMUHFhYUVrYjA0aXdyUW16QkI4OGI1d2FqSGV4RjVBc2NnLW9ySjdEWDBIQldUa05ZWUV3aXRhQWFKZkFWa1pMblBCcU9NZDdOZmsxVnF3UGFYLVBOMmMzakViMWY3M0N4amhmX3ZtTmhmZEw4enZHYmpUUUlVVG5ZMUVldjNB0gGvAkFVX3lxTE92QXF0cldpS1RBbXF3a1kyZTh6ZjZRdzFIOXdyUUtzbE9maldZTG1TVDMzQTRid1o2VXBnRmFyYWVkekRVWl81OG5aOVVrT0d5MzlpYUVnWVZmbUxVYVYzai1ha1B2T1Bld3BuYUNYLUVrSFN1TmhCOEtrM1pmZkFyRzRMdU9XcFNkMnAyamcyTXlXa3NtYWlCbTBhck5temthUEJXLW5lYUJWVnNudkNCajJlcDc0bTJmZm9HSFRLUzByNzdpYkw4WVVucWp2bVAwbjBER2dlZ2tWRDBLbmtoaFpwbEZlYXJyc0dkcnZqTDlVNHFGRnhrMHhlM2l3U2VaazRpeEYzeHZzRHBuY1oxdTBoWkczTWJpTGFUR0pzYlZmX1NqLUE4MTFhNFFCaw?oc=5",
+   "medio": "Trome.com",
+   "fecha": "2026-10-19T13:05:19+00:00",
+   "imagen": "https://trome.com/resizer/v2/ETRROBRSPJHKTC5WNON2XY5HCM.png?auth=ec9ff14558d1465b79eb8a663d208204d3b48820c631ce64ea4f6ca7ac9fe780&width=980&height=528&quality=75&smart=true"
+  },
+  {
+   "titulo": "VIDEOS | Las escenas más impactantes de las inundaciones en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX003UlFzQU1wOFUwV0ZvWEdpaGc4elhZNzV1UjEzeFNTWHhmWVNOOEUyLXg2cWJWV29kdWdEV3hLU2VaOUhIMFBrNlVSMVVjY2FFYlJSbGJhMzFHQ2lScDF5RDU1cVM5cm5GcDZTcGhwRUVVeXB1b1REVHdpSERVd1BiNVlMcTVMMWNXTHpWMk5yTTdZUW1La0ljbVVfeE40MTNhcXMzbWVqenB5azNFclJGRTNwY25QTklIS3hKNk1TMVU?oc=5",
+   "medio": "eltelegrafo.com.ec",
+   "fecha": "2026-10-19T13:00:20+00:00",
+   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/c1b01e56e69b221765a5ef2ccdc58152_L.jpg?t=2496cedbae8f"
+  },
+  {
+   "titulo": "Tráfico complicado en Guayaquil por acumulación de agua en varios sectores",
+   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaGM2RmJNb2JMZ1JkLWtUNkE0RS1OTVp2MGJhV1hwTWtLSzhQQ29aT2JpRHhUNjBjQXRfMXlrcVQwOFFVUXkyZGxqbXYxS0ZhU3pyZEFJMkZXTmxzSTY0QW1VSm4zTkExMlAxbkM3VkM2NUVkaTRrOFhINkJsaWdwNUYtaVRHLXowb3Z4OS11SnNXTEJkcWI0ZlZac05ldGZoa20zanNUU3UweC1MQ0ZnNmZzaUY0d1NGeEI3Mzh4cFNvZVV6UWfSAdoBQVVfeXFMTmpfbXZTeGhOVGFxZkMza3pUMTl2MXdZeG9OLWxsaF82TEhZOEZ2TjlLeHBZX1pqai1KUmctQy1fYWpNV0d4OXM3RzdpN3VKVmZFT05lMkpQb1N6TmZWLTJGdUhiMWQxcGJIQVpXT0RscjFaWWxSYjQ1X056cEVwWFdrTWlmM3FCaEVGOEl0eVN3a3hEdVpfelVLZ0xEQmJIcnd2bU9jck03ZWpTbzk2dU9MX1JaM2R1ZjVpRE1UMnRNYWxlUldieDlxQXpLRERyWGlzaHZ3aFcza2c?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-19T13:00:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/3ZPEFWFOYFHCFKW35K43JJMQZ4.jpeg?auth=1ab31034529b9f70fc08e20912c3735fab8ec7230c7c707a077863aca278a038&width=1190&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Las carreras de taxi se triplican en Guayaquil por las calles inundadas",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2VMSjhNVXQ2c3FtcUtkWk82blVmZTB1SkxFVHdRVTk1cXJqR0oxYUdvRlFpcE8tbTU1QmJTY3VHYk9Pemw1cjJMYmZvZXZPZUdvSDVZSF9kakp6ODlSaVZGNEJoUmtBQjFJSkhkMmZON1E0d0hadUM0T1E3Z1k1QlZoeGc5ZmNmX3JYQ3pNbHdNdVhRN2gwVVB4Y3pEWDMyZzFDZUZadFU?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T12:58:10+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad60f843871c.jpeg"
+  },
+  {
+   "titulo": "Lluvias desbordan el río Tenguel e inundan sectores de Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVG5ybnVicHFCZDlCS2taM2ROTGtaSGxFNHdENU0xbm83Q080TXAzUUhWNGU2Z3BER3Y3OFlLdGgzN3VrUTRnQ21BQXJqRTZldDVFd0ZiYmZXOXhTWFQzeW1YdkZ6OUItZWx1WExSZkdFZjRtRWJubjdiOFo0Z3ZUbEJLNDR3Y1liVFRiYnRtVjNZdjNNLV9iZ2JWTWdHT1FkUC1OQ1BR?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T12:50:11+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad60e6b6797d.webp"
+  },
+  {
+   "titulo": "Fuertes lluvias obligan a suspender clases presenciales en Guayaquil y otras zonas de Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcHV0QU5HR2w1WjR5XzU2NEVMTWRrWFNURWgxZXhqd1VVY1A3R0RpbjJXd2J1ZzZfcW1lVjg4MWFYckQzRVFZdDlGQ0paV1UzUXhrTjZ0Zk5aZlM3SEloZHlkWHBzRDkxUm90b0FCTGhsY3pCWm41SjJtZTNmeExNdUpiVmpFdDQ1bHFfbFN5MDd5bE9LUUM4VktSbkxMNVFKU1JyVnZZMWJkOUlUb1h5aUxRZmR0TWZOQWc?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-10-19T12:42:08+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/Inundaciones-Guayaquil.jpg"
+  },
+  {
+   "titulo": "Ministerio de Educación suspende clases presenciales en Guayaquil este lunes 19 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUVUWFllN3I1U1g2MzBIeWpvVktZR2VzNzh5YWNHLVhIalF1T3VObXJ0cnNPX1VhUE5DWlhVVXNZbmYxS184aUdCdkR3UllaWnluNnFPYm54S3pLQl9GSUhSYWxUNGZLZUlVWDVGdEVhWTVoeHNqc214SnA3UURLUC1MT0J4NGVVemlpSEw4STh0VkJDbDBrcVkzd05YUzF0Q2pyLWx5a2ZyNkIyZ3YyN2lrRjViRzJ4eDY2ZVRxVDEtTVdEbWfSAcsBQVVfeXFMT0g1dmxsYnNxQWZkNkNYa1FQcmxLT1FjM1Y4THJqVEJOYlpFQ1pCQ2RHeGhhZnBHZWJWbEJnU0M5cVBSUTUzb1k1ZkhCakxYN3dwaDVqcGJrLUZMX1BlSFBaOGtYaENmTTB1cXNNd2VVOGFDcm5tWnI3TjNDOGIwM3pfaXRQZ2gtYkNtcFFqc3BUSG01TjJlbmFPdEdRV3BNaHlmNEdJYkRGRHJKNXBLOWZQcFl1bF84QS1ZWkJZSXg0eFI4ck9uT2dRbHc?oc=5",
+   "medio": "Diario Extra",
+   "fecha": "2026-10-19T12:40:00+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/19/6ad60e305b1ad.jpeg"
+  },
+  {
+   "titulo": "Guayaquil bajo el agua: la ciudad amanece inundada tras intensas lluvias",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmJfOFdKMHI1YzdUSExfUGdqVzdVTkQwcE1qakVzRGZhT3J2MWFISTdJNlZxd2dwQXFHNHJHZGVGb2JLMnRBNnhBRWlPZE5jWVBwX3ZKTVNSRjEycVpWcm9LSkY5bmIzb0lhdHRTa0NadlZlOTdYVkM1bUFkSkxiWVBZWkN0Qjkzd1VBeFh6MlNCUDRtM0lPbGtsczhjRkIyNS1RQjQwVVFFbDVoaGJRRG5FY3c3VXYtQ1U2aHlXWjZnelNO?oc=5",
+   "medio": "eltelegrafo.com.ec",
+   "fecha": "2026-10-19T12:34:31+00:00",
+   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/b101bab1887da9dcdcf1a4b4305be5bb_L.jpg?t=f6ee34dc6834"
+  },
+  {
+   "titulo": "Ministerio de Educación suspende clases presenciales en Guayaquil por inundaciones tras fuertes lluvias",
+   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYXF3Z0xpNTZQUFJ4UFBnZnBUdWdUaG1kSTRDQ010T2lWVXI1YWl6OHAxOHpkT05EQWVvZ21jNWtoOWNjM2psY1lZbkhoQ3l5UGNuQzVXd0lWeUw4UHVJVEduWTJoNlBGNWRaM2RkSGQzZVhQMm84c1o3M2JLbjlpSWJ2SjNLSUh6X3h3N0g1QTlkQTF2YkdVRU12N2wwSGdvcHBoMzZ1emgzTE9JNEVLX1JNMEl5d1p2X1huRmpLSkswNHJLRHZ1ODQxZGEyYUpfTlo2UklPVTDSAd4BQVVfeXFMTTdFdUQ2anJGYWQtNVFSU1JOVGNvWUtxZURMSVRiYTkzRGQ5QU0tUFo4UmJ2SVV1YU05R014YkJSQnJqVDZ3dXBsWk1KUF9yV3pBV1AzX1N3SktjZXVLVzJJTFN4bElTOFhxb1RGV3IxNW9aRjA2UWFhajA2TWlXUVBfSFBodlJPbGxLOWpNYWFBamd4dHlGVjItOU9UdlNvcF9YSkFVdzlBcExkUzlCcjdzZEtLQzRDSWgzU1B6UmN1NUNLQlVoUERodS1UTmVRMUhGTTNta0Npd3FmVVVR?oc=5",
+   "medio": "FM Mundo",
+   "fecha": "2026-10-19T12:30:00+00:00",
+   "imagen": "https://statics.fmmundo.com/2026/10/6ad60e156792e.jpg"
+  },
+  {
+   "titulo": "Un sacerdote murió en misa en Ecuador luego de que se le cayera una cruz de madera en la cabeza",
+   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX2lYOTN0QjBINUpjbE95QUhKbFlFeVJfLVdjQlQtZ2N6WmM2WktUUUJTTjZ4V3Uwb2FvY01fN1c0UnF4R3RRMTNTRG94WFM4YXdvbFdQNFZ1RGJEN0Q3WEdOU3AwdTlqd0pJMktSeG1iTlgyclJvM2oxZ3c0NGdoaGZDRTh0ckdlUDgwMVdoVjVYdkRGeTdjRjJ2aDMtVlVTV2NpcFFHc01tWXNYVnYwZTJxWGRUU3ZXcUF3bWFWWDJPUE10TzNfQUZ2MV9EQlV0VVNmdDdweUNWQ00?oc=5",
+   "medio": "La Nación",
+   "fecha": "2026-10-19T12:24:00+00:00",
+   "imagen": "https://www.lanacion.com.ar/resizer/v2/el-momento-en-que-la-cruz-se-cayo-sobre-el-YALQEGI6SNE2NGY2HYAMVAUOGY.jpg?auth=b23b9da7d5e5eb883a191f74ca1465a69b221c2a46307e40c6bc752dfe63d662&width=1200&height=800&quality=70&smart=true"
+  },
+  {
+   "titulo": "Estos son los sectores afectados por las intensas lluvias en Guayaquil este 19 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY0NiUHE5N2o5ZnJQeUxXcFZub1dvVzJiMkhJWnlaR1BCWnlScWUxT0ZlU2Q4dk1lYjJGdXVDVlJhclM2RFhERVV2MmhkVjZLbEd5TVctcExLM1VoYmplSHlUNW1PRGluVUswdmF3d3phN0hoQjI4aG9NU2dQemhvbi1GTmlhZlhYNTBtVXB0eXMwLTlFOE1hMGV1bGx0M1BXZ0Y5SmlmdF8?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T12:23:29+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad60bbdbd77d.jpeg"
+  },
+  {
+   "titulo": "Guayaquil: suspenden clases presenciales en las zonas 5 y 8 por causa de las lluvias",
+   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaFhiaUJzX2dkUFMyNFlpMHB4WHgxdU9uX3lpQ18tNkowMG44Y09EYVhKM2dtcEp4eXF1MWk3YS1IQlY4Ujhmek1sN2pCMlI4dmI3NGoycEc0ak1fRzdxaGtGLWdNLUN6T3BVMWUxcFMxcmVwdVRzSnBXVTNVZmtYUEozN2VsZ0JwOGlYVVVDNFNGeHdrOGtvQ1BiSTJPcFNQUUZNT1ZhWmVqeXc3NldxbFdzNjhTY2Q3aGpfcl9CMmZESGh0allRZ0ZWT282TWoy?oc=5",
+   "medio": "eltelegrafo.com.ec",
+   "fecha": "2026-10-19T12:22:57+00:00",
+   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/753e49f2a5cabbbfe9a411dc525617bc_L.jpg?t=06613257532e"
+  },
+  {
+   "titulo": "(VIDEOS) Así amaneció Guayaquil tras una madrugada de intensas lluvias",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSU94XzNfZy1ZTi1nNmdJWjdzX25YT3JzY20xWTV0d2RBbS1keU01bEEzd3NXQ29nVUlrOVY0WWUyOEZFSjZzNmZhNHIxaHktS1FTNWkxb19TM2hDbE9IaDd6QVkxWG1SYkRuVmFpWVp4d2JUTlkzak5QWjdJak5NQldwRFR1LVB0aWFzLTJjZEZaXzNBdjBZd3Mycmh5akF1MzAzLW5xOEdPRUVs?oc=5",
+   "medio": "Studiofutbol",
+   "fecha": "2026-10-19T12:20:19+00:00",
+   "imagen": "https://studiofutbol.com.ec/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-19-071626.png"
+  },
+  {
+   "titulo": "Suspenden clases presenciales por lluvias este 19 de octubre: ¿en qué zonas de Ecuador?",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlVTNFBmMWpmQm9Ld2VOSDZFODBwZ2x2UjE4RV9aRWhfcHhGdlBmNDV6cTM3R3NIaURsX1FyTjI1dDd5Y2o1U00tQ0dOdm9EMDlSNlhPazNSTjF0bTRlZGRtNHhRNnJUQV9hcHdudmp0MWVqd3JQcWE3S3Mta2t3UlRqY2dhRmFjV3RKeFhfYUc4STRJdFhrN2U0SldqZklON0JyVHNFRDRTRDFScEd1Rg?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T12:16:20+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad609b6a4b00.r_d.360-288-16666.jpeg"
+  },
+  {
+   "titulo": "Más de 30 sectores de Guayaquil reportan inundaciones por lluvias este lunes",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVAxV0pWVXdJa3JpYVplVkF2Nl95aTJ5NDJfenlkQ0M5LUs1dHZ2NmNtRDdSVGVxSWhhbUZIVEtOUHVyU1RDd3U4WHViVVVyeVhITUwyUUIydGZhMHNjWEM5blVfOWlJckFNQWJWU1ZUSmVFQl9aSjRyZUdyWGhhQ3pOQ2lEOHFDb3g4ZHRvM3ZTQlFWMVl0azhSOU5Ec2J4aG9sVkZR?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-10-19T12:12:05+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/10/19/6ad607adcbde3.jpeg"
+  },
+  {
+   "titulo": "Suspenden clases presenciales en Guayaquil por inundaciones este lunes 19 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYnUzYzQ4WFM0OG0zY0IyOU54a3k3Tzc2UDl2anlhdERDb0VMTDhmbUN6TU9JOUJxdFh4Q2YzSmgtQS0wSkIxWjk1RVM3MW1lUVhpVHRCOUR0SUlveDhYQUpaSWxTYlpadXlYa2V1Rm84dnRRVkFoamVnNWkxMHYtRnM5VG1XR1NsRG9yNC1GdDRsQTR4S3V4VGl3cEQtYXY5Z1JCMm9IczdBSXVLd2FsN2VfRGgwQ0lxQUpfRWlKR0RiRnZQSm0xNHN3M0YzbzNEMVE?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-10-19T12:09:40+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/10/19/6ad6074bdc20d.jpeg"
+  },
+  {
+   "titulo": "Arquidiócesis de Guayaquil se pronunció tras muerte de sacerdote durante misa: una cruz cayó sobre él en eucaristía que era transmitida en vivo",
+   "enlace": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdGJlaWJJNWZkX3FqakFIaENXN3pZMkZEeWVzamp5bUtSOWwtS201ejRmd0JnbjFnR211aERxbTd6cnp0bXlETVlmMXVuZ29vRU96d0p3UDVLal9PaFZzdTEydzQzRUN6NHBVS2VqczVWNzZlYzdOM09BU0ZlOHpTRDJCMWtLOExtTi03LTJmVkRLU1FBeVdHdVNKRmMzcUhUeENmMzZJRmtLQWJpUkZGYXFGUTdCZ1ZwRnliNnR3YUgxZk1NMUplMVBFZC1rUWFFT01TVjVlV1B1cmVNbXg5RXBDS1Fta0FnZllEc05zWDlBREJmc2szeVR5ZnE1RmJJRmRwbVgwaUpFUE5zbTdtMU5iN054WGdkb1VhX3RNWW3SAaYCQVVfeXFMTzloX0R2Y3ZkZGoxVk9wSGVDMlVvT2ktNjBvX0VHUFhHZkM3Wkp0SFBRQ2ZDbm5zUGotUHA5bE5MMXh5QzE1ZmY2bEFqWEc2U3lEVGxQeTRpMzFnVi1Ia3dObjEwYllmSjdoVFRVRTUxMG5Xd20xbGNONEVEeS1lYTNvbDQ4N0R6MXdmQUdoUk5ZMUR0ekoyTk9wR1kwdUhISWJCX2o2emFKbkNyRTR0N016SHV3WTlSWmVLRDVXVW9oYTlZY0RXeXc5NnQ3MjFBOEw4VWV6Q0JVOHp2Y19IczZzTzQzdmxOMVNNNXFpSjNEVG5iUDhMcXBpdzJNNTE3Zk92YjlUYzQxTVN1N2lDbS1OMzJGSW84ME9uSVc3Z2VwcjBtX0Nn?oc=5",
+   "medio": "El Tiempo",
+   "fecha": "2026-10-19T12:03:28+00:00",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad6063ca0fd8.r_d.882-253-0.png"
+  },
+  {
+   "titulo": "Lluvias e inundaciones en Guayaquil y otras zonas del Litoral: suspenden clases presenciales en varios planteles",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeGhVSVhxVzYyTFl5NGI0eWNMN2psb3kxUUdUbUUtcExtakgtMklxNHZaR3dwQUtkY1NOa2wySVIyNXBJa2hnSXRmRll6MlpxRjNRTnN5NEoxYUdWMDNfOFFOVDFXZmZBWUsyU2VJNnpzRnB5cTc5ZEhvcmJTU2VzRml2Q1NEbmxiVGN3RzNLcmNvMWZEVnh5Um1ZX29wS3NWdVE4c2ZqYWJjWG11c2V3ZURXRTNuTnPSAbwBQVVfeXFMUFNTTjRaSmhFMDd5T1lSdXFXUFpwdnpUWmVBeDdxaGd0S0dhcWdKTG5yaUpUSkM0YVF4TEFPRENSYno3cUc3TXVHbThjcTBKS3N4d3JLY0JuSWR0YnZQSXRHUHdoTGFXR0JCWEl6RTREc0lQZ2pFRXA5U0RvRlhhQWxsbTFJdzloblRWRDRWcFlBTjBfVG02MnUtQmdONTRIRmtmUmliSHFYSEdYaUlCSlRxN1JSVnJZTUtOcEE?oc=5",
+   "medio": "Vistazo",
+   "fecha": "2026-10-19T12:00:00+00:00",
+   "imagen": "https://www.vistazo.com/binrepository/1067x600/234c0/600d600/none/12727/VJGE/guayaquil_2757747_20261019073947.jpg"
+  },
+  {
+   "titulo": "Guayaquil amanece con lluvia este 19 de octubre: ¿hasta qué hora durarán las precipitaciones?",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjZ1anF6eHhhdEtmd1RnaDRSOVQ3ZmNqaWhGN1dqTi0xdC1yWEJtcHpheGJhbk9GWTZiNG9yQ3dmVzBob3hmTWRhT3VaVC1pOHhPS2ctQ0IxeDA4cEc1MlNfdnFqM3B3cFktYzJmWFlaMWhCSlBzaVFpZDVZWlNrb3dWbXZzeUF3cHU2c3FETURobEM2Ti1YNkhrZ3V2cGJJbk9kdnhlYzVHbnBXdEE?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T11:39:36+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad5ff1f7adfc.jpeg"
+  },
+  {
+   "titulo": "Guayaquil amaneció bajo el agua: 31 puntos afectados por las lluvias este 19 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0hKdkYxN1R5Y196bzRIVmp3WDhlVkRDRDZocy1BRTFVRTRFWDZ1ZHlRV0Y2eHlWZDN6WV9aNEhqdjBTbE15SVRwTnkzMmFnTnhfbTdmbWlNaE5Eemx1SHFGZUYtamhxUGxtN0gyVy13b2xmbkVWTWJjdVJXMzZ6VVpaNXRpMVhjSDA3YzJTbUo2aGhfdTJmcUlRdUlBZlphTFZhd2NjVVk4QnZ1bHpKbk1Vaw?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T11:36:48+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/19/6ad5ffadbd458.jpeg"
+  },
+  {
+   "titulo": "Lluvias en Guayaquil dejan más de 60 sectores inundados este 19 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXJjV3NUcFBScGJMeW4zVlV1LS1jMkowS0tZSVdmY04xWlJuQWhkaXpOa09udXRLX3ZucUg5U1dMQmR2a21Say04MXVFanlYRDZMenMyUkdHc3FVRGFITVJSRWtfTFRwZjRsSC1mRklDMERtdTJDUTd4U3BmN3ViTFNnWlRKcUFndTJEVV93SHY4bnI4WWfSAZsBQVVfeXFMT3ZIZHJRN0lzY3ZfQ0V0Um54T24yUEZqZUJnR3lpeDVnNFREZl94ZXJpTjkyRzhNMklSWkVFUUE0MTNpWlk3WTNiZzVIOTFNaGRrOFBiWl9YMUdLNEZMZTc1cF9qbXdwRXlVNVVtN2hZbDNtWGJldWNUTTlYV19QMEtLRU5YTU9wXzNFSVNNbDU0WVBHNUMxcUo0UFE?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-10-19T11:19:28+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Tenguel sufre estragos tras intensas lluvias que afectaron a sectores de esta parroquia de Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVFI0YzhtMVRkU1FZYWgyRDVYS05IYTZ3bF9CZnR1M0xVS0lMM3ZJRGZBa2EyQU1zSm5qWHBqNUI4Z0p3d09kajdWdXZWNXRKUVNzVVMxZUpKQUh0RmNMVUxza1dJNThMV0ZkV2JOUUtySjVSdGg4aU11VzItQ29fZVY1LVJlak9uWTNvX1JiZFFjT0xOZktidmxyY2Q2ZUJXS2M2YkVKWk9wR0d2bFlESFROSFF1U185QWdkbXNlb0FVa1cxTE4tTkV3cUJaNnZfb2l6OUcycmhJemRRaHZXQm96b1d6OFV50gH8AUFVX3lxTE9LZUdJMUQ4LWRpUGRmRWgtWnRHZWs5Tk8tbV9GbGNCYlY4ckU4SHRNVWxoVVNTWFRnS0VpYkVnYjRHemZKbTE2d2pSbENfYkJwcERURnVsNnpXNTBpV0hqcjB1bWNCUVhXSGNYNWh6ekQ0ZGtOalJKQ0EybVQ2eXV0REVYU1BKMzVFYmFNbnRWaVRlcE5tbzFDS1hFeTZidHN1ODVjb0RPZ2N4WlRZY2FRZDZod3ZsVTdzTFBscUhwbTlRS2VOZ0l4NWNsN0dRX2I5bUNEYl94R3VvS00yMU5aNTF1QkJSVWxUbkNLQTBWUXZZVzlzQ3VMek9HRQ?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-19T11:04:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/M5EKK4QG45A35NEU6SCX2AYP5U.jpg?auth=8fb8bbae7f634c042486db62d7486d24ee4be87785a4de6610186f429025d4fa&width=665&height=391&quality=75&smart=true"
+  },
+  {
+   "titulo": "Lluvias e inundaciones en Guayaquil: por qué una simple raspadura puede convertirse en una puerta de entrada a infecciones",
+   "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQUxGV01FV2I4dlJXTEdpX29Hcmc5bG5KcWl3NnFrcXV1RUJSZ0lNalpoQmZxeHdobW1Id21vM2sza2pfMWxya1Jpa181NlFaalFVMVhOVkRxRXFJQWJObjhUSndfLWlWWUdNcGlZQ3RLbkdWczc5TUdMQ1RQLTRobldCRVRod0hGMTltUnRHb3pXM3dLczZpSFhEblZpUEEwUXd4LWdIa2JYT2ZrVDVlZnk0eHhveTJqWWNRWngwS1N5Qk1TOU5tUXBDbjJYb0szeUxRR0hraUtiTUFxTnd0TG9rZlA1dHNxbFBYcWNmeVpmTExybTZjMFhoY3dBS2pDemIzTNIBmAJBVV95cUxPWlVoZWp5aHhiN1B0ZWxYcDd6UzZmcFBpbUpsX251NDJZV2s1SG9ub2U3SEVRQ2oxRUQtbkh6OE1fUVNfMjMwQ3ZpQU16UFE0WV9oSEZ6RWI2ejFfZ0xac0NkNXVjNFE4M1BJTm12SmhMVDY4bGpTNlBFTDNJRHR6SUw3aFhCa3UxOTFLTi1WUlVmTHhmUnAySlYwOVpWREg1RkdsTE0zSWs2VTJuX01adkdGNFBzU0lXTG5kSktXMnlkNHhnbm9lTEVjdUFjQUdzOWpFQ3lZTWs2bHZCbGhqQ1VkVUkyS2JVU25OYU5vMEJVcHVGWm8yRG54MVNBaEl6TDUtTEZ4aU9CRjd4TDVaWWFhcG9velRG?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-19T10:48:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/QUIJOXQ4Z5GNLNEVHV6LBDY63Y.jpg?auth=adce90644aa82a57fa99597c6f0f46b844701ad72371981d8187d1f067141977&width=893&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Antonio García Reyes es la apuesta de Sociedad Patriótica para gobernar Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHhEVGZ2NHFYS18xTXdPV1dWbmpCUGY0UXAwbTlkd21FdDdWbEdOUjF3aFV0cmdPUDNZRVNTWm5Fcnc5WVZxTFRMOVJNVGJtS0lnSHItMTdpUXZZRkhlZTZObjhNV3dfMVFGaW9UazdBSUtOU1NWNHZULUt1ZzVKSUw3c2xOd3E0V3ZnRU0wY1JHa2xGcFBVaUxzNXZrT2xxcDJMQUhvM0o1NUhEZ0JNMw?oc=5",
+   "medio": "expreso.ec",
+   "fecha": "2026-10-19T10:40:00+00:00",
+   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/16/6ad243757b179.png"
+  },
+  {
+   "titulo": "Sí, el sacerdote Patricio Sánchez Molinari murió tras caerle una cruz encima mientras celebraba una misa en Guayaquil (Ecuador)",
+   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ0daOFRPb21OSDdPV1daM01KcE1vY3lQU0tZUUxtcEp2Yk1HWU1Tb3RPejljQU8wSm9zV3dSWDlHTVJvT0JlYUFheURVcUJKMHJmWlhNWERVVWpkRXkwM2hWTExYV2o4RENrVDhycGZZY1c2MVFFVW9FVXNBb0NHOXlRZFdsbWttczM1U1ZGWFJHendPbmxSTC1RU0VJc3VUY0E4bDFwekRHNk45TVZVZEFoMHdiRnZvWG14TW1YSUt3UjVjUFhsRFBScklET3BT?oc=5",
+   "medio": "Maldita.es",
+   "fecha": "2026-10-19T09:11:28+00:00",
+   "imagen": "https://maldita.es/system/articles/25682/image"
+  },
+  {
+   "titulo": "Cruz se desprende durante misa y mata a sacerdote en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONTFJZjhjb1ozUk0tZUlCMGFVdm5tclUxZVRPanB6RjRsOFhvdmtsbmNnVExaNVF5YTYtOE9pVUhyb3pyNUEyc2k1aWxvMkhsamEtclktWUdsM3Z6M0pockpBLVd5NTJPekhRVnlJbHRyVXFjMEMxTHFjZEs1dTctMTFtUzA5V0FPSzZlRXFvcFhoXy1CcnBuVDJB?oc=5",
+   "medio": "Vanguardia de Veracruz",
+   "fecha": "2026-10-19T07:57:48+00:00",
+   "imagen": "https://i0.wp.com/vanguardiaveracruz.com/wp-content/uploads/2026/10/Pleca-WEB-WordPress-Recuperado-24.jpg?resize=1000%2C520&#038;ssl=1"
+  },
+  {
+   "titulo": "Tragedia en Guayaquil: un sacerdote muere al desprenderse una cruz en plena misa",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXc2eXROY0pTbkV4ZTVkU2szLWtFZWNrcnR3Q2oxNmRxaHVlWVBpOWdCaENteC1hbnptVExQdDV2T1g1Mmtka3BTcXlHd0p5N2FSV0xKRm1sb0VyTzlXZmZSa2dpSFdkMmdranVfQ09vSHpLWEUtazZqRWZIbVhiNVNiakNiQzdBUUdERjFrWHRKcFlTR0FiN1ZidXNRMzg2ZldmQ2k0X09LS0V10gGyAUFVX3lxTE8tRGVudUZId1Zob2ZDWEJZNVVxWWhVcTZUZVlMbnFJYUd0SXRJbm5iWFNFYWZtYnpKakFIOU1GSElWcG5uemNXeFhBZ1hBNW9BSE5YeUhQQ243YmJYM1hpQ0pueERjaEIwYmN0bmxIQWR4eVFHQXJBZ05WR1VyQ19HM2hWMmxUTlRYTGpsS3F5bi1NRnZPNVo2c19uY0Z3UVRMcVIydTNJcUgwTVNHR1NUTkE?oc=5",
+   "medio": "Vida Nueva",
+   "fecha": "2026-10-19T04:57:47+00:00",
+   "imagen": "https://www.vidanuevadigital.com/wp-content/uploads/2026/10/Gemini_Generated_Image_1srpds1srpds1srp.jpeg"
+  },
+  {
+   "titulo": "“Patricio vivió haciendo el bien y murió entregando todo”: feligreses y religiosos participan en eucaristía en memoria del sacerdote Patricio Sánchez",
+   "enlace": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNdThlQTF2SzI5LVpzcFRVcHZIMHB4SC1aZHB2N0RsMzhZdl8tU3dlZjdYSktwOTh1emdmVjdXUmRaSTBTNkNraUdoOXp3NFB3U3c1T3I4UWRCZkE3aGk5bWVQS2Zmbi1BUHBwYUdRQVctNGRjdTVXSEkwa2E0X2ZfeTlXRVJLZDJRX2lCSTAtMTU2UEtkN1Y1UjBKTWpFQmo5Ylh4Wm9xOVFFXy1BQ2NPYkRjTGYtNHdnQXlNTzZjc0VWQlVVS0pfcTZKM1VUb0tHSG5fckY5WnVjS0JZWm1BclVUQWRyZjd6NktveGVRekdDZjNsbS1FMWhqUGstWklPbFhONWltbDhSNE1qRVBJYTQ5Mk9GdHJ5ZlhaSUh2NDFSU3JNcEHSAboCQVVfeXFMT2gxRUhfQ0VuX1FubjhxNE11aVE5Y01yZW1zdjFYQlRvWWFBX1dMdnUwa193Q2hSQXdQS2tPX3FBTV9xMzM3dU14MTVMQ052VldFN0g0SmlWdllnTktMNXZyenc5TXpEbEdEU0FFbDlpZlYtbzFPT1NBSWZac0tUVlk1bHo1bk05OGFRWV93cnJqRFJtbTBKQmdsSExTMy1ERjZnXzBkVm9ZeVZ4b2tITmpwNWdYejM5SHVZSEtpbjFKOURNb3JNY2F4VU44MDVRTm44T0l6SFhwZGthT082bE8tNlJ5VVM0WUw2dXRsQWlSU2gzTjVqSnZPZ3VTMVFXbDFDYk5Yakl4MG5QSE1FNjlVcWt0NW9TeFVCeUMwX3NYWXAtSlJuV0dwZUwydkpocy1jQ1R3ZFNMWGc?oc=5",
    "medio": "El Universo",
    "fecha": "2026-10-19T03:20:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/A6E7K5KHCVH25KIU65BFFWTM7A.jpg?auth=0f2c17bf06f09e4c490e09cdf9476f285b1efac144388b20a4b69cb1530764e2&width=1005&height=670&quality=75&smart=true"
+   "imagen": "https://www.eluniverso.com/resizer/v2/SIK3MKPNGFFATLMJHR5V6XAOXQ.jpg?auth=ac8d89aa871f74edcb309a30294480fc82b8699079fcbecf3b2c43bab7374dec&width=893&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Edificio Multicomercio en Guayaquil: ¿por qué skaters abandonaron el edificio en ruinas?",
@@ -37,391 +422,6 @@
    "medio": "El Heraldo de San Luis Potosí.",
    "fecha": "2026-10-19T02:57:30+00:00",
    "imagen": null
-  },
-  {
-   "titulo": "Feligreses llegan a la iglesia Perpetuo Socorro en Guayaquil para despedir el sacerdote Patricio Sánchez",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM05SNWRUWmkzbWNsMnNWMEIwc2FkWF96SEZ6NjZPYktEUlRTLUJkdHFnSC00c2FlbDQ2WTY2d3hPbW5TbHI5aWNLbm1vQTFSOW1teUVRT3Y1ZGlvNXZPb2U4UkZVSnhTYjBRbXg1enRiZGZPaUFWQWJBNGhlaFFTbjBDd3ItMEFIRnNySFk0U3FVYXZ6ZEJnNVlhQ1hiQ3V5T3cwT1hZQmpiVUJfekMweVBqNFJPUQ?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-10-19T02:47:28+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/files/fp/uploads/2026/10/18/6ad57b43f2541.r_d.1371-1000-4376.jpeg"
-  },
-  {
-   "titulo": "Guayaquil despide al sacerdote Patricio Sánchez durante velorio en la iglesia donde murió",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUE5DcnFQQUpqVTF1aXlaVmx3dlllajJZc0ZCckU4dlhvVC00LVZjR0gySndMVjM5SGVBY3ZkX19YU3huclQ1YzBYN1JYWlJLbUZPUUphNTN1em5xakotWldrS2JSUEtRSjZhTmQwRXVoVVV6WmNiS3hSazNtMk83NE9XaE42Z1JrSW1hYnc5dmdwTTBZNVU3aHdadU1DWF9JZFBYT2swNzI3RW1nRFpBdW9HN21uOHJ5WVBv?oc=5",
-   "medio": "Teleamazonas",
-   "fecha": "2026-10-19T02:19:59+00:00",
-   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/10/18/6ad57da6efd26.jpeg"
-  },
-  {
-   "titulo": "VIDEO | Estas fueron las últimas palabras del padre Patricio antes de morir aplastado por una cruz en plena misa",
-   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZXV4TkpXa3g3NnhRMlluM2NlcmlCekJZMmszY25qVWZNcjFwNUV4c3UwWW1zRlRHV2l3NjVoTzk2TDdQQkRKcnlzd0djVXNxOW9RZDJISFpvNWxEei1pako5LWg4RkpKb054ODFFMUFkcDV4c1Vmdl80OWpkaTVMM2ZFTFBwYVpNVWd2Q3d6c3B0LVVveXNYUGhPLW1RdzE0MDFtNUtkUFg5WHJVM0hjZDNrXzJGTmEzQmxfczhSOGVBVTU3V0dReGpGdzVQUnAzemp0ZTRrSXVCX0YtUU9GV0YtZWNFTXYzUm8tQXBiVQ?oc=5",
-   "medio": "Diario del Yaqui",
-   "fecha": "2026-10-19T01:48:50+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Muere sacerdote en Guayaquil, Ecuador, tras caerle encima una cruz durante una misa",
-   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMVJ0eFUtZlY2bDRscUMzdTlrUFItZUlhazY2VXlsY3pYUXRmV1ZySGRMcXRYanBLWF81MGI0Q2pQb1lpT1ZmYkxRdUViZkNpZDJ2bUttZDNtSmkxeFRVTHVIRTd2dVkwR0NKb3Rsa2E3UE1XZzJjM2xNNHJiWVBpTkR0ZHZvbTdpUHFzbHBfZWRPeHRtMnUwRkZNazVsMzNRU29pSFdjeEtTV1p3ZDZPejMtUXJ2ZUQxZFdtNTBmN1g?oc=5",
-   "medio": "A tiempo noticias Puebla",
-   "fecha": "2026-10-19T01:33:49+00:00",
-   "imagen": "https://atiemponoticias.mx/wp-content/uploads/2026/10/muere-sacerdote-en-guayaquil-ecuador-tras-caerle-encima-una-cruz-durante-una-misa.jpg"
-  },
-  {
-   "titulo": "Sacerdote fallece en Guayaquil tras caerle una cruz durante una misa en vivo",
-   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY29Cd3E4aWFDemJQXzJCUERxMk1lR0JlWFJtbTh4UXgtOWN6UUlrRzJwaDZaWlFYelJ2X1N2V3l3WU9rakhwWTF0SmdhU0R0QlRMZ2JYWGpnMXNNVGZmOWZNejdHWHZaSFFqazF1SWJDYS03QXR0eEFnSU9DQzJFSTVseHlPbzFaZ0NaNE1RMTEwMnR5VF80UlI4SEpJeV9CZHJYTXFpVVdhVmVhVXhXbXpMNTZvVHlnS1Q1NTVHREZRc2RFX1R3bDd3?oc=5",
-   "medio": "Noticias Venevisión",
-   "fecha": "2026-10-19T01:11:00+00:00",
-   "imagen": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/foto-cortesia-124717-0fb926.jpeg"
-  },
-  {
-   "titulo": "La Niño Moi Cup se estrenará en Guayaquil en marzo de 2027",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU1FSOUQ3YjRjbDZVTXBMR0IwMmhHeVZXRF85UTJ6LW1NQUNJT3hacjZoNjlWd2VURWR3UU9ZN3pqRzV4bDlxNDdLdUIwNzFaRHIybThQdUhKNlp0NGdYUUlhN2ljSzRBUENEYkJkS01MQklOeWd1TlJldGxhaVI2d3N2VGgxR0FNemp4dmNCTXFqeTdPN2lSNEMxQ1Y0Y0w1QkwyLV9rWEdBRm_SAb8BQVVfeXFMTTUyRmpTZHhZLVlLeFpobTlzWFJiNy1sVXJockFTLU1OS2NERlliV2NLdDZVaWJha3d6ZnhEeEpqX2t2S3hVQXJBZnM5UlliZFY2T0I2Y1JPQXlaOHZGRFFOOFMwR3NOZkN2RWxBSnhrMUNOcDFHRlZMaWhzNmFIU1U3WllBRDBfcE1QY0FLa0REejZJSmt1TGF6S3ZRZjlWRlZzUnhiMmI3ejd2bWx2SUhEWTNnTHdpcl9XSHlNREk?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-19T00:43:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/PNP56NJNTFAB7MBVITYZGSEN7M.jpeg?auth=386b8472a02b13a11073fc732f01ab599ca4bcb360f7ed91cf2d1313884dd6bf&width=1205&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Sacerdote muere al caerle una cruz durante misa en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVYxZmlSd0xLY2diaG5oOEQ3NUp4dWpDQWQ4LWhkNWQwcWZENmVVNWxpUjltdjBJTVVjSWlJc2V4NGxNRkJ4UUJPM2ctaGpLV0R1V3lONEh3QXVZRUtjdnNFaFR5akd1R01MaWhMTVYwWDNQa1lOWDhsX3VTUzlVdW1kaWFzUy16VWk3cXVGaTBQcWNMUXNxcnhCS1ltTm9PTmQ3UXRIQWtnMlNLTk1tTXJ2TdIBswFBVV95cUxPWXBIRU1lZU9YY1p1eGpGY00yZEljbjZYTGNjdVhoRjcyT2o5OGlWdFExTWk4aDBsV2psTDNvM1NSZ0ttWEJ2TkJTSnZLTnNhQm56cDBXTERtVGV1dVJmVUtnSTlneUlzMmNsaXpvYWpxWmR2aXg2ZXBjVEtXWGZES2lOVmVQMlBOallqdnBxeVRjX2piNmZJSmVLWl83VUFkdTJ4akdxWVpfYTkwUmpGRjgzbw?oc=5",
-   "medio": "Milenio",
-   "fecha": "2026-10-18T23:59:00+00:00",
-   "imagen": "https://cdn.milenio.com/uploads/media/2026/10/18/tragedia-ecuador-transmision-vivo-capta_1.png"
-  },
-  {
-   "titulo": "Sacerdote muere en Guayaquil tras caerle un crucifijo de madera durante una misa",
-   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2lFY1NTNHlHSnNQU21xdS1IX1RiTC1Na2tuQUlhWDRDZ2hpNWx1a1V0NTJlNHJDZURxUzFLeDFMS2ROWmlzNnM5R2VDVlBaSWJ4SVNjVzJsVTg3eVdGZjE0LXp6RHY5RDhobGVDSkhoV28tbTJ3S3I3ZTluS01EWk1ZYVgybnV2RTNwU29TV0R6SlFGUTZHZzJtV21lWk8wdFpIN3VLaGVnMG40Y2ZxdlZn0gG3AUFVX3lxTE5Mc29VdVRGTXdWbGJVa28zYmVBWjBkUl9NNWVYTEJPSWtaQ0RmRTItdGJYZnF3MFVwRXlmUnhpY25hUlUzLWN4TVo1NXdGMG85MzhGZmp6d1JaVlZLNWRDdGQzZngwa0tudjVyU1VLR2xhaHdOYl9XdTc2MXlSclEzUE1OX1dyajFsc1gtS1VwQ0d1RGR5RlZHelhDTFRfX1JZVU9WREdRY3NTRENQNnltUVowcGZHVQ?oc=5",
-   "medio": "Canal 1 En vivo",
-   "fecha": "2026-10-18T22:56:11+00:00",
-   "imagen": "https://images.canal1.com.co/wp-content/uploads/2026/10/18175429/gettyimages-183261537.jpg"
-  },
-  {
-   "titulo": "Tras renunciar al Concejo de Guayaquil, Blanca López sorprende con un cosplay y una reflexión",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzdZTVlLakw1b2pRUjZGV0Jzbk9WOUplblVsWEdONkZsTEZFRzRnWTRXdktZWDlxajMzbmlEXzNod3VBZVQzTTRvRmUzVzBlR1dHT3FoaEJMdUlYZ1BmeWFIdjRRT2hxNUxJemZtcjllZDVyV0NQZXFVbXhEOXJFdFZuamJjUnNhMUtOamwwclJHOEhCRVloUWp6WVgtUFVzM2ppdmM0ek9Lc25o?oc=5",
-   "medio": "expreso.ec",
-   "fecha": "2026-10-18T22:39:48+00:00",
-   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/files/fp/uploads/2026/10/18/6ad54a41a633c.r_d.768-512-8268.png"
-  },
-  {
-   "titulo": "Video muestra el último mensaje del sacerdote Patricio Sánchez antes de su muerte en la iglesia Perpetuo Socorro en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQU02dmFnNjUzUFMxX0N1TWlEYXRROF9Nc3ExY1Z2dDBQOV9FTmtEYWU1U3RmdUdtNG9CXzViSGVTSWJWX0poQzQzWXhfS3FYSF80M3dwZVJ0TXQ0RlZLZDNtMml0RUVFd0ZzQ0JoS3RLWXh2TlM3WGhZbjM0WWxaTWxOWG1Wc1pLNUxLbjEtME04V2ltaTFXSzZqT0ktTWFvaTZsSWlDZ1k5YVUtck4xMF93ejNGVUZ0M0xJNnhidS1nVHUzN1A4RWNXeVdYQkxBck5TZEkwRGV5Ml9XS3ZGc0pB?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-10-18T22:19:35+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/10/18/6ad53c2686047.jpeg"
-  },
-  {
-   "titulo": "Temor a nuevos apagones impulsa la búsqueda de ventiladores recargables en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTzQ4V1lWalYzUnV3dC1tZG9WTngtRExyMnZ2TEJXNVc3UlRwZFQ0SWZUOTQwSWppMnI2b2xTSjVadTdQLTJPRm9fVVNZZjhVWDVabmw1R2t0RjljMzBpQXM2Z0M3cXFaUlhnSFRJdThoanF1OFZPcWJMYmNmSHZxTnFaUjJqUkZtRTFSZUpTLWwtZkMyNGpUVlZHc3VjaE55bmc4d3Bzc0Juek1KZWFMWkloeW9WaUFfaVF3VG5memdSQdIBxwFBVV95cUxPcXd0eHlnNWx0QmZXa3BldnRTUjJJMHpuV0NKU2xEdDU0RkhhX2VJVFo3Qnpkd1YzNjFkVmp2VVJNUVY2Yy02Z0hqZ0ljU3htUmVDWHhfYnFveWs3SG5NSkN2dDZhOUpMdmJQUlhrMjhkLXoxb2Jwd0R1bzZoTGduSV9xZFRBd092VmdCOEVBcjBjUDBoUUNwUzR1N3VVNHI4c0VGd3JlNUNZSlY2TkpFUTFMRnFSc2UwOTlEZmVTMjFjTzZ6SDlR?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-10-18T22:15:15+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/18/6ad544ac144d1.jpeg"
-  },
-  {
-   "titulo": "Conmoción en Guayaquil por el fallecimiento de un sacerdote tras la caída de una cruz en plena misa",
-   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGFqWE9lNVNmVmFqRjNjOEMxWnRfSWw3c05hblBaTXFqOGZwNzZOd3N4NEN5bUNlSWVKc2pJSXR0YXVaajF6YlFEVGtYRHEzRUZ0WjFERmJJN2RYT1UzaHJHMC1lbUNCcmdkZFJWZHVIV0E0aG1pRC01VDQ5N3RSdzNVSXJRbTd6Z2pMU1p5Nm5pZUdFaXljRTRrN0RCNGh6Y0pDYmJrTVZuZ0VUbFJBallOT2VITVRpbldGU2NKZ2lmTXR3S3R3WDJ3?oc=5",
-   "medio": "IFM Noticias",
-   "fecha": "2026-10-18T21:45:33+00:00",
-   "imagen": "https://storage.googleapis.com/ifmnoticias-media/articles/covers/conmocion-en-guayaquil-por-el-fallecimiento-de-un-sacerdote-tras-la-caida-de-una-cruz-en-plena-misa-1792359906543.webp"
-  },
-  {
-   "titulo": "¿Lloverá en Guayaquil? Conoce el pronóstico del clima para el lunes 19 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGpBR2JkTDl3dnJORl94NFR5d3RmQjRneHJqWGhGWm1wUm9jc3FMNkpLbGpzLVBYODFIaXVWWnNaa0g5SGd4aXVpTm1HV2Q4NHBMUzF0SUpUNVFjcUtrbFY4Z01rdFhpajFKN2tXd2ZfcVlYLTR1d0t5MUduMXhHMGRUQ0dEVi1zY212S3FOMlBNenhVOHo0YndfYi13T3k5QkdKbmlVakt4aXBKQUo0T2tsZVZsbHA2Y2gwc9IBwgFBVV95cUxQRm15c2lFZVZzRWFTT2VFeEhYb3l5ZVlkNXRjQlN1VzBzM1ZHa21Hakd0VGpwWVY1TUNjOEpUd0cyN1QxSVAxd2RGOFpSd3NBUlpiNzA2YzVzdUp6Q29XTmhrRG1GYS1XbEs4N2R0ZkdFU0xnT0hteG84NFRsekx5cGpFMmlBU2FqcEtQdTFxellXRVB3TFMzZVN0Rnp6UHd1SHpTcm1nYkkzOHI4b2EtZWpEVDItTmZ5aHFDU2toUGlpZw?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-10-18T21:27:21+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2023/12/23/6587af0694e0b.png"
-  },
-  {
-   "titulo": "¡“Todos vamos a morir” y ocurrió la tragedia! Sacerdote dijo estremecedora frase antes de ser aplastado por una cruz durante misa en vivo",
-   "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPZUlnUGg3VkxRVGdnd1p2SzVENXpxOG5jSGdtdFEtcWZ1dE01TGNpNXprSmIyVHA0M1k5R081Rm5kTm44VXJKemt1cDA0OVdBd2tlY1JSZWhTSzMwMm1hd2llVThpTzRGMVRvMlVISHRKWk9CT2pFMTBTMVkyajZPVUl6b3E5NU1mNDQ1dGQ1VWNQRmNIcTVyQ0ExZ1BMUHFhYUVrYjA0aXdyUW16QkI4OGI1d2FqSGV4RjVBc2NnLW9ySjdEWDBIQldUa05ZWUV3aXRhQWFKZkFWa1pMblBCcU9NZDdOZmsxVnF3UGFYLVBOMmMzakViMWY3M0N4amhmX3ZtTmhmZEw4enZHYmpUUUlVVG5ZMUVldjNB0gGvAkFVX3lxTE92QXF0cldpS1RBbXF3a1kyZTh6ZjZRdzFIOXdyUUtzbE9maldZTG1TVDMzQTRid1o2VXBnRmFyYWVkekRVWl81OG5aOVVrT0d5MzlpYUVnWVZmbUxVYVYzai1ha1B2T1Bld3BuYUNYLUVrSFN1TmhCOEtrM1pmZkFyRzRMdU9XcFNkMnAyamcyTXlXa3NtYWlCbTBhck5temthUEJXLW5lYUJWVnNudkNCajJlcDc0bTJmZm9HSFRLUzByNzdpYkw4WVVucWp2bVAwbjBER2dlZ2tWRDBLbmtoaFpwbEZlYXJyc0dkcnZqTDlVNHFGRnhrMHhlM2l3U2VaazRpeEYzeHZzRHBuY1oxdTBoWkczTWJpTGFUR0pzYlZmX1NqLUE4MTFhNFFCaw?oc=5",
-   "medio": "Trome.com",
-   "fecha": "2026-10-18T21:24:21+00:00",
-   "imagen": "https://trome.com/resizer/v2/ETRROBRSPJHKTC5WNON2XY5HCM.png?auth=ec9ff14558d1465b79eb8a663d208204d3b48820c631ce64ea4f6ca7ac9fe780&width=980&height=528&quality=75&smart=true"
-  },
-  {
-   "titulo": "Misa en memoria del sacerdote Patricio Sánchez se celebrará este domingo, a las 21:00, en el sur de Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTnRjV0JHcko2dXZFTWt0dWlyMlVXTjYtcjdGNjFPaXd0RWkzMWJZT24tWW5VU1dPMVA0MHZWNmFLN21KQllOcEtDWEY1ZzdjeTNaem9Hb2ZQWWhPcDBtSTFJV2JRemp5NnA5UmhrcWE5QlQ0WVhoRDNWODlCZTZTTm44X0ZaM3RyQUlCY0I2Ny1TdEdLbDl4WFpCdW9ma2JISDBjVDd3d1h4MGE4RlctRFRDTVAtLVRHQURGVTVwS2tyNEpnOEVsQWwxOGMxLU5fY3hvcWxMcUJSdldJakpESE1JSGhGeDFVSGloTWNRRHU?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-18T21:18:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/ANOGUNH36NFY7JCEPXXSIKN554.jpg?auth=3ae5172e7179f2ce7ee253c8c15631f869bf6cb2d801dc02cb0c0b39d7d9f652&width=1003&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Luis Rodríguez aprendió a trabajar el muyuyo a los 17 años y hoy elabora artesanías para el hogar",
-   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNUQwZW45NEU0YTFVeFVQcUppX0ZaR3pWc2dWX1lySmlsaERJTEFON0thZ1ppUGlKYUttMVc4Z1RlVkl4OF9mb3RFN19iQzhMRDBzbDlGWThPWjM2MHhhZ0tIYWNFcHFwUTRuWFlrYUM2Y3U3R0k1Vy1MTkFjMks3b1E4NllGLWpHeTJld25FN3dIM2w5aFIwRmxlNlVGLWltZkFFbzUzbDl4cmVzNlk3aDVLa2VRazhpLTd5ODVXaFdDRlBDdV9LYWlRY0J0YlJNaFplZTVfeTQxWUhvYlZfMERKaWnSAfgBQVVfeXFMTlJTV1pyNHlib1JfRmptU1JIa0t4VC1WZEZ5eXgzNkFISldSMzNsdktRMTNrVzNPV2FkcjZhRThFYlFmWjdfRlgxZjI5TXE5djY5dGJXbUxPeXYwLTFNU0JnaFlhMkNCbEhUbjQzaGJtcm1OdXBhaHRQaUdETDBTNWZNODFqaUUweTlRZG5Tbm92c2F3V3VaTHFXSWhvakFzdVNBQl9sMWhuTWs5Zzl2LVQwX1N6a3JmWklCdGdMQXJvNGFNdDZoYWpTazNuM3d3YVlLVjRxRkN2YW1PbFJ6YjNvLXNuNTA1NE56aDVQdzZwQkFPenJidmc?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-18T21:18:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/WKWGDSMTIRAATEETDHFST7ZVDQ.jpg?auth=17d0af782b73ba6a4fa20f93caa1620cff9a0fb57ec2d836ab3eafe1b9df2111&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Cristo de Madera le quita la vida a sacerdote en plena misa en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWNFdGR2UjY1TnYxZUNlbkNTN2ZNVVlNczFqNFM0N3BDNVVWTFU5c2t3bmgwWFpVbHl6WjFaRi1BNG9ZNVVYa19OaGZTY2ZpS1J2ZGU5MVVNX0dxeUdLa25paTM4OWRIX2RiUy1ZUEViSWc4a3p6Sld2bXhueERDTElkLUVpdnZTejlTR0NzRXRhU3Y2RG9oV0pFZGFDWU1SWTFnampNbU9CSENfVXh0WlN5d1hkWWZBSGIyNjFEdw?oc=5",
-   "medio": "La Crónica de Hoy",
-   "fecha": "2026-10-18T21:03:55+00:00",
-   "imagen": "https://lacronicadehoy-lacronicadehoy-prod.web.arc-cdn.net/resizer/v2/MWRAZGWOZ5DJHPVG4PRWYQ4VVI.png?auth=930714ea3b60fec970344177b2482bdebdba243618e97cd86c0ba9035f188b0a&width=1200"
-  },
-  {
-   "titulo": "Barrio Garay celebra sus 88 años de fundación en Guayaquil con bandas estudiantiles, danza y recuerdos de sus vecinos sobre la historia del sector",
-   "enlace": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOeFNTaTdNZVA1NTBuXy1JM05NTlRLTzE2R3lXVWRBVC1nc0JPTVpELVdLU0ZMOXB4X1NiSnl4UzI1ZXNJWFV4NlhleW1IYmd3XzJrN0M0OHVzdmRKOFJ1QTh5MDJyRVZMM1pnQWpxVU5RZm40LXFNZlgwOFgxRi1WZ2VOWkhYaXNaVnl0Q1VyM0VmQzN6NFZVNzNSLXRlRXZkVHlTMi16eHZrcGtDYUZISzFZU2JJSkFSVmtFS2lsdlFEZmVsS3lCeFNnU2pQOHZEbTNBUEhPMHZwcHNhZnB0enItZDE2WkVoNWlFS3NkTW8wOHBUV3JjR0JWSnEwVUhacGRLSWJUT1lkaERUN3E1NWpKN2ZvRUlFcjNSelBpU21oVzJ20gG4AkFVX3lxTE1WMzFIZGdDelV2VzNwbUkyRzVYLVlMUUVOZFRqcG92Q1NDZ3pxdGNLdklZU2xBSk1rUDg3YkI4Ykl4cWpSaDlPaFZmellCblRwb0FTMlVyTE1DZ3lTc1RaYXp5WkhCSmt6d3FZakRjMlNwVm1lR0FjckNYMDZtOG5YSjF3bUZzM3hqVTJBcDZXLVotSEtMTTZESjBBZ0hPcG5ZUi03T0lMWFc4cDZBR3liM0haTjQ4TDNPR2hGX2lhQnpfbVpxQlVPeVpFQkhmUElPck41cnRDNVZtRUdGRVR3ZVBLaEctOGhRMVU1a2hpSU1IbnhfVHV3WEhnXzE1X3duOEEtT0JwNDhUNE1qSU5ja29zYXVTLUIyOG9TSlYyN25xNmZPTWJ5RXVBZEh0M0lFYlFLYlVnYg?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-18T21:01:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/BWZSRZ575BFJFNNQ3SQD3LVSSU.jpg?auth=92825742fd812da95951fceba289a5401f4ca3a4efc404e07b8873494dd7b6d4&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Un sacerdote murió en misa en Ecuador luego de que se le cayera una cruz de madera en la cabeza",
-   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX2lYOTN0QjBINUpjbE95QUhKbFlFeVJfLVdjQlQtZ2N6WmM2WktUUUJTTjZ4V3Uwb2FvY01fN1c0UnF4R3RRMTNTRG94WFM4YXdvbFdQNFZ1RGJEN0Q3WEdOU3AwdTlqd0pJMktSeG1iTlgyclJvM2oxZ3c0NGdoaGZDRTh0ckdlUDgwMVdoVjVYdkRGeTdjRjJ2aDMtVlVTV2NpcFFHc01tWXNYVnYwZTJxWGRUU3ZXcUF3bWFWWDJPUE10TzNfQUZ2MV9EQlV0VVNmdDdweUNWQ00?oc=5",
-   "medio": "La Nación",
-   "fecha": "2026-10-18T20:59:00+00:00",
-   "imagen": "https://www.lanacion.com.ar/resizer/v2/el-momento-en-que-la-cruz-se-cayo-sobre-el-YALQEGI6SNE2NGY2HYAMVAUOGY.jpg?auth=b23b9da7d5e5eb883a191f74ca1465a69b221c2a46307e40c6bc752dfe63d662&width=1200&height=800&quality=70&smart=true"
-  },
-  {
-   "titulo": "¿Quién era el sacerdote Patricio Sánchez, que murió tras caerle una cruz en Guayaquil?",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd3BkMFRhTTVnaUNnUGg0bUwxQWVKLUZKU0hPa1NBZWVYSFN5a1JDV000VzlCVGh6a1pnZjY0R1NyUWwwNmlqLVhqQVYxWnNQMnpGaXlXLWJqVTRiUS1DQTNzZ3lVWDVzNXdfUzFjbTBhQXNKQ25WQ25DRWRKendxMVhXNGVBOUZQSElMel9aVmZhODF3QzN4WVZoSFNaanNobDc1TUZFVFdfS2hpVE9KQ3ZiTHR0TEI3SjZv?oc=5",
-   "medio": "Teleamazonas",
-   "fecha": "2026-10-18T20:55:19+00:00",
-   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/10/18/6ad531ff4325e.webp"
-  },
-  {
-   "titulo": "Guayaquil: sacerdote cuencano muere tras caerle una cruz de madera durante una misa",
-   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXpiLTl1NWlpa3ktS2hJN3pVOUhmZHZ1anFNVlBOR1NvckxuYkdpc1VzVE5Ta3RLYkkwdFp0dFdfaFlzVjFYNU1CSGFqM1RaVzU2RTlJaVU2bjFhaXZ6dXlRVXdrNWtNN2xYc2dQLVBIbE8xMUVlU3ZSTmJjb0xtbVhrUVQ0cUo5ZlJjRXQzVS04Rmhub1dGb0hudw?oc=5",
-   "medio": "El Mercurio",
-   "fecha": "2026-10-18T20:45:33+00:00",
-   "imagen": "https://elmercurio.com.ec/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-18-a-las-9.40.25.png"
-  },
-  {
-   "titulo": "Ejército detiene a cinco presuntos integrantes de los ‘Chone Killers’ en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLWhnRVE2X2tPazBYVzdzcnAzNjB1Yjcta3RDd0R0SEtRUGctWVZBU3Y1V0ktYUdlV09jTEl1ZnV5d04ydk1WRUJhY2dzMGdqOUoyT1VMOUVQY2VKNEVXdU9RbXcwakpTMWpxSmNRRkx2OFRXVU5XTGJTZVZ5SVQ5cGEzVlZWS1BCSnNjNEUyeDZ0OGI5VDh2MjFZQThZNGNTOUVXaXFiRzJZdGFpcV90MzFDa3BKaGZHU0oyR0psY3Q5a0duc0FmOER5RjZpMGs?oc=5",
-   "medio": "eltelegrafo.com.ec",
-   "fecha": "2026-10-18T20:27:59+00:00",
-   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/3d699f1c481902002c18f254a58e9f00_L.jpg?t=108480becb93"
-  },
-  {
-   "titulo": "Accidente en iglesia de Guayaquil: esto se sabe de Patricio Sánchez, el sacerdote fallecido",
-   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWTluVWdoYnVXbEk3UklTdUtvcFRneDZJVm93S1Y3eDVLYUQzeDhBTmFhTmI5TjNoWDVoaFV1VVpKZlo2UTVZUlVUVVpGWmlYT0JDclpBcG9mVll1b2dxYnZTazl1YV81dzFuVmEtUDA0andpeDJwR1pnbmRNQjhaMEFlTE50ZGxhaTRNTWZwTllveWE5VkRYbUNzSzdRQkJySEh5MndIQjNEZmsyLWRONG0xUVU4cDhObDRxTm1TOGVnMUJBQkl1a2oya2gtT2tIVjRNSmRXQ1A?oc=5",
-   "medio": "eltelegrafo.com.ec",
-   "fecha": "2026-10-18T20:20:16+00:00",
-   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/69d63f984c48716717718fd12940a26e_L.jpg?t=c25a8b5a1419"
-  },
-  {
-   "titulo": "Arajet vuelve a enlazar Guayaquil con Punta Cana",
-   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkdJTlBjcUdjT3YzeE94ZzVkUUlUaDc2LWtoMlBrYzVQZUE2TTN5NDB3bjVyRE9ZUWhUTzFrTVNrckZlYVhoM1VhbWlQQ21QNEkwV3F3enJqQTNrN3BqV2hCY0lUQzA1NmNnMUx0LVB1Q2tCYlVwRlplZFRpNkFpTnd1bFNxZy1UQ2poSjBZa1B3Z2NoVFBWZW5VVWF1eTg?oc=5",
-   "medio": "Expreso - Diario de viajes y turismo",
-   "fecha": "2026-10-18T20:04:01+00:00",
-   "imagen": "https://www.expreso.info/files/styles/expreso_theme_teaser_secundario_desktop/public/2026-10/Arajet_Boeing_737-MAX.jpg?itok=IOJIZo05"
-  },
-  {
-   "titulo": "VIDEO: Sacerdote fallece tras caída de una cruz durante misa en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNUxtWTM4bmhiNGpHVnVnWl9ZYWplbHpOVXpKczhIUEl0U0g1bkdCVHo3aHRYUnpha2VwRnU2LXMtX0NMNjlIY0JPRDE3WVMtbjU0TzRuMWV6dTZOclNWb2Q5N2N0VWd4NV9DWnV5c2JseHJ3M0QwbE1Nc212Mm96eW5TQUxWbjNxQkRYMDVrblRQdXhBdXc2QncyZ0luQQ?oc=5",
-   "medio": "Norte de Ciudad Juárez",
-   "fecha": "2026-10-18T19:53:00+00:00",
-   "imagen": "https://nortedigital.mx/wp-content/uploads/2026/10/cruz-scaled.jpg"
-  },
-  {
-   "titulo": "(VIDEO) Fallece sacerdote en plena misa en Ecuador: Le cae encima una enorme cruz con un Jesucristo",
-   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeGdSX1ZhekM4ekdlcWd6QXc4YTF4dWVERVU5WFBFTHNlU29tenctRzltWFFPcWZCdVJyTlJvZmdodUxob013R1p1aDMxQXB0Z21SRzloY24xU2dHMWVjMkZKelFsZmIzLUtIREdxMzdIc2ZLQ0tYZ1BldWV6TmRiendVWE9IanBEVVM0OU1NYmQyRHdvdDdheFQ0M1lOYVV5Z0xYdDV5UzlSdEJKYUFXSGJVYXgtbXdsdGRBZGU2c1ZtdVlXOHduanJCMmxxeTc5dDdaUTVXZFhGRnFDRVZr?oc=5",
-   "medio": "El Financiero",
-   "fecha": "2026-10-18T19:35:03+00:00",
-   "imagen": "https://www.elfinanciero.com.mx/resizer/v2/RNIXAROTF5BCRKC6NVP5ESQIOI.jpg?smart=true&auth=62c437b08a2f26c634400b6ee58bb710e98035d0bd7bbffde13e22524b10589f&width=1200&height=630"
-  },
-  {
-   "titulo": "VIDEO: ¿Cuál fue el último mensaje del sacerdote que murió aplastado por una cruz en Guayaquil?",
-   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZWxFeUhoWUl2QU1jS2FfV0xLVURMVHhzRnhhbW9UUC1kSVh3ZFRyQWhOdWFXUndQNzVyZ3NsM2czbEdTbVkzaHRSanl5NzdWc0NTMkFTYUdWZkRxMnA0V3V6V1RFX2JlajhaV0ZINGJzQ2M3Q3p3VWtJZW9wNTBCNHl6b21ybHVqc0JxOS04Y2VLeFRhWkJlSm9hOXB6Z0dfNHZJNkx2VENMSWwzejRLeENFRzkyY0tuU0JFUWhGd04tSW9VMWlRMGVtX1lSQlVWb0Z3Q1hkOGhBTGd3SHljVg?oc=5",
-   "medio": "Récord",
-   "fecha": "2026-10-18T19:12:00+00:00",
-   "imagen": "https://sportal365images.com/process/smp-images-production/record.mx/18102026/5c202084-d064-4f17-9658-81fb910b7c77.png"
-  },
-  {
-   "titulo": "Accidente en iglesia de Guayaquil: así fueron las misas tras la muerte del padre Patricio Sánchez",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzJKWnpWRHpvM0Y3NXRGT3V4STdYVHU1QzVseUhtREQtMjhtZGZ0VEVlbkduZWxlQ21zalNTNXl4X1B0cmx6R1FHOXRxQ1ZJMkZodDNSd3N6aFh4MF9RMnlhb2c3WXRfa1p5d3E4UE1oNTd6dkhWOFBVNk53U3VzdHpLYXBERFdLVC1PaGpldGlLV1lKYWYyODFVeHpXRjd5d1o3MGJDaXNnMFJfb0c2aHJ3RFNDUQ?oc=5",
-   "medio": "expreso.ec",
-   "fecha": "2026-10-18T19:08:40+00:00",
-   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/18/6ad5181f51c23.webp"
-  },
-  {
-   "titulo": "La última reflexión del padre Patricio Sánchez antes de la tragedia en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFRLMXRZd19Ka0FZUjZSeDgtV3NKWUM0UXhGUTNMY2tLeVpuZEwyY0R5aDFJeTBsazZkb0cxX2g1OW1FMkxGazdSQlZvQWwyTTB2cExiakNxMmlUcDZYUVNBNkVzam9iaElwUU5sQ3BmVTYtMnFnTGp6ZWxnUmQ5Y3VtMXhTcTlRNVdxdmZwamVUallvUHlXVHZxZ3hoWXlaeXRmLTVLT2VrUV9TLTBWODFBaDNjSDJ4d1BhLTQxRk1sRkJWaThiU3JCb09aZw?oc=5",
-   "medio": "Revista GENTE",
-   "fecha": "2026-10-18T19:03:26+00:00",
-   "imagen": "https://www.revistagente.com/wp-content/uploads/2026/10/article-idea-4179-1200x800.jpg"
-  },
-  {
-   "titulo": "Tragedia en Ecuador: sacerdote murió luego de que una cruz le cayera encima mientras ofrecía una misa en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTzhHZ2F4ODBibk1ZaWRiMlNZRWZVVzVyUWh4MWU1U3JpcW9CQmxENUNEUHJ5NzFnYWNacEV5OEY1U21WWDFRQlBoSW00aHZpUUE4RmgzS2ptQndnY3F0Y2ViZE5vcDV6R01WXzFEb0E5MVZMa1lIQy1PRE5ZdzY3a3RtNWM2Q3QzLTB5d2J3eXFETWw2RXVFekRieGNfb0ctQ3daVjV2MFEwT0xqRmR1cVdaTmdNaG5ZOVpva1VaU2xoajlnRHA3UTBmb3NwZENVOEkteG1kQmdoajUxSHplbGFqN2MxQUFwUnRXY2FDampyY1pz0gH0AUFVX3lxTE1VdGxydEZBekhuVFFiYkQtYWdqRkVFRTVIYlQxZE1ZT3hhYXdPQi1vWlMtQUJBYmdra0FpcHdJRnhWaUM2bDQ2NVJZcDdjLW83ZlBJMEdVR0VBenFTSUgwWFN3TWtNUVktZl9BNlJHNFZqT1FadzdiZDFNTXp0c1JkNE5tZjV1U3pfdFBLckp0TXlOTno0M0FaS2FYOEdzV1pXTVZkeW1ySWNzRWlVcGJ4bEEyQU80cnNYQWlzOElHVmlXeG95OHVuZWg2bFpRdzRpTDdoNFIyRFdmSVc2UmkyN2xRa2kzVlpybVI0Y19OTXl4WlE?oc=5",
-   "medio": "NTN24",
-   "fecha": "2026-10-18T19:03:01+00:00",
-   "imagen": "https://intn24.lalr.co/cms/2023/12/05111848/sacerdote-gettyimages.jpg?w=1280"
-  },
-  {
-   "titulo": "Un sacerdote muere tras caerle encima una cruz durante una misa en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXcwM1lUcEUydzcyTVJuaVlEU2NLY2lRUTVfYTFleE1VN2hZTFU3X21qTlJrZEhiN0FhN3hzRzc1T0RXVG9ITXhkdFFUODhKRUVINUh2NjktZndzYmc4Vmg2M25TbUF6NzNvenVLVzVhTllxQ0hlQmdQRERLaTlLcDI2a1QybFAwbldGUUdCUW8zVG4zeEVYT192R2lsTVRtdUtqbFdHdjhwRWlvdDgyN29uUUJmYi1ZeENPVHVaN01ld2FPTHR6VW82YkbSAdIBQVVfeXFMT0VlR2U0NUZyTy1jT1VYaDc1d0hfcWwyUWFoWFJsRHNZU295OU9JVVUxMUNxZGZFS1BmczIxbWh5NXRUV1RoTnFvdTk3bjl2YzIyenBLXzB0US1fSWI4NXo5ajk4RHpkd2FPb3J1TGVFcmI4RHB6Qm1XRkFaM0VHUjVZb3NMQlNZcXFGSjJxYUp1X1FVRks3dkNJSFJfVjZBZDBMMHh1YmVLTFdMS29aOU5ab01KWjFYU0pORDlybUJ4ZXF6OU54Q0RMOW5MNm1lWE93?oc=5",
-   "medio": "Diario Libre",
-   "fecha": "2026-10-18T19:02:00+00:00",
-   "imagen": "https://resources.diariolibre.com/images/2026/10/18/sacerdote-muere-tras-caerle-una-cruz-durante-una-misa-en-ecuador-3e54ae45-focus-min0.05-min0.52-1200-675.jpg"
-  },
-  {
-   "titulo": "Muere sacerdote en Guayaquil al caerle una cruz en plena misa",
-   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2dqRS1EazZJVDBqTTVIYU5QSjRrOFVDLS1xR2ZnekNmc0R0a3VQMEdwREN0c1d6cV9fMkUxOVYyalVBX2F1eXMzbkxqN1F0dFZzR1dWcDFOYzh0M3FPN1llVFlTa0xmUXJGZ2Q0Yy10YWs2WXZkZE5BVTdsZUF4c3V4b0k3YzFnWkRwZEVPaHhCWUotNUo1S2RyTFNYNlRyZzkteW85NTRMQ2h3RFBrZzRSVjY?oc=5",
-   "medio": "La Silla Rota",
-   "fecha": "2026-10-18T18:55:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Sacerdote muere tras caerle una cruz durante misa en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04THc3aDRmWkk1TW5oMGVYT0tLUHBxN25ubjBmajNlWVAyLWREYWJpOVlHeDY0bjdnVlBrTF9yUnBMRnM5a2pJcnoyZXZneG9ZNkh3R1E4MUVXbHp3SWMwaGVXazhPNjhzSzBzQVZzcEI5R2FrT1pMOW9DcVI?oc=5",
-   "medio": "Diario Primicia",
-   "fecha": "2026-10-18T18:44:21+00:00",
-   "imagen": "https://primicia.com.ve/wp-content/uploads/2026/10/Diseno-sin-titulo-2026-10-18T134624.208.jpg"
-  },
-  {
-   "titulo": "Ecuador: sacerdote muere aplastado por una cruz durante misa en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnhuVW1kLTRJSkNlSjhhZGxoYjdzRGd6RXVjR05SWE1aN3FMYWh3XzZZRWdRYzF0VjluSzJVOFlUb0tEVmRWcjBvOW9SNVVHVk9NYVYydjZERUxnZlRNOE1USXFrS25RZEpQZzljNFU4ZWNCRTNaQVNvemFTY3lucThfS0cwekVXVHYta3BzQkplckpyLXdRTGZLT2E1REFtdHR5d29YdS1lSUhjeDZF?oc=5",
-   "medio": "https://auroranoticias.cl/",
-   "fecha": "2026-10-18T18:33:32+00:00",
-   "imagen": "https://auroranoticias.cl/wp-content/uploads/2026/10/Sacerdote.jpg"
-  },
-  {
-   "titulo": "Cruz se desprende durante misa y mata a sacerdote en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONTFJZjhjb1ozUk0tZUlCMGFVdm5tclUxZVRPanB6RjRsOFhvdmtsbmNnVExaNVF5YTYtOE9pVUhyb3pyNUEyc2k1aWxvMkhsamEtclktWUdsM3Z6M0pockpBLVd5NTJPekhRVnlJbHRyVXFjMEMxTHFjZEs1dTctMTFtUzA5V0FPSzZlRXFvcFhoXy1CcnBuVDJB?oc=5",
-   "medio": "Vanguardia de Veracruz",
-   "fecha": "2026-10-18T18:31:51+00:00",
-   "imagen": "https://i0.wp.com/vanguardiaveracruz.com/wp-content/uploads/2026/10/Pleca-WEB-WordPress-Recuperado-24.jpg?resize=1000%2C520&#038;ssl=1"
-  },
-  {
-   "titulo": "Un crucifijo cae sobre un sacerdote y lo mata en plena misa retransmitida en directo en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNWh3alRGeTVrWmN4TzYwbU5uMkZXcEpNU1hjbWtKQVlualVmcXRkY0ROUTU5dm5ad3V0NWRKSUdzcmJ0aEc3aHI0RHQzc3VZNTRhTWR6eXNBaUJXZF9Ra1ZhM3dLckliVWE2LVQ3V05RN0NfeTBVZXlZU3RKRmt6U0FuZ2UyV3lsYmczSWhYOUlPZ0JjRWItZFlZRlV3ejE4Mlk4anVFWnA5NnBTYUxxSWtMa1QyZ0tXam5NT0l3?oc=5",
-   "medio": "Euronews.com",
-   "fecha": "2026-10-18T18:20:04+00:00",
-   "imagen": "https://images.euronews.com/articles/stories/09/95/73/64/1200x675_cmsv2_ca9e78f3-b957-508b-a18c-5ac6e7a8fc52-9957364.jpg"
-  },
-  {
-   "titulo": "¿Quién era Patricio Sánchez Molinari, el sacerdote cuencano que murió en un trágico accidente en una iglesia de Guayaquil?",
-   "enlace": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNc2RhWGdoZG4wY0JGaVhxd2hyeHA5SUxtWDJRWXNtMDJqSFJYdjI0LWtjOWc3VmozSjVkQ0dOVkQwUXVXWjhad1U2QTJvNk1STUxnYmVaUWZnLWFOdTNrczRCaGIzcUo2M1MtX1BXSHBSTk1IYXNWMHdwcEN6dW0wRGxraW9Na0Y2WmVZTmlpYnljYTB6T2owNVdXVU9paFJtbkw5TnAtazhqQVdRSDNqYWI1bDVGLThzZ1FJWmYxeFN0UzdkaEh3MjBaSUZ1VVZfWlhvUnh1TUJSaTBfU2hhY1YzZzNOSDRRQ1k2d0JCamFaaXhrY0lYcS1iSlB2UFFBR1ZHYmNkcV91YUtsSU8wNjZ6SW1fN0JwSjhpQjJDNFdudFU5bG9iQ2M5WVo2SVRtRkRxeHg3ODByMGF3T3V4Y3o1TdIB1wJBVV95cUxORHdoNFVpV3Zhb1g3eE1xSlFtRnlWZVlQOG5OQXpyVC1vUUVfdjZOX09yc1VrUTQ3dlBoX0RWeVp0Snc2d0l4T3BFU0FkY1Q1VnVKQ2RmMUJ0WU4xZElQaWdkWHlzU1pjclVDczhPTG9DOFlycmw4TGlkWmkwU2VKckxXRWxKMDEySmJDd1NRb3pnZHZydnZ2UE1aYVZROGVpbTNJc2dzQWlWMjlmb2gwU1cwZnZaY19qd2QxUzFDVWZDSmJPR2pKeGFQTmRCZ2U3NlcxcHFjdEwxaEFiRjdoVWtFX0xtalVVTVFvOHNiMjFnaDZqY1NoLS1jRi0zcmg2SDVOU05ldlZlVjBkOHRxYXdxc0Q3ZVl3elZuV0xfVEpoVnJpdUFiQUtKRXp4SG80bS1nTlh4aGNRUDdqbVo2bTdhTVk2THBFajNhODk3OERwMkpCZC1j?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-18T18:12:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/RSVMNTPOUVE3JH7E6CXEXYJDX4.jpg?auth=790ae78bb4db74b095211f5db1f6493b496c4b08cfce1cc5362522efab6d2979&width=1003&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Emily López conquistó con ‘La llorona’ al jurado de la Noche de talentos de reina de Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQazd4ek1RT0FYQjRiQ0xES0hlSVNNVUQ0VGh6UmFTMnJPMThXbXozakZSTlJOM3lmSklLbnNSbUNvSDFXTDFiTDlJZUJOaFdrLXBPSGc3ajA1dERXTHJHYk8zbUYxVHlwLW02Ym82UGtIWk5wZVgtblp2bUlLX2FVZGQyYW1qSjEyZy1IQ3JVZ1J5T0ROb21JMnp6WEtsdHN1cVBjOUJiZk1oRklmWFV2TFR2RnFYcEFSWXdSeF85YUhPaVN6MW9lRm4xTFk0ZlM4ZDR0MzFqTlh1U0JpMzBMYtIB9AFBVV95cUxQemdlWjNQSVVva2I0Tzlqd1pPbVBhVjhWdTF1OC1oR3B2U3FPREdwNjJUVDVqR0xCU28wZldiWWduV2JMMF8wdF9HWjNXZzA0X1AxM2s5QWRjcElvbjFzNjktUUtQS1R3dUx0a1pfTWZhLTJVenl2bEE4ckJEUFhOUnNJTzVwM0loZ2l3M2JlMDV0VlVWaHZzZGFTQmlfR081dHdfWG1QZ0djNzZBSnhFTFdHZnNnQmhfRGU1dnRzMWdNQXdubVlHWFVaQ3ZPTDFhSFd1SWNHaHVfamlRUE04ZS1MQWo4NHJuMVR2SURObk9BdEFI?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-18T17:59:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/GPNDOOMNKNH3PDSFHA4UWDKJYU.jpeg?auth=7a897784130c7efb12c4209882bea58349ee66c1a9ba50288219bd9dfebd5f36&width=893&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Católicos en Ecuador lamentan la muerte de un sacerdote golpeado por una cruz durante la Misa",
-   "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQWx3RTZmTEs0VHBzMlVvdks1QWMzbXZ6NGRrQzJ0Tl9OU29hOW9lNGJ3UEd6Y1FIRDRkMGtXYmh2UXEzbTlxVkNtTDRRM2wyR1UtMmlYek8zZzVaekFxOWwySjNuVHdRRF9EMHlaWjZBd25DRWhTY3lCUWVTdG5JUXFXYnNkZGZMemZRWldB?oc=5",
-   "medio": "EWTN News",
-   "fecha": "2026-10-18T17:39:00+00:00",
-   "imagen": "https://res.cloudinary.com/ewtn/image/upload/c_fill,g_auto,w_1200,h_630/v1791413236/ewtn-news/es/Sacerdote_Shutterstock_07102026_ndjpgt.jpg"
-  },
-  {
-   "titulo": "Tragedia en Guayaquil, Ecuador: Patricio Sánchez, sacerdote, muere tras caerle una cruz en plena misa",
-   "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT1FLc2hDWktmc3p6aEZBOFJSVEpzSDNjV1VYRFV1M19hM2VGdk9fdGxiT2tqMnZwOU5YRTRpTnVBOER3Z2oxQWpNeHJsUkhHdHh5M3Q0dmtzRGs3S1lmbEo2UGVkc2hfMGRtb2JKemlNdGVJYnRMdUJhOGc2cmpXVXRaU290UlBRaXRaX2dSclVrdml4cFBDZ050Vnl5VzZ5ZlNPWGwtTHJSbUp5NXVfQnRKeXVSQUYzb3lLMkdHSUlybGxteWppNEN5cUl5TU9XeGxsclpKTUJtZEs4NXlHeXVTU29NMlVPY2ZPVENR?oc=5",
-   "medio": "vanguardia.com.mx",
-   "fecha": "2026-10-18T17:24:55+00:00",
-   "imagen": "https://vanguardia.com.mx/binrepository/1200x675/0c23/1200d630/down-right/11604/JNSP/insertos_1-18017306_20261018172457.jpg"
-  },
-  {
-   "titulo": "Tragedia en Guayaquil: Sacerdote murió tras ser golpeado por una cruz de madera durante misa que era transmitida en vivo",
-   "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVWpSVWRLMlY5Wl9BNXBGOEhaQ1FRZHdySjBpWC1DUzVoeklmV3c3ZWhmeEEzcFhGMnlZcVkzbFV2T3N2clJ5dnZYcHRuWGZYS1dpMTJpOTZuMVdyaWdKWGhoVjByUWF2ZG5HcExnRVh1d2JDNjREVXhVY0FLaTJiZ19KMUM4cWhxT2d4MEdUTHVFQWhYZTR4c0lyOVJLekl3YlludXNQX1hyNXQ5RTZBaEE4TjZjdnNjYzJjRVpuWGFmdmVVTGJKdGFISDdGMEl6ZGdFRWd1RXZEc2llby13ZWNJcExoUQ?oc=5",
-   "medio": "CNN Chile",
-   "fecha": "2026-10-18T17:08:38+00:00",
-   "imagen": "https://media.cnnchile.com/2026/10/Diseno-sin-titulo-8-e1792338117932-768x433.png"
-  },
-  {
-   "titulo": "Murió sacerdote al caerle crucifijo gigante en la cabeza mientras oficiaba una misa en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNODNObnRtcWZ0RHhZTHhfRFc3N3JyQmNzeXM5S0F5TlNQR1c3OFl3XzJ3RkJEVkYxRTlsTWZHbkFFTTRndGxXRGlIcTdBaGdrd1p1Y1Z1cTVEYWRDRG5wLVo0U2pwdUJiTHFsMVZEbFV3QXR0eTRQeTNlcUZlR1huTkcxLXEzck9rWGYtSjY4TEVub29CTE8zUTZ2YXhPclhUVHI2MjNIOTg4dEkyQ2V5dXNSdEhjM2Z0WEluSg?oc=5",
-   "medio": "La Jornada",
-   "fecha": "2026-10-18T17:06:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Um padre morreu após ser atingido por uma cruz de madeira que caiu sobre ele durante uma missa em Guayaquil, no Equador, no sábado (16). O acidente foi registrado pelas câmeras enquanto a celebração era transmitida ao vivo pelas redes sociais do sa",
-   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByY1VaR1BrSk55MjVEWXlfM2Zra2V6MEVkS1JheGYtNlVvYkdlcVpTQ3g3RlVjMXJJdndULUIxUmxQejQ2djlveWhhZFBvMTlDNlE?oc=5",
-   "medio": "Instagram",
-   "fecha": "2026-10-18T17:00:41+00:00",
-   "imagen": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/856983979_18349649584284659_4920072126923868503_n.jpg?stp=c217.0.653.652a_dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ApX4eO26cVoQ7kNvwF4AV4B&_nc_oc=Adph4x4ct9DsTS4eTflcDXqhn1L9XmDwe4dKYEMAfj0LPiPpNpkJ9zrgdOMIKpo_NYU&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=IdTEtmQjGjHnQpTc6Cg6Ug&_nc_ss=7e60f&oh=00_AQPbzuyA_cedRRRj7frzGriNdjpnYn4yiT_kViMKUp6CKg&oe=6ADABF36"
-  },
-  {
-   "titulo": "Murió un sacerdote aplastado por una cruz durante una misa transmitida en vivo en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMmNQN05kek1iNFQyTGxkNktxMFJuQ0ZMR295SWlSZG5kMHRBQlk0cXVDRHpkbUZERTlBbXB0SUxsR3JJc0J0emU1Unowd2VhLUdNQ3dRLW5qZVhiZXJvZ1hwN3RiOU1BZlRZdU05eGVET2xyZ21UaktINHFCU3psSWk2M3NpSGNOb2trd3UzQXdpM2RmRlVBNGJfcGRwcUhFQWFVWDF4aUxHdnFpYjdjT3ZqQnYzUUJ2Z0RoZDc1VkQ?oc=5",
-   "medio": "Noticia al Dia",
-   "fecha": "2026-10-18T16:48:59+00:00",
-   "imagen": "https://camnd-ma.com/wp-content/firewall/uploads/2026/10/Diseno-sin-titulo-36.webp"
-  },
-  {
-   "titulo": "Sacerdote muere durante misa en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZFZVcnVhbU01Tk5FYVkwaFg2Y2ZialVVVzIySVpkWW9ITlg2cHoxVklIRHZfMzFoVmQ5V2JfV0ZqUGJvVlRGczQxOE84VVZsb21oeDJHTlBHaWlyUDVUZWhVbnlTcW5haUxwUjA1Z2F1d2JMRi1VUmM1NXpZSFFQWWRpNU1WVkRBOVB6S2pscDNkcDYyU2NVLWlYYk5kcVgyb3pYMy1CMF9VYjM4bkdLbtIBxAFBVV95cUxNdFh6aTZ5OU1JODY1OEljWFVUZ0VSZGd5bUJHcHRKVDU2TnRac1hvcXc2X1Z3dXNiRjJRQk56dU1nOEJ3bnU1dFFLcm40UGZzNzZuSUhBWnJLRTdjVGRXZEh4V0t5MVF0NE9hdWJ3LUNTR3FoNEtjZnNCQXVuS3NHMEh2T1FxMGRjeTFZdF9BN0NSbGRzZ2VzeWJnWUJKZW5JdDN0RDdlMXVEYWlfQld3WVJGLWlYY2FhRjBCeUJfRDVZRjJ6?oc=5",
-   "medio": "El Universal",
-   "fecha": "2026-10-18T16:45:25+00:00",
-   "imagen": "https://www.eluniversal.com.mx/resizer/v2/WYE4GSK6XBENLBKQ6ANNCHMNY4.jpg?auth=1059944a2b6a76a568345b627e6eb5c10c3db6aaf06220417d2ab67ce9c284d5"
-  },
-  {
-   "titulo": "Un sacerdote muere en plena misa tras caerle encima una cruz en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWkNFMUlIc2hmY0JFcHVLdGxGR011TmtrTVFoYWZMU0c3WjdOdFNVTFpBb0FDVmRCZjBUcnQwR2VXdHRlalBtekN2YmpOUENubXBxb1liRVFfTXVJdF9Hc0FjaFduX2JJQmVqbjV0b2lMV3FOY1VTT2ZCckp5cUdrb0o5cHN3Z01xU2t0RFVuQnJvbWM3TWZKNVpxV196ZkYzcEJF0gGoAUFVX3lxTE1GdzlYRWllbzJRN3lJZmE1V3NOeUJFU093bzdUUWcwS0NNcFBQNnIxemdlUXVVWThPc2c2LWRCMzVidFhjak5TdFl5c0xTNm4zR2MwYWN5d29acnhxOTlHNFFhZUNyVmxIZl84c2k0WGJjMzlhQ0NQcWdjWEppcG5NWndCWXE5STRneU5PZUlYOGdVVGQ1VHFWTXdWbFhMTWtOWHBUSzBZaA?oc=5",
-   "medio": "ABC",
-   "fecha": "2026-10-18T16:44:30+00:00",
-   "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/18/guayaquil2-U64682377857yET-1200x630@diario_abc.jpg"
-  },
-  {
-   "titulo": "Fallece sacerdote en Guayaquil al desprenderse una cruz durante una misa",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2NuRkVqMlRSRmtkbWY5dEVvSTY3aVdIVnU3aGRVcmNKOV8yVUxTYjFUTkZGd2JELXkxM2tlYl9YQklDSnprREpBVXBYcklPTUgxWnhEUktzYWRMX0NWRGtBRnF2RWQzSGpmdnFSMVN6enVMdnp0UXFIdTNCMklPcUZjQk5DdGF6TDFPUW0wNzhlQWgwVGN5dUgxaTFla0hDczZZVDR6LW55OGY0?oc=5",
-   "medio": "El Pitazo",
-   "fecha": "2026-10-18T16:41:13+00:00",
-   "imagen": "https://elpitazo.net/wp-content/uploads/2026/10/cura-muerto-en-guayaquil.jpg"
-  },
-  {
-   "titulo": "Sacerdote muere en plena misa transmitida en vivo: una enorme cruz de madera se desplomó sobre él en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQ2xkdzBUOTEwb3dYUmpDS2NLVFR4MEwwaXE0S042eEVHQUU0RHFGWE5mS00wUEpnbGU3UjZuVkJkUVB2c3pKc0JPdE9rMEE1M3UtdTRNcHNvY1dGdlVTQXc2VTlWRGlhYUstQVMzcjNaZW5uZW1EQVhHMUpSRFNmLVNkZUtURjhlM2ZBOTdfSTZTVy1ud0xPemdzTHJRWkg4NXZWVml2SkZJT0d3Q2hNWU5PUGFtUFVIR21nQXR3UDRhOUlmT2tOS1VJNGIxTXhfTjVUejJ3REpmZjgtYnVJZkNXZ1R1WGZmYXA5b0hQZ3JLXzJ0Y2VjNVV0eDZCT2doU2c?oc=5",
-   "medio": "La Prensa Gráfica",
-   "fecha": "2026-10-18T16:35:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "“Un hombre sencillo, humilde y cercano”: así recuerdan al padre Patricio Sánchez en misa en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQanQ5ZFJiaFhPT1JJeVRxYVhxZkRXOVhkU3U3ejlndnhpUjVrWUdWLXJ5OTEwOVNweElxOWVBN0xtVVRCbURMZVFidkFNekpyZjJCTUpNM084RTVzT2tEZFZEUUZ2d1dfVmE3Y0xxcjBiYURCaWhjMlR0ekU1WGU0RWtkOTFTRG9POUtRR19MaWJfZ181WDAtT2xSQWZXdXR0dE5oNnh0QU9SSExVcXlOWEJqVG52Zmk1dl9kNUhZZUhpeXM0VXV5d1hJVFpYNExMd01IaW1Ga1I3N25TbmNnSDJicHDSAfgBQVVfeXFMTWhWTXVxS3hMUjVqWVJMSS1WbGJpaWdVZ3RjaEl6UV9QZ21BOUM1cVlVZmNRX1h1OE40LVVsME8xNlJISGxYNGxVRlo3N3BzU2Fvd2ZhYW9IbzFsbUtqQnNBdGhoYnVuNThwMW5kMDJVNlFzR1V6TXFOZUE1dEFYcXpKRWtLZ282emhFZlEya1pFeFUxOHdwaHdLS2dBRm9qR05Ta2pHNk9PMTlZOERDb2N6NHAtZmg1bEduSWlGM1JQeUFNN2pVREVxdVJ2ckZSNm9ISm93c085ZWdCY1JiaFlpM1VZel93Q2ZfaFBBY2Ezd3VLQTBtdWE?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-18T16:32:45+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/IZXRQMWA3NFPDHAVI6SNYIMCYE.jpg?auth=0e6036f2aec5ede0b4d87c079889aeefc2a098f07cd271cccb3914b689b2eaf5&width=1003&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Vídeo Viral | Sacerdote muere tras caerle una cruz durante misa en Guayaquil; antes dijo en su homilía: ‘Un día vamos a morir’",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0hTeUZOYnN1eEd6NGRZbUVXTWVnREhJRWVWSnNPTDgyY2hYVzJ2MXBWLTNSZUdkOUcwRVM1SWV5MmFYbGtmVDlxZlBEcVBJMUlHZ2lQSmgxeHpkZ2FvLUdFeTA1ZC1xSDE1S2doekU4azl2VzJDdmJMQmQ3ZGFsQ2s3ZXEzd2JjOUZNcEpWRHM1V1prdDM0SEtlUGNCVGpuQkc3TDF5THBuR3VJVzVWbmE2cHM5UE92NTdac0JxWnBnekR5LTlRRngyeEF6WXZDNmN5YWNXRQ?oc=5",
-   "medio": "Mi Diario",
-   "fecha": "2026-10-18T16:25:43+00:00",
-   "imagen": "https://www.midiario.com/resizer/v2/GWNDRGP6XREZVOVXMNO5R5TMVE.png?auth=85bdcce9c0688884e8adccc6cea22efef907afe8328fbf12195fb946abe17d1f&width=1200"
-  },
-  {
-   "titulo": "Así fue la vida de Patricio Sánchez, el sacerdote que murió tras caerle una cruz en plena misa en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3lHY2Vrc3pJeHZma1BzYlN0dWNVdHhNcUp3MXNhTHhPQ1AwYlVvRnU0WTBhcHd4aGZUb3otQ1JPam0yc1pVLWZ6MXcwX01iQWtrN0VpZFZDYzN1QXJBQlVuczNFeVpsaTA3d29Zd0x3LTVHX041dXBvcHJ4Q1R2cFNqQTVzdDlWRThYSGRXQTJPUnRsWGJjNS1SUnpNYkFmM25nNFZDRE9qZ2FuUWJmZFRCUdIBuAFBVV95cUxOZE1tVUJxaVlQWDdnVmxvai0tNk05M19oUEZXSFRNQ0dSMmhETUVoXzFRRjZFZ01qTjF5QUpibEhLTS04ZGt5UHdReXhaS0VQa19oQmpVSU5yS2ZPWm51X1VVMUtzU1RJaUtSQlhfeVdaTHlyU2hBc1JHWk5ZbWdkbE1DUUk4aElud1NXR29UYlpBVTV4LUpqYmphamtZd3J2MVVsdktQVVVMU25MRmtNWk00aEdKTVJk?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-10-18T16:23:55+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Muerte del padre Patricio Sánchez en Guayaquil tras caerle una pesada cruz del altar",
-   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNUQyb2hlbVNPSkpDNG5zZkVQTEtRMU94Q0hjeS1BOVQ0QkZYcnNyREZiZmtNU1JVMjU1dnQ3ZHJNdnY5a0RwM3U3NkQxdkh4dEU3bGN3MTdEQzlzbl9kSmt6OWpFQTR6ODBFNVpMLWQwSUJGNVhfZFpUc2M0RS1WUEdERWYzNVlTTW5Wa1MtMkpnQkpTaGtscm9TNmhjTTZ3T19YeS0zUVpIaVlWdW1ycWFOaXM3Ync1U3ViTVQwTnpwUnNNTkdBRDZtZw?oc=5",
-   "medio": "Diario del Yaqui",
-   "fecha": "2026-10-18T16:21:50+00:00",
-   "imagen": "https://blob.diariodelyaqui.mx/images/2026/10/18/muerte-del-padre-patricio-sanchez-en-guayaquil-tras-caerle-una-pesada-cruz-del-altar-cdf9053b-focus-0-0-1500-975.webp"
-  },
-  {
-   "titulo": "Emily López gana la Noche de Talentos de Reina de Guayaquil 2026",
-   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3psb1pRdldkalUwZ0xvY1RCVlFKaEdkTEpJU2h5OWNVUFR1RElxQ3JPX0lZSm13blNYd093bXI4YTVLQmt6b09ZMEVZVmdGMnZmRkR5aUU4WTlldy1wUnkxMktSSllhMnI1aTRYR1pXM1NwSGg4M082eThoN3JVdGpBVlhiLVhpT3M0eC0yMDIwTE9FazRLWk5nQlZqc1QwNXphQ2VB?oc=5",
-   "medio": "expreso.ec",
-   "fecha": "2026-10-18T16:20:20+00:00",
-   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/18/6ad4f0ffc35d9.png"
-  },
-  {
-   "titulo": "Tragedia en Ecuador: un sacerdote murió aplastado por una cruz mientras daba misa en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa3JHbHlPd3dkR0JESlVBZnVkNGpwNTZxV3FrYnZHTERGb3RRNTBfR0xnREt0TXo2eGVFX0ZIYjBJM29qZDJiWHBra0ZPX1BXcm1jXzhQeHFQMG9fYnV5S0dLbjUxbjAwZGhVTW0xZDRmTDVPWTBRRndKSDUxcGpnTVVOdDlyVGNrczdfVHFTQWViOGZSMEhzRGRINVh4V0w3QTNNSXFoSEtpRXJMaVNuRUllbUlKdWJYdWVMSnItZWpqaGVWSlhNRG40QW9kLWJVOGZIVUdRa2lJV0NweC0xNDVsNGJtSzDSAYICQVVfeXFMTzA0LW9teFJ1cXA1bERIajhsVXFlb1JCRGhkMDlFTUpEVXROcnpDYmRDdTJLeXYxNzRWOGZ2cUxwc0hoelhxYWZ5WmVVbUozWXBqUzdNUmcxZHRGSDYtYUJCWDJjVHFGYnN1OGx3MF9RUk11VHF0b0Nsa21PM2tmYlB6VG9WS2J0UXN3NFRCRDBaOU9hTFdIUVlUNFFfTTZXSFV4T0E1M0R4OEhyeGc2anF2XzQ1ZThQUzVvcEI4YXI0eW0tNzhtXzRMaDV1c3BHT3RaMlJYdnpobWljNHMtTzE4eFEwTkIzSkJsMXR1SE93NW15WmE3VE9STlItLWxGTlRn?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-18T16:11:00+00:00",
-   "imagen": "https://www.infobae.com/resizer/v2/SHTR2R2YFRG7THDFY6SG6ICBC4.jpg?auth=f5fbcc7b793120528bfae446e21acdcf3b46c8110a0681aca3ca2ba436ad18f1&smart=true&width=1024&height=512&quality=85"
-  },
-  {
-   "titulo": "Sacerdote muere tras caída de cruz en misa de Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVERMRUVsMVFIV1BETFVoU21lOC0zbEZzeW43VlJtT3pod3daN2RheGgwWmFKVkU3X3NFNlNQU3M2Vk13QjhXZDNnUjdrZkRDcWxMZU9HR3VBSDZmMWtnM2NrQnBoa3VneWVMQ0luOUE4ejZBaWp4YUJUWUdZZ1VSZjcybHVRQWppdU5JQU9xeHhmQkFaRl9Jb3hsdWlsb19NcHQ3QjhUQlZVaHc?oc=5",
-   "medio": "El Horizonte",
-   "fecha": "2026-10-18T16:01:21+00:00",
-   "imagen": "https://d6isf1yxni2j5.cloudfront.net/EH_CONTEXTO_68_2a1466ff70.jpg"
   }
  ]
 }
