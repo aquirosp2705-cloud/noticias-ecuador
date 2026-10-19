@@ -1,49 +1,392 @@
 {
  "zona": "internacional",
  "nombre": "Internacional",
- "actualizado": "2026-10-19T15:55:36+00:00",
+ "actualizado": "2026-10-19T20:46:52+00:00",
  "noticias": [
   {
-   "titulo": "Ampliación de cobertura EFE Audiovisual Internacional 19 oct (15.00 GMT)",
-   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUhzU3I3VmRFa1NkWWVUOGpGOVZyREx6YW1HUklhU1YwanljaDVWYU5WVkpzNjVoakgtNjRZd0dHQVZSSWVGOFEyQWY5RXByRFhvcUQzbGZ2SWtlWHhqbE1ydHRmTlNkd0VVSW1yclMwQlk3blI5M0FHRW1KajQxR3hvVWNvZFVXNnhMaXZrQy1LRmhFa0ZxMXpDb1pickhTOVRka3U0Y1VmcmcyR2YxaXZ4ZGk0djRiU0NnTUtpb9IB2gFBVV95cUxQWC02bnlyeTZ4R2gxWVhaSWJmMGlvclYyV2puSUFsMnFCQTRSRnN2a2hxdmpKMF91ZE5TdVViUmhxMENRX1E4d3FYX0dCRUplNndlRlpFZEFmWWtiYWFUdVljd3VKMl90QzhDYzFQblRZNkhvajJTaUUwY29CZEEwWWpaWTIyS0UzeXBvLWhodXY4WXlKWE1xSkNmT28yQnhWZ25SWDNUVlVvUmdnbnNySlBIaG04MUpEMHJfNWI5SUNlQ3ZMOTdPQXFOSHFhcWhqNF96ZlNPb3E5UQ?oc=5",
+   "titulo": "IV – Festival Internacional de Títeres para Adultos de Varsovia 2026: The Journey, Quacksalver, Golem, Eurydike. Premios a: Antipodi, The Noise y Golem",
+   "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWF9VV3ZrU3ppbUx0OWlGZXlzSE9SelR3QXRUa2ZtYzRZTWRWZXZrb1FzanpZRUhSQVFyVDRfQWozNEh0ZGhOcGNmazVjd3I5RUlIeWV3TGNCeEFjalJHTG13V1FocGQtaENfTnlQU3l6bEZkSzlXTXFnR05HME1aLW54QkZ1cWN2V0loWjFXYXNOUnpjeXM0Y1pDN3FPV0ZHbWE3TEp1OVpuMHRaYXh1dm5zcERBd1YyN01aRnlFRUFLYjU2OV9TWWx6c2xGWGpzb2xjclVBMUNkNHpJWEltMEs5R2xnX204RldrZHVrMGJZTFdGZnI4NUQ2T1FwMjVOOVJFeQ?oc=5",
+   "medio": "Titeresante",
+   "fecha": "2026-10-19T20:42:06+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Galería Feria Internacional del Libro 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZXRoOW5zaFAwcVdHSjZGMllyRGFWRkUyRjBBa3J5ZUNheWUyeGVsV2NrY2RFM3VfcnRwUkx4QUVWNFQzY0txaFVzeDZ0U2JZcjB1bzNYWk1lNE0tck5IZ0NjNEs2b1NoS3JhNWgzQUxHREJYQVlIRW1UMW5lMTZvQjJ3?oc=5",
+   "medio": "Rosario.gob",
+   "fecha": "2026-10-19T20:39:59+00:00",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/themes/custom/pic_theme/assets/images/mr-opengraph-image.png"
+  },
+  {
+   "titulo": "Boletín semanal No. 39 Colombia y Armenia lanzan una coalición internacional para acelerar la recuperación de especies",
+   "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNajhmYy14bWlyTnhmTktVNDY2eW5JbjFSLUpoODlRcFo0TEJtbW90T3gzNlBxRW1ZQUdPN0pSNk4ydzc4dWhPUVgzWVJkaTFHenk0LTBFUXRMT0tTNTY5MXVnVFhRWV9DQkpsTC1DZFRocWZwRW94cU11UFhKNkVxWW5SRGVTMlhHV3RFU3BPWWRTZnVUVkhrOFZLQzVFMXYzc1ZpMFBjMVZEUDFKWlY3NFQxUDExR1VWVXBHRkgtOUhqaDRadWEwSWxCUVBmS2twMHNwYndBYVNKTkIweXR6Rl9qbF9xTV91Z2ZzeWE2OWl6amtQQmhTSlBNamxmaU0?oc=5",
+   "medio": "Noticias UNAD",
+   "fecha": "2026-10-19T20:28:06+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Ministerio de Educación realizó seminario internacional para fortalecer la lectura y escritura en los primeros años de escolaridad",
+   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPREhDYjBaQkVqVTduR0UzNVNadjB3TUFubnhyY0tfTElXT2YwdUFqQ2NHS3ZoV29PeGh1S2tsRnZYWGRSaXl2b1RDX1R2cmFrS0NOZFNoSXQ4YVZfQlJHYXo4cURTVHduZFJsVFp6RWRnUC0yOGJ3NzBTdnhmSkRKcFUxNmc0VWJhdFZvVDZNY0ZWR19McWhwd1M4Qm1rdEpCdXR5aS1XN3JuajNXSFd3NlFGMTZCLTFSTnM4anBHdU8xN3FZakFlempZdkVTVHhTNEtoVGtGRDZPNHFYNi1GeW1OZ2ZudDVBM0dOTHhaSQ?oc=5",
+   "medio": "Subsecretaría de Educación",
+   "fecha": "2026-10-19T20:21:54+00:00",
+   "imagen": "https://subeduc.mineduc.cl/wp-content/uploads/sites/128/2026/10/portada-1-1.jpg"
+  },
+  {
+   "titulo": "Hoy, 19 de Octubre, nos unimos al mundo en el Día Mundial de la Lucha contra el Cáncer de Mama. Pero, más allá de vestirse de rosa, el verdadero significado de esta fecha es recordar que la detección temprana es un acto de amor propio. No dejes tu salu",
+   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CTEM3aS1Gb3VMSjFfS0FWNllpYWhmMVJQYms2TC1yVTFPMkNtaWFpTlpTZnhYR0Y3VEdwX3BuV2tkaFpNdFJLY0txOVFvQzZaM0E?oc=5",
+   "medio": "Instagram",
+   "fecha": "2026-10-19T20:14:01+00:00",
+   "imagen": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/857485448_18641803633007574_951965773653303676_n.jpg?stp=c217.0.653.652a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QJGeeQgs0qMQ7kNvwE6viCP&_nc_oc=AdpL1utFhz4j8I_gCQGy8jSJOaUMclhyJcq3dsW8T3aO-8Qo66m5MbsLkh7RS_5VmBM&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=eLXm5ZR51aeOTJr0TeA0Hw&_nc_ss=7e60f&oh=00_AQMzkaqHyeiLVt2jO9VQq0WNReQp0qEqLe_KRYelfXb2mA&oe=6ADC1028"
+  },
+  {
+   "titulo": "Britney Spears afirma que ser auténtica le ha traído críticas: “El mundo me ha odiado y sigo en pie”",
+   "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb3dGcG1yQW9WUk9Xc3JoR3pZNHpnUHVMY1ZVcDJUMk0wT29vaUJ2ZnBORFdZRUlMZGVnTXVra3ZFQmZVOHZRWlRqNERaUnhvWXhXeUhOeE91Y0tuWkRKX3A5S2NGenZxZjZ0ZzI1TDhadENqQW55bnoweUtSWExwT25KYXRpRjFmNndVd0FRMktXd01WaFQ2SU1SMTBKM0pueU96V3NmZ2Mwc21BdWItc2lmcUx6eXQ1Nkk3NWpWek82dUN1X2pCc0NjMFJieGVLSkh3TEJ3dkpibXhId0FnbTc2TQ?oc=5",
    "medio": "Infobae",
-   "fecha": "2026-10-19T15:46:24+00:00",
+   "fecha": "2026-10-19T19:57:11+00:00",
+   "imagen": "https://www.infobae.com/resizer/v2/I5RR7G33DBEMZM7WX5OSBA7CVI.jpg?auth=6d232854d7c3296c8c4abbec5d4bdc0dca064924884e62f9f6f499c7d2a13e46&smart=true&width=1024&height=512&quality=85"
+  },
+  {
+   "titulo": "La Facultad de Contaduría Pública del Externado fortaleció el diálogo internacional sobre la gestión de conflictos de interés",
+   "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOX1pNT0hEVjBkWWJ6YVdTMGd6NE5qajBaRElZbGNUd20yZ3FMMTItSDlGTEFfaUhhZmNOVTNVVE5ZcG93TzhHOUsyODFUOWw2WHFzdFNpNHFjUHQyejl5RFlUeHJqZ3dtQXV1cmt4ZWllOU1SdERLdTJtYm94SUo4Y2N3QjR4ejFPN1BkdHotbDZtM0FYQ3pYMEV6ZDhEeHBrQzRYNTdlR1A4QWdfcHJIUGN5NkdPUlI4c0ZsUjZOY0s4R3R3LVN5aXE2Tl9wODc2OHNuRjhiSnZ2VkxsOWhHRmdDeUtBaDFxaV9sZ1BwUzg0czV2VmZNQlFmT3ZIWnd0OFBRNzZ3?oc=5",
+   "medio": "Universidad Externado de Colombia",
+   "fecha": "2026-10-19T19:54:32+00:00",
+   "imagen": "https://www.uexternado.edu.co/wp-content/uploads/2026/10/gestion-de-conflictos-de-interes.png"
+  },
+  {
+   "titulo": "Trump se muestra dispuesto a reunirse con Putin y Xi para poner fin a la guerra de Ucrania y cuestiona a Zelenski como negociador",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYUhiRVZZejFFdDhWY3hsX1pzVVl4N00yZVlFWmc0TTFkdWk2MmdWbC1XdENraktqUGlQM01IVTR2cVFtYS0xVk9KUmNBMTlCT2NWX0lsYmdSd05MRjF6b3pVeDBsaVN6YUJaNjVyem4xdDhuTlZwM0tzNE9yNllxSU9ESdIBgwFBVV95cUxNenBmNEIzdGw5REc2NjBfTkFXek1BcThUQnptR1ROVnVUbVlzcFhLUHJtbnFQRHBCU3ZzbThQN0cyVXBvTHAzSldYRFc2QUVpSDFpY1ZRdGZsVC1mbkVTOGgxN1h5Q19xV2NUTDlYZUp1UlEwZ24zSm9XOWpZUEt6MG9WRQ?oc=5",
+   "medio": "El Mundo",
+   "fecha": "2026-10-19T19:53:30+00:00",
+   "imagen": "https://e01-phantom-elmundo.uecdn.es/49d81c47110132195f7e0e90daefda54/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/19/17924393640502.jpg"
+  },
+  {
+   "titulo": "Finalizó el 34º Congreso internacional y encuentro nacional de Supervisores docentes",
+   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSzBFVHRqRnRFOEROT2xZSmxGcURiOXBCNTZKRTB4UThkVXMtMlJWR1JGa3BMWkwxYzFaSDg2Z2p4aFQxeHVWT1Q0MjgzYTlLZW5hQTI2MkZhcUtWNGg4aUZQOXJlMVNkU1Q2Y1hnMWRVR2xBb05SNmlxUzlzVC1CUXJrUERNakgwakw2QkxrU2J0ZVRTTFE?oc=5",
+   "medio": "Portal Educativo DGE",
+   "fecha": "2026-10-19T19:47:37+00:00",
+   "imagen": "https://www.mendoza.edu.ar/wp-content/uploads/2026/10/Foto-23.jpeg"
+  },
+  {
+   "titulo": "Los hermanos Torres y Josh Niland estarán en la gala de los 50 mejores restaurantes del mundo en Lima",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd2ozUFNKRDhPSUZWMnRCR3M4SG9JVmdGOGdXNERVaFF1N0tzWEZpdnRaMWVTajh3RzJaeDhOOVB6aE9DWTFXRWIyWEZ2eEx6QkJpdy1UdGp3dVRYenRmTnprUkpjRFJGTWNsWDJIcG03VnkzU1haWk1sSWZlVFI5b0g3U2VkUGZDb1NwajBpeGVHSFdJMVlLS0ppTGhtbGtXTGNGVWU4VVhOdw?oc=5",
+   "medio": "EFE - Agencia de noticias",
+   "fecha": "2026-10-19T19:38:14+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Insiste Trump en renombrar Nuevo México como 'Nueva América'",
+   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZld3SEpjUkFYODdGWGRqal9fZllrdFpwbXR2VEVQUk5zMmVSSGVzSktfU2Vfay1iLVJ3cHNJVVJQSkY5TV9EdFpOTERJYTZobXNyNnRnS0dHWXF0cEVGcGNHQ05oOWdjLWVpQmFCaEJWUU5aMmU5SnRQUVdFVGdMNlBnYi11V1NlN3lzQlI1ajRBMW8yTXZz?oc=5",
+   "medio": "Reforma",
+   "fecha": "2026-10-19T19:33:05+00:00",
+   "imagen": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/301/6300527.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0"
+  },
+  {
+   "titulo": "» Boletín de convocatorias con financiamiento internacional orientadas a Ciencias Sociales y Humanidades – Fondos para investigación y premios Octubre 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRWp4NnVCWTRKckFfUHAtLXlucHE0VjIyYTYzWk12Yko2Z2RNSzFHSjZWWkFmN0p1TUpkSzZkVzE1S0dYWHd1Zk5MNnBOeFRJckZTZTJSTHZQLXc4dHhQYlFBYVB3RE5YZXFuek4zbWlIdGd4YmxJN25FUmREU0E4MTdLQ29wWm53YUtfOTRnQ3NDYjFsQTNGTXg3UWVfYVU0V3J5YUVvMXAxZE1VTUoxN0VBM1dfMF83NkllelFNaVRJUGk5Y0xBOUVrcDFWZm9uUmliLTdWTjE4OGRmYnRNS1NTRjRncmN2R05JVTgwX3NmcVJPbERYaXFZSi1pS2daQW5sMVg5a0d4WmhFOUhmWlJOQjZnOUdXYkphTjZB?oc=5",
+   "medio": "UNSAM",
+   "fecha": "2026-10-19T19:29:19+00:00",
+   "imagen": "https://noticias.unsam.edu.ar/wp-content/uploads/2024/09/boletin-internacionales.png"
+  },
+  {
+   "titulo": "Anna Díaz deslumbra en el Festival Internacional de Cine de Morelia 2026 con falda midi y zapatos negros de tacón",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWU3a056OUdGSnliNGItUnlUTEQzaHZGRFR3VkNvNkliQVZYbWdRNjFSZFplOTRac21wQUlHdEVvaDFWdUdhS0VzVU9kZzIydDVXWFhDd2tMMW1XUTB4UkdlTjBYc1NoSnB4aFRzay1UVWczazZ1NmEyRzBETXZVUm40T0RDSkdtZmsxdXdZell6Y0tTTWNORFZvbm9MSnllcWx1WTY1VWFiZw?oc=5",
+   "medio": "Vogue México",
+   "fecha": "2026-10-19T19:23:07+00:00",
+   "imagen": "https://media.vogue.mx/photos/6ad668ecdaa490f487de3cf6/16:9/w_1280,c_limit/anna-diaz-festival-internacional-de-cine-de-morelia.jpg"
+  },
+  {
+   "titulo": "La UEFA da un ultimátum a Infantino",
+   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV1llbmNaVmhZbzRRVTRuM1B6TV9DRWRxdkp2U2xDbnd1anM3ckNQa09rSWFTdUFnbWV6RXhyNm0ycVZ4bHYwZ0tIclNNQ21OZ292eDJwZHAzUjVlaElLT1dUUHFsMWc0VUpzenY2MGlVZFpwZGlpLUtNR3RxOENTaTJNTjdjVTEwRGdXVjF5S3dWODZTdGNiOGllVFg4eU1waGJMNk1hQdIBtAFBVV95cUxQWGlwY0s4a3g5QVQxSllEMkZHSFc5eDA3VFBFZjFTWVZrLTVaYjQ1WUZaa29BenJCWEEtY1FkX0RzdkZDR19sOGZDM3BHM1E1R0JPX0hNWEVSYzYwTDIzd2VtUEhlTVlZZmJrbE9VLUxqNjZnRlZFSUU0SUpLaG5YcVlCQnNITHN2NUJDRXdiNHpOX3FuNzhEbk5EdDdWNlRteGRmVTRVd3dWcDdlYlNTT0k3ZFU?oc=5",
+   "medio": "Mundo Deportivo",
+   "fecha": "2026-10-19T19:17:00+00:00",
+   "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/16/6ad1b9f2c897f.png"
+  },
+  {
+   "titulo": "Uruguay se suma a la campaña internacional de Interpol: Deepfake",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXB6VDdBd2huRURDb0FFVDF3ekhBbVBlZ244SGVlM3FpUHJKY1Q2OUZZSnFyWUlwbFBWQzRpUWhMVG1xYVU2dWpCUE94ZGRxVmo3bnFZRExkaHdVbkk4Qi1weDNFU0FSbG9nNWwyWGJwVHYyZm8wVVJQcC1LcVFxM0lNOFVTWUUtX1pfSjdjWVhUaWhrZWZxNjBjSjZaZVBhckp0Y3k3ZEQtZXJqLTE4b1FRanUxYkU?oc=5",
+   "medio": "GUB.UY",
+   "fecha": "2026-10-19T19:06:07+00:00",
+   "imagen": "https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/imagenes/noticias/C2281T01.JPG"
+  },
+  {
+   "titulo": "El factor que podría favorecer a “Picky” Soto en su camino al Salón de la Fama Internacional",
+   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZEhITWxnYWxxakNhSGRCNHBHQWQyVzloa2VyS195LTlwVXNsWHFHRXhpR3NLNW14aWdLR2R1eFY4ejJVU1RIT0VBek9OY2lkVWlZTmYwWDJnMXVnaW1QeExmY1dxLTE4ZHhuT0lDbmdZNDd6X1N1QmJGNXBIRzR4cTlwWXJ3WFlRdGVCVHg3amdBNlVVZ0IzZGk2Q3hPOWI0MVR3VElnOGtJekx1WWJiamZCLXMwQ3dWVE9NQk50Unh3MENfQmlNR1RpSnljRmo0eTVUUVV5VVpqQQ?oc=5",
+   "medio": "El Nuevo Día",
+   "fecha": "2026-10-19T19:00:00+00:00",
+   "imagen": "https://www.elnuevodia.com/resizer/v2/5NSJZ4I3TZHDBH5E2JWQWMQ4KE.jpg?auth=eb5af56e23657f6560626e96c234ca338c8059ce8bf50f259ac7e4ad6e89fab7&quality=75&width=1200&height=717&focal=1132%2C349"
+  },
+  {
+   "titulo": "La crisis tumba el Festival Internacional de Ballet de La Habana: el Ballet Nacional celebra su 78...",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORExwOFpXWnFrWGUzSjJMUGlaX0JwMHFMYzR3TE1VNm4tVkFIeEJTUTYyTHIxRkZmZUxnSWlFNTBjaTRuOE9SY0tCT2wyVnBhaHhkdmM5V24ydWc1Sndrc3phM3dCaldrazZHaUZ0aHVKT3ZpVUVWM1BLOXdDWmVsWFN5UjFLMnVHMnZpQi1kUWYzaTg0el9TdGFXdUpRYzFiS0ttbFJ5UmxRQ3h6X3hFMlhfOVhUalpoR1k2MVRfTDPSAcABQVVfeXFMTkRMcDhaV1pxa1hlM0oyTFBpWl9CcDBxTGM0d0xNVTZuLVZBSHhCU1E2MkxyMUZGZmVMZ0lpRTUwY2k0bjhPUmNLQk9sMlZwYWh4ZHZjOVduMnVnNUp3a3N6YTN3QmpXa2s2R2lGdGh1Sk92aVVFVjNQSzl3Q1plbFhTeVIxSzJ1RzJ2aUItZFFmM2k4NHpfU3RhV3VKUWMxYktLbWxSeVJsUUN4el94RTJYXzlYVGpaaEdZNjFUX0wz?oc=5",
+   "medio": "CiberCuba",
+   "fecha": "2026-10-19T18:56:30+00:00",
+   "imagen": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1792435622-crisis-tumba-festival-internacional-ballet-habana-ballet-nacional-celebra-78-aniversario.jpg"
+  },
+  {
+   "titulo": "Convocatoria a jóvenes creadores audiovisuales para participar del Festival Internacional de Cine de Mar del Plata",
+   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdERVX1hZbjZHUUNocUtzYUJmcHFldEdib2E2VDl1OXM5eENqcW1WcGk1aTJDZ2hMWW9SZ2RJdHFxYnFoMjR1N21NUFFib1JNVDdoZk9WUWF6TG1iYVMtOWxFZ280TWVrMHVyVTVMdERPVzk0bHhfckpOZVlZZnFOMnVfN1BDYWZHc0JPSEtUVUxJclJ2Z0MtZWlZNE4zdGU1dlJNd0QzR2l0cjZBQUQ0YUkxYUNBWDY1cWhQUng2b255WkFxbUpBOTRERW5pbF9ua0dZRVpkREVlQ0k?oc=5",
+   "medio": "Culturasalta.gov.ar.",
+   "fecha": "2026-10-19T18:54:59+00:00",
+   "imagen": "https://culturasalta.gov.ar/wp-content/uploads/2025/07/logo-cultura.jpg"
+  },
+  {
+   "titulo": "La Corte Penal Internacional, el líder opositor de Tanzania y dos activistas iraníes, finalistas del Premio Sájarov",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHNPYTZKTkR1ekVaVXpTSzFmOVVMbElRdHZzdjlPZ3hzcHZHRi1mTF9sdFR1SFQ5cTNhTEh5NXhkanBLSks0emhZZ1BwZUNsanpoemdFRHg3bjlMSWhoSldpZUExUFFMX3FYdU5Gak4xcllQRFJuVjRqT3RRb3RKRzJHSVRzdzRsYmVzX1BQZDFpUnhOdHZLSUdCZmRxQ0pFUGNObHFCZlZVdzI4YXfSAbMBQVVfeXFMT2Q5V3VIVzRFVW5leWwwNC1yeFZGNXBwektJN3Z2ZnlYQ04yT3NfQ0QyNHdlMTJkRVlnaXp6VjRQbDBpX1E1WVZSQnRJczJHbXFGMEs0VnJoZHFhd29yb0JVTjU1MFpwaWZlZ3F6YmlsTVE0cjduN3V3dU9RNlBvczQ2VGhpUWFwZmhOWmpBUzh4Z3dEaXZ2U1Vsb0ZmMTI2U1RzOTE0dlFNNE1FSVpJcTZ1WGs?oc=5",
+   "medio": "ABC",
+   "fecha": "2026-10-19T18:45:54+00:00",
+   "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/19/1483834811-kihB--1200x630@diario_abc.jpg"
+  },
+  {
+   "titulo": "El WBC alista una Convención Anual histórica en el Palacio Mundo Imperial de Acapulco",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEJkM241QnhCZHNONjU4eFljR2c4ZHRPMWNRSkhRZnJQdE0ySlpjOHFhNWIyNExxNGJJNDl5NGdWdU0xQUFWV2ZlYVI2TzlLQ1VTQjBMWm5sRi1fVlZMcEFONExIR1pJWVp4RHJham9IVXhmNGt3TERlRTU1RGNJeEs2Q1VBN1hfM3FLdzJWd1IxeU5YZjhJc25JNjdKdktvSUhNT0FsRmpseHFz?oc=5",
+   "medio": "World Boxing Council",
+   "fecha": "2026-10-19T18:44:57+00:00",
+   "imagen": "https://wbcboxing.com/wp-content/uploads/2026/10/acapulco-convart.jpg"
+  },
+  {
+   "titulo": "Del rugby al tenis: el hijo de un campeón del mundo ganó su primer partido ATP en Lyon",
+   "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOFNzV1RNZFZyeURyYWJKbWk0Qkl4bmhpcWdfTGV0dVNwN0lxOXF0Z1J5SEZCbUxwTHdDX01WcVk3T3R5WldKeFFBaGxHZEVrRkEwX1hfZmt0YUdBUUdlVFhTVEdJdHNFdHRKSGhQMnFuSUFzY0hjRTYtSDJUWFJrMm1hT2FMVHl4cFlNTTI3MWhlM2tlemJpdXB2RXp4aElSUTYxZ1Yzb2kwVkR0djQ1M2wyR0VLbDNCbzR4d19MZjhlNWc2SkZMVTltVWs4MlVXSVZLN2owTDhyZnpxWFpXa0thalVxV2VjU2c?oc=5",
+   "medio": "ESPN Deportes",
+   "fecha": "2026-10-19T18:40:00+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "El gobierno de Meloni anuncia el envío de \"500 militares más para defender\" Milán y nuevas medidas de orden público",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRzlLd3lIZ3dhY2tKMEhVT1BWOUxPRmpJVFozUUdkOGZkanFmaDZBZGFya29oeGhuN2xJSGRaa2dkQnI4UF9UdDhsN3E4aE5tTWJSQW9tMUR2LU9hMEtGMENkajJUTnlMZFY2UnVQX01LRWp4bWVYOWlpRHVXSXVaLWdZNNIBgwFBVV95cUxPQ3d6ZmQzMVlNWGU3aGxQTTlYcjRoQU1kWV93bTFXdHpqSzBHU3BDa2VNbW5NVnVJTEZqUTFjRktDcXJoeDl1dGFNQ1lEaGJoVnB2QS1fQ0Z2UUZUa2ltQ0ktQXpSMEI1cFlrUDY2SDVidmJYamo3T3VibG9jSlRjOGZ4WQ?oc=5",
+   "medio": "El Mundo",
+   "fecha": "2026-10-19T18:38:14+00:00",
+   "imagen": "https://e01-phantom-elmundo.uecdn.es/06684ac1539674d235492eb9a7127e64/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/19/17924350440320.jpg"
+  },
+  {
+   "titulo": "De la Fuente ofrece la Copa del Mundo a la Virgen del Pilar y ve Zaragoza como \"una sede maravillosa\" para 2030",
+   "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY09FUXpZRHJJS0lUSnpBUENrcUJZTzluaVp4R2hzc0M4WkhxTmQ2N0owTzdYdTdXRmE5Z1ptX3piTjZjUEkwRncwODNKWEJSU1RUbWdTX0NUaXlWTnY0NUR1QXJPV0tSNUZlNUJET0pLNFFlY2VQNkM0VHp6VTZWZnktRTRvaW5wZGtFYlZVUllTUjNBVW5kQkhJOGpDLXQ2cnAzUHZub3pQX29BTldPZnNEN1hGeW9OZFY5X3lNV1c2ZzBQS2E5UnFzcXFXLUZmWHFYQ3UtcTg2Rl9EUFR1UDQ0Qlkxci1OWnlMVkZsWm1IU2Yt0gGPAkFVX3lxTFBudkZia2hsTWtzMjFoV3Q0SVFDZTBPQjN5ck81Uzc2VkdURE5oMVUzYzdDa3JzbTJLMGs4X0JhbEdncXh5dmpxQTRzUFRUQlVmeEdmN2tqQkNYUmlmdzlnUmJkQlBvV2tWQmJ3eGVOczBNaGw0VFVhVDVqNWt0S1gyNkk3elJPT0NacjBkLVZfNjVSS1VBM0FRT0gyMVR2Ml9GWXJYeWVVYzRPd1BySzA5UnVra2FuVFgza2NPS1ktWHVhcU5CaV9DT3hnMkUzV1NyeEQzMTlTVmhKNVVHaGI2UHBab3VJeHZudUlHOEFnaHExcEJEaTlCdmpCSkduWDhNVl81eHlBMlczeUlfVVk?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-10-19T18:37:35+00:00",
+   "imagen": "https://www.infobae.com/resizer/v2/EMLILIHOKFHHNMKDSGFTDDLNAE.jpg?auth=ed8ee213002a0ff201ea3e56668ff2b387d0143226252ad8155b9315e4295fc2&smart=true&width=1024&height=512&quality=85"
+  },
+  {
+   "titulo": "Los pájaros carpinteros inspiraron el casco de bicicleta más seguro del mundo",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUlNnSU5FVUVzVnJ1LTFyeVNaS1VsTzJKV1FrY1lPazNiNlNjUkFSX2RWLWtWTVVfc1R1U0RPSEx2clNva3c2d0U2ZjBMTURudUFkemlkYTFHUnlzR3gzREp0dGFIZ0lScFJNTDczNHNQXzBubDJlRTJ2MWR4RGVHbHhuWFJXQ3BubWhJbDVDYVBld0FNOHRMSHptNE1ILTVwWGNLa0VzYmJuSzdB?oc=5",
+   "medio": "WIRED",
+   "fecha": "2026-10-19T18:29:59+00:00",
+   "imagen": "https://media.es.wired.com/photos/6acd234119f1b1bd7c13708f/16:9/w_1280,c_limit/Pikio%20Helmut.jpg"
+  },
+  {
+   "titulo": "El gobierno de Francia decreta toques de queda parciales y condena a los \"ladrones\" y \"delincuentes\" detrás de los violentos disturbios del fin de semana",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNOFZmaXZzOXpfVG5qSk13SmxYMm1qNjdLOUEzSDBYeUt1ZklKNnFXTW5jcFYtSXRsUUh0dFZjR3BOelpWTEZpVndTOVhBQ1M2R2ZkVm4zZWNBeFZGZldsUVU0d1hBUGRJRGIxT3BrRVRWbnFUQThCODR5a3V3NF85aEtZUm9KTU1pSktrdV8tWTVIQ3R2RnczVERJazEtU3pJb0FYMHNZVVFSVHQ3R3p1cFpGcUtKZmxfNGw4UUk5RG9lTF8zUzBPNnltdVlVTExMcTVoMXV0VVZCcjlnWWRmV29jclNLWDU4amIzcjJwV3RvcFVFeUE4Y2FCLXg1b1kwR1Z1aWgwQ0JnUlI0YzJfLUNUYkd0alpWczhJZEFTcFJVU0hULUNEUzVERHUwbWZ6a19MQnE0R2s1bjVVSzVTbzBUNA?oc=5",
+   "medio": "Prensa Libre",
+   "fecha": "2026-10-19T18:20:28+00:00",
+   "imagen": "https://www.prensalibre.com/wp-content/uploads/2026/10/2fef3170-cbda-11f1-bc2e-018d645d8d21.jpg"
+  },
+  {
+   "titulo": "🔵⚪ ¡Escándalo en aeropuerto internacional Jorge Chávez con vuelo de Latam 302 Lima Piura. Ala del avión comenzó a incendiarse en plena pista de aterrizaje, mientras pasajeros gritaban desesperados. Nadie pudo bajar hasta controlar la emergencia, y fu",
+   "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1na1BfS2RYVExmYjRncC1CalVLNnE2X0JKdjNwem9TYXpVdHNGblRJV2pQMFE1UWYwUldNMXd4eGpEOUpwN1RmWjVMUkprdVBQWTdBT0dn?oc=5",
+   "medio": "Instagram",
+   "fecha": "2026-10-19T18:18:26+00:00",
+   "imagen": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/851375804_18577460119072942_8266021193978296953_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=88nDxcNjwdAQ7kNvwFEMXEc&_nc_oc=AdplnFVvVWbY0EBEeM1YruipCvPCcLcu_qstcq6T32zbRwVLp7w9kjIiZ0LZ4q7hkRY&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=EtTPCw2I0u4Vvk9UoXcVgg&_nc_ss=7e60f&oh=00_AQOKBZyg39ZfVibPQ40GkcPp35KFQ6VryhoOVOnQeua23g&oe=6ADC12F2"
+  },
+  {
+   "titulo": "La pareja más famosa del mundo del tenis anunció su separación: “Nuestro matrimonio se está acabando”",
+   "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaXQ3M1o4emFQQ0ZrUFlrVHVKZVB2cHpGMUc1TXV6ano0dTVpOUtHc3B3eFluellLVVk1MlIwdDAtZjdtVjZkNGktb2FzWXNlb29jaHlzTDdTNnYxMno1LXRDaTFxc1U2NTB4dGxRQ09UN2c1ay1uZVdWaWIyUjNvNXFpSThzTFNrOTNQanpZdWNGUHRSVlJwM0ZNQ0laRDhPMElDWTZSRThWZjgzRlFGT1VZTGs4R1lzNENXZWVXTlNoYWRBSWdkdHM1MHcxNHRDR2xhNEtlWml1UXk4SlNoZ0Z3?oc=5",
+   "medio": "La Nación",
+   "fecha": "2026-10-19T18:17:00+00:00",
+   "imagen": "https://www.lanacion.com.ar/resizer/v2/la-pareja-mas-querida-del-mundo-del-tenis-anuncio-AZGN6R4TJZEAXOISLLWT6UEYAI.jpg?auth=4e109104022f06c6713a2a303cc2afd71d8035c3bf544c23190370ca6fa89747&width=1200&height=800&quality=70&smart=true"
+  },
+  {
+   "titulo": "Cuba condena «farsa» de Washington en la ONU",
+   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1BsM1lNbnJUM2FUenpBS1g2NFZmLTMyR1E1dVE5NmpEN1FEb3JJbkNEaXB4aGF0U3RZWEtqQUZDLUFJV0lTZktuV1djbEVDMGt5WlkyYU91SXhKMndzYWJQekVzTDIzUVI5VTVndm1GakZQOVplVjdjUExUZjNhWG1nVm4wM0UzUzdSenFmRC1fNnVoaHRPTEFnd25PTjRfM29v?oc=5",
+   "medio": "Granma",
+   "fecha": "2026-10-19T18:10:13+00:00",
+   "imagen": "https://www.granma.cu//file/img/2026/10/medium/f0447947.jpg"
+  },
+  {
+   "titulo": "Alerta Amber: autoridades destacaron respuesta y coordinación internacional en búsqueda de la adolescente de Paysandú",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTmZDS09GVzhyZ0Y0cG5ubWJJZVhRWDdISEZuWW1ic3pidUpVcE9mZWRFSklOaGxZZnlTcE40NDNVOGg1ZGRtbXR2REE2VllOOXFPbkRHTHdHNXR6dWZRU3JRZjRPWFQwVkdYeHE4NDNFTjZzUTJmZTdiNHpHR2kyd2ZqSFhPNkdwQVZ1U3pfMlJRcmNDZXp1NUlMYUV4cmxOT0NkRTNacjl1bm1YOGRobThjWkNsNy1aZWpmU0ZFSE5zR1hFaS01dWJ4M2N5UQ?oc=5",
+   "medio": "GUB.UY",
+   "fecha": "2026-10-19T18:08:34+00:00",
+   "imagen": "https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/imagenes/noticias/WhatsApp%20Image%202026-10-19%20at%201.30.46%20PM.jpeg"
+  },
+  {
+   "titulo": "Toques de queda en París, Lille, Lyon o Niza, mientras Lecornu se muestra partidario de decretar el estado de emergencia",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlVBWmJxcDRzbnhvVUMwQ3BSLVJpVGZsT2NiTFQyZlgtWnlKOEJYTm1DWGtiY0s2SEYzNkJ2RWtMdy0wdXpVdHFZeGlCQWFSY05CeGxMc040SXZvdXlybkY5dHJ4MkdvTzNHUjc2UkFhaXQ4LXlXbUZmTlo3WjBiWDBCY9IBgwFBVV95cUxOMVpTd1VQZXdUX0RVamZKc0VvaXRYc3B3Tl9vMUlNZXE5M3kyUThSZ2o5SEZGczhYeVV5WWhIeGpEQ213d2M4MTZpcmc4bS1wUHFGeDhldFR5VU45bWhmMXJIVDhvSnhfT19lNTM0WmtydVI2WEhFa1M1Mmh4YlVyY3NNdw?oc=5",
+   "medio": "El Mundo",
+   "fecha": "2026-10-19T17:58:40+00:00",
+   "imagen": "https://e01-phantom-elmundo.uecdn.es/fdeef41aef0b6b3a75b5789ee2c39135/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/19/17924111760960.jpg"
+  },
+  {
+   "titulo": "El derribo de dos avionetas de Hermanos al Rescate por el que una jueza en EE.UU. ordenó el arresto de Raúl Castro 30 años después",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOdmR3RDNyS1RyS0xveEt5bnVmeDNkTlJKaHM2Zm9uZGdNLWxhYThhblVoSEtXRlB1TTdzWWRNWHZkTEdVWm1PQnE1cC0xRTREWFZtQmNJVVZxcWNVRDNNQ0FXWVYtLXNRRFV5T3ZXZmg5M3hTd1diV3NmVjhvMWxYN2U5dWF5ZFhqM0dRUlU0Q1lFUk1hbHl5YzJEamt0LWo0NEUyNVRXZ1ltQUtaRFAxZ2EyWlZuZ3FTNm80ZFlBa1c2M291V1lFbXNDeXk4T0FPd2lEVXBsbXc5OWt1Yzd0TXBjdG11bHF2TjNJaHUzcV9waFhSQmdNS2ZPaS1GZjdVU3B3bkZSN1hzc0NSZndJNHNETVVPTE41VkVzWlNqMzR1dWRnZnZwYQ?oc=5",
+   "medio": "Prensa Libre",
+   "fecha": "2026-10-19T17:53:15+00:00",
+   "imagen": "https://www.prensalibre.com/wp-content/uploads/2026/10/60918250-52f5-11f1-93ce-6b7334a653b8-scaled-1.jpg"
+  },
+  {
+   "titulo": "Tras acuerdo, bagalleros levantan bloqueo en el puente internacional",
+   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWtHb3M0dGxzdUFGWU5FNW80N05TSlB6SF9fSFo1cjBVQ2oya1FXME5Bbzd1aXpQeWhEa19pNFM2QXVvV0VxUTVUQzQzS2dOWHVQRkdVa00xRzhPa2JVTDUxRG5WdUlRME1ha3ZPZjhITVVyQlhxOUNiRVhDNGhvM1hzdmNZMGZMQzJQY19tSDRRTWdJOEJyRExpM0xHUlV0eDYyektWZElkbVFTV194X3NUQy1QMW51?oc=5",
+   "medio": "La Razón Digital Bolivia",
+   "fecha": "2026-10-19T17:44:32+00:00",
+   "imagen": "https://larazon.bo/wp-content/uploads/2026/10/bloqueos-bagalleros.webp"
+  },
+  {
+   "titulo": "Así van las encuestas en el mundo. 19 octubre 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaGFnbk8xeG5GbExTTHlNSXpSMWJObkFFNk5lV053Zjk4bWstUl9PdXUwVHozT04xM1JkYlBEVjNNZDk1MGNOLUN2LVJIVWZBeDRJUVllTU5IMVhrLTdmckUzMVpqQVh6MVhJVk5ETE90VlRWd20wbEtONDRIaU1oWVpBZ0NGVWQzcWZV?oc=5",
+   "medio": "mitofsky.mx",
+   "fecha": "2026-10-19T17:42:08+00:00",
+   "imagen": "https://static.wixstatic.com/media/2885c4_07916da8228445b4a8841a5313bb4b44~mv2.jpg/v1/fill/w_1000,h_597,al_c,q_85,usm_0.66_1.00_0.01/2885c4_07916da8228445b4a8841a5313bb4b44~mv2.jpg"
+  },
+  {
+   "titulo": "Christiane Amanpour anuncia que dejará CNN en junio de 2027",
+   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVpFY3hrZFJUMXdpcnpjaDYzTXZpb0poVEdmREVVVTdXMWJkME1GbjJWODJXZjNTalV5UHphVEM5MUFJcElXNEM2WnM2Zmdlc3NJcTkzNEg3TjVDbWhKbW5Gc1hPTGQwUEIwclR6eXdxcU1sX0dvN1ZUTGVNYS02T28ycTZYSFI1bTBrZTZHN25hRWw5dnc?oc=5",
+   "medio": "Yahoo",
+   "fecha": "2026-10-19T17:36:12+00:00",
+   "imagen": "https://s.yimg.com/lo/mysterio/api/67982fe0cf63d833d7f4202077aadcc37298ba77c71c15d30089651cd21f2e15/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fcnn_espanol_articles_421%2F484ae5f5060025b72b55f564f500045f.jpg"
+  },
+  {
+   "titulo": "¿Por qué Perú envió 71 semillas al “arca del fin del mundo” del Ártico, a 18 grados bajo cero?",
+   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTC0wbjRneUJhQzFKdFhETTFTTXJ1TjRoSTgxY0ZDWktleE5IVVFud1hra0I1M0x4ajJqRFUtcFhRYk1CNHdsampDMW1NbHoxeUFJLThqeWM5SmZXR3BZV0gxN3lJckEzVnBaUkpyNHQyQ3FacEY2VExoZV9oMnJaaEMxYnp3RG5pdjVGcDJjNHpNa2c4UEZaajhRVWxicTFsWDNhVXUzbXhtYnVsUlVXaVpOZ2tjeVNHM2diSEl0NUlaSFFTNGs5Vzdn0gHkAUFVX3lxTE1YZUsyMmI2aFRMbjRQQnBRWnFGcnl1dU9jdm01ZXdHcFhnb1hLdll5NVJEa0NBclFUcUVtYXdpZ3NKV0NSUmdLR090MHdaMEpIX0dXOWZoTWdXdlJYN2V1aEwzRkwxY3NXb1h4LURqaElNVW8xd28zX1dqWHFadmw2dGJ0Q3FTb3FyWUduYlE2TGpPVzA1c0V5T0NGSnBLQ3VveXZjV1gzYWpDeTY4V2htaW9qVWVtRngzdGFnLU41c293Ulg2QmZnN2l2aXlsZkdZTld1UEJUeXZsOHFhOXlGOTdFMg?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-10-19T17:34:00+00:00",
+   "imagen": "https://www.infobae.com/resizer/v2/UANDFNRZEVE57FAQGNVIX2Z4XU.jpg?auth=54ddd233c112adc925ce8c86ffdfa0a575c1ad67f81a15c21564299b80e3c775&smart=true&width=1024&height=512&quality=85"
+  },
+  {
+   "titulo": "Viaje a Plutón: el mundo sin manual de instrucciones con nieve, volcanes helados y cielo",
+   "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa1B2ZHk2NnlkRHFOUmd1dkt4ajJ3QW5aSzY1X2pTN3hfaGVuU1E0ZWs4aTMzYlYwMGJOSEN2UXIyTk9zUnJmM0Y4LWx1MFFrM3BIRGx1OVhnV3F4NzYtT3B5dWZ0SUIwLXRTeHNTZjBTdmNJM2J3b0ZEV2xHeFktY21SOUg3dkxKcXZUbnhHcTN6blZ0X0xGOEFaTFpvbUR3VHBlZldGSkkwMmpIam1LbENMMWEzZ1Rmcnl0ZVF0SE1nY2xLWE5FOUgwWkQ4YlJKaXZLUU9R0gHwAUFVX3lxTE04NlNxZmEtLUdNR1FjZC1La1RpWFUtNU5BSXZ5N1pZZHBta3FDWEFsY3NQZ3dZVGkxWHhuRVhraWpqd2pDZm9rTGdodmJOX01DeWFvRFlnakk3Y2VROFpkSS1yVzVENEQ5OWtodFp2djJMQzlzbkU5S0xGTUhCT0tqa18zNTFPZ3VHT2RaTjZTWFhyTmk2TzI0Ul9tNnpSdWVZVGxZakhaT2NnTGJ2OXdsNGhYSGxxc2xqMXpOWG12SEdrNm9lNlRETnZqc0tZNEl5RE1EZlpFZU9Cb1drb0xaVFFHRnQyVU4zajhWd3EtSA?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-10-19T17:33:27+00:00",
    "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
   },
   {
-   "titulo": "Campeonato del Mundo FIM MotoJunior: El calendario 2027 ya es oficial",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObnFKVjlKNFBBWV9RZngwSVJFcHpNNDFyVERqMWlQRlJTcUwxeWlQOFlWSkUzOVdqSnRMdEREc1JNODNELWcxbF9kQW9UVVFSQ2JWSGVWN1NidEhkcFlDTlFoSTJEdjdPb1dvaHV0WktKSXZkRkM0MVFNTzhpX1VjcHo3TURBTmJVNFNzdFYwWnVmamZuSFIxbmJUZW1MNHV1bDJIUEx1b0JBdw?oc=5",
-   "medio": "MotoGP",
-   "fecha": "2026-10-19T15:34:57+00:00",
-   "imagen": "https://resources.motogp.pulselive.com/photo-resources/2026/10/19/207da853-5cd7-4ae5-b4dd-58720e8edb14/2-Moto3-Jr-Race1-Yaroslav-Karpushin.jpg?width=1024&height=512"
+   "titulo": "Luis Enrique, contundente en la comparación Messi-Lamine y explica cómo frenar al crack culé",
+   "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2p1eUxVcjZBRFpGbEdTSjVLcG83Z1h6T3paZ0pZTjBNUHdNbDhBWUViTjFaTTM3TVY5bzlWRzVjcTdSTnNtUFZidW8xbXNPSEMwZXhSSUF0dGh1cHkwSFcxVTJNeWVsRjBMWjNrVGI0VWRvbkRTdXZWX1JldHAxMWNsSlI1UWtDSVV1SzZCZlV5QTRmZlpycE5aQVVRQWE0Z0t1SS1teG5TbWFTckF6QWhlNVlqdm1TREgxNlhNZ0RXWVlkbU5LRVFoc3VYd29zX2FGQ1NGRnRtekhlcnRsS0xCaWdvd9IB8wFBVV95cUxNMHJQdF9tcmdiLTI1VUQ1NnZxSm9qbWNHRWdlWFZSM0lFclllNGM0cFFOcnNaYzZ5b05TdzJONWdmVUF2X1FWVW93NDJtUzVYM1Rab3k2VFQ1TTF0WUNIemhPamJKcmU0eGszUGFfdEd5QXJuejU2YjZlNWtpM0hCOHhGTElDMWJyR0dER0puT0NEMkYwYWZrQTVzQ3lRREFza3MxbkpiRDRPdjJWWU03c3VmbE9uaTgzOE9xZk5MN2E4Yzdtbi1hbXhVeXpYN3ZvdW12U3FuNmFEV2pmclFPd1BVRzJyTXg4SFh0R01VR1l6OUk?oc=5",
+   "medio": "Mundo Deportivo",
+   "fecha": "2026-10-19T17:30:59+00:00",
+   "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/19/6ad63457b6234.jpeg"
   },
   {
-   "titulo": "La Albirroja Femenina Sub 15 y desafío internacional en puerta",
-   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlkxS0czQVR1SG8taVlaSDltRmwtdVItNjBtUVNfVl8tWFA2U1BZN2ZTRVBfNEtxRENPdEwwQmxqb21jdVc1Z0tXbGdCMnhNM3luRER5UmY1X0dHUC1HXzFIRUo1Q0k4cGJwcFN5N19FUndoLXpsUWNydTdHa2hOb00tQWJTSWRON2t1SEtRU3JuRmNiOGRza2Rn?oc=5",
-   "medio": "apf.org.py",
-   "fecha": "2026-10-19T15:34:28+00:00",
-   "imagen": "https://statics-maker.llt-services.com/apf/images/2026/10/19/large/b8885b78-a7b6-49d9-8a20-a4c7a778102a-528.jpeg"
+   "titulo": "Incendian tribunal en Albania en el séptimo día de protestas",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUdidDZvRWY5a01XYlloRG5GQmVDaXhIUWpRa2VaQW5GQWpSdnVfUk5KOWtfX2xPeUxYdTNUcDRFd3ozNFpKcXh4UTQwTVNPTmZWWWJQbGV5VW1VZ3A3SUFOVWxaMzJaaUVtd0IxVTYweFh3bExSM3RIbElTLThiSXpETHBLalVtcnhwX1c2RHJOZk9SV3lYbVY0YmFTNzEwallvc0tySHhMZEN2dTJGR3NvQl_SAcgBQVVfeXFMUHFlYmF4UkZQZkhHaUhYbmx1ek45LUI5STdkbW44ZW9yVDlRNjVjUENYTkU2TFVTdDQ3M1ota1RVOWh6MTNtaUpIeUFrZWFBN1lMbHJ1YzZHRi1ubWlkeFQxTTA5dHNiSGdITEd2b2x0WHExaHNrR1pTZWM4SnB3U0lXWW9FZU1Fb1FQTm90U2NJazdXeTliQ1NOWjBSaWlrS1UzUUhkUnZmSGNyN1FtTkhabGFjV1ZhNDNOZ1Z2bWRGNGVvd0hvRXE?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-19T17:30:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/JXMSFV4QCFD2TIAGPZ5HFBNAMU.jpg?auth=ea87ab51cd52a9c26b6ab602366469bb6d9cb1c97a849bdb7eb1923981e39bc2&width=1005&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Costa Rica buscar fortalecer su conexión aérea con el mundo",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMy1MUzMwQl82OWVpY18yV0pvbmswSy14bGxkUTRvSDJxdy0ya252TnhHR01hUXhxUTRjUloycWNEajJ6YW1LUTRqaDAzeEVtakZ6Z2FMMlRwV0h2ZGVWQlpHMFBQV0JTZ3h1RlBVWkhUTURJMWxMbGtGTnlMazlNeU95cUtIdnN0MnFRMmVXX3NHSlBMTHp4a0R6blIwdmZOY2t3LWJvXzVZQ3piWDBqMWFSOFNWVld5?oc=5",
-   "medio": "www.revistaeyn.com",
-   "fecha": "2026-10-19T15:27:00+00:00",
-   "imagen": "https://www.revistaeyn.com/binrepository/1200x800/0c0/0d0/none/26086/DTYA/aeris-aijs02_15876651_20261019093949.jpg"
+   "titulo": "Las transferencias en 4 minutos están revolucionando la forma en que circula el dinero por todo el mundo",
+   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakR6cnBDdkdYeGk5VHlvdzQ5bU5mekgwc3p3MDQzcGczdG9ZVWFqUTlmRmZJdkJuN3d0dGdTMF84MmZRbzlJOEhqTEVPNkNmbjdzZ0diNno5bDR3X29NeTNJQlIxOUdBZGt6aDk4WHlhSG13by1rWmgwbjdKNFY1V2RqQTdsb2hSalhwTGRRNDVoV0pzZzdXc29sRDAxaTFub3N5SjNNRE1laVJqZThzUmFrQ2JRYTU1dmF0RTh1WmI1NWRXV3ltSVBRQVBUeUswdkFVeEgzUkxQMlNYZlHSAfIBQVVfeXFMTklTNW16OXduTWtDMGVhcHdDLWw0VDhMcWR3dEpONVZuOEotQzNtZWluYjVCcFczQVFnUHFFWXpFWUF3ZDRvVTZzNHBzSk51ajdyRGtMSGlxNFB6anJHYkpuVGFXb251TWkwUzI2SjEtR0xKdmU2aUVkbVEzZmcxMFExTXprcWEza3Uxc20zbno2cUp2WVBnVkNkVm5JR2lRUmd4QjRQWTVKWkhjcGNfdFZ4b0d5TXBaaWplUm1wUXdvLTFSYWhmZWV3MDh6X21QZ29OTENMSGhfVHV2NXB3ZzkzcUxyRmVjNWV5YU9DWmI1bXc?oc=5",
+   "medio": "Bloomberg Línea",
+   "fecha": "2026-10-19T17:26:10+00:00",
+   "imagen": "https://www.bloomberglinea.com/resizer/v2/H5ETRDBXWRGWRNHNGKBHN6BL3E.jpeg?auth=0d8334c36922ae8ccab81595d6b40596b2820b3dc4fb535926bcb1bb2023ee13&width=1200&height=675&quality=80&smart=true"
   },
   {
-   "titulo": "Llevar la energía solar al \"hogar más solitario del mundo\".",
-   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZEZva09DZGtnMHBhS1AzRWowLVloN1dYX0FsMFUyN1dSLWM0cy1wYlRrTklaOVo4U1FGWl8zSTN3dmpFZzRPNXBXdThreEtOVGRaWE91TG1lQ2NyclZ6Zzh0b1pfSGNJdjZ2S0xzd2hSeW5PTFZRRHJJV2RwQWFpVWtWcw?oc=5",
-   "medio": "Vietnam.vn",
-   "fecha": "2026-10-19T15:21:32+00:00",
-   "imagen": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/19/1792421067381_anh-chatgpt-10-16-24-19-thg-10-2026-1-91262845342308788207019-75062842038164829140029.webp"
+   "titulo": "\"Francia contiene la respiración\": las numerosas preguntas que siguen abiertas tras un \"fin de semana de furia\" y por qué se temen más protestas",
+   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JR2NqUTV6bHFkRWNhYVY1aG5MYVRRWUZNVDl2c0lMYXI1UmFyeTZ1eTZVY1ZFQ2xwTDZrYkJKZUswdTB2cHFQQUpzOExoWEZGWlFWTUxQZ3Q0d0dP0gFiQVVfeXFMUHZfZ2tTXzAzdVNEWTFxbWFybDN3RnJkOC0yNEdSZmo0ZmVfNEg2T0xidXVwU2JJY1AwNVZxTXFjRk1PVkQ3ZEtrNk5oXzFSODM3MHhHd0c3VHl2SWJoVGk5Ync?oc=5",
+   "medio": "BBC",
+   "fecha": "2026-10-19T17:21:48+00:00",
+   "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/e77a/live/77eddc00-cbcc-11f1-aba9-2bb2608f11d9.jpg"
   },
   {
-   "titulo": "Muere a los 92 años en Alemania el superviviente gitano del Holocausto ‘Mano’ Höllenreiner",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM21NTVF4Umw3QkhhMm1QYnl6MzBiUy12SFZXX20yYVZPV0NuS19nUVNjSkJ1TGFOYW91Wk5sN29PX284T3h6MUFrTFZvdTZPTnBtT3Vfc3dKRk9OUkJ1YzVCTHFFejk5cUZXeG9aUVVmcGlGUnJEU3E1cGdla2tveGc4bGJhcEJUTnJSbzl3SmVrZlUteWZTZkNHYWpBa2szalM3NlNOOU8ycGZXaFl4Wl9DUVl0eHNMQW1hNm1mUnFESlZrdHYwUzlsR01jYVRET3RV?oc=5",
-   "medio": "El Nuevo Día",
-   "fecha": "2026-10-19T15:21:00+00:00",
-   "imagen": "https://www.elnuevodia.com/resizer/v2/MSB7XKQJMFF3THQX644ATY2NHY.jpg?auth=2db6ce5cb8b6486f99821d85b5aa30cf578e8b1ad5a971cc947def5bd384a68c&quality=75&width=1200&height=717&focal=296%2C85"
+   "titulo": "León XIV nombra a Ángel Cordovilla miembro de la Comisión Teológica Internacional",
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdEh3ZDUtZlhhS3NSMXpFdWhNLTRIY2hqX0l1enBvQkFHa1pnYnMxLVRNMVFyVVFfTVRaaDVKNDJTVVdEcGl4YW15V0pESHdwMXd2ZWFUTzJBRThRMzFzODZzNkZfVjhIWGFZaVhaTVJhMWI2XzAyRjhRNnhRSThOTTdZVzJLZThiVmpLLWlMSFZfbEQ5R3p2V1NsbFFicmtubDEzb3NYX0NIeHJqUWZvWl8xMm02OExDczVF0gHAAUFVX3lxTFBGNHN1emRKcE9aendUZDI4Qk13UUk0MHlfT2FzWUItbXNvQ2xWRTQ4M2cxZ25YU2xpc1B0cWVmV2lHM3FUTzh3NjlNQVlpQWR6YTh0eU1BSzB2cVNBNGRCNzI5X0ZIZTFKcWQzbVZzQ3dsTG0xZ0M5ZDQ1ckM1YTNJaVU2SG9LQkJyN1NVWU9lTVRqT1dGMktFaDBJT0hGWjRwaGloQ0U2RjFRUG1JYUUxNlBaaHNieHN4ZHBjemViZw?oc=5",
+   "medio": "Vida Nueva",
+   "fecha": "2026-10-19T17:12:50+00:00",
+   "imagen": "https://www.vidanuevadigital.com/wp-content/uploads/2025/03/Angel-Cordovilla.jpg"
+  },
+  {
+   "titulo": "Forbes reveló que Cristiano Ronaldo es el jugador mejor pago del mundo seguido por Lionel Messi",
+   "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYlVjSk51bmg3UzlNclZCbnVZNXlkQlVHT2d5Tkxnb09acE9RVzh6eHctMFYxRGNseHJfQnM5NUY4ZURWZnZKam1WQkdJRHg4NUpXZ3QzYlkzemdGN2xZcVB5T1JKek5rdUIwYmpMaVhxeDcyQW14anBoLTlON25WZkUxM21WZ1VObGRmQjQxSmRxTnFhRU5kYUJhT3dsN1RjQ2w4Q2pPb1RtaGlYcmJCN2c4MmJBbk5UQUhjRy1udWRNOW92SDB5OGlhd19sdFRsWHFZcVZB0gHbAUFVX3lxTFBhRUpPc1lpRkJKcFkyRURoWXExTGpTSmVrS0xTQlFQOXZ5czh4ZnJmVEx6eTZxSmp1T2ZzZW54b2Z6NEREckJqdHZqQ2VCSFNCY2xQa3JWTTZ2bGtNU055WTM1WGo4eGRtc3ppWVdNNlR1VU1mcVNCUHE0YmRhNll2WFc1QjVBNFpSMWhidk5RM3RPcm80NU9kTzNDdGZjNzJzRlh3WllocEZmNWZWZjNTT2hEY3BOYXVmTVZpRDFTWDdxUnk3TmdHS2hQbU41bmtmUjVJeW51dEkyTQ?oc=5",
+   "medio": "Bolavip México",
+   "fecha": "2026-10-19T17:08:33+00:00",
+   "imagen": "https://media.bolavip.com/wp-content/uploads/sites/23/2026/10/19110522/cristiano-ronaldo-lionel-messi-1200x740.webp"
+  },
+  {
+   "titulo": "FC Barcelona | Pedri: \"Lamine es el mejor jugador del mundo\"",
+   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUl9XWE5WYzBNeWV4cXF3dDZZU001cFhMSmV2YWRzTUJEMC12b0RJNEtpWU1jcGszbmNPODRrYy1NOEs0Z2gzUVF5blYtZ2tSdzgya0dEcE9DMk9NRF9GUDdMeDJiSWZCRFRHdklfcTFINEhHLUNldjl1M2ZpUTNQSE1rYmV3NlhCTWxWMk9CZmNVVEh4blc0N3pmY05RQWdSem1F?oc=5",
+   "medio": "Fichajes.com",
+   "fecha": "2026-10-19T17:07:07+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Kylian Mbappé da su receta para el éxito en el mundo del fútbol: “No te conviertes en un jugador tan presente si no piensas, si no reflexionas, si no dudas\"",
+   "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNcnR5VFFTeXh2Wm41YjR6aElNRV90MDd0R0JsM2Rnd2tyMFRKMVhicHZIR2hzWHlMZzE3WlFhd3VzMU1Pd3RXTmVVWWdaOHU4Q2l5X002M3h5WnM5dTZ0VUZoLVl1VmpsczFXZWhzWXY0dkJNdkdMVUwzOXFkY05aS1lYQlE1SkJsR0hrMURPZ0NYQ29LUHJPaGlDVF9HaUJpdlhia0Y1S21YNEF1WWwzYjROWEVYQVlOZy1LVjlYbXVfb0lod1NqS1BMVEdVX1ZQdEJBYl93NW8yYUxnVjJsZngtbUxRYk9TTlFWR3pfUFJiSDJoNzY4NmczclZzTkNOZGphQzBUVk1SOUM0?oc=5",
+   "medio": "DAZN",
+   "fecha": "2026-10-19T16:50:25+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Armen Avanessian, referente internacional del aceleracionismo, participará de un workshop en la FCS",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM2NrNnczOFhkdklDU19MbFNJN1NpSUJGVUZiX1g5VHNtMzZZVUo4Qk10RTV6YkVLY1ozVFVXSDVBT2FCMmNxRWU5bGtQSlBoWFRKZ0pBbkI0b0swUm5PREk3ZlI0N2ltbE1VWlB4eWxUTWJvN2kxbEItREZKMzd1RmxFT2Z0RXZJcm15Y2xuMi0wa21tcDFwX0pTYjczeHBhU2JTb0llNGNGT3Rma0tWNEhCSVdINFpWeHBjX2tGdGpHWVZPWXN3?oc=5",
+   "medio": "Facultad de Ciencias Sociales - UNC",
+   "fecha": "2026-10-19T16:47:03+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Salta presentó su gestión en inteligencia artificial en un encuentro internacional en la Universidad de Buenos Aires",
+   "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaXZNLUxWSG0ySW9GYjY1aXE1SHMzZS1DdHFjN25FRjIwQkhTTlBhLWFuU2ZFczRTeVUwZFFaQ2FQQVVCTmo2ZjdvUmotSTQ1WVBfV0hobnFfSDBUcHlqY1NVSGNBNUhQZ3Q1alVRaHIxQUhiZ3lFeG10Ymg2Z0hjOUw2MUFwcFR1MWRfeVFpVjR2dnlmSlNKZ3dqSXV1Y0JscGdYV09RUThtb3B5dkdpb083WFZZSXlZeGVWTUMtS1BuallWYXZfY2l3OGhKTHpkZ2M4VjItNF9BbVA0OWZQUDlHaXYySXJyUmQ1TVZGM0FBWEg4d19V?oc=5",
+   "medio": "Gobierno de la Provincia de Salta, Argentina",
+   "fecha": "2026-10-19T16:24:00+00:00",
+   "imagen": "https://www.salta.gob.ar/public/images/noticias/110641-salta-presento-su-gestion-en-inteligencia-artificial-en-un-encuentro-internacional-en-la-universidad-de-buenos-aires.webp"
+  },
+  {
+   "titulo": "Pedri: “A día de hoy, el mejor jugador del mundo es Lamine”",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLXN3bUNPa1ZGU0txSE1LY0VVTXh0aGhPT2J0N1VmT1dSM25Ucnp2bUNtSF9fbFFZdWo1T2owaEcwSGU2cm45cmdUOHlfOGtEcm9pY2o5Y1lWbHRVZENzZVQxNUF6YlJuSmptbVhXR1V5U2F1YjFVYmNIdzVfXzcyV1N5MnRiU2M5WmFjMGtQNnZlVWU3WlltRUprcWJsd0XSAbMBQVVfeXFMUGJSakJRd2NUOEFtbHBzcUQwd1hwZW1XSFI4R19oNllEM21ndTF4bzB6anNoSGJETnlCT0tWQVcycWlVXzBvcEtsNWxYblFXUDlqTjZxb0g4SVBzNzZaZHI3MnhaMmRVem9GR09MWVhEeGZ4WDVTTHBWVndlaVY4Z0RPSVFURnNQbmxMbllzXzlJbmZNcFE5N21xQWxrT3FXd0N1UVVUWlB3MmJ0ZkNTZFREQXc?oc=5",
+   "medio": "Diario AS",
+   "fecha": "2026-10-19T16:11:38+00:00",
+   "imagen": "https://img.asmedia.epimg.net/resizer/v2/SJ6TJ24KMBIJFIGLZ3AL3FKYLY.jpg?auth=c405adb24ff8a323de9d05987d31fed0f1550850a02adf545df062e57487d1cb&width=1472&height=828&smart=true"
+  },
+  {
+   "titulo": "Del Toro lamenta mundo “en ruinas” que se da a los jóvenes, pide se resuelva problemática de agua",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdlRmOXl3LTNRd1hCXzVldjFudWpYUTc5VF9xY3Y3RVhlV2pVTl9nSUlJRFExUkpEY0lRcXZ0RjF6dEQ1LW1ubHFBOWxVdC1oTU11a0d1OHZsUW45V2dTZmwzLWw0eFFGQUdhVTA5SThUbnBfQXlzTFp0TkxzR01RbzNYT2cybFpRM0F2eGVrOTM0eXdLemFyejQ2MUtPZWlXRURDT1I1aHU?oc=5",
+   "medio": "San Antonio Express-News",
+   "fecha": "2026-10-19T16:11:10+00:00",
+   "imagen": "https://s.hdnux.com/photos/01/67/52/73/31370957/3/rawImage.jpg"
+  },
+  {
+   "titulo": "Nikolai Haram Svorte se corona como Mejor Sommelier del Mundo 2026 en Lisboa",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXdKaXF5LWZpRW82QXVZNjFrYXBDN0h4X19EZUhJSldMS25xSEpCaE00YlV3M1FzVzNpQm9iUW5oRklfZ3lIMHVEMU5ERE5sM1hYMktFYUZTWDZCclF2eWI0dFpUaHpPb1N6b1lqUlpYaVdMZEgyMVkwT3I1cUN6ZHJPdUxNRGVocDRtcGRpOWFmTFpLTDdvWTFwcklRdXZPM3c1TzV3?oc=5",
+   "medio": "Tecnovino",
+   "fecha": "2026-10-19T16:05:51+00:00",
+   "imagen": "https://www.tecnovino.com/wp-content/uploads/2026/10/Tecnovino-Mejor-Sommelier-del-Mundo-2026-ASI-Nikolai-Haram-Svorte.jpg"
+  },
+  {
+   "titulo": "Académica de la UPLA participa en seminario internacional sobre lenguas indígenas y traducción jurídica",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNXQ0dVlObDRfRFQtSHlkNm1tVTU2OF9rSWhUSE52ajN0dTZ2MWxNSm53MllvRFAtZUtyYmRTRDZCZUNSS0p4RHpSbEU3UXhwb2VIYXpGUm1WZTRINHczV2szSy1vQXJkeHlOR0xKajgzRUFnRExSbEtyTDhzenFkWmc1N0Y5Umg1WERfRzVseXpLQjlpRjl6UW1SQlk0cjJ2ODF1SUFCOExYMmljbG5NR01qdHVWeGRyd1BKRDk0LUduS2M5WWNJUGI4Y2xUUDVERHphVEhNbw?oc=5",
+   "medio": "Universidad de Playa Ancha",
+   "fecha": "2026-10-19T15:52:39+00:00",
+   "imagen": "https://upla.cl/noticias/wp-content/uploads/2026/10/seminario_bcn-scaled.jpg"
+  },
+  {
+   "titulo": "Adiós al segundo intercalar: el mundo cambiará la forma de medir el tiempo en 2027",
+   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjhhM0FUYUc5c3Z0MnFVZXJQWWlCSzRBUl9nZENhZkZSYXh0UlRHSHhLYXRzTkhiY1pJNlRUQlRGZHdiZ1YtSG9aWjRNSUhibk5hcHMwaG9SUXhzYnFnUzhHSWNSbkZkZVYwSGRJRGtVdFpLVTJIY3ZwbjFaZ29VTzZyUWpULVZjZlpjamVaT0FfSjBBOXp3WlpoWFRTd2o5Z1VwMVk0TEV4bWJVOThiRTZ3?oc=5",
+   "medio": "WIRED",
+   "fecha": "2026-10-19T15:52:06+00:00",
+   "imagen": "https://media.es.wired.com/photos/6ad634f85b082ea1494901b5/16:9/w_1280,c_limit/Science_Pour%20One%20Out%20for%20the%20Leap%20Second_v1.jpg"
+  },
+  {
+   "titulo": "Clavadistas rusas ganan el título en Copa del Mundo",
+   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3pYRi0ydkdQYnc2OHVnOGJxamJMYU5kQWEzcWkwdy1ZX0JfdkZTZTVySXRkUkdEN01aYXVYT3lsNXExMDNTZDNVUnFVeC1zNUpvTDNFYkQ4R0RtcVRKZjY1cDZrQkx2MHBKY25RdlhIQVhqMGxZdTM4c0w1ZHVyeUJBbUxqNzl5MVdNWnFhZV8yVVZpS3g4?oc=5",
+   "medio": "Prensa Latina",
+   "fecha": "2026-10-19T15:52:00+00:00",
+   "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/10/Rusia-clavadistas-1.jpg"
+  },
+  {
+   "titulo": "Mueren 12 migrantes en naufragios frente a islas griegas",
+   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ0xUN3pTM2dDMDFsZWNXdmtfa3FUbXM4amlXbWNkMkliTUVpWl9OeTNSTXIxUU54U0dzM1cwMHJfbHVIdDJ1QnZjclEtMVZoLXpaRC1ERm5sam5qc1Rld01nTWI0dEM0Zlo4QlJFeFRLQ3FLUUx3NHhSZXUtMmlTU1pzX2JxcHIyYnh3OURKNkF2X1FmU1piTUpMdlI1VE01RkJReDFGb3ZMampPcHRhZHNac0FZbDViUmtqdkNhZ3ppaE5WLVllN1ZVa29nODJLYWpPTkdPS1dYcGNTU2Rz?oc=5",
+   "medio": "LancasterOnline",
+   "fecha": "2026-10-19T15:49:18+00:00",
+   "imagen": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/a/ff/aff1cae8-c003-5951-ae25-581f8dd7d34c/6ad63c9e92a6b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  },
+  {
+   "titulo": "Transferencias en minutos sacuden la forma de enviar dinero alrededor del mundo",
+   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcU0zLVlvb2JGRjJ2YVJnYXZEblphR29ZTEZrSVRyRmFyNmNMRWpuTmFQaGswYUo2a0N5bmM2bnJaRlI0SVdYbUJZN0ZhaGZnVHVGcldURm5la09sWkpDa2d3WmFMY3ljQ3NCbUJWS3RKMWM2cXZLU1hRelFmbkw3emtzMFphV3JZQ0NRUmJ0VGctaWtZMlBpMU1iSHY?oc=5",
+   "medio": "Yahoo",
+   "fecha": "2026-10-19T15:42:21+00:00",
+   "imagen": "https://s.yimg.com/lo/mysterio/api/3f60c5fe65f935105b37251f9eee286220575ab8140a8eecd0ce96f9bd92f856/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fbloomberg_spanish_853%2F7289e20b4e7aff77523b75d424ff0a06.jpg"
+  },
+  {
+   "titulo": "Ulises en el Nuevo Mundo: el parto de Venezuela",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0RGUmIwTDVmTmVhcjB4aXNNTU9EY2x3QXlEVEhzaDlzdGhuaXRGVHhnVy1ub0xmYmdIdW5fT2pHemZoa0hOREVyTEg0TlF6S2JreHZrTmtxZ2xuYy1hd21LLWloc3FNUWlqTGduaUhXSVNkMTROb2UyRFEwRWZOX21ST1Vmc25pZFZjTlhUdmxwZ2tZVlB1Zm9qVlBDcEFRcEtteEd6elpmZVlpcmV1SdIBsAFBVV95cUxOVHdMdEJwdjlhVl83NzAtV0ZESldOcnZ0TlZOMVA0OHNxYzQxbm1vTTBjMVpjNnp6cG1oWVlNNWtRaGVCTXlmV0VINFZYYjR1akYyU1VjandKRmlEQlhPUlB1aUpqVGVxb1UtZVRYQXpIcEZUWFlhVkU4WkUxaUthcDhUazBnTmgwcDk1bjUwODlhUVc4WF8xcnJpbVVTWlJzYXZFaXVRSXJfM2NoS1VQSg?oc=5",
+   "medio": "NTN24",
+   "fecha": "2026-10-19T15:38:52+00:00",
+   "imagen": "https://intn24.lalr.co/cms/2023/02/08153751/1.png?w=1280"
   },
   {
    "titulo": "¡De San Andrés para el mundo! Honey Ordoñez se convierte en la segunda colombiana en desfilar para Victoria’s Secret",
@@ -60,46 +403,18 @@
    "imagen": "https://mexiquense.app/uploads/16_ccf118bc05d6572b/1003077_C__ncer_de_mama_IMSS_web.jpg"
   },
   {
-   "titulo": "Del Toro lamenta mundo “en ruinas” que se da a los jóvenes, pide se resuelva problemática de agua",
-   "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUFxLUdoanlGaEtSamthc19WRkZsUkhwa285UnVUUHV0QzJ2Mm1yRUpJMDA5cFF4YzQwbE9aZVIydExBLTNDWnlWWTNIa1h4VlVFZlozM3N2eFd2ejduT3RYdHE0dlBTUnFHeGpNS1hNWmJaV01oWTZxWk83cUp5aFI5dUhpcFJGRDFRQW9LTQ?oc=5",
-   "medio": "AP News",
-   "fecha": "2026-10-19T15:14:00+00:00",
-   "imagen": null
+   "titulo": "Hasta cuándo se puede ver la Copa del Mundo en Zaragoza",
+   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjVYd1dYdXhNUFl6ZHgwWW93bnJYdGdNQXhwS3dhMFIzc1ZQdUdOZ2dxSzE2M3BvaG1YRXQ1VjZvWldmSk9Yd2JWWnc4NjVOSTNmczNadmZSd284M2IwRGdwSVlnaHltZ0R3ajZWaEFtMnVTMUU3amFEMVZBeENFN0tMMy1uMmQ2STRzT081WGZQdGJNLVoza01kX1ZmZUQ0eTdONW1iRzhWSkxGNndHZGItTDAtbU5m0gG-AUFVX3lxTE1QQmw5ZEx6MjhJbFZyR0FjYzZsUFlxTm9maEcwSjlLQWFRSjljRmtmLXpNS25XRTVWOGVUTlNqUGN6RjhzRHlSTWlyODlWOEJjdWhsUnlZQndvSWFvY2pYX3hIanhuczRqOHk4OUF2WUs1ZW5CTVU5aHRLTVplZzYzVkVzeGpwMU5jYTIzMFNvSzFZXzJVblowc1E0N0hSc2xzaFZpZktSWElRaDg2LVJIQTMtWEx2eE1RU3doOWc?oc=5",
+   "medio": "heraldo.es",
+   "fecha": "2026-10-19T15:17:17+00:00",
+   "imagen": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2026/10/19/6ad609d0abfcc3-00038258.jpeg"
   },
   {
-   "titulo": "Guatemala envió un nuevo contingente militar a Haití, mientras cuatro salvadoreños siguen desaparecidos tras una emboscada en el país caribeño",
-   "enlace": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOT051RWxfOXlNMFcwek5RYW9yVV9XQ0xXdnZOWTlYZmxVNzBnR2x2bXN1ZjZmeGxjbGVObGpEa2xkQ0RsUURlbmVVU0ZOMEo5bDl1a1E2VjNGemFOeDhlYWhfdy1vcGJUeDRQaHg1RU1OMEZrSl9QUkhYVmJIa2xkWjZSNDFmcWVyM0ZsckNYSGhVam00dXVqSXJheXRCeThXeU90VkxwWWZCZ29rb2x0NzBrTkI1ZExhX3Q2M1hMUklOWmtvNmxlR1lOZHYyT092WjVva3VJR3hoTDVhNWduOFpfelZ3cjJaTlQ5UEEzQWhXcUFJbjAxYmx4Y19XTW1vNXRiZUV2LW5ESXdrTlRDNm1kWEZkQdIBsAJBVV95cUxQT3k3d1I5YXdIS2FUbW1sTWg4NDNNNWJzRUNSTlQ5TmlKbDZ0d3BEVDZDR0Z5WGpTa1NEcW13Vm53b0JQX080dUt5XzFlRnVXMHN5dldTdDZCVGhyUXVNX3NKdmZ3OFI1ZXZXN19jclVGY3NRZTd4ZHRETzdleE1vaW9RWEp4cjc5ZHE4eWtDN0lPcFpZeTRoaml1RFVXZ0NQeHRJZEpJUF92b05nS2k3b1ZFRGhXUWVMUjlvY2hUOGYwODdNdmZYMUU1YTdOaDZDcjJIbExLRlFYUHFwX0lxOURJam1sTHlDTV9EcDB0OG1EVk5rR1J0RzMwZGZEd21ndVAtdWRYYjdmbWNlX3p1WjhTRVVNbGJjYV9nN1pKeGdrZVdyT1J0SVpwZ2hDaTNW?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-19T15:05:36+00:00",
-   "imagen": "https://www.infobae.com/resizer/v2/MYPQU5LI7FHVJBYDZBKDRZ3USM.jpg?auth=31c2db66d64868ab83db9c3339388a30d0fcb98d719785ad22a78620f4d69e60&smart=true&width=1024&height=512&quality=85"
-  },
-  {
-   "titulo": "Bagalleros bloquean puente internacional en la frontera con Argentina",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOW03NlZfMUhwbnVSZWItM2Z0WGVGbi1WVFctc1MzaGdVWEt6Nk8xYUY3dnVLZ0JTZnJEMlk5Z1lFQ19HV2twSlNmNkFjVXM4Z25WNUZzVEtmZHdVTmh2M0pKZjFUempxU0YwTmQySlVGMzRVSE5LQURDRWhhWV9FTzdKUHRXZ2J5bFZjRWFUQk9sZ3E3eV8wX01obkxyeXJ4Ql9qVjM1T2MxSnBlSzdrTEVNcGdraktqek40?oc=5",
-   "medio": "La Razón Digital Bolivia",
-   "fecha": "2026-10-19T15:01:12+00:00",
-   "imagen": "https://larazon.bo/wp-content/uploads/2026/10/bagalleros1.webp"
-  },
-  {
-   "titulo": "El coche más estrecho del mundo fue creado por un italiano y tiene apenas 50,2 centímetros de ancho",
-   "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaFJrckI5X2VCM3RZaVNWM0xDeVYySUtlUVN0TTU1ODhaOGhuVE1MY3pFRWV1dWJubV9YWXBBX2Y4UEtINEJxOHZDMko1T2Ytc3czb2x2WklDSWdUd0pibnpvWmFoWElsWmMwY2lpY3BTa1ZpMDc3Nm42OUt6TElqQy13aUpMTGJ2ak10ZXlXUkJERTJmR0tPaTE4MzRFdUM5Rno1b2pUcWU5akYwNjNmYzU4NkdvdkRIRFMxSnB2dE1SREZGT0lNU3RXT2xrdHhWX0l5MVBLN3NDTlpLOXJiY2dGUmdreWVBVzk1UGM5NGpXWXlXQWpVdGtDbWQ3ZzNRUUVLeHB3?oc=5",
-   "medio": "Vistazo",
-   "fecha": "2026-10-19T15:00:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Hoy, 19 de Octubre, nos unimos al mundo en el Día Mundial de la Lucha contra el Cáncer de Mama. Pero, más allá de vestirse de rosa, el verdadero significado de esta fecha es recordar que la detección temprana es un acto de amor propio. No dejes tu salu",
-   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CTEM3aS1Gb3VMSjFfS0FWNllpYWhmMVJQYms2TC1yVTFPMkNtaWFpTlpTZnhYR0Y3VEdwX3BuV2tkaFpNdFJLY0txOVFvQzZaM0E?oc=5",
-   "medio": "Instagram",
-   "fecha": "2026-10-19T14:41:15+00:00",
-   "imagen": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/857485448_18641803633007574_951965773653303676_n.jpg?stp=c217.0.653.652a_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QJGeeQgs0qMQ7kNvwE6viCP&_nc_oc=AdpL1utFhz4j8I_gCQGy8jSJOaUMclhyJcq3dsW8T3aO-8Qo66m5MbsLkh7RS_5VmBM&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_gid=eLXm5ZR51aeOTJr0TeA0Hw&_nc_ss=7e60f&oh=00_AQMzkaqHyeiLVt2jO9VQq0WNReQp0qEqLe_KRYelfXb2mA&oe=6ADC1028"
-  },
-  {
-   "titulo": "Escrache multitudinario contra Ayuso, que responsabiliza a la Delegación y a Sánchez: \"¿Lo que vemos en Europa va a trasladarse a Madrid?\"",
-   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pTjNUVE9IZ3FMX01KZ1ZaOUEtYUVVUnlBT2lmLTR6dUZfVUY1ZF9BeWlFU0lkZHhkcG1fMFJ4cDZVaHVUZlVoTW5LUEdWMDR3RThIdnFfWm1kSXZSNHNiMlJNU1B0di1fZE56ZUtGdGtBRXpYMFhDZ3lR0gF6QVVfeXFMT2JTMndaMncybk1odzNyYkVETFVSVnRVSmJ6Z0xsNkZxT0l2YVpraGpqN2lpanhOdW5iMXhvTGNRd2hTenhFLW5IdnJyM291eDd2N3RBaWVfRC0tNXdtR2d2ZWdBOGdSTlNyWDZ0Ni10Zmd3VVJ2WlRsM2c?oc=5",
-   "medio": "El Mundo",
-   "fecha": "2026-10-19T14:40:08+00:00",
-   "imagen": "https://e01-phantom-elmundo.uecdn.es/615f6ffc389a87f0ce1e35c04f5c5cd3/crop/197x167/2861x1943/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/19/17924150598378.jpg"
+   "titulo": "La Copa del Mundo conquista Zaragoza con Luis de la Fuente como invitado de excepción",
+   "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FZE1zNzIyZ2lRQktrSFFhWkVfeUtCU3pZc0cxZVBOVEhLcnd0bmdRaXJDSEdIdzlyRkt4QkljQnRYMFRRU3lhZVBEc2lfN25PQWhYSzBYN1k1UVV1QzhlZ3dR?oc=5",
+   "medio": "Ayuntamiento de Zaragoza",
+   "fecha": "2026-10-19T15:11:02+00:00",
+   "imagen": "https://www.zaragoza.es/cont/paginas/noticias/2026/whatsapp_image_2026_10_19_at_14.43.56.jpeg"
   },
   {
    "titulo": "Noveno taller del Programa Internacional de Formación en Investigación del Sur Andino",
@@ -107,321 +422,6 @@
    "medio": "Universidad Peruana Cayetano Heredia",
    "fecha": "2026-10-19T14:35:00+00:00",
    "imagen": "https://investigacion.cayetano.edu.pe/wp-content/uploads/sites/3/2026/10/image-16.png"
-  },
-  {
-   "titulo": "Marc Castellví y María Pascual estrenan su palmarés internacional en el Sub'16 de Cornellà",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnRHYkJKUFVobV9udkk1R3BsZXN6RllYQ2tybzNsdFpwMlRtOGNXQVIzMncwSXVuc3JmSXplMjFIRnhHXzhGSllKTlRERW1rbnBWeHFETlpQdmxnNlhTZWRzaVBPOUZqMEdGZy1OZzZoNFpnVC1RTUxncVdwSWhGS2lwZFBhajFja3lUZjRTMjNJUmpBeFFobll1WVlXZHhka3ZjdHhjZy1nRjVfZFlnSjhtRHZYbW5sVDJ6Sw?oc=5",
-   "medio": "rfet.es",
-   "fecha": "2026-10-19T14:23:34+00:00",
-   "imagen": "https://www.rfet.es/media/image/noticias/15731_Foto.1792419643.jpg"
-  },
-  {
-   "titulo": "La marca española Siroko se convierte en socio oficial internacional de los Chicago Bulls",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObEN4OXlHX0YwTTloNllhVlZ1N1d5T2pWblpPeFdXYVBkeFBqU0tvQzlkbjNmRDFISFVKWTJmLW9xUm1ORHoydF8waVlyZ2dlcGF0dEJ2cDh6RENQRFpxOGRHcDhiY0NGdGdkQjVwZEFXa3l1N3JURkZQdHFLc3MxVnBVYlhfR3lYRW1DbVZueXNvd252eW9xOXVNWVJlTDdhTjRvX0RWMXExektrMURTdVNpeEdiQm8xVkhn?oc=5",
-   "medio": "Gigantes del Basket",
-   "fecha": "2026-10-19T14:14:18+00:00",
-   "imagen": "https://www.gigantes.com/wp-content/uploads/sites/4/2026/10/WhatsApp-Image-2026-10-19-at-15.30.13.jpeg"
-  },
-  {
-   "titulo": "ECOMONDO 2026 acelera el debate internacional sobre el agua circular",
-   "enlace": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yTUhjVmJreHhCaGxvTEo1UG5VTnhUNTJPeTBBY3JoTkFJdk0tODI3YnBmS25FMmFRWEJqcnVLZExmZUVPWk1mdTlxaEg0Zw?oc=5",
-   "medio": "Interempresas Media",
-   "fecha": "2026-10-19T14:13:49+00:00",
-   "imagen": "https://img.interempresas.net/fotos/5821146.jpeg"
-  },
-  {
-   "titulo": "#AmnistíaDice: No olvidamos, no romantizamos, no perdemos la esperanza",
-   "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcnJPZU5FY0dqLTZvLWFvNFdUTmQwU2swSTh5dVpDWnFqeGUwVHB4UUViY2FCQXhCUlRqTXc2T0ZWd1lkeC1Eb1c4N3dpY01ZWjgwRTFJbm9NUERzbndwdk03OXRBRlVhNTBTZEJONHpjMHJ6aHllTU5iemU5MEZ2VVgyNV8wY0dBc1ZHcHZGWUI?oc=5",
-   "medio": "Amnistía Internacional Chile",
-   "fecha": "2026-10-19T14:13:15+00:00",
-   "imagen": "https://amnistia.cl/wp-content/uploads/2019/11/191025_Chile-desperto_013.jpg"
-  },
-  {
-   "titulo": "La pareja más famosa del mundo del tenis anunció su separación: “Nuestro matrimonio se está acabando”",
-   "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaXQ3M1o4emFQQ0ZrUFlrVHVKZVB2cHpGMUc1TXV6ano0dTVpOUtHc3B3eFluellLVVk1MlIwdDAtZjdtVjZkNGktb2FzWXNlb29jaHlzTDdTNnYxMno1LXRDaTFxc1U2NTB4dGxRQ09UN2c1ay1uZVdWaWIyUjNvNXFpSThzTFNrOTNQanpZdWNGUHRSVlJwM0ZNQ0laRDhPMElDWTZSRThWZjgzRlFGT1VZTGs4R1lzNENXZWVXTlNoYWRBSWdkdHM1MHcxNHRDR2xhNEtlWml1UXk4SlNoZ0Z3?oc=5",
-   "medio": "La Nación",
-   "fecha": "2026-10-19T14:07:00+00:00",
-   "imagen": "https://www.lanacion.com.ar/resizer/v2/la-pareja-mas-querida-del-mundo-del-tenis-anuncio-AZGN6R4TJZEAXOISLLWT6UEYAI.jpg?auth=4e109104022f06c6713a2a303cc2afd71d8035c3bf544c23190370ca6fa89747&width=1200&height=800&quality=70&smart=true"
-  },
-  {
-   "titulo": "La nueva oleada de drogas sintéticas caseras que se propaga por EE.UU. y agrava la crisis del fentanilo",
-   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44REQtU3ZwaHRpaU1IQ3BGYUFVWU1xakdBX0ZPb0FoRzU3ZjRiRTRQb1RCVG54aFZLd09LZDAzNlVTTUtURmtZQzBhWjJnSmhiSGF4dGJUdkxoblR40gFiQVVfeXFMTk9NY253RC0wdkU2akhUN2lTUGQ1WUw0aGRGcXhwbU93dzdsbzBWVkhBNnlLZkFvMTAxVDgwazh3Q0VuVGR3SlpQdXNVYlYtTGdhV0REVDJrNl94YUFUdDZLS0E?oc=5",
-   "medio": "BBC",
-   "fecha": "2026-10-19T14:03:45+00:00",
-   "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/11eb/live/394d9e60-cbc5-11f1-aba9-2bb2608f11d9.jpg"
-  },
-  {
-   "titulo": "El Niño se hace sentir en el mundo: inundaciones, sequías e incendios forestales en distintos países",
-   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU0FiU2lROVRGR0N3OFVvcFNCNk12cENCcmsxalVSS0JxTVlhdjA4S2pONXcxd2c1ZWhKQVVlalhWOXpQU1hrUTR3cmRIMTE2YU4zVkVSV2toZWQ5TnQtVzBzZEwwenVzVmNMOVBuOTJkV2FKX08tb0V0XzFRaFUwLWxzUlR0bm1EMW50U01fMGhoYndtQXMwNUJYcUlPaHFzNXJrWHkxc2NmODV3dEt6bm1DOXVEZ2gxaHFOcG02c0RpVlc3TXBRZnoxOWkxc1VW?oc=5",
-   "medio": "El Productor (Ecuador)",
-   "fecha": "2026-10-19T14:01:33+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Aeropuerto Internacional de Mérida: estatus de vuelos demorados hoy 19 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTkluSVROREhzRFdjeHpxdTltYjlfR09NMW0zU3l5NmNXU2E2TUJaVXdyTmdBU214Y1o1eGc3UmtTZzFBTjZlRzNicTdUcjlQVTl2UmRpZHl2RGFIc0w3YkVhS0hjYWw0R1dXd1VXSVhrc2d2RTYtVnN3REhQMW4tRjAyNU1IeEwyejFJWlJ5UHp4dy1tVlNRdEVjNmtBSTZRck9ZZnhBTjlEWDBIaUlRMGdiV3B0LXFZQmZmQVhmM08zNkEtejk5TzhyTjF0OFRFNG8wNjV2M1ZOd2s?oc=5",
-   "medio": "El Heraldo de México",
-   "fecha": "2026-10-19T14:01:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Biodiversidad-COP17: el mundo tiene un plan para salvar la naturaleza. ¿Funciona?",
-   "enlace": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15cTRtS0pPVGFKdngzTHh1ODUyQUNQZGxCMXZKVnJ2R1lUay10NWFQVUNrcTRqQnl6QTQ4WTlXRHdldHVwYTB0LUg2bGlpLWpTcUF1dExycw?oc=5",
-   "medio": "UN News",
-   "fecha": "2026-10-19T13:58:26+00:00",
-   "imagen": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-10-2024-Unsplash-hummingbird-01.jpg/image770x420cropped.jpg"
-  },
-  {
-   "titulo": "Programa internacional para mujeres emprendedoras en Economía Azul",
-   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0twc05ib0JTR3lxUGEyZkRiU3lsR1B4LTZBb0RtbHAyN3Q4ZEVXU1psQnRJbXhiUG9GUVBGaVpjc2dLdzVOT2VrYkJQc2xnSzVoV2dnN09OMGgyYnhGcUppUk5yVjJBZTZDXzQzMExhM1lLN0dCY0xFbGVoLVNFWS1UdjRTNnpMZFU1SXlNZnZ1U2Q5UTZrY0xwS2RZVk1PREZuS3JIUlhGc0JycDBkSk1yWkptaElxZ1NKdW9YODZPMEoyaEZUMWZxb08wUkdm?oc=5",
-   "medio": "EntrepreNerd",
-   "fecha": "2026-10-19T13:58:21+00:00",
-   "imagen": "https://img.entnerd.com/upload/2026/10/17161D524C42446D141F0F55514941761F151C18504B4D711D-1024x576.jpg"
-  },
-  {
-   "titulo": "La gran sorpresa en el mundo del tenis: Elina Svitolina comunicó su separación de Gael Monfils",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNUxVOENnSzRaNVAwSWdpZmxPaTR6ZUdfOU5HTUpva2VMSzF2NngxUXNZTUJKY0M4N2l3NW9WSkFtaGdrc1pIWjdjWUdlelFhMXhweE0xWks5YVU2bm9wMXhkbnFZNUFkQUtqRkg3T1l0Rjh5UlF0NG1lYXhsOFIzQmVkaDNlMTVoLWFxcXF0aTB2S3lhaGRWMm1Xc2Voc2lrV01WeGNHN3RmN1ZBdTdXZ0dvSGVmRFM4WTZkdVVNMXVoekM3RVBLdTBReTBlTGNVRnJuUUV2TQ?oc=5",
-   "medio": "ESPN Deportes",
-   "fecha": "2026-10-19T13:38:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "🔵⚪ ¡Escándalo en aeropuerto internacional Jorge Chávez con vuelo de Latam 302 Lima Piura. Ala del avión comenzó a incendiarse en plena pista de aterrizaje, mientras pasajeros gritaban desesperados. Nadie pudo bajar hasta controlar la emergencia, y fu",
-   "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1na1BfS2RYVExmYjRncC1CalVLNnE2X0JKdjNwem9TYXpVdHNGblRJV2pQMFE1UWYwUldNMXd4eGpEOUpwN1RmWjVMUkprdVBQWTdBT0dn?oc=5",
-   "medio": "Instagram",
-   "fecha": "2026-10-19T13:37:48+00:00",
-   "imagen": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/851375804_18577460119072942_8266021193978296953_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=88nDxcNjwdAQ7kNvwFEMXEc&_nc_oc=AdplnFVvVWbY0EBEeM1YruipCvPCcLcu_qstcq6T32zbRwVLp7w9kjIiZ0LZ4q7hkRY&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_gid=EtTPCw2I0u4Vvk9UoXcVgg&_nc_ss=7e60f&oh=00_AQOKBZyg39ZfVibPQ40GkcPp35KFQ6VryhoOVOnQeua23g&oe=6ADC12F2"
-  },
-  {
-   "titulo": "Greg LeMond sobre McNulty: De gregario a campeón del mundo",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZzdSa1hmcG1Jd1VnR2xtRDJPM1NMQnZ1cW44VE5xYnlzVGZjMnRYTjl3Y2tEeFM5UDBtM3pJOVNpZDFlMmZ2Y1VwMVlXNzJCNldyWnRVZmxvckhINFA2LUFxSlVYS2RVbTdQZXk2WkgzRFhnY0hLZzF0V09ZWHA0VXBidHNkTzQtNVg0NGQybnhYTWp4Um45cFFFcTAwTWNKTHB6ODRRcWtzaVl2SHI4N05mbFZocUdXMkVqTW4wMVVsQlhJSk1WN1B3eDJ6Y1V5Y3Z4Ymxucw?oc=5",
-   "medio": "Ciclismo Internacional",
-   "fecha": "2026-10-19T13:30:49+00:00",
-   "imagen": "https://97b38840.delivery.rocketcdn.me/wp-content/uploads/2026/10/mcnulty-arcoiris.webp"
-  },
-  {
-   "titulo": "Pandillas en Haití cometen mayor ofensiva contra nueva fuerza internacional; buscan a 4 soldados",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU216YVpoUjhkYm5rUW4yLXM4M0tDZnVOX1A3SE9leHhuZ2hqSEVZRm81QXJjOEcwbnhxUTVlYnRKTjdyTFpRR2dQUW5oczNRcUhqQTlycS1PTGxzZnM0dWN3dFRabGxMSFVfcEh5V2FiZFZJUjJiZUxBZjk4amNHYWRMTDJtS3V1SXJJUGdXWGdHY1duOWhNOWxPbjBRdWVadEFtOWdyMWp5cmZCUGtOU0JPOA?oc=5",
-   "medio": "AP News",
-   "fecha": "2026-10-19T13:30:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "AP Explica: Los partidos que participan en las elecciones en Israel",
-   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbDBrVjBnQWRpdEtpdUptWS1NZUNiUUE0UXBnWlp5VWhlYjhCMlBLM2VnTFB6aTZfemJjeEMxbERPTy13NU53ZUVkMkU1S3RZRGd2dkdfcWF5V1NJdGJpYjJqNkZCS1Y1R3hFMHdVYU9RemJUV1hGT1BfUFYyWEJKcmIteVlPclFDTDhNaVBKWHVxdGlDQUVWNGNQUzh3bFM5YkxwZWlRSDBHWHlQZVdDN1VHSFJwTGQ4WjRpMTJtYnM2a2lCQUFvY1ctWjdoZXRMN3VqTmRpa2NxR1lSQkNzWTFXSENJSzVybF9IMA?oc=5",
-   "medio": "LancasterOnline",
-   "fecha": "2026-10-19T13:26:39+00:00",
-   "imagen": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/3/a9/3a945408-3e70-536a-bfe1-911acf625522/6ad61bf2e6ca0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-  },
-  {
-   "titulo": "El icono balear que albergó “el mejor desayuno del mundo” se reinventa: la metamorfosis del refugio hedonista frente a la bahía de Palma",
-   "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPYXVLYjFPQkp5YTZkWW9RejBXUGpUaHlOYzMxbGE1dmVqVm5BR2ZhNnNxTmg0Yl84OFZUd2xmdUQ5V0VrQ0sySVBrWEZOS2gzZUo0WEd2NTBvUTY5bEVmencwNGMxY0o2WS1lYk5iNUZjajJSX0dDRl9XTFdFeGhRX3czTTlNQ0R0ZE5ON3Q5VTJVYkxfVTFyV1BwVm9saEpLamluSlFwLTBDenE2eEFPRnZ0elFhSVRmN2dHWGMxenBnd1BKYWJPbWtubnItX2dJOFVWcjhueEpaaEtrLWV4T190cU5iS1JqcUJqdGRIM1pkRnJZREpQNm9qcld2ZDZVakxnTU9CLVNDYjNQaVE?oc=5",
-   "medio": "Diario AS",
-   "fecha": "2026-10-19T13:14:44+00:00",
-   "imagen": "https://img.asmedia.epimg.net/resizer/v2/ZNQLDVLTFZASNNQFPIT4ZNNSXE.jpeg?auth=84cfbf43eeb90e59cfa1c10810d5af60845c551660f168b3ffc6d4107e051ee2&width=1472&height=828&focal=3930%2C2205"
-  },
-  {
-   "titulo": "León XIV nombra nuevos miembros de la Comisión Teológica Internacional",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXFGRTNhVXdFLUNUdUNTQm9RZDhCbjlBaWtmMXZvdVBBNjZQUDBQYnc4TDRqZ2pOMFYxenZZZl8yZS1ZTjRudGxyd1JXbkIxNVNrMWRQNEpLRU5jVWNUdm1hM1BFX0RNSXVZeEVxSFdXWnRmWTg1MnpKTGdJa0VLLXRqRmRXbmxlaE5tS2tqbjd0SWFwallXbzBNYjE5akdOeEZPVk5ZNEctMTJvV3c3X2hEZw?oc=5",
-   "medio": "Vatican News",
-   "fecha": "2026-10-19T13:03:20+00:00",
-   "imagen": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2019/12/13/rome-388456.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg"
-  },
-  {
-   "titulo": "La conmoción en Australia después de que un vehículo arrollara y dejara gravemente herida a una diputada en un presunto ataque deliberado",
-   "enlace": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNT3l5TndPRWtNQVktWFc0cV93NHppc0cybzFBQVJGYURSNXptMHFEdTlOeG8xU2x0YWRfZzY1OUpaZHpDRnBkUmZUV3JYaU11djJuT0o5ekJWZXNuVDNGQW1GZFZUSDBWakNCcjdEQ0dKSWRTMlNPbDR4MktKVHFKbVVMbE44c1ZfQ2djS2djZWJmVmhjN2w3a0NtVktSaVhHWlFwbVE2WUZBOVZZYkxvS3lyTlJqdy1aSEswR3p3alNHeHJjXzBqemVtMGpDQ2VvSlNsajY0MF9IWU5GcUhObGlPbFE2cUhYeUEtU3NBc3VQTkVEYmxtLXVKb2s4LVFXR19CTGpILUhOVVNIUjh6YjVNOENwamNIYm5xelFabHplRmc3UkxPcXJoUkFwTVdCRERJ?oc=5",
-   "medio": "Prensa Libre",
-   "fecha": "2026-10-19T12:58:50+00:00",
-   "imagen": "https://www.prensalibre.com/wp-content/uploads/2026/10/550c5760-cbb4-11f1-81ef-39e22b578b80.jpg"
-  },
-  {
-   "titulo": "Diversas organizaciones darán lectura al manifiesto del día internacional para la erradicación de la pobreza",
-   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ24tdUdrR3d2YVJvNktJT3BFb1RsOWs1Y25aZ1lFaFI5ajZIYTRnMW1pYnN0aTMwR2Z3V2ZPTGwtZGFVQ2JReEp4UjB2S0FCV0daTXhRdFpGZWNMaks2WW5QQ1Z0b1BvTDhQeDc3eGZ2WDc2RXB2WklEUTFJdzdscE16c0JZLWtmOEluZzRoTndCc2RqZlc5OUMxRTlqSnBUZ1RXOWdZLTdHbU1hbjdXQ1J5WGdOQjlBT211amdXRjh4MlRDclY5ZEVCZTl5X2RVWWc?oc=5",
-   "medio": "Ayuntamiento de Puertollano",
-   "fecha": "2026-10-19T12:46:32+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Las numerosas preguntas que siguen abiertas en Francia tras el \"fin de semana de furia\" y por qué se temen más protestas",
-   "enlace": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOdHE3eVJnc3hSb2pHVHdzeTMxbDRoa1hRaDN2UnVCc2RFcVlEVkxvaUZiZ3VwMWVVWHI1TE56dGh1TE1XRlMyX19fZkRxXzhmZUlaZnZWcS1uLUtjRG1CdzNFbUEzT2lHTk5pTVZ3RjUyM1oxTTRweURuX1lvbEZKenlxMDJHNWZ2d3gwLU4xUU00OGwyMXB0aktPeFJLSnB2UmpoMElnMTItbUJhTFBPX0VSQkNLbjQ3T0l2YVhCdjB3V3AwMU96bmhmZlBZbW5HWGRrVUJWaXY2VDZNVGY4MVVPQklhQ0VVWjh5U21QNFY2czRfeU1uMUV3Ukd2R3E2YVBxWmcxWlQ1cWhQaWdWUGdmRDAyMDRTS2c?oc=5",
-   "medio": "Prensa Libre",
-   "fecha": "2026-10-19T12:35:14+00:00",
-   "imagen": "https://www.prensalibre.com/wp-content/uploads/2026/10/10db95d0-cba3-11f1-a64c-550be9e3c66b.jpg"
-  },
-  {
-   "titulo": "Temas del día de EFE Internacional del lunes 19 de octubre (12.00 GMT)",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2daeExrUDdSTk9xd09KQ0NPY014dnhqcjF4cy1MRl9ZS2FXMzhxXzRtZk9jU3dieG9FRG9hbGI4OE80SmFoZnBRdnRYUVdhVWJ0cXZTV3RTUXdkSlZFZzdWUTNXdXdrMHhybzhCcWpuZWFJbUEtb2VwVUhaU1dxalUzUVdmbWZSY2RseF9HNnhnZHBSZnZJdFdWSmw1ZFZONTE5QXpzaTZWVkE2Rl9QSzlmNWRURHhOTl90TdIB1wFBVV95cUxNMnViZDlDbHl6WlNlZVJKMmh4dUREWHpBcjhkUENBTENVR2JDemZEVjVGU3NGdURlaVd4WmREVXZ5cDZERERQOFJ0ZURQemlxdlNuMWpKU01BQjFySlpSWU1HRXpIQzV0TFVRX1hUbUlYWnpIcHZRcmNIMHBKWjJtd3RRbGhNejFxUDg4czJVZDJ3a3BPbDN3eUtkVkpxRnJ4THRsaTJzM0xGRUpWQzRSMHpwUWN0Mi01eVZ5WGJ4dTZlZGUyNmQyVjhhY3Bmc21rTE90LTRXZw?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-19T12:28:48+00:00",
-   "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
-  },
-  {
-   "titulo": "«Reyes del Mundo» revive en Zaragoza la emoción colectiva de un triunfo histórico",
-   "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdDlWdlpnRXNhbkpacUxaQWx6TDdENGg1VWJEeWJvb3A1THUxemltY1doV3VYVkhrVTN5aWxJRnkzMEVLaEdlM0FDUm8tOXlfVUU4X0Q3SWFlaWtoREx3VFl2OUhRNzBaR0hUeDE0c0RBNXY2dFNrdDlEX1pIazB6UXhKTW1EUGc5b1NEeXZB?oc=5",
-   "medio": "EFE - Agencia de noticias",
-   "fecha": "2026-10-19T12:25:56+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "\"No hay intención de mantener viva su memoria\": cómo se va difuminando la figura de Maduro en la nueva Venezuela de Delcy Rodríguez",
-   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ycDJCd1docWU5X2lSQWY2Ymc3WFJlRklZR09UbFJKUXV2QVZYb2xvZlhIemktazlFay05dFpkaUlIeTNEYzEzdTNJOHhpWXJTQlVld052MWhpUjJL0gFiQVVfeXFMTXFSOF9aYUpqZUVEd1RPQWlxcmgxVWoxaXQwS2hmQnBHM3lHYmtkM3RmX2pCdHNTbDVZUXJWTlhNRDJjYUxTX0E5bC1BZ3l5Smp0di1SeS1SMmZCZlNpeHRtLWc?oc=5",
-   "medio": "BBC",
-   "fecha": "2026-10-19T12:25:38+00:00",
-   "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/793d/live/e2d232a0-c9a1-11f1-ad54-aba20166b422.jpg"
-  },
-  {
-   "titulo": "Lecornu se muestra partidario de decretar el estado de emergencia en Francia \"si es necesario\" y da carta blanca para imponer toques de queda",
-   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlVBWmJxcDRzbnhvVUMwQ3BSLVJpVGZsT2NiTFQyZlgtWnlKOEJYTm1DWGtiY0s2SEYzNkJ2RWtMdy0wdXpVdHFZeGlCQWFSY05CeGxMc040SXZvdXlybkY5dHJ4MkdvTzNHUjc2UkFhaXQ4LXlXbUZmTlo3WjBiWDBCY9IBgwFBVV95cUxOMVpTd1VQZXdUX0RVamZKc0VvaXRYc3B3Tl9vMUlNZXE5M3kyUThSZ2o5SEZGczhYeVV5WWhIeGpEQ213d2M4MTZpcmc4bS1wUHFGeDhldFR5VU45bWhmMXJIVDhvSnhfT19lNTM0WmtydVI2WEhFa1M1Mmh4YlVyY3NNdw?oc=5",
-   "medio": "El Mundo",
-   "fecha": "2026-10-19T12:02:16+00:00",
-   "imagen": "https://e01-phantom-elmundo.uecdn.es/fdeef41aef0b6b3a75b5789ee2c39135/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/19/17924111760960.jpg"
-  },
-  {
-   "titulo": "June Villarroel gana su primera prueba de la Copa del Mundo de skyrunning",
-   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORjlsY1NHU3F3TzVnVUxXbDRlOWk2VWdzZ0JvZjEtNHVkTGlRdVMwcDQ5Q0JYZllPYjU3S3lvMHl4RmptUHQxbXZKZklQeVBONElDTnQydFZlbERsaFN3RXJIcnZNMjdjT1BZVDE2VXR6cFFWQWwwc012Y1F6WlFpRVo0UTE5SGlfNkNDNUJlcEgxdWgxRGRrYUpTTTI0M2FUN1NtU2VYR3dHVklSVEg1RE95eTZPZXU2ekMybHBlX3XSAdQBQVVfeXFMUFMyTkFLaDlXT1lROTZxTTBIeTN5NlppSEhGWkp1UHRLY3g5SUtucnJvMzJLV25DeDBMSEVQVGduaGJGZzJQYTUtZF9YSVNHVmY4QUlmZTBfMlpreFVVNlhMMWdldWQ1d2RwU2ZaSWFsbkp3cFhBbUZNek9CLXdXNDRqWmtjandUZGFTdzJaM0lIcTZyRnRCV05qTlVVYWJfV1hLeFJJVzBuOFVSZmZFWnhLWjdyWkFURHJwWnJyYlBRR25feHBUdF9jRVo2eWtfOTJGVEE?oc=5",
-   "medio": "Diario AS",
-   "fecha": "2026-10-19T11:56:27+00:00",
-   "imagen": "https://img.asmedia.epimg.net/resizer/v2/YALX5Z7TLZHVFIM6WKVYGIQL7Y.jpg?auth=eefe0f22a0c80c60321576c3a1ac2d81b9e9a7f9a7a950c8af229d0aa68978f7&width=1472&height=828&focal=997%2C589"
-  },
-  {
-   "titulo": "Zaragoza, volcada con los \"Reyes del Mundo\"",
-   "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOTg0ekFFWGtyLU5PUHJZYl9yNDhsSkYxTXNBZWItWVgyRTFMSFkxOUtsbXNOZXhOS1lMSlVJZThwbDlQLVdROS1hTWU3SHlzbGRFSzJuX2daZFNiOEVJUGRGNEZlUllxamRmaGNmVGlCZ19MdURrR2tibGZBdnZoMks0bks2eGs?oc=5",
-   "medio": "Aragón Play",
-   "fecha": "2026-10-19T11:56:23+00:00",
-   "imagen": "https://imagenes.aragonplay.es/files/og_thumbnail/uploads/2026/10/19/6ad601ed74ec6.jpeg"
-  },
-  {
-   "titulo": "La Estación Espacial Internacional cruza el cielo en pocos minutos: cómo saber cuándo pasa por tu ciudad",
-   "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONlRGQ0l2ODNSU1hFeGMzang0bWwySlJKT19oSDZBVXdNWGk2SGhtV0tkV2hNMDZpY2U4SW02MnFFZkdkd21zam5Ya3lZTXNtLUhEVFpRNGQ2bG4wNDNtNTVtSkw3VWRFbDJ5WUFDOGtsSDA4eHAzVUhWaUV2OUY5QUlVbGZMbXJjS0p2RVctalBjaEdSTmZMZDNveGZPMUtUZXJaWVRiZVRCMXZhVTVZd2RnWFBLU0JKMVlQS1VKQWRqYlVEcHppZDNDMUlvazFzZ3pwTy1JVXktQjJSeEQzSW5kRVl5Zw?oc=5",
-   "medio": "Meteored España",
-   "fecha": "2026-10-19T11:48:41+00:00",
-   "imagen": "https://services.meteored.com/img/article/la-estacion-espacial-internacional-cruza-el-cielo-en-pocos-minutos-como-saber-cuando-pasa-por-tu-ciudad-1792371295045_1280.jpg"
-  },
-  {
-   "titulo": "¡La FCF y las Selecciones Colombia se suman al día Internacional de la lucha contra el Cáncer de Mama!",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVzUzQ0VxSGx2X3ZDcElBWlZJVjRINnRrSnp5cmpDdFpVTzZkTTR1dURnb2phVE1XZ2RkcjlGdVZTYzVCU2otVFYwRVVXUl83YUJudXlJLXB5SmZISDJYZ25lY0ViTDdic3hvSzZIMWRKa2k2VmphT1JFSVRjbkowaVdKRHdIX29mdnl6NFNGenFEMUdJSzJVaFlRNlNhM05DeDlpSGhQdUx4UHlQMmRBRk9ZWWhWQ0paaU10VW9TblNaMUw5U3M2TDJBb1lMQQ?oc=5",
-   "medio": "Federación Colombiana de Futbol",
-   "fecha": "2026-10-19T11:43:34+00:00",
-   "imagen": "https://fcf.com.co/wp-content/uploads/2026/10/CANCER-DE-MAMA-2-w-1024x576.png"
-  },
-  {
-   "titulo": "Un neurólogo del Hospital público Clínico San Carlos, al frente del comité científico de la Sociedad Internacional de Demencias Frontotemporales",
-   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMkJWWVF6NUY2aEpHMXhfUXJNbGZPekdMbDF2eDRwSFV2VE5TcnlYTWltS19NWEFXNHZDbUtrbUJiTW1paXp5REpza21MYVZDOXg1UHkwbGZyeHc2WW9KdnpLbUZuVlBjcUFwNFNaQ2hFQUg3VDN2Qm9zR04zUUd0ZktKY0NDZm9MbUY0UXllblhtOGlXZXBmdURacVVmUF9EZm5iUUxCZnBWc0xlSlpjMkpPci1vbGVadUJHMnRHQU9BR3UyTVl1aXgzYXFUUzBkWXo5YTN2NlMwNkRha18zaVpTc1BuVzF2VzhKaA?oc=5",
-   "medio": "Comunidad de Madrid |",
-   "fecha": "2026-10-19T11:43:18+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "2026: Año Internacional de las personas voluntarias por el desarrollo sostenible-¿Qué vamos a hacer en ONCE",
-   "enlace": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPM1E5eXpyUXpaei1JYzNSY0VjbWdtTFRhTmFSMWRtbXh6ODJBRDktUFlJLXEtSkxwdzQ1d19pNno1RERaMDNWU2NYdy1iYlZXVnI3VmxRcl9HbVVMRTNmaWtBbE1tOTJ0cEN5QmExT3BnbDcxVEk3UU9jZ2FUX3JwOENhSTM5LVNBcXdjOVBFUHA4M1A3N3RjT3JRTXhoWDhhZFhOMGwxaVpLYVdEM2hmSkxtRjRqNmJCTUxQZWpEOXNWNDAxZVhaaDRTMHI1RXA0d2w5aGpJTHBSNzZBcnNIUXRzQUI5Y0M1YjJGYUtwSWpHc1NaeEVfVUlhQmZIbExJQmxFd1dkZ25yM0pHS3FTbXY5UmszZlkwWnNXbzRMYWQxY2p3VXpJNzFYWDhOWFlfOHVRZ2lrc0d2ZlVoYlVnX0R0RFhpTkdzQWQ3LUVFdkNYTFdoTDJfYmlKSXd6RXdlTGlLbF8xTG4?oc=5",
-   "medio": "www.once.es",
-   "fecha": "2026-10-19T11:40:11+00:00",
-   "imagen": "https://www.once.es/Comprometidos/voluntariado/boletin-de-voluntariado/boletin-de-voluntariado-agosto-septiembre-2026-juntos-iluminamos-caminos/2026-ano-internacional-de-las-personas-voluntarias-por-el-desarrollo-sostenible-que-vamos-a-hacer-en-once/@@images/imagenNoticia-1200-70ae2d238bac5889b174a11366b53181.jpeg"
-  },
-  {
-   "titulo": "Remodelaciones en la terminal de autobuses más grande del mundo provoca importantes interrupciones del tráfico en Nueva York",
-   "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMFZRSC1YRlBwWFM1bnNKRHVxa01NaEtBdFVZMEVPaWVQQVpkVHZXcEF2WC14bjd2ZjBFazBhdE1Ud04wdk1CcXNrZUdlcnhyT01CNzVERVdwa0x1QW13X0pPd2taSWkzVTNyRUxHOWtvTDYtWjJBQTByZms1Z1ZQX0tENlVMTjRVd1kxTXZab3dZdHp5VUIxOTMzbl94NHlHQmdNQkFLVjVseFJSdG5FZWROTFhDYzQxcldlNEN0WGkwYlJRTElhOThhQlJINmw0ZE9XYjBZWEZ3dDRJVXdtOUZqNzNlQm9mczVsMFpwbnlMNDlIcXg3RVNNcDRZUE10SFV2dWVB0gGgAkFVX3lxTFBLbmdrTEMxR1lVaGgxOGt0NFJFXzYtaXpHVmdVSDBpY202X1lkQ083NXRUS055Vk1pQllySzNqaWladUlhTGEzejJlVHF5VzlKMDFXdFZSTXR4b2xISTU0YzI1QUJxZzBhNV9DNDR5cS03a0V0ZHJEMU9nb2gwOTc0dlZzZDlCcjAwcGEzaWRMRjJMb3gtRjVzQ2NwbjJtNXQ4UlV5TW11U3dLQjRyR2ZLMVVUYmhnYnRvQWNRWWtVMVd6dC1ZTU9QWV9VWmJURzNDaHlrZjU4QktJWHE4NU1mMWNYN0ZMcmxHVjNIMTF1WHYxZFZqNmRYSzdKWG04Z1NOb1JRbmMyMjZkR0hBQktGNkw0VDI0VU1HcWNjUmRGQg?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-19T11:39:00+00:00",
-   "imagen": "https://www.infobae.com/resizer/v2/W4NNL2VX2EOI4BV7VGNE5LTJ4E.jpg?auth=6a8b71f85026a5d31eae3220cfee0df6a22f58e6373baef364676401904601d5&smart=true&width=1024&height=512&quality=85"
-  },
-  {
-   "titulo": "La sede central de Correos se encamina a una huelga indefinida en pleno proceso electoral por el fin del teletrabajo impuesto por Saura: \"Se puede liar la mundial\"",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb3FvRDRucDE0NWN6ZnB6RndrcXhTMlBneVFZcVBLUEN4THFuT0lnYmtUS19wQ042M0tQbnR6M1QwelUzUlp3eHpKYkxENk1uMjNiLW4zZUhXSWNTQWJNc0EyYVBXTm5uc2Y0WnVNWGVlQWFjdjZVcm9YVnZQR3pSV0V1Q0wyNGM00gGIAUFVX3lxTE5XT25wczdBZ1ROcWhlYjVITW5jWFB2RVpCLTZFbXdiNVMxUW5qQVBmWjlnT1NfNzVMeHZwWDhUa2FUY0U3SnR5X3ppU3VoemFFYzZ2eUxjVzJUQVpISU5wYWM0Z3FQQVVGald4X1RBMmY4cEp0cHVHODlINVYtemhjYkk4TGFTQVY?oc=5",
-   "medio": "El Mundo",
-   "fecha": "2026-10-19T11:34:33+00:00",
-   "imagen": "https://e01-phantom-elmundo.uecdn.es/c785fe85b993bfbd3b2732dd0118c8c8/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/19/17924096079694.jpg"
-  },
-  {
-   "titulo": "II Congreso Internacional de Responsabilidad Civil y Seguro | José Ignacio Monedero destaca el valor del arbitraje internacional para resolver reclamaciones complejas de responsabilidad civil",
-   "enlace": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdnhkYU9WRzF5QkZBeERmempaVGlRNmpvQTkzdFVBZjJRclNfcDd3TEJ5ZEI1OV9EeHNzRlB6YUpTTFNuZEItTUU1TTdlMzAxYV93czA2UDJYdzh2bTZ4MkJ5UW16cF9RYlhRMWN2RlVXcFF5Z2dRMU9NSDFGVWhqdUpkOWJwVjJWVUJKZDVmcWg1X1A4MDZOdFNQd1V6RmtUTEg5S2FjRDQwMndJcDN3QklzX1I4ZVlzX1oyR2k3cGE5dElJSGpXd1MzaEY2Q29qbUZ5Uy1ZLU92TDUtWTBzTEM4bVU3YnZza3hGOEF0cHQtVHJpNzJCVktCRGJhLWV3cG9VY0NnMUxsZDc4dklnMkxkZnRBUlBaRWVCb2hPNC1iQ211WUlqeGVxaHZJVTBVdGZNaA?oc=5",
-   "medio": "ICAM - Ilustre Colegio de la Abogacía de Madrid",
-   "fecha": "2026-10-19T11:21:10+00:00",
-   "imagen": "https://web.icam.es//wp-content/uploads/2026/10/Jose-Ignacio-Monedero_Congreso-RCyS-2.jpeg"
-  },
-  {
-   "titulo": "19 de octubre: por qué se celebra el Día Internacional de la Lucha contra el Cáncer de Mama y qué otras fechas se conmemoran hoy",
-   "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZ3g4WEl6U3QxbEkxbWVvTEwtX0ZWcFJ4TkhPYXlmN2QtbkstVVh3VnZGYlZGZnlOdnRBdC0xc19IeXNxM2dNUHgyR0RCSUVKbEsyeTlDMXJxQkpvWFZYckZpX1R5bzNSTFlfN1lqMGxwQnk0NHBpMWVqZTZCSUQ0WXhjOUZ2M3l6OWZ2RjVCSkxNb1VJbE9OU0VaVWtCQ2kxOVEtSVc4Z3NhYW1PTWZpZTVUUjBSLWVyVFJ2WXFybGQ5Z0hnMHhid2x1dUhRVHBjMnBjY0hWTkgzYm9WUUFhQ2FKdWN1Mkpuams2Z0dVZ1dlQnhtVW12VFZRX3NEMENNb3dqQk4tTWxvNk3SAZ8CQVVfeXFMUFJEeVlTMVdROTVMRU90R0lJVFFxSzItcy1UWGpHd0NTd2xCX3BrRnRwQW1WVlFadHFCMlN1TUVBUEJZM0JteHo3VlhOQTg1aHBaU19KNk04Njc0ZFRJa3hqU2wzdG5lX0xhLUp1TE1aeG1nYURlV1czUU9KNHVtemhoSzk3aHhIaVl1UlM3bm5OMXY5NER0UC15YS1hR3dTSGZBVUEwU0RaZ0h2c3ZRZHlPR2hjUU41MkdOSkI2R0c2VVNFQ25vNDAtcUxUdzZDdkIxQkxnWkpPN3JNN1NhSVJWczlWT3lBUkdYM3JxUmZ2eGtPb2V2MUtuMGtJRUpudUZhX0RjX3JwbmJxNVROU3UzdV8tUWxEOF82SU5YSWM?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-19T11:03:45+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/JGX7FNR6WRA77O7QE3USA3EXNE.JPG?auth=4892883fa03c18949860bffa696619735fbd80d982f936c38d6bd8a68494e09b&width=1191&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "La demanda del PAN ante la Corte Penal Internacional, la primera con posibilidades reales: Lomónaco",
-   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUC12MGlvUnJ2YWNINmpqcjFzem9rOWlvYUh5dE44RGFtZUdUbkhUdmszMzJRTkNGTUZIQ1ZPbTBUOXVZczllRmxyYjVQQ3RUVzFZa3VLWFZGdDlteXlNX2lQVG9odUNtYnJyVDFWb2EwbE5wQlpqQ0xEck5lbVF2T0MxQnV4YW96azBqb2pvZlBFTDN6dFVHS25kVExTcWdzLXVmbkZ5MUtjRjFSRGVzZHN3ZTV5d051YjlzVkdCQ3lxczNfUWpSVVByOWhmMkhMVG5WZHJ3cFNTZ0NtdE9GOVp3QXhySWstZ1VxSg?oc=5",
-   "medio": "Proceso",
-   "fecha": "2026-10-19T11:00:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Europeana, una breve historia de los horrores del siglo XX: el mundo fue y será una porquería",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbklpeS1NYWE0UnZkSEJfQThDZDR6c09BcWN5X1g5U2xaelJ1ZnB2dU5lc0xxOU0wNkowU3plaVJFQkd6Y09KSlNOU3c5WmNtRmNTZGdMdHNrblVKcVhKY0dENVhSXzV3eVloWVZ6V2wzZjdWNkVSdXA0cUlYaVhzYmxOVmNNMHY0eVNDZ3lndWVBQ1hpbHc1b0I5OUJhUGpEQzJ4aG9DYU53OHFESmhv?oc=5",
-   "medio": "Radio Prague International",
-   "fecha": "2026-10-19T10:56:49+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "March PE Global IV Fondos Private Equity Internacional",
-   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaGYyRnZrdXlyM0hNOWhRQ1VVazgtaEhTeWpGQmo3bU1yelBMLTY1aGdoQjNVSzNVSExuTUNPdHE4NVdiOHFRVVNOZ3F0NTJZS09aWERSY1hsR3p6a2toX0k5ZzdvaXpybm5idHlzRDhvdVgtVEQ0cXNYMzF3NUN2QmplTVdybG5BZEVjQUhvNnVieW1xYndfd3JMWmdYTU9wcEdjVGZXOGtXY19oQVJUWXgweE8taE5fRFE1RTNiUGFWOVRDX1B1T09aUS1TRUhZbDN5V0hEVGZLRmVLNXFQam5nNktSZ212NWs5Yg?oc=5",
-   "medio": "Funds Society",
-   "fecha": "2026-10-19T10:55:46+00:00",
-   "imagen": "https://www.fundssociety.com/wp-content/uploads/2026/10/Untitled-design-8.png"
-  },
-  {
-   "titulo": "Córdoba será sede de la Conferencia Global de TCI Network 2026, el encuentro internacional sobre clústeres e innovación",
-   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5taU51SG5mMmhEM2c5eFF0dnpDbWpxY05FeDdyMVpWYkhmV2tyX3VPZEFfbnRMd1lVbmdCdnlybjZNX0FOR2ZTdGU3YTlpcVRQcnc?oc=5",
-   "medio": "Municipalidad de Córdoba.",
-   "fecha": "2026-10-19T10:54:13+00:00",
-   "imagen": "https://cordoba.gob.ar/wp-content/uploads/2026/10/Post_What-Linkedin_Esp-e1792154132990.png"
-  },
-  {
-   "titulo": "El clarinetista internacional Pablo Barragán interpretará a Copland en un nuevo concierto de la Orquesta Sinfónica d...",
-   "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHEzLUFzYXp3RXZlUU1GRXhzcDU4QnNpSGRERHplekpJQzJMMkkwV1l2aV8xZzdoYkFycExjUHBxaTFuWTI3VzN1dGNlMUZOUG0tbTVwTVpfWFRqQzE1TGRwRDZ1VGFEeFo4QUdKdDFRRGE5ZDhIVUpIejFLcGladFZB?oc=5",
-   "medio": "CARM.es",
-   "fecha": "2026-10-19T10:50:34+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Cuándo son realmente preocupantes las subidas de azúcar en sangre",
-   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSVnVLX0htOVYyMmZYa2dBb2gtZ0V0RUpkTVlWN01vbFRIdF9Sa1pwNUZESFJ2NmlLX2pURkF4eHRUdE9PUFpJeUxWUEF6RGNiQ2FwVlJ1SVM5TE840gFiQVVfeXFMTWJNZDBhcHlLckh6dDVRQ0RlSy1GTE5XQ1BfSEFwY1k2WHYxdkRmY1IwaTh5MV8xVVVGcG44Ql96aWxMNzF6Y280RzdDUEctZ1dWUTR4bUQxU0thVHlDVjE5WEE?oc=5",
-   "medio": "BBC",
-   "fecha": "2026-10-19T10:47:38+00:00",
-   "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/3120/live/33377f70-cbaa-11f1-9ee2-f74dfb8e54e5.jpg"
-  },
-  {
-   "titulo": "La vuelta al mundo de Danielle Marcano",
-   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUXVoeEJWRlRKMkx2ekFQR0xjY3lFdmQ2QmR1eUpUdGlLd3RsT0ttNWhSaGw3Z2s4TFlLZjRBSHh6OGthZkd6MlNDZGRORmhHOEZOMjI4blgzQUVnbGRpSHRhblcwNllRbEdybWhWbnJvdE15Y05lWXcyZGpXZlpjWU5ILWNPU0RmNXhXcXhwOVo0RVdOQVVuNmQya3d4RlRTdkVB0gGwAUFVX3lxTE9aVmwwYTl0UEtPVE5laTJRdy0yY1NfbkFlRExuRkg4ZDJQM1FtMnB4akVFQlE4aXk5Vkd6T191bGJHLXNvVEZWaDlUVEw1RWM0Y2VDRlEzeHcwaUdGOUVPbFgwbGl6dHJYVTlSOWlMS0NtRG9YZUN0TkNibG1pYVVlVUdlOC0xRU9BQ2NJbU5wZW9yanNKQllVYzN1dV9FdDVWU1ZDWGI1ZjVPZ01JajZH?oc=5",
-   "medio": "Mundo Deportivo",
-   "fecha": "2026-10-19T10:31:44+00:00",
-   "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad5f15952612.r_d.697-355-11111.jpeg"
-  },
-  {
-   "titulo": "Beirut y Dubái: ciudades para entender un mundo en crisis",
-   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0N1dGV0OUdWUnpieE5ZTENrLUVIQWc5NXRvSnQ5WVU4dXQ5OGRIMUhhY3NCYk9mN2ZNbFhXYzdfUnN4QmtsWmhHUUxrTDB6TmVvWFIwdmlqZjVIbE8yWktSN2ZKVDRjVC01c0NOUldRcGlDRlpyUDVHMUx2a0lWZHE1ZWNoTVNZUnNKeDgyeE1zazg?oc=5",
-   "medio": "CCCB",
-   "fecha": "2026-10-19T10:27:48+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Los hijos temporales que los ancianos contratan en China para combatir la soledad",
-   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aNXMzVWt3SDVST3VaTE45T0dWRi1ZelN1N3lxUE80dUI1cWZyOGZLRHZGRWY0YnMwWFVJQ25nMFI2TUo0U1JaQXpnbmJHZkFtMHdLbzMtUVloaFlO0gFiQVVfeXFMUC0yRjRndllsbExoSFZxT19oU1Y4bkN5ZXNmUm9yQVEyd0g0YkE4T01nYV9qN2haSTdlOTZkeENVakx1cXpYdkdISm5qZDdhSUNBU212SUN1MGpneDF2NnhrM2c?oc=5",
-   "medio": "BBC",
-   "fecha": "2026-10-19T10:23:09+00:00",
-   "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/b9da/live/237a3550-cba5-11f1-9a39-31b474234113.jpg"
-  },
-  {
-   "titulo": "Un ejemplo para el mundo: el pasatiempo al que juegan niños de todo el mundo sin saber que lo inventó un ma...",
-   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGhSRFhGcWlVVDNTOVFzTFRxSnlqckRsV0VSM2h1YTZtVVdMbGZqWlRmT1IyMGNfSWJQWm1BUnh3bm1PTUQ4dU5XTGVaWktlZ29rRWFVT0Q3WXFleDJOekx1eGEwdVRxQ1J0eFZ5MEVuLXVITGRwcTJDVTNjSjdZZUJYZ0FIbG1jSzlxM05JX2pzWGc3dXVFVVVXUC1fczctdzUzUHhWOEJhejg0UzFnQ2czZWpyT3NXeVBTeTlISnNueUpUYmZtWmwxUEN2MWfSAdQBQVVfeXFMTk1IU1llVTkxcHhPcUtXVDV1WUV0aDk4NFBINHVQNG5rSkZYS01BY19VSUY2Y1FNOEZXRUFGZk92dERPNUI3SGdiWWhhVkt6TmVqOUlPOHRCLW5YdzMtU3J6R0UzcGpodGpEQmt3enROcnh5Ul8wQkctdEF3aXBTQXBOTF9fanpBUUxYY09nRThXVEF2bFhQNW5lWEx1Wms1TDJjNGY3d0dmU25GWmpLOVpsczg4cHNaUXlWT1QtdTBkMU9IbmdsSk94TU9CV1gwLUxKTkg?oc=5",
-   "medio": "OkDiario",
-   "fecha": "2026-10-19T10:00:34+00:00",
-   "imagen": "https://okdiario.com/img/2026/09/03/sopa-letras.jpg"
-  },
-  {
-   "titulo": "Cimed inicia la expansión internacional de Carmed en Portugal y apunta a América Latina",
-   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONE51Z0kxMS1RaDYtWjlycC1ZbFVFU0NXU0xKMnVxb0tCRURYeDM0b2xzX2JYa3dOcUJyb3JDSHhvb2paSVNULW92NnJjQ2poNlJnQXhLc3dkY2VXaU8xc1pHN1VpOGhZS0tOMFRfZHJmMnc3am1zR2F6UlJMZklmMUZORGVwVHhaenAtUTY3TEs2bFEtOVY5TFVKUm9kVUdwQXdueE1id2lySDduWF81NEJqb3JiTkNOTklDb243eFRzRTdEbXdr0gHbAUFVX3lxTFBZWUxpUmZCQk9tV3BfUlNpN0dRSkdxSjhobmpwVTZoUUlnelMtUEtoNk5YWW1hTkx1bHFFWm1CT0tBTWFNZHFrSHpvUkMzQnBCaHN3N3FsazV2a2xVbXFReDJFTEx3OEkzdi1lZUtYdzZCWVlNQUQ3c0xhOENmZUVPNDRuUmdMazl5RUcwdndPdzE4emFfeWIwWEw0TVhHZUxieE5RMWpIaU1hRTBIdE52c2lkZlhVTzRpOVlHMTNhSU05dDZhQUVNZ0pXV2FvV21uV1h1aWU3NF81aw?oc=5",
-   "medio": "Bloomberg Línea",
-   "fecha": "2026-10-19T10:00:00+00:00",
-   "imagen": "https://www.bloomberglinea.com/resizer/v2/G5LEKEOLNRHWJDIA5SS7EBNQ2M.jpg?auth=9336ebf411f63fcadbc6f36e86c596a69407c7fb58ea7378d8d06d7b61a472de&width=1200&height=675&quality=80&smart=true"
   }
  ]
 }
