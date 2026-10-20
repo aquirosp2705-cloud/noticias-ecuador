@@ -1,14 +1,112 @@
 {
  "zona": "ecuador",
  "nombre": "Ecuador",
- "actualizado": "2026-10-20T08:56:06+00:00",
+ "actualizado": "2026-10-20T13:57:07+00:00",
  "noticias": [
   {
-   "titulo": "El sacerdote de Guayaquil, Ecuador, murió luego del golpe. Link en los comentarios 👇",
-   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWXk0Y1ltVkJOUHdmMHUwYzVhS0tfempZUThJeDd6NWhZazVSTjdYbWNxRlUzRXFsUkItSGFQZmFnUGd0cWh4YVlaVUJ5bVloT1otMDF4VTU2dkFTb0s1a3Fad1RCc2NmV25CTWFkTXhUaWdxYmx0dmZLQ1pZYWFPa3hiOUY5UGh1WEdNT1VNN0dvZUxKVXhIMXhYOVdndTZlUkwzZ09JT2dyVmpTWXExSEZUU3loLW8tUUV0UENENDNjQ2h4d3FIWlB1ekFRMXhacmEwRnljbktIbTVfd0dv?oc=5",
-   "medio": "Facebook",
-   "fecha": "2026-10-20T07:21:06+00:00",
-   "imagen": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.99422-6/855590365_973976372429556_1252092252764650207_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=1&ccb=1-7&_nc_sid=cae128&_nc_ohc=cpUmeVMxqqEQ7kNvwFqC8Kb&_nc_oc=AdqRO0L-wdyI8rTjhJlsSOhlJqlONWdxaDJF0LJ4hjR_I99G6vq6sDvqRw1m1gu1VI4&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=Ww-2lTd3A7lPwo3LKac3UA&_nc_ss=7e20f&oh=00_AQP4VR_IAYM3lXSl8tM6OvTPMnx7eC0iTQIvNG5hyfqsTA&oe=6ADCB97C"
+   "titulo": "Enap acuerda compra de petrolera en Ecuador por $207 millones",
+   "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeFVpek1uMkVDRFU2RFVhcW5admk4aU5TV2I2NEZpc2R5V1Q2MVZkSlBOYlJqVTJrVGFTV0V0QzQ5djQ2VU9GYzMzVDNDM2dSOGIwb2RseTlIczR1SVJ2ZjNzQVB2c00tVko2QmYyREpaQk8yWXczYzFIRXFiV2daTVEzMGQ2QmEzU043M05DVmM?oc=5",
+   "medio": "Crónica Digital",
+   "fecha": "2026-10-20T13:53:26+00:00",
+   "imagen": "https://cronicadigital.cl/wp-content/uploads/2021/09/enap.jpg"
+  },
+  {
+   "titulo": "Daniel Noboa se reunirá con Keiko Fujimori, los cancilleres de Ecuador y Perú adelantaron acuerdos sobre seguridad",
+   "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxON0dTUnRDREZTNi1URjB0S3BSVGJiSHdfM1hMVXBkUklIcW9QN1NWS1pzTVg0ZUVLbmt6Tk1IUXMtM2hnZWpYcHBTZnNveUtSR2dmVmRmYU00eEVjY3diQWdJU2lKbmFicVBhcUpNZVpKU3NRLWYwUW1zb0VicFlTQk1mVGpHX3VjWHNDdXRnaU1DQlJ6ZjBVTXIwSXRHNDZKQUdEclNOTmw0VFVLMXB4VXlNaU9WRHRoSzJpZWJwb0VOSDhGbUpmRWlDTW1rOVdPTnkwczhEaE5UbzJCRzNXeURPdXY3NFBfVmk2dkdrX0dOMjZSSThaNXRsVQ?oc=5",
+   "medio": "Diario La Hora",
+   "fecha": "2026-10-20T13:47:52+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Principales Noticias de Ecuador hoy - 20 de octubre de 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQci1pdmxWQ1IyRHh2czczWl90aE44c21CUzFmVC1DM3NyYXphMER6dDByNEdRMmZWemVqaUFlWUlPVExwenRaMHRER19Xcm0tRXozVWM4VDdYQU1YcnI3ZVpwUDJGam1BQ3QxSEthaXpFbWd1V0J2SVZ5QWY4Nk1oWFlRMHFhOFEwTndnRXQxQm5QQWtUcE0tanZibmtmQmc?oc=5",
+   "medio": "ElOriente.com",
+   "fecha": "2026-10-20T13:33:43+00:00",
+   "imagen": "https://img.eloriente.com/pics/1280x960/4e2659d05aa3b125937307b16f3b6be795e44e1b.jpg"
+  },
+  {
+   "titulo": "Prioridades en la salud pública en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa2dHOUhkeHhLNjUyeHh6QzM2RVB4MFlLUTYyWVhBMzZwamN2MUdZaW9NeFNfMjVscEN3d1l0b2pfQUkwemtnZjE1UXZjOU5lZ2hIb0lWZ1VZRnRSZFJUdUxQam15WUIzY3I5NEVFcjRjZ3FBazR6dm92N0RGbnZocTFmSjBfR08yZDU5bFBjQnNYQTJBMHFPSnZKM3NCOWpzN0d5N9IBuAFBVV95cUxPbTQ4blFRMlVHSGI5NTdOM2tROVJrakNpelgzbUFSS0t4SmFPcF9vOVJ0VkloNEFKcWE1TEFsZ1pvdGM1dVRpb3RHNWRNbEk1X2U1ZDFKRm04OWdCTkc2TGthc25NbGJUVzk2VVByMzk0Z1JDU1dpZ3p2VFU5LWZYN2E1NW5zNUZOdE85a3ByMFNJTTV3RmR2YlBIZUxnaHFQZXROazE0SW1RdlZQRHF4TTRJTnZVWkNv?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-20T13:30:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/XQW5LOORWVBCPJYQG33DUMKBGI.jpg?auth=5d725caca7934d5d86d9186df81703f204fc204178ab7cd5ba7b02b67d03d01c&width=1191&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Fenómeno de El Niño en Ecuador: se reportan tres ríos desbordados en Guayas",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXFrNDhTU04ySGh5eUZObTZ6WXJmWDh1SzFPeXRuLXZlSFkwcGxiLXJkZWJoUkxRbjZjendudzBnUVNRUHBWZVZNZmJfWHp3TzRTVkRycHExWHpTdDlobDJwOTRPaXVreXVBUkprcTRFMU1DWUV1Szg1ZkNudm9PWXBJenZ4MF9mU3kwaUR1amVuMU9JMkx4M19yd2Itc1RTOUxUNXlFUlF1ZF9TX2kxMmRkb0U2aHlrcHU2eFU3YXR2S0NuYVNkMQ?oc=5",
+   "medio": "eltelegrafo.com.ec",
+   "fecha": "2026-10-20T13:22:01+00:00",
+   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/881ae940851261e0461b7d7f85ace980_L.jpg?t=729edca2bbb2"
+  },
+  {
+   "titulo": "Elecciones Ecuador: CNE recopila pruebas de posibles actos de precampaña",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGhIc1ZMUTdFZ1UzRUQ5YnNZZnhDaTJWdHFPbTdjZ3RRRFlfakNxRXNtbE8yRVpCU0ZQLTllZDBNNGQwUFdNZzB6UVNmakZNYVN6ekJpWmNKcERzaEUya2w0LU1pZnc2M3JrdHViSDJKVVowT3VudTB0Ti1pampKdlA0UTlGR1FGQkxOOGxKZGh1ZElWQnFGd1I0b3d0LWdDaHlEc0haQ21acngwQmhiY2g3S3FsMzZxcG9yX1N0aklHaDA?oc=5",
+   "medio": "Diario La Hora",
+   "fecha": "2026-10-20T13:14:03+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Ecuador. Crisis carcelaria",
+   "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZGMxOU5nQ1ZSSllOV3hQcDhtZndPZGpxVElveHVPVTY3ZXJ2Njl6TGwycWtNdWN5Smo3N0tnMzM5VW83T1BoM2luLU8yTGpmWFBHZW1SNC1FdXZveXFaODIzem5rWk9PaHh2SVY0aGFqeWFTOWQ0TmRVSTM1bmRQUzFR?oc=5",
+   "medio": "Resumen Latinoamericano -",
+   "fecha": "2026-10-20T12:56:04+00:00",
+   "imagen": "https://www.resumenlatinoamericano.org/wp-content/uploads/2026/10/images-40.jpg"
+  },
+  {
+   "titulo": "Violencia en el fútbol en Ecuador: un jugador le tiró una piedra a un juez de línea y lo mandó al hospital",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOFhKN0lHeTlMYV9NT3g4UFZUS21jc0lEd1cyaFRmeDJvODhLOWlNX3YxTXpldDlTQlVNejhTR3h5aXZXWWFET0VybkRYTDV6NWdCY3JqXzZVZFJ0QWw2VzJxM2EyX29lVEgzSVhOUU9EUmdiWGNSYWdRSW9wWDZtUGx1bnBoeVJYdjFsbDRxWGtGUG1iMVhKMnpIaFpyX0U3YnB5ekdXX1lsSjRJNS1tbldCdlljZVRjcVhjNll0Tm5GeGNQUVVJ?oc=5",
+   "medio": "Notife",
+   "fecha": "2026-10-20T12:55:20+00:00",
+   "imagen": "https://n2.cdnartic.ar/R1VnP_bHGGKvzx3kBJw5vwuymHY=/1200x630/smart/filters:format(jpeg):quality(70)/https://notifecdn.eleco.com.ar/media/2026/10/arbitro_herido.webp"
+  },
+  {
+   "titulo": "Ecuador femenina: sede, rivales y horarios para buscar el boleto al Mundial 2027",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGcxd3dvRWhIOFVEdV9vTTdBWWpUSXZBb2RjM0JMYno4QzdkeGhSdHZKUWdwTi1oV1ItTmxfemZNS2R1YkxjaldvblF4bVMxb3BoNUpmajhiaGFkWVo2VFZvZzhMRFdKVDUtYW50cVlBNldaODdwLVdMLXFDdkNpbnVqUEVEbGRwUFhzV05JMk14Q0d2MENVSEQyZV9TSlJVRFNjZnBZTlktUW5WbDdXT1YyLUo3QdIBuwFBVV95cUxQeDVBeS1OblU5SVQtYXVsRk9HWUNoNmFjSlZaQkdfR1BselJQXzllcll2elVOaTVVOWtfQXFndjlNcWVGaEx5N0NXNXd6ZXB2eWZIR1VvOER2TWs1UjJrVEFYYlQyQndDNkx2TV9pNVVRR2NwMUZYWGw4SjJ3Y2c4aFB0RGtsbjZXZDhySHY2cjhZVVhHWHI5Nkh0VzBUeF9lbnhDbnRlSU1kQ2UxdmJlbEtfSVQ0bE1hRm1r?oc=5",
+   "medio": "Diario Extra",
+   "fecha": "2026-10-20T11:54:53+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/06/22/6a3a0b9ab48a1.jpeg"
+  },
+  {
+   "titulo": "Ecuador quiere refinar su oro en casa y estudia cómo hacerlo",
+   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNemhwQ0JwdmFSYW9ROUhRVGVGR3JxbXBhWFlNdm5ZNVNyWGY1aFdySFlxeTFaM0JSNUNPcnBnVWJ0OXpJTDFvY29WeXAyT1FRREJ4Q3pWS1BMQS1vZVkxSnNFY0dGQUpvLTUtT1ZyUTk1Y0NLYV90Sm5RN1M0bk0zSHRnMXQ2UU00MFpoNl9Zb0p5cEdLZzQ5eDJmekJoVkhWcFZkOQ?oc=5",
+   "medio": "BNamericas",
+   "fecha": "2026-10-20T11:42:53+00:00",
+   "imagen": "https://cdnimg.bnamericas.com/jxWUOYZUwfavQWbgFcqEKYiuxmoipXWyhLwQCkHgKFSAINHHJYPOgtiFMUcQayGE.jpeg"
+  },
+  {
+   "titulo": "Enap acuerda adquirir operación petrolera en Ecuador por US$207 millones",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjZ4R3lMQnk5b3E4V2ZFbHE2ZmdnZllpUnZnLTh5LVZDUVM4UUY4ZW0teFdlVkZWRU0yRWlzRTNnU2loalVkbFZEci01WFRGRFQydGNRLVBXYUV1ZndzdXlTbTRsM1JCalFRTWxsM21XTGd3WEpUNlBRYS1nZ0QwWXJGaWY2MFppbWJxSGI2LUtRQVBYNmo1MER4U0ZOS0pEalE?oc=5",
+   "medio": "Portal Minero",
+   "fecha": "2026-10-20T11:39:29+00:00",
+   "imagen": "https://www.portalminero.com/wp/wp-content/uploads/panel/2026_RiZY6Pos2U.jpg"
+  },
+  {
+   "titulo": "MarPower alcanza el ecuador en su ruta hacia la descarbonización total del transporte marítimo",
+   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTExd0FQTE43V3hiOGFBRjNlWGwwS2xrNnZZSnJ1cXdhRzdjVkUxSWFqVG0zMFpJZG9iZVpfUEY0cGMyMHNfaFZQNGp6UDBZdWRBTVZjXzFaaVN6alJXRDlFOXl4SWgyYjhxLVVNZk50dS12a21iQ1NTeUZ0dmdXMnpHdVdnR2ptYWdZdmp5U29uWWdaTnY0RA?oc=5",
+   "medio": "Energías Renovables, el periodismo de las energías limpias.",
+   "fecha": "2026-10-20T11:29:30+00:00",
+   "imagen": "https://www.energias-renovables.com/ficheroenergias/fotos/agenda/ampliada/m/marpowerinfografia.jpg"
+  },
+  {
+   "titulo": "Presidenta Keiko Fujimori y su homólogo de Ecuador participarán en Encuentro Presidencial",
+   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOajl2blNXMFhNX1psRFRiM0tvYzlPeUVUd1NfRGFJelVweDNGZV9qd0Z2cGFNdVV5LW81YU1CQTlpUTdVYl9uM3ktdDZOVUsxNlRmQ1E5WnM2cndBVnVLdkR4d1g1bGJwQ1R3dVNoRzE0ZDE2QVhhU2ZoM291Tmp3azFyU1lWS3lXVnU2NDdyemJZZnZPSzhFMVhrM1BNU0ZnM3pUOEtpQUFxb2hqaWJyOEYxUjd6NmlLRGZqcTg5ZWlnV2t5UUlFNjZB?oc=5",
+   "medio": "Agencia Andina",
+   "fecha": "2026-10-20T10:50:01+00:00",
+   "imagen": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2026/07/28/001301867W.webp"
+  },
+  {
+   "titulo": "Ecuador sigue el dinero para golpear las estructuras del crimen organizado",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTFnTUs2VUtHRkpoLVQxeGRsRFhCaVRBd0tscWtQcmZSVzM3TU4zSmZTbWhJUkxYdW1JMnNiTWp2SVRvM0h4YkJrNURrcXN6YVNoYzJVQll4OWdOMmlPRjRncy11NlROT241YW1tbkVXbENMZTZ2VGpMeWxXczcxSHFuam1uRjc4YnBHTGN2dHpqTnZKYTlpOFQtUjZmVndmY1NDdFZBdTN3SzhDWm1Idmo4Z0d4VUE?oc=5",
+   "medio": "Diálogo Americas",
+   "fecha": "2026-10-20T10:30:34+00:00",
+   "imagen": "https://dialogo-americas.com/wp-content/uploads/2026/10/ECU-Financial-Infrastructure-of-Narco_1.jpeg"
+  },
+  {
+   "titulo": "Ecuador entrena el lanzamiento de bombas Mk 82 con sus A-29B Super Tucano",
+   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONjBBTHJhb2ttbnAxYnFVOWc3MkpCdzhRZmlVWHhwQUExQjJHXzNPV3A3bllHTWc4amlRWUdjSkp0eFY1RmRRRkpiZlpMVk1rTU5EcFRZWDVjRjNTcFNGZXNQVGZFUDN4WFNqZE9OV3JoN3JfM0dyeWxxWmZjWExCU1BFX0NhYlZ2ckwxYjJkOV8xS0NsdGxlNE1OdHFJa1BrelFvOVh4Z0tZc25NZFZYNFhoZG52d2loSlhaWmdsRTllSUpHSUYxUE5R?oc=5",
+   "medio": "Infodefensa",
+   "fecha": "2026-10-20T10:11:08+00:00",
+   "imagen": "https://www.infodefensa.com/images/showid2/8189308?w=640&h=360&zc=2&videoshadow=1"
   },
   {
    "titulo": "Foreign ministers of Peru and Ecuador kick off the 18th Neighborhood Commission in Lima",
@@ -32,11 +130,11 @@
    "imagen": "https://static.latinspots.com/notas/nota_98929.jpg?timestamp=1792430842"
   },
   {
-   "titulo": "Ecuador es una economía de renta media, pero tiene pagos de deuda de una economía pobre",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb0hFM2FkUTdnd2RKS0c0QTUya0gtc1NxRVJ5TkhVSTJYWTBOYVhXTHpYeWZONXJOZUdtVXE1YXdQNjM1OGFxR1JJMjk3SkVIUHBXWGt6UWhfX1c2VDNJeWRJX1ZlckFXTGUzc3o1SWlFMzNqMXVYSjBZZmJ1RTMtaW9DT2hvZEJqYlBsMXBOcXFtOGJmWE03ajJudmhiR0N6MTIzLWhuc0h5aTFPREFTYXFEb3RvR29lQ0lfZ3N3VkZ0aGpLaE96YnZMLXVvR2tyc2dzWWhOVQ?oc=5",
-   "medio": "Diario La Hora",
-   "fecha": "2026-10-20T05:40:00+00:00",
-   "imagen": null
+   "titulo": "\"No siento que sea una selección\": Sebastián Beccacece descarta dirigir países tras su fracaso con Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeGhhb3g3d2ZiUEl1alhpbER4eWw5RlFfOFpCOXRWVXBGTjlSRUhIR2Njbk1FMnNRUGdUQW93VXlqYmxGYl9xUWlJbXo1MnJ3aC1wSjNWMkFRNlB0dkFqMHJHY2Y1cDIzbzE0ZWF3RUsyR3dMTW1ZMnlQTXpoakZLMnY2RTBiOENhWlZUUHFXZkJCNmV6bU55TXNMeGFKZk83YlRIMzNzLVlkblNtLUtfeURzZ1NOSHNqNHo0OWFmNEh5cWFaNDMxSWFwYXZIblY5TmtvbVMtQ2JpX2V6clBaM3FwbnpWZUxq?oc=5",
+   "medio": "futbolecuador.com",
+   "fecha": "2026-10-20T05:23:32+00:00",
+   "imagen": "https://www.futbolecuador.com/imagenes/images/thumb640/458e2116ea2e07712e9cbd8b9181f201.JPG"
   },
   {
    "titulo": "Feligreses despiden a sacerdote que murió en Ecuador tras caerle una cruz en misa y así relatan el trágico suceso",
@@ -51,13 +149,6 @@
    "medio": "El Comercio",
    "fecha": "2026-10-20T05:05:00+00:00",
    "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/07/5ea6875f9f0ea646981d2808345bc0c2.jpg"
-  },
-  {
-   "titulo": "Se anunciaron las Leading Women Ecuador 2026",
-   "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUGs2cXVXOC1VNGhlVDQyWkJmd3BvYmFEaW9oZ1pnc2JHdkxfNWxxV0lLOXhhVW80ZGc4cTlfZ2c4SFpJRXRYbE84RkFrNk41QXk3SjhDTmlJN2RPMDUzRU1CbkFTRVJNdnItRGtTeS1jOUt2cXNmRmlfZU81OFVYTEs2SHVmZw?oc=5",
-   "medio": "Adlatina",
-   "fecha": "2026-10-20T04:33:41+00:00",
-   "imagen": "https://www.adlatina.com/uploads/img/261019070924_lwecu2026-adnot.jpg"
   },
   {
    "titulo": "Noticias de Colombia, Ecuador y Perú. Noti Oriente [19 de octubre de 2026]",
@@ -88,18 +179,18 @@
    "imagen": null
   },
   {
-   "titulo": "Seguro agrícola cubrirá hasta el 80 % de la prima y busca proteger a 80.000 productores en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYlhUdVJwU29yUUtNQlZnNGhsVUlaUHYwcHhkOUJJUlQ1QjMxTWM3T1JYQzY3YzBxYWVJM1dIcS16b01XUWkxRDVhS05lRWlXS040aUF0cDEwdHh4OGxQSUIyNXcyMkJwNkgyTWt6Q3JkODN2cE9lR3hlVTg0MU40aUJaRUU1dWZmUHJneFltYXdsbG5hdWxOT05LVGllazBPQ0Z5T0VVVHBWTFQ2TVpBREllX2doUnF4RnNTNmRoVDk3aE5pLUFhRHRyYTBVWnRzc2lDR0NSNUNJcWgzN21Xb1E1eF9xQQ?oc=5",
-   "medio": "eltelegrafo.com.ec",
-   "fecha": "2026-10-20T03:07:30+00:00",
-   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/e31ca643a46b07cce417a29481c3bc24_L.jpg?t=3d700fae78c7"
+   "titulo": "Se anunciaron las Leading Women Ecuador 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYnc0LXE0TGVsM09RZjczUDdGN3dVV2dTeWVsY3I5T1ZVVW92LW9CZ3lfX3hUeUNiclo4R0V4elBvMDU5Y0l4NW1NOHFxb0hmNERjMjFfdmVZTktZMTBqaVpkNXpkZkYwcHdsYWpZdC1fdkhTbHc3MW9aa0RSNTBzNmc5Zm16QzNzelRibTVlbjFiWTNSUEJWSFZtTQ?oc=5",
+   "medio": "Marketers by Adlatina",
+   "fecha": "2026-10-20T03:19:43+00:00",
+   "imagen": "https://www.marketersbyadlatina.com/uploads/img/6ad6962cadb3a.jpg"
   },
   {
-   "titulo": "Perú y Ecuador priorizarán la lucha articulada contra el crimen organizado transnacional",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV3I3UW1pR244ejBiV2g1eUJ3akZockVpVmhVSU45YlZ4d05HelJoLWtLSWFKMDV0azY1LVF3WnQwNFptcjQ4ZFFfSk52bUxLWHl3MXMtOUVzMkplWklJNEFzMzlTSHZmVXNhc2t1NFdUUm1lc2x4cThDaWl3eHozeExRaERQbmJlODVITFFSTjI2RUhNanRNM2t3eEVJcjZnUVQ3dTA1cHlIRVRFazYzRWxUT1Q3LWVVOWtNd3RrSFg4UQ?oc=5",
-   "medio": "El Peruano",
-   "fecha": "2026-10-20T02:20:00+00:00",
-   "imagen": "https://elperuano.pe/fotografia/thumbnail/2026/10/19/000397216M.jpg"
+   "titulo": "El sacerdote de Guayaquil, Ecuador, murió luego del golpe. Link en los comentarios 👇",
+   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWXk0Y1ltVkJOUHdmMHUwYzVhS0tfempZUThJeDd6NWhZazVSTjdYbWNxRlUzRXFsUkItSGFQZmFnUGd0cWh4YVlaVUJ5bVloT1otMDF4VTU2dkFTb0s1a3Fad1RCc2NmV25CTWFkTXhUaWdxYmx0dmZLQ1pZYWFPa3hiOUY5UGh1WEdNT1VNN0dvZUxKVXhIMXhYOVdndTZlUkwzZ09JT2dyVmpTWXExSEZUU3loLW8tUUV0UENENDNjQ2h4d3FIWlB1ekFRMXhacmEwRnljbktIbTVfd0dv?oc=5",
+   "medio": "Facebook",
+   "fecha": "2026-10-20T01:16:58+00:00",
+   "imagen": "https://scontent-dfw5-3.xx.fbcdn.net/v/t39.99422-6/855590365_973976372429556_1252092252764650207_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=1&ccb=1-7&_nc_sid=cae128&_nc_ohc=cpUmeVMxqqEQ7kNvwFqC8Kb&_nc_oc=AdqRO0L-wdyI8rTjhJlsSOhlJqlONWdxaDJF0LJ4hjR_I99G6vq6sDvqRw1m1gu1VI4&_nc_zt=14&_nc_ht=scontent-dfw5-3.xx&_nc_gid=Ww-2lTd3A7lPwo3LKac3UA&_nc_ss=7e20f&oh=00_AQP4VR_IAYM3lXSl8tM6OvTPMnx7eC0iTQIvNG5hyfqsTA&oe=6ADCB97C"
   },
   {
    "titulo": "Temporal invernal causa desbordamiento de cuatro ríos y suspensión de clases en Ecuador",
@@ -121,6 +212,13 @@
    "medio": "Prensa Latina",
    "fecha": "2026-10-19T23:54:00+00:00",
    "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2024/11/Ecuador-presos-Noboa-1.jpg"
+  },
+  {
+   "titulo": "Chile adquiere el bloque 10 en Pastaza por 207 millones de dólares",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmJGRmNoVFRONUdtYkstdGpac1BnaGY1OFpBNFF6WS0zNFk2Uks2TzNPbm9BOS1WbUJUWV9sQ3c4NjdpU2d4VDVJcmw2T3RGQVBRbG9PcFVXZnRJTXMxNXhBM3JVSExCREVXakpEYVhFWkR2OUFBeWNBQUkzN2JDS3ZJa0Z6SUJmLVRnUU5rWFN2UTdvUHIwelBMdDJRQ2I0OG1QSXROZzUxUQ?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-10-19T23:39:19+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/compra-del-bloque-10-en-Pastaza-web-enap-chile.png"
   },
   {
    "titulo": "Fans locales lloran... Tras Perú, Ecuador también sufre de \"Shin Hyeon-joon\"",
@@ -151,13 +249,6 @@
    "imagen": "https://www.univision.com/api/image/og/us/noticias/linea-de-fuego/que-se-sabe-de-la-muerte-del-sacerdote-patricio-sanchez-tras-caerle-una-cruz-durante-una-misa-en-ecuador-video"
   },
   {
-   "titulo": "Lluvias en Ecuador: Tres provincias afectadas por las lluvias",
-   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdEZCSk5KS1kzV1hEak5sWjdfclEzZ3lvU3Z0dmtkdHBZcGh4RHJ5QzQ3Ym1XSVhEckFILWtHNHI0NnJXSDRFdnh4NDVvOGR1aHVNeDZETUE2ZXdHNjEydVZhRWhfSzExZ0FqeGNiOVl0SVBQNWtXT0VJQ2t1dG9UbnRTRWpVdF9oek1tRUx0dDZ6b3JCYmlyU3dKeTk3WjlqaVQtZ3praw?oc=5",
-   "medio": "eltelegrafo.com.ec",
-   "fecha": "2026-10-19T22:35:54+00:00",
-   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/832fa81b8300c64d2157cd149e6cfe1f_L.jpg?t=9e29a4b420e1"
-  },
-  {
    "titulo": "La inspiradora historia de los siameses de Ecuador que murieron esperando un milagro en Zipaquirá, Colombia: su lucha traspasó fronteras",
    "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdHhBTmJEZzIzdnNwcGJmaEZPZ2ZLOGNFNEo4ZWRpVUNMQXR0RFdNMHlFd2tRN3ZaLUExSVIwZXVGaUhaUTUxdTV4R3lHaXhOUUNkMFdKcjY3QzdMZG1Gdno3VTVEc0xvSEpWVjBpMFNPdGYwdWViX0IxU3o5T0ZucFBQWE03OFpZN0QtV1pEWGtlOWN0eTZ2WlFqVDhMczdiQmRmUjJBR0hJc2owa2dwUnp6c3k3Zmp1bUtwV2hrbEVUajhrN0ppQWRwdll5dHpkVzFqay1vV19ZQ1VYV28yNjFXLTFHaXpiQUpUbmFMcmxrY3dDbGtTYTR1Y1cyY2FTd3o5M2hLQVhBNkXSAaYCQVVfeXFMUHZXUjJCcFhVSGZIcnpORTQzYnZzcDlHbFlreGxfaHBDdU16R1dkX1VrVm1uUXFQZ1A3dlZvd1lHTjlCeWF0NXc4YTNDNW5KNVJFUEhGMjNrbXNVQWM4Q2o0bnhXQWFNM0RvVTRCd0o3OWNfR0hETHBhQ0RHa3A1dHgwWUtrdW5LM0xLU2x1ZzJmY3lIQUFaZ3I3LWpDY0JzUkYzcU01ZTlkNEdMNVo0c1Nuelp5U0hhMVNLaUVkQzRUVUJ5aGxfQl9xY3NCNTJGMldGLVZpR3VqYUE5RFRnVnN6dTN5a1dod1h2d0lqMUtSLS1JcHVVS2dDcWVsUEdzUE9qaVMydFlVQ2FITUVLbzZ1N0RrcVpIdkphcmJTcWVKX19kdzdR?oc=5",
    "medio": "Infobae",
@@ -170,13 +261,6 @@
    "medio": "Prensa Latina",
    "fecha": "2026-10-19T22:05:00+00:00",
    "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/08/alcalde-Guayaquil-Aquiles-Alvarez-1.jpg"
-  },
-  {
-   "titulo": "La Selección de Ecuador rumbo al Mundial y Festival sub-15 en Azerbaiyán",
-   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRDQ4eEQyeGxtbmxJTm5SVksxWHhyb0I4aXFwU1hFV0RJNHhXbXVLTUlGc29lbHU4NVdONWlCYTQ3N3FYbV9iSkhkZ09PbXVsbWJwRWpUM1J4U3hOUjgxV1Zfbkpsd3FnVFlzMUVQZjRRVHBQLVRaU2NwdF9nZkNscnBhNWJ3T2FtZXlaWUtrOGdTckE?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-10-19T22:01:35+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/ecuador_mundial.png"
   },
   {
    "titulo": "El cambio histórico que haría la Selección de Ecuador para su partido contra Costa Rica",
@@ -193,13 +277,6 @@
    "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/04fd/live/9f3fc630-cbfc-11f1-9650-e177cd981b47.jpg"
   },
   {
-   "titulo": "Ecuador y Perú trazan hoja de ruta para agilizar el comercio y potenciar los servicios",
-   "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQSUpOSUN2LVdNdXRCdXViaVpacXdyNXFleUstVVJySldSNjZFWXl1T19Ca05Scm12Y0VYQUlXMmJxN1lKSENDeDJBY1I1NFlEaGZaTzI3V3ZCZXdwZlBYQnVDZ3JFWV90LUhEeGJGZ1RjcHRrYVNiZkRGdkpOdUd0cGdnYnJGVGxVMWxFSjVvUW5EUlE5eGFNcTd3X2Q5c3B3YXlqX0RRY0ZSSk5fbUtYQXJDWUZBTHlFeS1NQU9ETHd1d0c5ZGVrbHd0aTN3SzkxUDhVWnpnN1E1VC1kSnpIT1F5SEE2aGRod0NXSnQxSERwcndCLU9DakhMbTF4VVlHTldaeUdYc9IBmwJBVV95cUxPcmZ5aFRxV3N0RnFDXzlMNEZjSjFFSk13X1NSNkVKaUdydmhsNjNUVFNuNS1Ca1ZMbWRxZTNIS2NkMVQwUlF4SkJubFFfOURueUJVYkw1Y0JUMWZ6UDZpTTVJZHVIckVpdzdSRnpWTmxIQnVOd2gxU0FhRU9kbnhCS2U0cEp1VzhrdXRLeTFVNEFudjFNLVlMVEpLM2wxX3VFSklDRjFHSVZQX2ZVckh1MDhZUjNvNmpmS28yeFBsajQ2Q0tWZFZNeWp2b1hFcVJjX2h2LVFTZG5UNEJabE5fS2s3SlNiRkxWZlVjR21DZHlHTWdvcXhJYWdCWTRiXzZUb210TGNqZi1GY0pKdVBUbFl0QmwzVnRlVWVR?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-19T21:30:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/UCQLI5CJLZCLZBLQA67IZFSXWQ.jpg?auth=2a7cf75bb4b850959df31ccdb689d8775f92727e608c45efd953527e4bc5e4b9&width=925&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Un crucifijo cae de la pared durante una misa, golpeando y matando a un sacerdote en Ecuador",
    "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS21sVVF4dzVTd2hpVEJkb1puTG1qUDNQRWtJcTlIWFZ5dDdvNDVpTlhjUDdxTW4zb0xEcG5MQW1qWHVvNzhNSDdhcGJ1UzZUdXhUNXE1TUc3YmlpS2pYQUFhWmZ5bWVXanBtSWxnaUFxNjZpaW5pX2RlVVhQeTVpeXBOZ0FLdHo2cXZ6d2hvN3c?oc=5",
    "medio": "CNN en Español",
@@ -214,13 +291,6 @@
    "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/10/jose-cabrera-cne-ecuador-1.jpeg"
   },
   {
-   "titulo": "Enap acuerda adquisición petrolera por US$207 millones en Ecuador para fortalecer suministro a Chile",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc21jcEZpbmNEVzU1WUVFZUFHZXRacXo1UmN0a21sdnR1NGVXYUdkUTRPNmNSN2dhZkJZTDFlUk9OWnYwc0JPX2FTR1Byazl5TWRWeXQ4UGZWcXhFMXNHZ3Y1OUo4UF93QmVlTDlZejFjb29WcUhlbE1XNlcyYmJZSVBZcGpiVUZIVF9kcG45RHpBaC1oZFgxRXhBTDJsUnRtcklpdUREdFdzYVNIMXQyVGJheWYza2hlVGdCdlFYQ1hoUXJYTHBnUktRMEVjUFF5enYw?oc=5",
-   "medio": "Revista Nueva Minería",
-   "fecha": "2026-10-19T21:04:15+00:00",
-   "imagen": null
-  },
-  {
    "titulo": "Consulado del Ecuador en Nueva York ofrece taller sobre decisiones migratorias seguras",
    "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkFKU2hZc3c4SVlGUUROYWdIMDg0YlF5Rjh6bC1hSGtPZENLWUdUYndqeG0wTzFkajJ6SjRqelRjWHR0WWMyT1d2c3RybVNzSDlvT2JiTDRxU2hPQnR1TEluR0s4bkhqb2p5SEQ0d21aM2lwRVpkeG5SRjVvOVEzb3dIZFB6TFNWQnpwYVZ1eFB2UWpLaGFUQWdHTVc?oc=5",
    "medio": "El Mercurio",
@@ -228,25 +298,11 @@
    "imagen": "https://elmercurio.com.ec/wp-content/uploads/2026/10/taller.jpeg"
   },
   {
-   "titulo": "Sacerdote muere durante misa en Ecuador y el momento queda grabado en vivo",
-   "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1lYVkhEWS12QzdlX2hGQndITDRyVmY4Ui1nN3dCS081aFZ5NnRMaWQzUGVCbTJjbGI5b3VadzZKUS1yUWg5Vjc3ZGtfS1FVMVN1cXdxYkFJQWVOVlZEM0ZVbElkODFlNzZaMEJIYkRYdDRCbFkyZG9OZWdQNGJUel9SeFppQ202bHVSUXVB?oc=5",
-   "medio": "Yahoo en Español Vida y Estilo",
-   "fecha": "2026-10-19T20:40:57+00:00",
-   "imagen": "https://s.yimg.com/lo/mysterio/api/1faf9611a7dea6e5c9e4e374e9b45908878de57524d0ad697603fc59097dcef0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcu_713%2F96d4b9a42b56e3b20392b23ba8236bf7.jpg"
-  },
-  {
-   "titulo": "Vídeo. Una enorme cruz cae sobre un sacerdote y lo mata durante una misa",
-   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVmpCSWFvWWJSOUdGbTl1dTI5ZnVZUi00VmYtTEFvcXJ4VzRMb0FDQm5Sb2NyU1ZTVVlaY1dnZmx1VDJLdGVBSGlYNmlfSHlwUVpvUVVLMV9HS2xjdWExemtTWFRnbS1ybTFiZ1pNaUYxUlJYaUFUTjhwUnlPa1A5TWNBUXBNWnEzblVLZlA1UHprb1pna1BvMlN1UjlhcGNybENKb1UxX3RnRnRJRktNSg?oc=5",
-   "medio": "Euronews.com",
-   "fecha": "2026-10-19T20:35:15+00:00",
-   "imagen": "https://images.euronews.com/articles/stories/09/95/91/67/1200x675_cmsv2_bcbedf1d-c644-5902-83cc-53fabed10f87-9959167.jpg"
-  },
-  {
-   "titulo": "Ezequiel Toala al Mundial U15: calendario de Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdTJMYTQtRjZFZ2pKbWlpWXMwZWVSdEpOU3ZvT3dRWEpBZlVEUnVwLUZUbkdjVTdFNjZobWU4VXJNZVE2a3RtRnZ3MFAtN1lNdnNITmJGYUFMNERvakExUFVWaGxYNjJWbzFfUFVnaE4tdkk5YWNFVWE3ZFdDeFlDOXRyOA?oc=5",
-   "medio": "Barcelona Sporting Club",
-   "fecha": "2026-10-19T20:04:01+00:00",
-   "imagen": "https://www.barcelonasc.com.ec/wp-content/uploads/2026/10/ezequiel-toala-convocado-mundial-u15-2026-scaled.jpg"
+   "titulo": "Enap compra operación petrolera en Ecuador por más de 200 millones de dólares",
+   "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQ19DVkF4NElZZEtiN2VrLWdJYjZXMDlRY1YyWXY2bmd0Um1hd21OakpwcjdOWDhKa1ZGLTRNeXFRUENiUmd6NjM0RHFCd1ZlVUlJZVhUeHQtZVRoMXhKT2NrbERQTHNvbmg5MHZMdExGaG90Ri1wZWgyLTVmdHkyQURqWkZyQXZFUHNLY1dnLTBKRDZKWmwySkhxRDJlbjRObEl2NE15SnFHUEwyenhhQTZUcTlVTERHajZSUG50WUloemV5QUdnLTgtMlZwcUhPckZ0dVgzLVEtWUlVR3U3bERGNmpoang0WlpVZEN3TTg?oc=5",
+   "medio": "BioBioChile",
+   "fecha": "2026-10-19T19:54:29+00:00",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/10/social-6989225-enap-compra-operacion-petrolera-ecuador-200-millones-dolares-1200x633.jpg"
   },
   {
    "titulo": "Enap compra petrolera en Ecuador en más de US$ 200 millones para reforzar el suministro de sus refinerías",
@@ -256,32 +312,11 @@
    "imagen": "https://www.latercera.com/resizer/v2/P4QY63E2J5H4NCROEKXGFUVVI4.jpg?auth=afa33c4676e523ac38133aa580646fbdfc39bb948afb4cd26e95e848a4f12cf1&height=630&width=1200&smart=true"
   },
   {
-   "titulo": "La noticia que podría cambiar todo para Marcelo Gallardo en la Selección de Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQW5HTTVWdmszS05UcS1zeS1fbWFfal9fM19YR3JvWWNUNURjZkhod29GQUZtN2hwbWpDb05WLWM4N0x2Zmg3eHQ0SDJWOXRsdkNTTF9CTEY4WnpYZjdrZGFBcXpZUEtwTmJzNmxNTlU4QTFDR1ZPM1ZYSmtBWGw2VV9hQUVzMC1nLTlyQzg3Y1g0aTEyQXdHWDBOYktrNWV0dEhpVjR0aU5QSVRZN3hrZnV0VkdIcHhnUmfSAb8BQVVfeXFMT3Y3MVZOYVEwTWwtbkVaVDNPNXV2eVg1TWhFR1ZHSVVDRWJmeVYyZG55U1pocWlyTUlpaHJSQ3hmTkN2S2RlWDJ4Y3ljTjlSNjI0TVJHV3F0M3pJSkF4bTlKRW12djN4MFhQMkVJSmFnODRlTUtZM2FmWlZSa1hydmo1WEpvSUZCMF8yOFo4X1NvTXRZZEtvUVF1c1hNamdQaFBkYVBKRF9zUlVqVW40ZVlRN0kzcTJ6WXp3Mmt2bTQ?oc=5",
-   "medio": "Bolavip",
-   "fecha": "2026-10-19T19:31:51+00:00",
-   "imagen": "https://media.bolavip.com/wp-content/uploads/sites/26/2026/10/19163114/BOLAVIP-GLOBAL-2026-10-19T143106.079-1200x740.webp"
-  },
-  {
-   "titulo": "Muerte de sacerdote en Ecuador: comparación con película de hace 31 años desata polémica",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWlHVXBFLW41YUtudUVITHIzUTYyVDdUcHZNc3hzcjVXUkoxT182YjFfanl5NHBLR2p6ZmJqZXZjakhnZVVyTVotX05qYTN1QkpaT29DTXRpNEFLWHE3SE81a0pCX09STWd6NU5HbDhRcWpPdFdBR1lzSUdzUzVXV1pabm15cnRFajRKZEw3RF9ydU0wZHZScHhKWjJKWERxSjQ1X0JYd1Z2Vm8?oc=5",
-   "medio": "Emisoras Unidas",
-   "fecha": "2026-10-19T19:31:00+00:00",
-   "imagen": "https://img.emisorasunidas.com/upload/2026/10/17161D524C42446D141F0F55524946751F1218185443407813111B-1200x800.jpg"
-  },
-  {
-   "titulo": "¿Quién era Patricio Sánchez, sacerdote que murió aplastado por una cruz de madera en Ecuador?; esto se sabe",
-   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbDNUTkh5QVBDaE1PR1F1d2JDQ2NXQnlOMjRRV19pUmNaWkVuWW1iaFFaTHRRNnhBNTJwQWxTRVEzeE9WY1BzUjdzZ1F2ektwNXhXY1FRRUp1d3VtamRSRFFqN0ZaSkE1OTBzOE13bWYtaTVPTXBVekg5Qy1QdGc3ZC0zWVdWbXdQZFNpdjJnTlZKaXBQZnpndFlMYWlWVERJbG5KV1BmeHd4eGMtTDNZVlFPZDFvNDNndWhZZ0FqWVJ5WmJubkZveVBSZjJMNUMxU2tBRUt3NUhfSEtGZUtV?oc=5",
-   "medio": "El Universal",
-   "fecha": "2026-10-19T18:36:12+00:00",
-   "imagen": "https://www.eluniversal.com.mx/resizer/v2/OWXAP7LEJBD4NGBVKOORPYZ66Y.jpg?auth=7c7294d0ab440d5b092532bc526eb9e0bf9bfb09f56838cc0d43c1f7e028be75"
-  },
-  {
    "titulo": "Muere un sacerdote en Ecuador luego de que un crucifijo le cayera durante una misa transmitida en vivo",
-   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjRkaS1adEZraHAycm81ZHRKREJnYUU0dVg4SlgzN0NmclY4dHJ4WDI0cmJ4c192OTNkVWVDVVh1cW1Kdm4zdE15alJPb0dSdklNdldjSUpSRjQzbS1yYlhqdE9NRzdqd1BuN2x5SjMwT0FxcmV0UFZSVGhPQzFwLXczRENwRVo2eHpJRzFEbUdKMVZHVjNRZVVzVTk?oc=5",
-   "medio": "CNN en Español",
-   "fecha": "2026-10-19T18:28:00+00:00",
-   "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/856470869-981099768371080-5869248046600091492-n-20261019182401176.jpg?c=16x9&q=w_800,c_fill"
+   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdDJEUW5wdlkwT1hMWmhvc2ptWXI3NUxFbTNxcDkxYWF3Q2s4V01HcFd1Nkp2Y1NGMHpnMFZmeVFLUldyR3dzM3JKdVk0WS15MHhxZzFnYUx5SUhfRHJSZUhsUHpqcFFnQ21JaTEzN3MyODZLWXR6REdldjNwb2tBMmxKcm5vR2tnTGdhdWE4aVRqUQ?oc=5",
+   "medio": "Yahoo",
+   "fecha": "2026-10-19T18:28:43+00:00",
+   "imagen": "https://s.yimg.com/lo/mysterio/api/786ad4cddf91e8e06e326674e439c5f66d3bf84f5afa696bde8c727b537e4560/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fcnn_espanol_articles_421%2F3341f7862e91882d3a3a8c85f65d48fc.jpg"
   },
   {
    "titulo": "Una gran cruz cayó sobre un sacerdote en Ecuador",
@@ -289,20 +324,6 @@
    "medio": "Univision",
    "fecha": "2026-10-19T16:36:00+00:00",
    "imagen": "https://www.univision.com/api/image/og/us/noticias/una-gran-cruz-cayo-sobre-un-sacerdote-en-ecuador-video-vertical"
-  },
-  {
-   "titulo": "Ecuador suspende clases en sitios afectados por inundaciones",
-   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVN5UnZEOW4yX1lWSmNaSm0yMk1IMDZDV1VVOTIyeGlVSGFwQjhxTi1jVnV4YVcxTDdqeHh4Yy1JTFFHZm9yd3k3MVpKbHRUcGRtMFhrWmZLeWNiUEtQRUxteE94SUpQRVEyYm40aXo0ZDNWZXAxblZuSmE2bmpEdkFSczdGeVVqcm9xc2VHRmVEeUxlZVpZdXhwVDVQejdUX0lF?oc=5",
-   "medio": "Prensa Latina",
-   "fecha": "2026-10-19T15:06:00+00:00",
-   "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/10/ecuador-inundacion-1.jpg"
-  },
-  {
-   "titulo": "Tenía 53 años y transmitía la misa por redes: quién era el sacerdote que murió aplastado por una cruz en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUHljWTcyVmRHM3NOUDdkT3dVckJOMlktRFJmS0J4NU1idGlSbkROQTEzTS10LTYycDE2ald4bTlCV3lCMlFHRGVWZnBXRHp6OTNHdGtvbVdvOURGLUVlbVBzSHJWeElWRUFRRERsYnc4ako4S1lzakZjeF9FbTV4Z1p2WlU3ZEJJbXFBSkdtaE93MFVTT0t0TDZUb0hVZ0JFcUZ5QmhzekdhMWtBYlI4S1JlMS1SbmlrVjRDbllQUlpBdU4zQmJZeTZtcEEzZ2lXX0RRVWl4SXRWQ3I1ZnJQOXo3ZUE?oc=5",
-   "medio": "La Nación",
-   "fecha": "2026-10-19T14:59:00+00:00",
-   "imagen": "https://www.lanacion.com.ar/resizer/v2/el-momento-en-que-la-cruz-se-cayo-sobre-el-YALQEGI6SNE2NGY2HYAMVAUOGY.jpg?auth=b23b9da7d5e5eb883a191f74ca1465a69b221c2a46307e40c6bc752dfe63d662&width=1200&height=800&quality=70&smart=true"
   },
   {
    "titulo": "Un sacerdote muere después de que un crucifijo cayera sobre él en una misa en Ecuador",
@@ -317,20 +338,6 @@
    "medio": "Infobae",
    "fecha": "2026-10-19T14:50:00+00:00",
    "imagen": "https://www.infobae.com/resizer/v2/OVILDHFDA5CK7JFQ2BFX7KTJM4.JPG?auth=87deb86705c5b8b2ae6514e0fca4744b3c232d9d3325061a5d2335f0161f3f13&smart=true&width=1024&height=512&quality=85"
-  },
-  {
-   "titulo": "¿Quién era el sacerdote que murió tras ser golpeado por una cruz de madera durante una misa en Ecuador?",
-   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLWs4dm05cWltZGRkWVVBaHhWbktvdFRJQ090SWU4ODA0Y19HMEhlZFY0b2loMVZaQkJaVkVwT3YxWFNQOUh2QVlWVDQ3WmhyLTgwcmIzRThleWdRTk53dVlUaVlWcnMwS0JZdHg5bUloSVBVR2pMNEpzUVZqZGg4clhGRWNTRi1zY2MyUjRqYmdsVHVYUjBYLThqWkd5bXdiTmdJSGJDY0NFM25XWlJmR0NQS084REdDVHBUanVDQWQzajBKQllyS1FhSVNqTUFSOHVzMVFBNE1YWTZRSjFzYUVqeVrSAeQBQVVfeXFMTm5fcE9HeXIxTVRRSXRSaTdJRTNmVm85MDEtZGc2aThsRHU5YlhmbXhXa3FMaWN6VlFXWUx0SFdJME9iMFI2LXhRZ3ptXzlqY2ZXRU5vOVU4R3Y4Z1U5VjJhQkJFR2RPUlZWTTdZOTg2TkZLS0g3eHo3TXNCSEl5ZVIzcVRtN3lTY3BERGFzOTcxOTBUbWpaS3pvd0lmM0hGUTkxck1FNVRjU21ZOFBjTlJMS29JakxlMXZHTjRRSXhKT0NaNUdBMHpnaU9ERHVqd0MtZEVIeENLT0NKelJGcGY2QWZy?oc=5",
-   "medio": "NTN24",
-   "fecha": "2026-10-19T14:07:08+00:00",
-   "imagen": "https://intn24.lalr.co/cms/2026/10/19090531/COVER-YOUTUBE-26.jpg?w=1280"
-  },
-  {
-   "titulo": "¿Octavio Rivero vuelve a Ecuador la próxima temporada?: esto se conoce en Chile",
-   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYU5hd1NmSmFDVmw3YjdWdXRMUlBmMXdkd1NjS0RlNkhQUklvWmxIMkFVbnFLZnRSODU1ZFcxdzRJblpqX1dWY0QyblZnVUUza21QNkt1dDU5dFQzZmJlWGNzSy13anlXQVNzdTV1UFUwbUJSTzJQaWE3aXFvZE81SHkxYVlsdklEQ1RyU2ZDT01DMkVSYndxWDhPSFR5aFlud3hsRVNROUlpTmF6dy1aRWo1UWFna1lTdnJpRlBLQ1dXcE3SAdcBQVVfeXFMTklNZmRMeUd6NGMtWGhfVEZuVEw1VnZlRHJpWENKajduRk5MUzUwVS1BalVSNDdVS3VueFNfR2lvYUNFd0d0OEw0UUhObGptNVM2SmtEUV9jOGhuSTB0RnlRVzVHTUxYU0dFWVdudi1RM3J6VVV0VDV5WEZET0g0RmJRZFo3LXRWNlNDRmtZN0dtS1pKZ2s0MU12YUU0OXhya295eDBnb2xOYWJkUzVqQ1VOX3M0Vy1Zdk5yRDNRTG9FbHJIU0poZEluempLS1RZVnl4emh1Wms?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-19T13:50:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/XLEPJP7O4VAWXKJXJBDBLNFMKA.jpg?auth=cb801637bee14d3123ad15f3230c9959ccfb7edc0b2af5c42114bef983ed2cef&width=893&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Testigos revelan detalles del accidente en el que una cruz cayó sobre el sacerdote Patricio Sánchez durante una misa en Ecuador: 'Salvó a muchos'",
@@ -361,13 +368,6 @@
    "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/10/18/6ad4da3fd5a70.jpeg"
   },
   {
-   "titulo": "Ecuador retoma el transporte de crudo colomb...",
-   "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNT3lJeE1GNHlJa1VjRm80Z1VONVlKUENxM0JkUmEzdWM5RGtOZzM3aF91U3pjWDlybkpPVlZrZEtDM2RZdk5iZXpVSWFSZmlQbjdyYlc2aEpHWEZYYkRnRDM5NDRSd29ocXRXMXFQc2lDUzc4dGZJLUZYcldKa0Z6MWoydmtsUFlNQWNUbzJ1dHExdk52WFMxWGZmRldMX0h5TTFzYnlSYk90UkpiQlpCUlUwY2JOYTlCMnR5NmpkOXVZY3dnOVg1OHNrMlFFSXlLUnBTcm9Rdk8xMmhWTWFTSGkwRlNqNHAzSUpZcE9odU44VmRfVGhv?oc=5",
-   "medio": "BNamericas",
-   "fecha": "2026-10-19T10:42:49+00:00",
-   "imagen": null
-  },
-  {
    "titulo": "Sí, el sacerdote Patricio Sánchez Molinari murió tras caerle una cruz encima mientras celebraba una misa en Guayaquil (Ecuador)",
    "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ0daOFRPb21OSDdPV1daM01KcE1vY3lQU0tZUUxtcEp2Yk1HWU1Tb3RPejljQU8wSm9zV3dSWDlHTVJvT0JlYUFheURVcUJKMHJmWlhNWERVVWpkRXkwM2hWTExYV2o4RENrVDhycGZZY1c2MVFFVW9FVXNBb0NHOXlRZFdsbWttczM1U1ZGWFJHendPbmxSTC1RU0VJc3VUY0E4bDFwekRHNk45TVZVZEFoMHdiRnZvWG14TW1YSUt3UjVjUFhsRFBScklET3BT?oc=5",
    "medio": "Maldita.es",
@@ -376,17 +376,24 @@
   },
   {
    "titulo": "Ecuador inicia plan de redistribución de miles de presos por su nivel de peligrosidad",
-   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMGUwU2k0QkRheE5CNVpzMkw0SC1HTk9ad2tILXNRLUdMUlAyS1ZPYlJwUzBueTVsbnR4eXVjRFpFanpzWHFPR2dZUkxnb2JQMUUwajNSY0k0M0VGUWJBRGctX1VndlFtVDhUUnpCaWRqUmJqRTNFQ19hbG9RRjVDZ1hVV3JwWHJMbzl2eHU0UHFUUFpTNDlxUA?oc=5",
-   "medio": "Yahoo",
-   "fecha": "2026-10-19T05:13:00+00:00",
-   "imagen": "https://s.yimg.com/lo/mysterio/api/5d1de9a57808ae375203cb49d8c66880ad4af04a933f50c16febee51187ec77a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fdeutsche_welle_articles_es_448%2Fef2ef9d06f03f402b53f2be55a659c6c.jpg"
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWNNaF8xQkhYMURRMGwzVVIxb0JpbmtIZDExUVNRblp1czg2Y1MwdVBfZWRtbS1iZTNGZTVjYi0zRmt4NzdGOFhWbW1FS3ZuZVVRZjZXVlF3YUVvWUI2UE5TY0NaUFpvUUxqeWVkMTFtbUdyU2tzWUNhb3R0WVExdmV5OW02XzFZWWJzRTFzT2stSll6alVyam5JUnJmcDQ2WENmM1RaemRXRHRycUF0c0NGYlNfdVpEeS1sYXQtTWTSAcABQVVfeXFMUEhWaDFldExQbHlOVTRja0R0ZnJnZkRYcmJmcnJjNWRMQnUxNGVLQVlYZ0FNaEc1bzdqZXF2TWVFdFhkVU5vbUVNRkY3SnJqWDhxUy0xaHhDTzRGY3lJYldsa1JXYjg4elR4RXRydnBBMWVGNkFyV1JjVHlqNXFpMlNoN1hUTVp5Snc1cHNEaWtMWG5XNUM1bG9hNEVubFBTdFp3eG9LY1NTRXZIaXBuazA2alQ4bFU3WERoMEx1a0VR?oc=5",
+   "medio": "DW.com",
+   "fecha": "2026-10-19T07:36:08+00:00",
+   "imagen": "https://static.dw.com/image/68347541_6.jpg"
   },
   {
-   "titulo": "Investigan los soportes de la cruz que cayó sobre un sacerdote y lo mató durante una misa en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOenVvdDBicTN4cHdxZXBSQkdocFJLSnJfYkRXVFRmeWJ2ODg4d0UxUDVObklrRUc4ZWNtVnZZSV9EdVVmMVJTcm5JcC1BSlJwOGlsSUo0dzZGTlE3YnVaeTdmM0hKX3BUOXhZcFAweDlmQmlpMVI1UzFDVXR5ZnZBN1JBZnpWTWxXZ1VaenVQQXJWOXVoYkNDcFp2aFJ6YW03RmpwZzlsSTJaajhUQXExU0p3RTZrWHR0UkM1cnBidW9mQ0hqS25hMEZiX0ZBejNGSkNsSG80TU9HSjlyVFBqcllPaWRCVDVnMnQ1bFg0RzNtN2VkUXBYUlhkeUZKYW0zTmNxQnJJU1JSVW9fdEVkTVE3eGdMckhDb2FBaTNrUW8?oc=5",
+   "titulo": "Sacerdote muere durante misa en Ecuador y el momento queda grabado en vivo",
+   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZC1DdjhxRWpKekI2NEVKc29Xd08ydWhkcXFRN2J5dkxpQ0ZIbmVSQnBJZzZQeWE0Zi1CYVR3WnhDV1A3M2w2UHlYQWlUbklyRlo4UzlfVDVLd3FhR09wZ09WZUM0R2hCMzEzZVhkR3dMUnVzaWZodTVQeTZHRjRlU1VrRTE2RmZQWkY3NnVKTHVvZ0wyQ0RkYXMtcnB5VmpxVnYtWUVoY1ZEb0YxRDVKT0steGFCd3RvTGJna2ZIYUhaUGZfQ016NEdYOFByMm5lUkRveWIwcXVnNHRrNUM5Qlc5bDU4SlE?oc=5",
    "medio": "Telemundo",
-   "fecha": "2026-10-19T04:27:00+00:00",
-   "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/977/499/49108748097-1080pnbcstations.jpg"
+   "fecha": "2026-10-19T06:41:00+00:00",
+   "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/964/311/49107175857-1080pnbcstations.jpg"
+  },
+  {
+   "titulo": "Trasladan a su ciudad natal los restos del sacerdote que murió al caerle una cruz en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdXpJZjJMdGdKMVJ4YVpfUGdCZjQxT2h3ci1EVWxGV1h4TzZCR1BTWW13b0NUX3V0ODREQjRjX0J5cG1WUWNqT1k1R2VoRW5ta25ObUVXU3ptMzFwUm5NM2ROVTRwLU9CRk5FcGs0VVFCb1VqdnBWMklSdzdQWmlsQlkwVlhlTURBYmFEVVBfTW1PS0RkX05jTEQ4T2NJMmJ3SFB0TTR0Mzk5ZmpibzFkVkRycUpSaUhIaklOcVpPRUVaVEFTRWRZRkctS3lUX0hWYXFBSXZiS0tTcEtEVTdQdUdMU3ZZMW5wZmJhaU9nM2cxVHBFWUJ1R1V2VnlBMkJ2YlV0VnhSVXhiTk01RlVvQ1VDQThQT19lUU1B?oc=5",
+   "medio": "Telemundo",
+   "fecha": "2026-10-19T04:54:00+00:00",
+   "imagen": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/telemundocms/MPX/image/NBCU_Telemundo/1004/351/49113033411-1080pnbcstations.jpg"
   },
   {
    "titulo": "Muere un sacerdote en Ecuador tras caerle un crucifijo durante una misa transmitida en vivo",
@@ -401,13 +408,6 @@
    "medio": "El Financiero",
    "fecha": "2026-10-18T19:35:03+00:00",
    "imagen": "https://www.elfinanciero.com.mx/resizer/v2/RNIXAROTF5BCRKC6NVP5ESQIOI.jpg?smart=true&auth=62c437b08a2f26c634400b6ee58bb710e98035d0bd7bbffde13e22524b10589f&width=1200&height=630"
-  },
-  {
-   "titulo": "Un sacerdote muere tras caerle encima una cruz durante una misa en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXcwM1lUcEUydzcyTVJuaVlEU2NLY2lRUTVfYTFleE1VN2hZTFU3X21qTlJrZEhiN0FhN3hzRzc1T0RXVG9ITXhkdFFUODhKRUVINUh2NjktZndzYmc4Vmg2M25TbUF6NzNvenVLVzVhTllxQ0hlQmdQRERLaTlLcDI2a1QybFAwbldGUUdCUW8zVG4zeEVYT192R2lsTVRtdUtqbFdHdjhwRWlvdDgyN29uUUJmYi1ZeENPVHVaN01ld2FPTHR6VW82YkbSAdIBQVVfeXFMT0VlR2U0NUZyTy1jT1VYaDc1d0hfcWwyUWFoWFJsRHNZU295OU9JVVUxMUNxZGZFS1BmczIxbWh5NXRUV1RoTnFvdTk3bjl2YzIyenBLXzB0US1fSWI4NXo5ajk4RHpkd2FPb3J1TGVFcmI4RHB6Qm1XRkFaM0VHUjVZb3NMQlNZcXFGSjJxYUp1X1FVRks3dkNJSFJfVjZBZDBMMHh1YmVLTFdMS29aOU5ab01KWjFYU0pORDlybUJ4ZXF6OU54Q0RMOW5MNm1lWE93?oc=5",
-   "medio": "Diario Libre",
-   "fecha": "2026-10-18T19:02:00+00:00",
-   "imagen": "https://resources.diariolibre.com/images/2026/10/18/sacerdote-muere-tras-caerle-una-cruz-durante-una-misa-en-ecuador-3e54ae45-focus-min0.05-min0.52-1200-675.jpg"
   },
   {
    "titulo": "Tragedia en Ecuador: un sacerdote murió aplastado por una cruz mientras daba misa en Guayaquil",
