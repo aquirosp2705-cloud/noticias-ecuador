@@ -1,63 +1,231 @@
 {
  "zona": "internacional",
  "nombre": "Internacional",
- "actualizado": "2026-10-21T19:43:01+00:00",
+ "actualizado": "2026-10-21T22:50:19+00:00",
  "noticias": [
   {
-   "titulo": "Sitios web de todo el mundo quedan desactivados tras detectarse una falla de seguridad crítica en internet",
-   "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTEJUelFQWm1NS2tpNEV0YnU5d0ZEUFoyd1c2M0pnZjM1UmpiZTdDakRXb1Rfajg1VGJvZ29KQUxyWHgycHgwTHp3UWVob05ZdlRTZ1dIUlVkRHNMb1NvdUx4WkFsMDZBeFh3ZUpoREdHenlEcXlVcWRXUDBBX0hrVDJ6UUdlWXNNSHBBTA?oc=5",
+   "titulo": "El mundo se encamina a un calentamiento de 2.6 °C: estas son las causas y conseuencias",
+   "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRTc4Y2xHSm51MFRPeUZmWFF1M1JMYVpOWlJtUU41TW5mWnJ0NVo0cU1VWDBtdkxPLXFaQnJ0TnJqUHdPVHl1R3dSOGt6eHRURlFRaHVIZ3BkRHFfbTNYWlB0RHVIUW5BU3I5WE1vQmVGWVNxbnJnTmFkQks1bmFIcldSUTBPTENXbTZNdWp2VQ?oc=5",
+   "medio": "Grupo Animal",
+   "fecha": "2026-10-21T22:33:24+00:00",
+   "imagen": "https://storage.googleapis.com/bucket-ga/uploads/2026/10/mundo-calentamiento-2-6-grados-onu-causas-conseuencias.webp"
+  },
+  {
+   "titulo": "River, Boca y Vélez, entre los cuatro mejores clubes formadores del mundo",
+   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ29hVVFPcG1aa2REUUd3dTRRUUxYSFQwVnkxM0FrcC1EQVJUSGRKd1JmalM3ZVV0ZTlFdTZic2VYUkI1ZDNDbTJ2dlNmZTZzR1R6LUt6ZjJwbTRncU5kLUZHX2ptR3E3ZkVaOGlxWUloRnVjai1rTVJldlhMU0J2Wm9wU1FLNmxsUFFzYlVFSXJTMFpXUEM3TA?oc=5",
    "medio": "Yahoo",
-   "fecha": "2026-10-21T19:33:37+00:00",
-   "imagen": "https://s.yimg.com/lo/mysterio/api/9d5ad1c538c6b463e025211824d7e0a945d2640f3a2da3128db9378a15e337f7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fbbc_news_mundo_254%2F3cf4233284ccfe6b44fb7c7be95645be.jpg"
+   "fecha": "2026-10-21T22:28:34+00:00",
+   "imagen": "https://s.yimg.com/lo/mysterio/api/6b4b355efb5e0a06c9c53404e8208133532cc223eddc488f1e460dddbdb29a87/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Flanacion.com.ar%2F9b7effeb55357f5fa27a8ee2b7bfff61.jpg"
+  },
+  {
+   "titulo": "En el marco del Día Internacional de la Reparación, celebrado el sábado 17 de octubre, Fundación Basura y la Asociación de Municipalidades de la Provincia de Llanquihue para el manejo sustentable de residuos invitan a la comunidad a los festivales Rep",
+   "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMM0JsRmFXbmJFNTFQVjl0WXpZTGkwQ0JlQkFJNzJ5VE9EMlZXZF9NcDB4WFBZU3JSNUk3cm9yR0pkZ0ItY08zTWl2SjJUOGs3RkE?oc=5",
+   "medio": "Instagram",
+   "fecha": "2026-10-21T22:15:13+00:00",
+   "imagen": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/860677764_18468700507136567_8422595548466717302_n.jpg?stp=c216.0.648.648a_dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=v8gPNxegx0IQ7kNvwEssk_F&_nc_oc=AdpZuVwse18UIbVufL9UZb67sdXn7NxQ5dXvINsyq0IZtR_Fg-RhoT2hRe6uMg3Mgus&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=t4sXfND-69J09KkefSaANQ&_nc_ss=7e60f&oh=00_AQOqbCS146QRN-GWMzlYiqd6JwzISaNYzFCqc3LZt57umQ&oe=6ADF170B"
+  },
+  {
+   "titulo": "El Observatorio de Política Internacional de la UP impulsará la prospectiva global mexicana",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3RKN09oVkRMdGh4bnFsT3NwUWhWS3MzRWxqV1Y2ckxMR1dQZHdJS1Z5cWp1MHh1T0gtTDNiNjhzUGUwbzUtODBiZTBfUFZWY0l3NXNNZGtqWnFnTGpWME5paU5GLXR1UEZ5cms4aDFzcHJmTi1DZVA4Sm5oeGJZQnROM0R4VHFTZFhlN3JNcFVCXzB3TEpRYXdQNnRubEJvNDlBOXRuQ1hkZw?oc=5",
+   "medio": "Yahoo",
+   "fecha": "2026-10-21T22:12:58+00:00",
+   "imagen": "https://s.yimg.com/lo/mysterio/api/fef1f1d024ea34dfe341765ec354a793f64482d5677bf45b77c17366f08ff498/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fel_economista_434%2F0f1e73358ea1290f333e6996f0d5f34b"
+  },
+  {
+   "titulo": "¿Cómo era el mundo la última vez que Brewers y Rays fueron a la Serie Mundial?",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ3hlOHEyaXIxNnVkMmVIY29wYXBZU2JGanpKa1BPYThTVE1vblpsYWNFZkZ2TllqY195R1VkdnpiMEpEclA3SGlUckJOWnV2QU9uUHZNNGU4NUJpUkNtNFY2SDhJcWNPNF9URGVCa1FrN1ZFU0JUR1lHUTZpTDBLaWJVSWkydmpoaGYtMlRma2pZNXJHVDBuVDZpUE9EVkxSZ2JiYnVXeU82QnNUYTVZb0hoLW1MY3FuQ0VLY0EyYmRfbG8?oc=5",
+   "medio": "ESPN Deportes",
+   "fecha": "2026-10-21T21:49:00+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Internacional. Moscú: Putin, Xi y Trump confirman que están listos para reunirse en China",
+   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWkVzb3ZuSG44eUYzRlh2aGxQemNnRDJ2cGdfaV8wd2hzZzhjblhaTGpMcll0eEI3MmZqSzdMS2lhNlF3cXRyMmVrQ0twY2NXMnZSUk1yTDNoaV9yaW5LdFVaSHZFcDJYVWtkTUVxUGxKX2FET25mQ1M4dFBjcmJpVzNzNzY3LWdRbWx1MGJhWlhCVC00YUppU2x4TTVNX3doOVZsXzQzczJfNmV6RmNsUk9VLW94RE5vLTlPWm1QV3IxSlJYNWcxY3V6SUFoZnZmaXIw?oc=5",
+   "medio": "Resumen Latinoamericano -",
+   "fecha": "2026-10-21T21:46:17+00:00",
+   "imagen": "https://www.resumenlatinoamericano.org/wp-content/uploads/2026/10/6ad8ca4d59bf5b397f1a055f.jpg"
+  },
+  {
+   "titulo": "Experto internacional sitúa el terremoto de Panamá entre los más grandes que han afectado poblaciones este año",
+   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLVQtd2dlcHc5dy1DVUY5YjdSem0yQW1paEtlaFZWRUxvSWhpcF9DU0JOVUVfT0E1Z0NlRGlWc0xpZzBGNjkyVWRwTTNzRFNDSlJncFA1RURTQS1Ec093SWxZVmp1V1lNSk1GTnFLU3o4ZHRqbmlXMFdweTRqSlVsc3Q3WnVpUHNoUC1MNDEzaUJWcXhZSzNRVWd2aXJsanFldHduRHRXejdkSzJ3WUdpWVpXYlpiZ0hrdlRiS05oLWdaWGtXV0h2ejd0cjA3dlpKU3BIa0ROUll4dzh1dVVWRGZ1VG0tXzJK0gGDAkFVX3lxTE85ZzZBUEZtczRTbjNmM2U0WEw0d21fQlNOTVVtcHMyWUYtcnBWM1h1dHdPUlR4TmFTYV8xaVNxNDBmejFrQU9DdmpxbEY3dThveXJLQThtNXJlay0tZzlMc3Z5bkxYajZBRmJuY3FwQnQzTW1tSmkwcFpPUXB0X3hJcVpxcDd1T3J3aGdqZEtBYUhua1BoUDFkT2l3X2dxX3RxcklMVWN6UVJibk03ZVJTN3RSZjFGUGh3Q0dWd0RrbnU3ejYtWkg1eWtGbUJJc1UySVVJMGpWUXZwX3hPcnQ2WXRMSG1aT3NNVEUyT0NwM2twaVJnTDg5M1pSMUlEYmNGMnc?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-10-21T21:35:16+00:00",
+   "imagen": "https://www.infobae.com/resizer/v2/FW7GVGCOYVHEJOYCJ26I7WH73M.jpg?auth=909fd4807a672aa98967ac322cab1e08a698836feb3a32775fc7b57f6a7e0401&smart=true&width=1024&height=512&quality=85"
+  },
+  {
+   "titulo": "La UNAD recibe en México reconocimiento internacional de Coursera por su liderazgo en la transformación de habilidades en América Latina",
+   "enlace": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVmlGaXNzRWtGazF4a3IwOV93YWJVVU1ra18tMWtWalNzTTJiS0NMc3c1SDBZNGdmMS01aUczd2NMVmRWTVZYdUhZbk9mSVlmU0hMdDloVkY0N01BRFdFM3pLWU1kX1BVWmx5VmR1VkVRcnBHT2hCcmFyNGNUU3pzTDdYZXZtOU1ObVpvQVZHdE55ZmxTcEg4RkZNRjBJZXpLbHBMam1KSEtMMnFGejdJdThBeWFZVkRPZ0J0d3RZR2JZbG50N0xoZ1JwcnY5SUY1aTkzX2xjVHNmNVZpSy1JaGJ3RDFfZF94OV84ODNYUnJVV2I4c2JqempmWWdJNEp3OEtIUHdUZDc5a2wxV1o3dUpvY2RzcXdQ?oc=5",
+   "medio": "Noticias UNAD",
+   "fecha": "2026-10-21T21:34:15+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Bukele pide la liberación de 4 soldados salvadoreños \"secuestrados\" en Haití por pandillas y dice que hay una operación militar para rescatarlos",
+   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3Rm1hak1JcjV2M04wQzQ3cW9QYzZmU1NBU2x5WWNETTEyLWdWUTFCTEZKMDJXeDNSSV9hTlUtTHVSYkpwelVweFdYLTE4eVM0M3FsTHltUmJiUC040gFiQVVfeXFMTzlsX0JtX1ZTdmxmWUdIaEFjMGVSMWhaazQ1UkRUOWw5RG1BcFk0M0lEY01rQU95NEZ4eVhmOHJIRlVnZFYtNUVjeC1oVkV1NElIUURFbERGUzF6dldldGZ6dWc?oc=5",
+   "medio": "BBC",
+   "fecha": "2026-10-21T21:20:55+00:00",
+   "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/78dd/live/a860ead0-cd8e-11f1-b1e7-39558e114359.jpg"
+  },
+  {
+   "titulo": "EEUU ordena la evacuación de sus ciudadanos y familias de la embajada en Arabia Saudí",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdDZOTU5mbF9GWTlYaWRucDRqbHFOZU9Na2pjc1JaQzFWY0x4OFp4bkcwTm41a25US0dJTm83STRRc1p6YTJaTGhhc01lcWRZT0Vja1lNX0xZTE5vdWJHOGN6aWVva1I4TWFMRFNzV252RlN2aWJ5c09INThzNUhxN1k0Z9IBgwFBVV95cUxPNmdwV2ZMRE1IZFZ2d1FOdXBDMjQ2RWZEaHhob1F5NE5JUHhscGxnbWRSYU1rWU9GOFZ3dGxjTU9aVDZRTktkVHVLMDJaUXgtbTItTkhkV1M0clFvQzEwd0w3cDU5QXdaUzN0anBMSG5Od0dYTkRLaVFkRnBNZHFBUWEtWQ?oc=5",
+   "medio": "El Mundo",
+   "fecha": "2026-10-21T21:17:20+00:00",
+   "imagen": "https://e01-phantom-elmundo.uecdn.es/4386d43591d531d7946f2b15fb2f4419/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/21/17926176854120.jpg"
+  },
+  {
+   "titulo": "Mala racha: cuándo fue el último gol de Vinícius Jr. en Real Madrid",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeS1CUmJaVUhpZ3ZfU2FvR1Z0bXlpRFY1UlJ3RGpJeTBSVTN2ak1OLVBQRlI1aE1KdGpwYkFwaGRNdEhBMkx5NmtCMFY0NjVkQ2Q1VWxWNWNJSjRmb2hGUTFLYVlhSHpITzBxNVI3MTEtekI1aVhkMTg2RE9UT0NXWmZyeFU0UVBjeEFFa3hXTmQzQnJLWEx6X1dIQzNIYTZQaWM0YkZwUVVpV3pvTUHSAbMBQVVfeXFMTmlJSVBNem03SzBMVEp2S0FrUnF3TEEtc2FpeDh1bDh0OXVQaTRjc3BUdnpXellHLW8zWTB3NDNRY3ZGMWtsWTV5Vy00MVQtblEyUndNeTUxZUdKRG5oQ1RpWkp1aXpobEdYUHZNZWpveU9hTWo3UzN1RE8wODdwNGVZLWtnY2x2MC1xWDlieDY5LUVZTGlvZjlmbXV2bXJncmYwbG5CcHh3dWRYOWluWjhfNEE?oc=5",
+   "medio": "Bolavip México",
+   "fecha": "2026-10-21T21:14:29+00:00",
+   "imagen": "https://media.bolavip.com/wp-content/uploads/sites/23/2026/10/21151312/image-2026-10-21T181303.235-1200x740.webp"
+  },
+  {
+   "titulo": "Portada de EL MUNDO del jueves 22 de octubre de 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3FlVDVieS1hYmI5bWtHYWxFajZXa25SVlpSd2RSa2Uza1B1d1ZqTkZTOVZyeVM4WW9Kb0pleXd5VXJJYTJzSjlNbmRfYmVwb3JXTTZ2bDRKZ0pFZ1JPcUlfUm55U01vVVhFREFFamRmeTlzQ2RqXzFiWVBVTG1KMG5XWWFiMXp10gGIAUFVX3lxTE5VeHRWQlFuMFZHTkR5T09wZGtnOTZCZVliVjhIa21CZHVBZG1acEVfdUdXcW56SmNSaUlUanVuTzNzQ01BUklWMzZ6ekhOU3dtRVdmRE5nejZVRWs4ZkRRY2ZHd3BlaTViSlBxcm9NNzFHS09uU19aSG9Rb3FDa0VuampSRGczdzI?oc=5",
+   "medio": "El Mundo",
+   "fecha": "2026-10-21T21:02:09+00:00",
+   "imagen": "https://e01-phantom-elmundo.uecdn.es/c6ba14c252608395e7b3e31668e5edc9/f/webp/assets/multimedia/imagenes/2026/10/21/17926188124346.png"
+  },
+  {
+   "titulo": "Rusia dice estar dispuesta a reanudar las conversaciones con Ucrania y EE.UU. para poner fin a la guerra",
+   "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTWVsVy01aFBjZUtRa1Vha2Q0OTFrRnVDUjk3bEl1QW9zLXlDbUtGUElqbHhlYU56OFJrN2EyaUY0d2pZdUxFVm5ZSFhZbWZFNXVlVGplM09zRUNobFBLd3FLWC0wck1WXzFsNnNPZjJqVkltMVgwV0U2QXJ4ZkZSVE1Wdl9VYXBYdjJkaXZYY0R5WThxeHRmT3VTb21JcThhRGV0RWh3X3VpcWw2YnNtMWdoQlEycmMzU2c1LWM1WjVsSDVQM2xfT2NJT2wxbjBtbm5obkhEWm4xbm5fcXhzMW1NR1pZRUl6U0xUcUZEczFITVN0OGVzY2xDUkJYcDJVeUZPZk1B?oc=5",
+   "medio": "Prensa Libre",
+   "fecha": "2026-10-21T20:52:40+00:00",
+   "imagen": "https://www.prensalibre.com/wp-content/uploads/2026/10/5d316a20-cd85-11f1-9a39-31b474234113.jpg"
+  },
+  {
+   "titulo": "Participarán embajadores de cinco países en el Congreso Internacional de Energía Tamaulipas 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONlE3YmtfQXhUanZQU3FYNGxqQkl6dHdUcFhkMTlISVozaTg1WWlzNHFNa2lnX0hxMTloYXBLcFdfakVXSU12N0RZNzluQWlDUzdDQWVXY0tpcWF0THo4Zjg2YzNJU2VqdjRXS0pkZHQ0S19PQWticGZ1c1B6RjRPY0JjdXA5N3pUcWxVNXhMeFZsZG9LRTl5ZVVDX0pRUFdITnhjTFh1QVpvTWo4eFlfQ1pacWdXd05kOWpzWjNiYXFUUUwtN2E4SHpFbw?oc=5",
+   "medio": "Gobierno del Estado de Tamaulipas",
+   "fecha": "2026-10-21T20:44:25+00:00",
+   "imagen": "https://tamaulipas.gob.mx/wp-content/uploads/2026/10/SDE-077-2026.-Participaran-embajadores-de-cinco-paises-en-el-Congreso-Internacional-de-Energia-Tamaulipas-2026-4.jpeg"
+  },
+  {
+   "titulo": "Joropo en sintonía con el mundo: Cimarrón trae a Medellín los sonidos de la Orinoquía | El Colombiano",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSUxpQ245LXV2RE1uRjhGS2tzVGNnanh4aHN0ckIwMU50eXoxR1dvQlRzSmtCdGVaOEloREdoVUFYSko2YjNlZExRTzZCNU9ZZ2lXT3ItclJqMFI3NUxFTE5BdGV0M3dsNm9FZXVGY0Q2S19JSVJjNUJoeXA4U3RyZE04SzE1WmZtUjlPaWJzNUJXeU55YV9KNjVkOGpENEN6ZEhtSmpaNU5md9IBrwFBVV95cUxQRnZpV0JtSnRhUWtVVlpNS3I5bzRYc2gtaHhuNjA1bTVqeWJvSGFsZ2k3MzgtY0dWVzNJRU9OanZaLVhBX3RWWm51a250Uk10SFdCdG5YNENjb3RoQlRUMzVldlFFcXd1UHRkZU1OSWFJLUJNX3JJbEk0aHFqamFtdGU5ZDV0dWlYV2VMbF9USE5fYXZGNkFQMW1IV0Y0WWYtTEdMaU9BSnVLQmxWcjRJ?oc=5",
+   "medio": "El Colombiano",
+   "fecha": "2026-10-21T20:39:22+00:00",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/1280x854/0c0/1280d720/none/11101/RAHA/cimarron-2-1_51940363_20261021152449.jpg"
+  },
+  {
+   "titulo": "Venezuela presenta en el African Energy Week su estrategia para atraer inversiones y fortalecer alianzas energéticas globales",
+   "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNenNHbGVsMVFHX21VZVZsd21HWU0yd3IzNU1TRXJuaERhNVdmUzdGb2pYaGhhaVRVcllKQUY2MnJuM3VubFRYVko1WEtkS21Ndi13ZXN3WjF5c0xPOXlNTVNTTGhudjRncnZFYThNemxIeDBndDVtUjNTNE1aS0VJYUtpcnE5c3hLa1RHeXBJaGNlWjByVnZqcDkyNjMyNFMwVm55Q0NSUmxYWVpid25wal9COWJsVTBjTXBDYzdMMzM0a2x1SjFDQnFXQ0VyWmVYRTZYS1RvMlhlYXJTUEh1LXVyX0tiRjNXSXNySjdYNGRRaFV2X0E?oc=5",
+   "medio": "Ministerio del Poder Popular para Relaciones Exteriores",
+   "fecha": "2026-10-21T20:29:38+00:00",
+   "imagen": "https://mppre.gob.ve/gestor2/archivos/imagenes/productodestacado261021042941.jpg"
   },
   {
    "titulo": "Microestados del mundo: cuáles son y por qué no dependen solo de su superficie",
    "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY1lsX1FHVWZsZkcxMFpzRllzTHhwRTZjZWZiblpsNWUzYnk2eGhCMGlCWFdiZ1B1a25zQVo1Q0oxVVNTbTBoQmM4NDZYbENvWkladHVzd1NTb2E0czZOWUxBR1JMQi1SZzI5ek9nZDdOWl9XZF9tRWg5QWdlV3ZXU3RiY09kZ2Q1bUlnN0V3bzI1UElxX3hYX3QtRTBMLUU0amF2ZWdlNExybnpoZHZQT3Y4N0FPQWZ5TmZmRng5eVJyMmcyN2fSAeABQVVfeXFMTUkxSXFlbmk3YTNuakZkaGlURU5JSHV3QUJZRzdpUTQ1WDJkX25wYmJMYWpQN3F4MVI5NGd1WmtjMGNHOGdiRnFKcmJTYXRXMk1hb1NSdVJHZkJIbE5IVERQdkNETE45aGM1STRqQnptTXBTbDJQbVUwRWQxcHNvVzFHNWhjTW1yWHFEOVpFZ3Jxdm1mS0hpSU9yLTBRUmgzX1B4a0pPaVd2WjdvaXdaTFJYSE5Bc3otTTFhU1c5VER5cS1KSzlkWGdpQS14UXJ5Sy1wUnNkYVRUcmMzU0xHeGk?oc=5",
    "medio": "Infobae",
-   "fecha": "2026-10-21T19:33:18+00:00",
+   "fecha": "2026-10-21T20:25:00+00:00",
    "imagen": "https://www.infobae.com/resizer/v2/EFNVXO3PURCTJE5ZFD5NXNALPQ.png?auth=38dfd9734742c87bdb9a5ccbf72a60fb3beb573b8d79fda9b2521d31779ac331&smart=true&width=1024&height=512&quality=85"
+  },
+  {
+   "titulo": "Conéctate y conoce las oportunidades de movilidad académica internacional de la UNAD",
+   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb0M2RWU1aExuUmNUVm5uVDdzUlJiVUVkdEFHMzFtNGpldkNRZ1dNdC00bWNaNGg0azI0cGFvRjF6S0pReU10d0p3YXVnNWZuU3lOQ0pwSDMyYkFXbWNJYjBsb2hBVG1fYk5YVlo5dkdwLUh3VjlOaTNvOE5DbS1qajY2OWE5RjJsVUYwN0E1ZE80T1hQZXFidm5mTTZ5YjJ5ZG5zWFJVMXZYMXlfMmxXRDRlQnQxaTJ1NklQYS1IaTNHRE41Y2o1S3dqNmxFQ01Mc0o0?oc=5",
+   "medio": "Noticias UNAD",
+   "fecha": "2026-10-21T20:24:15+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Rubio viaja a la mayor refinería de crudo del mundo en la India con el foco en la energía",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbmRWbDFXSGZvUV90SkVjX3dkbGFXSEMycl9ZQ3ZWRkNkQWZjeThFTms4SHNiOWdKLXA3ZGZwTGg3T05YQ0RZSGRjTWlsU2dtTmt1RXJLdjBZbWhuUkFJNld2bWY2ak5ldU5jamRUUVNNWjlVYzJKSWtVVVRlcWFSLV9jQzRkdkxUWElUS2dXTTU5SDRfaFJPMzJodVprc3dURmJIU3BsWVFXeEVKQkMwTlcwdi1Gck03dG81RTRmRFA3TmhyZTNnM1hzRnc2M3I5UFB1OE9VONIB3wFBVV95cUxQeXQ5V3hWM3FzQjZmeGFYRmNFMmNsYXlNRVNZVGp4ZUxjTTdobEVJZ3Z0T0tXZlFsLXZUZXF1ajJBMnJGWmZySXR0NEFlTVVGR2RKYm16WEI0Vk8ycm9GYlBqTlFJYnlTeHgxTzZQMTMtSDJWQkZTeHdyTDBLRDFhNmtLdlFnQ0lWRzJmT3RjSEowVUtSdDV2YWU0MFliQVdGNUY5aG4tNU0taG1ldEhfY1lsSjV0NnUzbnNQWWhoYUZYdUxmOURnaXIzWTh1ZjU2NXNrZ2J2amJia3pKaGR3?oc=5",
+   "medio": "Telemundo Miami",
+   "fecha": "2026-10-21T20:19:18+00:00",
+   "imagen": "https://media.telemundo51.com/2026/10/Marco-Rubio-refineria-India.jpg?quality=85&#038;strip=all&#038;resize=1200%2C675"
+  },
+  {
+   "titulo": "Nicaragua entre los cinco peores países del mundo en Estado de derecho, según WJP",
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1g5NzZfdnpuenZyX05fcmtDMWt2aHFJUnZ2MXRZTWpUZ2JnUjU4NHNVTlJ6Q2NuZ0J4dUwxUXl2bzZZRlhic01wQm1jQU5FNElyb1dGdE56ZnY1ckVjM0xxcURhVDZDZDBVZUdjU094LTE4S3FBRHN5R3FmSTE4VDdmZ1R1eU9IVHZhUHgtQ0xkOGloTkxjaU55WHBTVFRBblpxNXQ4ajh3UmhPLXp5enpIVlJ4bWJyclRR?oc=5",
+   "medio": "Confidencial Nicaragua",
+   "fecha": "2026-10-21T20:17:44+00:00",
+   "imagen": "https://confidencial.digital/wp-content/uploads/2026/10/daniel-ortega-rosario-murillo-acto-policia.png"
+  },
+  {
+   "titulo": "¿De viaje? Una app con el transporte público de todo el mundo",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2d6bHNZS0lmaTNoOHdORERaSW9TR1MtRkRySjRiNDFLNHF3bG1xTG9UQzFtd0xVOE1ENjJkWTRuTC1Bc1pFNUItbnBlVzc2NzVHYUJVOG1LRmxHeUcyLS1Ra2gyZTR0cW1xMTBKNnVWOUlpdEZTWnhtNnVEdGRuWEdsWTFGbTJBMTVtYlRTQVNMREMtZDRTTmpQNEZPWjQ?oc=5",
+   "medio": "Periodismo . com",
+   "fecha": "2026-10-21T20:17:36+00:00",
+   "imagen": "https://i0.wp.com/www.periodismo.com/wp-content/subid/transit.png?fit=2329%2C923&ssl=1"
+  },
+  {
+   "titulo": "Departamento 15: caravanas de migrantes, debate internacional y desinformación",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcEdveGhoZDRNbnQ1SGstaGdQeDZEcmNHTk9LNEhDZ05jdXQ1b2ZIWkVtX0E0VGI5NWRCb2xxZFhnSDNkdEFlNUl2UEs2Qmo4d3RtUDJfdlAzcnlxejhxMFJUVjN6N0dDYjJWRGUzVUdZWlZhc1FQU2VQSXdCVm9zSzY0STVJQm1qV2lEanNFRlEta2xiNjd2TUtuWFliTFdlSGdtUUpONlI3dk00ekNNSTdFRXdZV3FfTDdpYW1NNjBkbGxmZW9N?oc=5",
+   "medio": "La Prensa Gráfica",
+   "fecha": "2026-10-21T20:09:46+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Europa será epicentro de la Copa del Mundo y Campeonato Mundial de Natación",
+   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSHNTY3h2cVhFSFI2Ukt5LUdVXzJ2N1lWWnNKNERfaU0yMnFLV3BkOGxKMUFUV0tEQUpUVUZwekdqYzVMRm91dzFKNWlQVW1OYTF6NTRfTmtIU1F0QzQ1c2F3YjFxQ0hqbGRPQWJ3TkpKQ3o2REVRNURzOWd2YmRQd19peUxzaFBkZlJ2ZU1WY1Yxdy1qSlNPcE1JUlNQWjkyRUhYS010bE84aFNadmtzQk1fRlhsQ3BvTzJoTUhEWE9MZC1aZlJRZzE1bmxDV0NlWHM3Tg?oc=5",
+   "medio": "Mexiquense Digital",
+   "fecha": "2026-10-21T19:56:21+00:00",
+   "imagen": "https://mexiquense.app/uploads/20_20261021191545_33567/AFP__20231127__PS_853262__v1__HighRes__LasMejoresFotosDeLosJuegosPanamericanosStgo20.jpg"
+  },
+  {
+   "titulo": "El mundo superará el límite de calentamiento que se propuso",
+   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2lqNjctTDhkYk1oVm0xWUhFaGY5dlBYTzdhaUtyN0hFZjZkRktNTXp2amxVUUU0LXB3bTRPX0xuY0d0Ykl1TzhUeGRlc3J6RmxMaGZWVDBUSnlLQkREZVdYX3ZvNGJnd0xEM3dpVEZpYmg1Rm9vUXRaSjJwNk9tQmJaM19WQ1ZCUTNNVW13bnplTHBITGQw?oc=5",
+   "medio": "IPS Agencia de Noticias",
+   "fecha": "2026-10-21T19:54:38+00:00",
+   "imagen": "https://ipsnoticias.net/wp-content/uploads/2026/10/Autobus-Marrakech-Pnud.jpg"
+  },
+  {
+   "titulo": "Panorama Internacional presenta una experiencia musical y audiovisual en Vaqueros",
+   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNek80V3JiRVYtSEpSMi1lNXE5WS15NWlFLW1BMkZhZ0x5N2VlNUE1Y0dQWEp1ajRzM3lPNTlSZmd0bzZGNElvVjk0Uy12X0Y0Ym8tZHlpXy1SVnNDZ2tlMnhzMUt5d1IyMWk2VFhTT0ZmNHItbUdWV0FNaHdGZHFrTkU3MmhZWG9uQWJQdHBBRFgtSUtXUURhSWxjQjYtZ2VQOVVBbzZwaE1Lc0IySVpN?oc=5",
+   "medio": "Culturasalta.gov.ar.",
+   "fecha": "2026-10-21T19:52:30+00:00",
+   "imagen": "https://culturasalta.gov.ar/wp-content/uploads/2025/07/logo-cultura.jpg"
+  },
+  {
+   "titulo": "Ejército Nacional prepara a 138 militares para misión internacional en el Sinaí",
+   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUZjV0E5V2JYNV93VkpRdWdHc1NaQ3hFVnNxU05tNmtYMi1JOE4tdHJyb2Y4NHZMcnpCUjRBNnNIYmlPbHFUX0Nxc2dTMlV1Y2RDME40YXp4MnU1Skd2VzhqU3NXNXM2Y3pKMHdOVHVwazdZNUhkTGFqNXBJQ1BCa0xaek1JV2ZqSGNhMHV6X2JZT001RFkwbF90OFVnVVdUV21kN2tjWnE0anc?oc=5",
+   "medio": "Ejército Nacional de Colombia",
+   "fecha": "2026-10-21T19:44:57+00:00",
+   "imagen": null
   },
   {
    "titulo": "Marco Rubio visitó Jamnagar, la mayor refinería del mundo, para abrir un destino al crudo venezolano en la India",
    "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS205ZlZCUHVLNmE2c1YzTWZ6bXNDS216cldZeUtPbUdZRHVxakgyNF9YNGwtOTVfaEZRa0c5YXViWncyWF9UU2VqQXZlajdZN1VBQzRaalppYVJWVkp4ellFZ0VSd0p4azBDeXlLVmFwa0Y5VzVDTWtlLXdKSWNRdUlMZHRISUhDNTRzQy1UZmxmZzd2VWdFeVRWVFVtMkZIbU81SUhPWllLTng1Ym9iNWRHSlQtaFdBenJQVFVQWmNGbWh6em9ldHRFOEdFemRwdGQxV2RqUTZDa1VHcThOOUEyUGUyMlBLcUNTUtIBhwJBVV95cUxQcm5jZzlNaXpZTFJuSXhsdGN5ZWE1WTJ4WFBrd2FFT1NEVFk2V0Exa0N0WThoQXhQQThpcW1lcmp4bWpGWXc4OWVQbWtnb1lOVUZGTXdRbnlhbDFkSVh2RV8wOHdTY2VFQ2JjeTA3bTF0Y1E4UDl4WGFGdDVlRTJubklNSjE3akN4NnJZNXFJR0tmeWlWWG9VXzRubXR3UllqeVQxbnFJajAwdzNvUV9zRmV1Z1dzcFNPeHhoMHZNc0dKWUpSV3ZIeXpJZENQWW14MWV0T2NQc2FRSWtYWXBFX2hYSEh2a2MtR0xmek9xTUNlc0pVRzc5WTU1aGtIb1NESzFXNTZTWQ?oc=5",
    "medio": "Infobae",
-   "fecha": "2026-10-21T19:32:10+00:00",
+   "fecha": "2026-10-21T19:39:43+00:00",
    "imagen": "https://www.infobae.com/resizer/v2/BYXC4TU3LBA3LF2FMKNB45JAVA.JPG?auth=bd16889f8ee0d78ca64e864326f001ed230a3cd4376243b2a867adfdb8498922&smart=true&width=1024&height=512&quality=85"
   },
   {
-   "titulo": "Seminario internacional UFRO: Referentes mundiales en nutrición abordarán las dietas saludables y sostenibles ante la crisis climática y sanitaria",
-   "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPelhnSE9MX3d5ZVNxOU9sZlVPaDJzU09Nb0I1VkxSbm5zMURzWERoeWVaSG8zdUlfUnRJbHYwb1Jqa0hJaERxbEE3ZW1PVkNLX1pTT3FiY2hSUVBWUU9TM3puY2VmVDlYQ0pXbkV3b292S0tDTmxsMUlCR3lpeG90MzJ1blMzYWFNTEVZclFrM0VOU1JSSWZtR3FJT05jeEtTOWhrQ1hDejVTbVQ5UHVrTkNZbkJEV0pMMGlOVXQ0a3RRNVQ2SnZVZ1FSaDVtT0ZBWTJxbTJSLUdndUZZYUpWdWxJQmE2OHBUeklTOWJ2eTBkdFVkOU5BZktfbUExeVc3OXQ2NzRn?oc=5",
-   "medio": "Universidad de La Frontera",
-   "fecha": "2026-10-21T19:23:40+00:00",
-   "imagen": "https://www.ufro.cl/wp-content/uploads/2026/10/congreso-alimentacion.webp"
+   "titulo": "Sitios web de todo el mundo quedan desactivados tras detectarse una falla de seguridad crítica en internet",
+   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHZ2M4OTZrR2RrTG96emdZNkJSeVMwTzEzTWxVOUhfR2E1d2daQlV5RWpDbkJqZDQ2cC1WLW0xei1Hb0xDNzh1MHE1cG5FS2J3cW5ia2IzamtmNE1k0gFiQVVfeXFMTUhtaVlOdGVpS3FtdHZwSS15TWRiNjhYZHJGSWl0TlJtS082NGJWXzFfSVlfZHFuRVlsaVJMUXZxTk5td0J1YW5nVlhjalRXX1Q3d0dkRlJNMDZjNDdPQmdCT3c?oc=5",
+   "medio": "BBC",
+   "fecha": "2026-10-21T19:36:01+00:00",
+   "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0465/live/2e702810-cd86-11f1-b1e7-39558e114359.jpg"
   },
   {
-   "titulo": "🔴 AGUASCALIENTES CONQUISTA SEIS MEDALLAS EN LA COPA MUNDO AGAVE 2026 Y SE COLOCA EN CUARTO LUGAR",
-   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcnFfQUdoZVRGQ2FKNUVQQXhJUkU1aTVUZmRRVmQ2b0xMMFZxMzdub3VSVkV0UzhuZ3ZzY3RWbTdOU01lZmI2d2h6SlQxaThfZl9iN0VzZWFFRnl1OVFaRVExU2lCeTBXZ0JLRWVyUXF5RkdXcG0yYi1jQnNhYk5IUmhCYlBRV255VklJUzRZQWE3dmJGQWN2S0FOVzBRTWNuQjYyTEFhNkNMY1ROX2FPVnlIaXlxaEJBdXpwX3ZFRGZWMmtfRldGQXZWSEZhdmRqMDdERWN4Q21qRzQ?oc=5",
-   "medio": "Facebook",
-   "fecha": "2026-10-21T19:23:23+00:00",
-   "imagen": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/855655120_1091790700132208_7637420923572455303_n.png?stp=dst-jpg_tt6&cstp=mx689x800&ctp=p600x600&_nc_cat=100&ccb=1-7&_nc_sid=cae128&_nc_ohc=jIuSSEeseNAQ7kNvwExZ8aK&_nc_oc=AdoSUk5XNkq8JG8McJ53B6ynMmWfi8EMc9Jputzj54fNK2x_YU9unuG85gsg9ZVrdjo&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=rcZtmDPJY2FVf_lDW9xkgA&_nc_ss=7e20f&oh=00_AQPJ2tAJ8I0mtGyaBZcfFP3DwhhcXBehcZXW-FXrm0aEkA&oe=6ADED3BD"
+   "titulo": "El 62 % de países del mundo sufre un deterioro de su Estado de derecho, según estudio",
+   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWHN1UWYydVU1THlnU0E1Ymd0cUs3VG1tNTlxWG1NSjV3U2ttcTVHVnFiVy15MEJPRXVtY0J3OE1QcEtNVXpnRWN1WXNhTFgwRVNKSlRfSTdSTjI0eEQ5WWljZzBKR2JSc09USVV6V1ItTWk2Mmk1UVQ0MjBVbk9HOG5SZFBQb1lhbkRqcVFKMXh6QXpn?oc=5",
+   "medio": "UDG TV",
+   "fecha": "2026-10-21T19:26:00+00:00",
+   "imagen": "https://udgtv.blob.core.windows.net/images/2026/10/21/el-62--de-paises-del-mundo-sufre-un-deterioro-de-su-estado-de-derecho-segun-estudio-03966526-focus-0-0-608-342.jpg"
   },
   {
-   "titulo": "Keylor Navas incursionará en el mundo de las MMA",
-   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlozT3pvUGxXR0V2XzBYMDhNaWxBN1lzTlFwWE9kekpsSjZXdnRvSkhfRmFLRURjVkIzdjE5ajA0VjcwemE5Snh5ck1Ma3RjRWxYMjgxQnJKS2pQckItSlBGNWMtMEd6NW1EYmN0ZmFYNW5jYnZhbU1uaERLdE5iOHNwek5QU1BzclgwekR6bkJ6Um10ZFFENTF6bEx5SS1jblZfWl9sY3RaekdQYzRIOHlpaXVONWVKTlE?oc=5",
-   "medio": "La Nación Costa Rica",
-   "fecha": "2026-10-21T19:19:20+00:00",
-   "imagen": "https://www.nacion.com/resizer/v2/JLIB2DAAEFADDN7OOUF6KR6AZM.jpg?smart=true&auth=5b72bd2a2ab4b080f7b8ddf7b59098b542cdb3d77755a76addb80f6194f28aa4&width=1440"
+   "titulo": "El Papa León XIV no necesitará más tratamiento tras la cirugía por el cáncer de pulmón",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdG5oeVlaQ0hTVERYRzhlZ2J3YmFSZjR4LWt2bzlBb2NWOWozdjhXRTQ1NVlySlB2S3pVY0FjOTJZVTh4bWhjanp2XzlOOWRWRC1UMFBJVHVudmM5dXpaV1dZLUxvWjNqZTBEQ1pyZ3ZsUFhYZldKZ0Y3S3UwYmRla01ra9IBgwFBVV95cUxOVWZ2TzVGeGtmd1Y1bm5CLTlUZUV5eVlWal9YdHJjRTZySnZ0RWpueXRuOGI3QjJfNEpxUGlrbnJhVnlQUXFhN1NYVGFscE45TFE5TnplYUFoQnVjOXNHMHVEdl9hZVFCZGtacE9kdkxDZFpvZ2pJWDRPek83STFWWmxWSQ?oc=5",
+   "medio": "El Mundo",
+   "fecha": "2026-10-21T19:24:49+00:00",
+   "imagen": "https://e01-phantom-elmundo.uecdn.es/6fd9ce1f5572aab875f91905e99e69cf/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/21/17926101673806.jpg"
   },
   {
-   "titulo": "La ONU proyecta que la humanidad va perdiendo terreno en la lucha contra el cambio climático",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOamFLc252MERYY2tXRWtlWmstMnV1UFhtRWpPMHVZTUEtdjFWczE3b0VUaXRFRUktWi1uT0JVQXJ4TFdHcGZfQ2pxS2xsVjE4dHNWVDNwejJ2c0QtcTFfNXZTMm5Idm9YX1RGdzA2c21ZV01OWGRyLWUzYUZpRmxqQW1xQ0RrTzdaT29QbjFTYWREbVhpeGdzSzdxNVprTzVLaUJDeWdWT205eXhfZ3JEQzhiV3U2cDNwTDhfX2l4UzRISFNpV2RQbGNQM2Fsdw?oc=5",
-   "medio": "Univision",
-   "fecha": "2026-10-21T19:16:30+00:00",
-   "imagen": "https://www.univision.com/api/image/og/us/noticias/mundo/la-onu-proyecta-que-la-humanidad-va-perdiendo-terreno-en-la-lucha-contra-el-cambio-climatico"
+   "titulo": "Desmond Tutu, Premio Nobel de la Paz: “Haz tu poco de bien donde estés; son esos pequeños pedazos de bien junt",
+   "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcDdkdXRmcWJRd1ViVUlKM2R3OXg4WUpFMWZoSWxKUGVuMU9aTnZQV2pDWk55cl9iTVFGYkl5VFhxUllWN09DRE1mQ0RSQ2xoNUFEWnRqS2hfLWhNal9fQm1VbzlMZVkwR09va045aUJQa2ZEVDBid3dIX0FldUtQbUVKdTBOVndJVUpudEFRUXYxTWRuazRLUk5zMUw4WDZwaUZQbEFka2diaHpFY2x1Z1F5dFFOLUpMUnNkWm0waVhiT0REb0lQOHN1cUtMaC12NXFRZFp2M2d5QlhpYV9nbl9nbFQ1VU1SSU9tLWp4c1lIYU43RmVCall4cEpETXpCdXp5cGNxUGRfUG_SAZ8CQVVfeXFMT3ZkLWQ1MER1RFlHdTVtdEpPeVlrMFFDN3RNdnh1U0d5b2NnMFZ4ZlNSRklGUE9MNmlxNFR3N1RVMmdtd0x3SFRrM2hCQThVMkUxemZhdlhGcDlGS0NrbEdXNW9LZHBvblAzaFdPc1RzbXpwZm9EVVR2RkdHZmNPSkNzZU9PV2c5c3o5SGtkbDdMTEpGMldVZEFBQTJQYk9HS1Zybm9lODN5T1FralFjdU9XZWlZY0tBUmZvTGluNG52djFEVk55cEJGWFozYS1FeHM4QUJvd2hPcU05cEZsTU1PT1hGcU9VUFpKOUNMN1d3Yk0xZUZEcE1sZXEweHQxN0xiSE1mQ0x5S3Vaa2tjRk53cHV4bldadExDTkpNLUk?oc=5",
+   "medio": "Diario AS",
+   "fecha": "2026-10-21T19:17:12+00:00",
+   "imagen": "https://img.asmedia.epimg.net/resizer/v2/GOVZKDEJ45OWPOBSAEX674K3LQ.jpg?auth=b3deb39fff1c21245d3d9b95b1825c051fc27ec9803fd147bed381c690e11e6e&width=1472&height=828&smart=true"
   },
   {
    "titulo": "La Copa del Mundo de natación de 2027 se disputará en Europa",
-   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWNYdTJ2ZEZGTlF5Q0pRUktEbHRsODExOTZ3Ym52VWZVZS1OYmpablpFbklpTEE0SVRlZnpRTVctV1AxNTVqNnlHUUh6ZGhBT3VtVXZ5SHZhSjYwSDd0ZXVyNEpVbnBMVVd6TXh3Wmg0cmZVN2Myd0o2b3VqQ1ZNS05BYkFOUndLLTR5MUk2STktYS01WGxTVkxGSWVpX3NOamhpSVVWUk5fVXl4Q1daZ3R5alN0MTB2aXU4Z2RySzg?oc=5",
-   "medio": "France 24",
-   "fecha": "2026-10-21T19:15:53+00:00",
-   "imagen": "https://s.france24.com/media/display/d508e7f0-cd83-11f1-b1c0-eb48fa034ddc/w:1280/p:16x9/cbec354f671397f8cf1b16c535f58909d2782d9d.jpg"
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFFMU3F5aF9oMGNYUVBGaFJWa1k1UmZBLWUtWDhfa1NCYVVtT204VDFRWnVzNExtX1NmVmpfU212LTlxZHRLV0VJVUtCSnUzNHdlLUVWUDVzeGZROHZLd2NacFVCWlNzWHFXX1hPRnNPcFdpRFRBaDhRa24tczZGRlB2SEFRMTY5RlUyTXFLRlAyWUc0WlNaeE1iQm9LVV8yREJYcnY2YzNnZzFubjgxT3dVN2c2WjE1cVBj?oc=5",
+   "medio": "RFI",
+   "fecha": "2026-10-21T19:16:05+00:00",
+   "imagen": "https://s.rfi.fr/media/display/dc1b98bc-cd83-11f1-bad6-4da0d2c6855d/w:1280/p:16x9/cbec354f671397f8cf1b16c535f58909d2782d9d.jpg"
   },
   {
    "titulo": "Desarticulan una maniobra internacional de tráfico de armas en Rivera",
@@ -71,7 +239,7 @@
    "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWUZkSzQ3WUNmakNsRk1hRkNqdGVXWWRrOUdfbkNWelJPWXNtclhrY0toR2IxWGZpZE41d0VvZDV5R1ZiaWRqUlVSdHhxcUctNVVreUpxSW9KRTZ3MjJmMktZNmtYLUJud0ljdklyV0k4bGRoXzVyam00OUVQVklyY0I3QUVBeWZJQlYyczlJVW5ZazE0WUt3N0VhS0tzNy1lQkE3azE4Y3dkT0k3Sm92MGd0aVl2LUJqY0lUbnNjZ1R0LWoteGZDMlBFV213MThXVFpzWW5xekl1ZDBjcktmQ1ln0gH2AUFVX3lxTE95SzBENUFCU3UxWE84eVZ3dWZJZHlQbzZnWEs3U2Rjb3pEUTRmZGZNNVVyVUQ0dDRhOGtlZktLcWRVRDR3WmhTak80S2hSRmZ4bS12TWM1dG1iaFg3Unl2MlE5YWVJdHRQZUZGbUdPcjNST1FpZktaU1ZjVjJ3VWpwYVkyQkV4cWFCZzE4VjFUMFZkaXYtS3hPX0ZNWkxCZ3drZm5zaVNjZ2RRWjJlVGxpUXFQMGhDcUgtcW5YZmVjR0FsWHVFWnppeG55Y0xaMUQ5T21HMFlWaVlwUUhTLTVGUUNlTi1PVVRCZTBFeUdnQ1dkNlBTdw?oc=5",
    "medio": "EL PAÍS",
    "fecha": "2026-10-21T19:11:56+00:00",
-   "imagen": null
+   "imagen": "https://imagenes.elpais.com/resizer/v2/3WHD6FBXOJFGHJPJTMDSKOBMOI.jpg?auth=ae1b1cccd1bedc1169f848102692d6586a05c5a485e83b5fe867cf0f1d3c8345&width=1200"
   },
   {
    "titulo": "Presentaron la Ultramaratón Internacional Corrientes 2026 que se correrá este sábado en Costanera Sur",
@@ -81,18 +249,25 @@
    "imagen": "https://ciudaddecorrientes.gov.ar/sites/default/files/img_3262.jpeg"
   },
   {
-   "titulo": "Los 10 multimillonarios menores de 40 años más ricos del mundo: el primero heredó el 49% de Red Bull",
-   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTG5ZR0RzZ3VncERMdnJPRjVXR1FRMk1fdzVfcU4tMHBTdTk4QWVMOUNKMkkyeURiQzVfdEpGMk1vNWpabnQzbnBPNkk5RVJDTDY5bWJ6TG9IamJLa25rMW5UbEFEcTdvY3dBVG1yd3RiWDVtczlrYWQ5aU90TGZKRGxTbWVYVEFDbVhKYXMzZndOZzNVVTllRzZ0SXNrOFdOYTdTWFQxSkE2RHg0MUVVNlF0UXhIM1g5MnVGOHJBV1BMU3c4bTFSdEVQRGp4a28?oc=5",
-   "medio": "Revista Mercado",
-   "fecha": "2026-10-21T19:10:47+00:00",
-   "imagen": "https://revistamercado.do/wp-content/uploads/2026/10/Los-10-multimillonarios-menores-de-40-años-más-ricos-del-mundo-el-primero-heredó-el-49-de-Red-Bull-.webp"
-  },
-  {
    "titulo": "Caos en la red por PHP: gobiernos en todo el mundo cierran sitios web tras alerta de seguridad",
    "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTmh6a0d2U2FBaFZQNE5sMWFjdnprNlRVbVVQWjZaakxIVFl1VUdMc0xWbTRDbGY2MDBIaDNINkFVRFVGOFliVm9vdW1ROGlmcnVYSGpXR1I0QXVyQWdzQXhENFY3UndZSnAxT0xJTlFldlA3aERab3QyUk1lUl9ybzA2U0RkTGJ2ejZISk81N3EyanQwTTdUcGFySUtlR1M3R0lyeDlzTUJQcV9CUERsMGF1WDZfelc4R2FfNDZkeXhmWENya1N0TkplMEl2bXk4R2dubkJoVHJIXzNVeFlEelcyTjU0Y09iVXBuVHZn?oc=5",
    "medio": "France 24",
    "fecha": "2026-10-21T19:01:05+00:00",
    "imagen": "https://s.france24.com/media/display/16067f7e-cd7f-11f1-9173-4da0d2c6855d/w:1280/p:16x9/c21d9edfd9034363013e42387258608207a99eb3.jpg"
+  },
+  {
+   "titulo": "Nico Paz se presenta al mundo con dos golazos escandalosos: lo del primero es salvaje",
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ1l1aW9rWGFRekNvbFhTeGFhcS14ZHlrNFFxRXZnTGdCOVE0cnFGaG96S3k1UVo2VkFiZ0FGRlFRSXRDd21uUmJRbWxxVzdEWXpuaXRlZGRCV18yNi03RmFqMTNiSUpRTFV0SHh0SVcyLWFsQzUyMERNOVBhdVZ1WFdPYTdaM2U4R1lUNm9lS2s1UkRBUmMxTnRWYXVPbEp6NGRJaWNuT3JTZXZOTUNJdlhBQUVwNEN4RlRr0gHPAUFVX3lxTE0zSTdfOTlINEEwUFhZeXRzM0J6STlSbkpZaWNLQjNUeXFFYmZRbnUydUhmZXlyU3VKYnZoeGlYaEV1U01sSE81WlJoRmFoZllwS1Q5aUZqaFpDeXhPb3R1dm1WVEhuZVAtZVBlQjR0RlR5bGZwa1JELWcxZHAxbklpVkxjci1jY0xoU1NrWFdOckYxYmxlZTNycVhxdE1WQkF0Y1JmSldPVHVfVVZTU3BsTFlFeVZaNXNqczVuaVZzeEt1MVB1d05GdHM3ZEhhMA?oc=5",
+   "medio": "Diario AS",
+   "fecha": "2026-10-21T19:00:38+00:00",
+   "imagen": "https://img.asmedia.epimg.net/resizer/v2/3S5Y44PTYFDKVAUHQ22GRY6HZE.png?auth=edfcc9a579981b669f706d83fd63f7fd288c5e1bea4e64db95de370c4292b5a1&width=1472&height=828&smart=true"
+  },
+  {
+   "titulo": "Batacazo en Bruselas: Fran Cerúndolo venció a una de las mejores parejas del mundo y se metió en semifinales",
+   "enlace": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdjRhT21GZVVYSC1FRkpISEJINndNeVQ3M1hSN0Z3VnpmcWpRQTZORjktLW5sMGY0a3NQSURUNkVyOTZ1Vjc2aFhpM1NQYlVWR3ZSWG9TY0hzTEY0ajdkMTVFUGlqWm4tSVNQYWhhUWVjbk5XMC1zYmJaVVZ3RVJkWVYxZ0JubGp0aGN2cFNNSmdzdVRRTUtRMlhjYllaS0RPLWlELVQxRUM4aEUxUmV4WFdYRjhRMFFOcUlaeTR5X2RHTzBTcUk4bjBYUU42ejVHdnhyVFY0Slk5bjVHWk5HWG9ZRmVFUzcwMS1Jd2pWc2NBYUVkV0pNVDlPaU9lM2lvLU9oRVNQQ3BrY2JnMnJpVA?oc=5",
+   "medio": "ESPN Deportes",
+   "fecha": "2026-10-21T18:55:00+00:00",
+   "imagen": null
   },
   {
    "titulo": "Koundé, muy difícil para el Clásico",
@@ -105,8 +280,15 @@
    "titulo": "Así será la Copa del Mundo y Festival Sub-15 de la FIFA con 191 selecciones: Eswatini y Samoa algunos de los rivales de la selección Colombia",
    "enlace": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQNE50eGVsUFZZb1FuQy1yQTN3R094WEZ4Rlh3U2ZtQThGeFhmaWpmQzZvNXgzLWhLSTFFZ2p4WmlZZXhmSzFEYlFocmc5VkhSV09uYTBXWmlSS0JRbm9sYklmTEJXcFAwY0NjY1N2YkRxUktfdTRqTGYzRV9XdWZpSllNZWZobE5KeEFOU2s4TmY0LUt6NlJfUXhhb1h4RDMxb0s4TzBJS3k3dURXS1RkU0FFT3RjcXhwV3lHVUN3b0l1ZmxRVHR5eVJFVmVUUFBNSlNaNXFIRjh3YktOU0l0bUV0SG00SEV0c0pDSDFWdl9Fam1zYkY2ci1jOVVLMk1MMEgzQWd1Y21OcWhXc0plXzMzUWlrZU9LNzg3LXpxWdIBugJBVV95cUxPX2JTWHBvemlzQUxMekJ4WDBHZThvRFdLNnV6NEVibDRNS1V4R29zQ0JZcGRyYVgwNGlfNndQZzVvdjhDeDNDMjBhYjEwZ2MyNmhuSC13VHY3SVdOWDd2b3JLd3c3ajM2T3UtZXNHTy03VjhWeGx2QTAwWTBWRHBSX3FUXy16V2VOVVNQMk9ERUFTbS04VG4tMFVlY3lIUG5FRTBmNU8tRGtocUVZbTgtaE5fSGo3V1ZIS0Nmc1VBVTc5bjhPT2VWRHhScmVTaUdfYS1HaktTV2k1em0yTG5iV0JyVTM4MDJfdENVWmJtdHh6YVRBTUZjVXM5SWxmb21FOUxwaFlsNVhIR19uUFJRdEJCbjZ1SWU2R041cFZJeTlLUHBnTVBxb1JNYWkxUzZQc1pFS0Y1UE9xQQ?oc=5",
    "medio": "Infobae",
-   "fecha": "2026-10-21T18:46:26+00:00",
+   "fecha": "2026-10-21T18:46:57+00:00",
    "imagen": "https://www.infobae.com/resizer/v2/7CPBIHWEFJCSBLBRUCKJ6MWSQE.jpg?auth=349e57aea55d05c8048388cd02d9de8b899e1ab428e4c780090624e5e3bdad44&smart=true&width=1024&height=512&quality=85"
+  },
+  {
+   "titulo": "Sitios web fuera de servicio en todo el mundo tras fallas de seguridad detectadas por IA",
+   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORE5xMEtKVHFIUHotUl9TQXdYVnIwNnZZWTdkWVc1LUJFUHZPaWl5RmFjUGZxSFFnNlVWZXZxZlFKd1NJdTNQTU55eVhKb1AzcVlPRlhrV2xzUjV4cnZINDZ6aC1XZ0pBLVZublZLTEM5SU5QNFlCdHR4T28zdXh4ejc5ZEJMSDBNbVh2VVVYZmNMS01zQ1NUa05ySEdGU1Nva283elpkNzBJLUtta1pyV2xQcVFhTFJHSl9oVWtnTmo2WmU1ejJIWGc0Ym95Y05FdWVF?oc=5",
+   "medio": "RFI",
+   "fecha": "2026-10-21T18:42:05+00:00",
+   "imagen": "https://s.rfi.fr/media/display/1c5e1152-cd7f-11f1-acd2-8bea73bbe173/w:1280/p:16x9/c21d9edfd9034363013e42387258608207a99eb3.jpg"
   },
   {
    "titulo": "El mundo al filo de la deuda",
@@ -116,46 +298,11 @@
    "imagen": "https://letraslibres.com/wp-content/uploads/2026/10/mundo-deuda.jpg"
   },
   {
-   "titulo": "Las redes rusas se 'suben' al carro de los disturbios en Europa y acrecientan la sensación de caos",
-   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUlFLTy1ub0JNc3dIbWFqWHI0OG94eFBMYWFKZGdhOEtjeGlUajFDZlI2R3B1X2J6TC1vX2RiOUtHZ29oa0ZWVi1LZmxoaWpVc1Fsakk5S3pZZEM1d2VpUUZPNmt4Uzh2S0VLQWdnQUpHa3hnenNLZ0NmUFE5djJneFNEd9IBgwFBVV95cUxOLURweWtLLVZwZWJTbXZiZ0RqeU5adGRydUNfZDlqMHV0QWNjNEFGZUxxSmtIM1NFN1o5U3JEdG1VV2dmZ3pacmoxVnVuVFM1TVdGdUxSc1Z4SnFkLVVpTmQzSWtJWlJzaVE3dVU4Wjh1TkdjemhvR2p4QnpvNkptMUtzVQ?oc=5",
-   "medio": "El Mundo",
-   "fecha": "2026-10-21T18:33:21+00:00",
-   "imagen": "https://e01-phantom-elmundo.uecdn.es/c2026447379a52c38c406b6a731c2f81/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/20/17925144684738.jpg"
-  },
-  {
    "titulo": "La reina Suthida asume el peso internacional de Tailandia y lo vuele a demostrar ante los emperadores de Japón",
    "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVkZPaThNVGZDc052MEpZaUx3Zml2bDA0em4zOWoyN3FkMzd0M29lbUk2cFpaZWFyNG41MEJlN0x3Z3YzeE9iU3dMamV2dENUUzlndzRqMFZwZ21kUVlZM29XNVZQNnNIV2JUa0l3RU5HcHB3NXBaRTZvS1lZNmZtLS1DeEJET3hVOWpvV296UndWYnB4MEhWY2JYUXFRNUJtcEtGcw?oc=5",
    "medio": "HOLA",
    "fecha": "2026-10-21T18:23:00+00:00",
    "imagen": "https://www.hola.com/horizon/landscape/1200/24f9cc5d82e7-saveclipapp854823256179756992051698028162065595153287660n.jpg"
-  },
-  {
-   "titulo": "¿Por qué cae la producción de cobre en Chile en pleno boom de la demanda mundial?",
-   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUG5QczJsSWNEUjRzMGNmelVmcE9UZ1RycVQ5cGZGWHVuOXlEbVFLQV83TzNUR0hiRERfa2V2MTFNa2g2TjlIWHNSMjRSRmY3UU9vNGtvcW5lelRPVEF1WGxSOHpCVl9JMWIxeDV4YlV1cUNxLUZLODBXOW5XTzBVSHlWUHpaRVowZUtlWG9kSzB2aWVUZmRMUkhB?oc=5",
-   "medio": "Yahoo Finanzas",
-   "fecha": "2026-10-21T18:18:04+00:00",
-   "imagen": "https://s.yimg.com/lo/mysterio/api/4c6f9911768c6aed633d2cb89ad1bc40eae6169a73df16a1d04ccd2624308e8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fes.afp.com%2F023a6baae1f88de8263245895dc1c78d.jpg"
-  },
-  {
-   "titulo": "El 62% de países del mundo sufre un deterioro de su Estado de derecho, según el índice del World Justice Project",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFc3dEhfX0VFUlVVd2hEVWNUVTdUUDN2dkd0R201cHZ1XzFFSjFGV1pTNjhmSy1yd2VBdHBENXJJZVI3WnFKQmNmM0kzaEdNLTVhUi1zZHVjUG43eHIzRnNKWV9kYWdkNnBCdlEzYW94YVdubU1yeGxtN01BclhmQTRhZUpMSHlsVWNYb3k2VlNqV1RZV3AxN2FZQjdXWEwtY2s3VVJBa2hJUTBvbDdadE9hbzQtSUtwcTFNaUdUd0Zub1ZOUlZodkZlZUVWdw?oc=5",
-   "medio": "Forbes México",
-   "fecha": "2026-10-21T18:05:00+00:00",
-   "imagen": "https://cdn.forbes.com.mx/2025/04/scjn.webp"
-  },
-  {
-   "titulo": "Disturbios y cargas policiales en A Coruña contra los manifestantes que protestaban ante un acto de Santiago Abascal",
-   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44b2gtVlgxeTVxOV9HRFdYWnktd1N5OWVReG0tdWtyQk5BVXM3RGVieFRtc2EzeEdzV2p2b2F5el9WTldJa09EZXFSWEFWQkNBLW1ucEJDY0ZIQ3ZOalhpUS00N1d4ZDhrSjBneUZEQWFYNGNYN2pzU2V30gF6QVVfeXFMTm0zV0lrZDFDcnlGZzNpYURfdkMtbEFybi1PYnEtZk5YUHRQeHc3UXJxNzJYOU9WMHVrV1A2Y0dmUk5DdnRiczZEa0dQeW44MUJyN1dXMmdJRTlteGhmWnFsU0x3ZUlZdDZsTE1nUDdfX2d2eDFmVElxVGc?oc=5",
-   "medio": "El Mundo",
-   "fecha": "2026-10-21T18:01:09+00:00",
-   "imagen": "https://e01-phantom-elmundo.uecdn.es/e0b4d2c248a85be335df8e2fcdcf7b82/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/21/17925905739759.jpg"
-  },
-  {
-   "titulo": "Aunque países cumplan compromisos, el mundo se encamina a un calentamiento de 2.6 °C en este siglo alerta la ONU",
-   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYm9PVFUwRGhOTmc2Q2o1ZklBSUoyZEFDdmNtd0FDbzF2YkcxZUQtMXZSNEtBRTE4TWlqVFRmVDBuZjl2M0IzS2JTY1hTVVpZdFpnSUlGODdQX243TWdidWRVTExldjhlRnFfV1dEY0dyY1h5T0pVZWo2NVJ0Nms3a1JiSThWQWxrd3AyQ3RQS0JtZ1dLQkhsTGYzOE9ueHBVZEM3RHFwRmZ6aExjd01CSHNEcERsNXJKT3I4YmF0TFZRLWJkbkx4aUFHRElRRFRPbm5QaHNubWd1clNtM3d0dlEwZkN4Z0lZYWZXT25sNA?oc=5",
-   "medio": "El Sol de México",
-   "fecha": "2026-10-21T18:00:00+00:00",
-   "imagen": null
   },
   {
    "titulo": "Permanece abierta la muestra ‘El mundo que cabe aquí’ en Villa Mercedes",
@@ -165,17 +312,17 @@
    "imagen": "https://agenciasanluis.com/wp-content/uploads/2026/10/003-2-1-750x420.jpeg"
   },
   {
-   "titulo": "Alumnos de FoxDev destacan entre los 50 mejores en Game Jam Internacional",
-   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbzIxSzNJeGdLT2ZsWV9GdDl5RUxpY0UwYWJ6UDI5eHZVUmRUbXNUZXNJdkRON1d0dVlhWVpSM0pVdVJoNlVGNFU5MWtDNVdjVTNpUzlZZkZkWDhWUWZDc1VNMkxqM001UUc3cGVTOVU1VlRhWk14QlVrV1kycHM1S21lS2kydU9yWGMwaWdVTm41cDNwc1FBZTBrUHBtU0lFTDZvUjN5aw?oc=5",
-   "medio": "CETYS Universidad",
-   "fecha": "2026-10-21T17:52:53+00:00",
-   "imagen": "https://www.cetys.mx/noticias/wp-content/uploads/2026/10/FoxDev_Videojuego.png"
+   "titulo": "Sin imponer, recomendaciones para la prensa internacional en una Cuba hipotéticamente democrática",
+   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRU44bl9xNF93aU5VTDd4Uk9MS2pNdDgtekhTaTFoQVhuYW55eVlMOWJyOTc1by1XNV80REpGM3hKU0Z1bUp1ODl5MXMxRWxJMllRVzUzV3RoY05sQTc1WGFDQWo4aHJGbF81Y1pVd0g1M1I1WU96QWRCZ3ljdGY3dVBCMlp4U2duLUFFcTVWdTAzNHFHeE9qVWRZVEJDWUloUDFNTk9MVnJxQ1c4X1JwSno1aWhMbVFETzUxMXVOM2lOMWVzUm5jWEstTdIB0AFBVV95cUxQZDR1YVN1REpueHAzM185RUdSTkh2WHpNd29jb2hoVkdoY3dabXZDLUlnMy1lYktqNXVxdDlsVTNSY2FSS211ekNjcFFlcDVLc0Ziekp6Q2NIYXh3OF9HMkxwSkZVdXFDMjBlSnQ3VFBkTThBSGVuOGNDNGRHcVlLdDRtNEp3eE5Ma0RzMzBKc0JQdVhmUjdneHVsNUdzOEV4S1VRNGllb3hpNUF3bHpNSzRPVXlaSE5HanhQM1VqVzZLckJjMmxNY3FBNmVXZFJV?oc=5",
+   "medio": "Diario Las Américas",
+   "fecha": "2026-10-21T17:52:00+00:00",
+   "imagen": "https://media.diariolasamericas.com/p/0f0ef86a3732cf7d49d52486d6d4ed7f/adjuntos/216/imagenes/100/282/0100282753/1200x675/smart/1791403443993-zoe-valdes-autor-opinion.jpg"
   },
   {
-   "titulo": "La espera terminó! Aquí están los horarios del 4° Encuentro Internacional de Circo de Zapopan.",
-   "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zRDhyeWREX2dPeF9aaU16V3JEUC13a2hsa2U1WFVIY2dqbDZMXzgxb0E0SzFBLTgzemUtbnNsdmpUbzR4UnFjVkQybFBjOVhEcjlaVlBQRmRvV2trM3Fr?oc=5",
-   "medio": "Gobierno de Zapopan",
-   "fecha": "2026-10-21T17:47:55+00:00",
+   "titulo": "Reina y Paco, el matrimonio de 70 años que viaja en caravana por el mundo: “El día es hoy”",
+   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzFWZnh3eHNsZEtzSS1GVzQ2WTg4WThBbVhkTDR5Q1Q5SlpqVmNNd0dOay1ua3c5eW5pcVpENkpiWm5SbmZUVExjZnhtWk1pWmR4YWtnSXVVaTNRS2hlbGc5T1doWGtkMWdWenF6dnNLbXppalZOMG1iRW9tQkJzdUJsQ1IyaFlNY29Sd3N2amExdHE4YTFISDBTUkItV2tBWnk5eWdjRUlBM3lzOHVCLVhiQ2JjZWM1V0lSOFhoZDY1Y3ZZa1hsX3dGNHXSAeABQVVfeXFMUGgxR3l0LVQ1ZlhLRU5LNUVYQzhSb1ktbWxuRWZWWkE4ZGNDZG16UVBoYTlPNEFkTVNyVE94dGU2dHRXTTdnTW5IZFVwWnV4SDJBNEJrYkdvaURZZGFEYTdSakVjN2ZlZHRrOTZhR2UtQU0wRU8yZlI5V29ITkFYQy1rSVNtUnBuRHhPTlhRMkprOE56WXNRdUpRRFZVRXRUUDRfaWhpQVZETGJrbG56WHd0TDREVWI4akg5V016U29fSWczZmJ1cXFITjY4aWdVZUxpX01TLVBnNEdBcjNIMU0?oc=5",
+   "medio": "Diario AS",
+   "fecha": "2026-10-21T17:46:38+00:00",
    "imagen": null
   },
   {
@@ -186,18 +333,25 @@
    "imagen": "https://noticias.unsam.edu.ar/wp-content/uploads/2026/10/imagen_noticias_unsam_ONU.png"
   },
   {
+   "titulo": "La IA detecta un fallo que pone en riesgo hasta el 70% de las páginas web del mundo",
+   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdldPTVBETi1nd3NsUVpCdlFCbGNiRTZSOE5UYl9wUXNOcTV6UmhLZzdQSGtRTGtCbVVVaHQtaHFjWkVvSDF2Q21ERGg3b3F4Yk9YTm9zRzg3UHhTcXU3d19tbnZWU0RuZU0tT1FaQ0RBaHdtQnA0ZlZ4SXFzaUIxSlAzYzdRWFhLMFpDQkE3cWhPNGtZUjFrd3lTeHZDSW1XbUNJNtIBpAFBVV95cUxPNkpENTNHNVVyMG1HVmEyN05QNXVGRG5MR0ZEaGJWLTFlUGlqN0dLSnFNdlVwYi1TOXlqNjJHbGRvQmRrTU9kNnVWWVYzTWhsUDNKX2lnZ1djLXJRWm1KRGZvNGlEd3ZEalAtcjhudl9RSWtCOU10RWUyVnN0aTNOUXRpUUlCTkd6bzhFMl9IcHJvaHNSb3drU2xjNnVDUUVVYzVadw?oc=5",
+   "medio": "Expansión",
+   "fecha": "2026-10-21T17:41:01+00:00",
+   "imagen": "https://e00-xlk-ue-expansion.uecdn.es/files/article_main_microformat/uploads/2026/10/21/6ad8f7dcebcd5.jpeg"
+  },
+  {
+   "titulo": "Chile busca cultivar arándanos en el desierto más árido del mundo siguiendo el ejemplo peruano",
+   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON3FQM0V6Sk9rdXFPSm9fLUxJa211SGZ4QjNMSWJqVTBuRldNQ01rQmJheVBQcW1MN1loY1lOQm5qc28xa1NINUVFVU5kOXJTaW1ZeE5sQ3h0UFZkamI1UzIwamVVdlAxTUxZOFk2b1UzTFJsWmlWX1UzT29uTE43WDJsQmNHWHNOWFdHa2Q2cDAxTjYxTnBRUVRpRExzbVFNY2dPLVNaS1NCTWhNRWpjMk9BbFotbXI3THpFNkZ5bGxuTlZwendkSlNoU1VhbTN6dzl1WTQwTWhlVHl0Uy05cURlNS1SelZL0gGDAkFVX3lxTFAzLXdJNzNiNjR0ZjVoVzIzUTU5V09tZkpRRmFNTl9IZVlCVzRHeUVsQU5OQ2g1WHdHa29oQVJLVjNCSHpuWG5EVTg4alRxZ0dOYllQZEJManVsMzNQdTNjbFNXaE9GWFc5VmpxbDhURXhRZ1N6SlpjdXRqdHFsYmpOcUlBX1NMZE5sMGNRcTBiWmpYNVZNYV9CNHItbTBCbGhKVzZyLWpKWE80bGhld2ZtS1ZGN2lyaWxzZ3RCWHFmZFBLTGxLWDkyNTBjanYzYWY1OTlwYmo3RVhoTGJkNFA0UWxNdldyNEJfZDd4SlFKb3JqN09XdlZ1bDhsVWN3VFd2aWs?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-10-21T17:41:00+00:00",
+   "imagen": "https://www.infobae.com/resizer/v2/L4MM5RJNEJBX5A42XJ2DR2UPWI.jpg?auth=752c854ef378d729c7dadb8a51a4676edbf4bcb119bca18ad536923448fd6702&smart=true&width=1024&height=512&quality=85"
+  },
+  {
    "titulo": "Tamaulipecos hacen historia en Copa del Mundo de tiro con arco paralímpico",
    "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVnBvempsdFdNd2NKejlnclk4cXhYeWQtNXJqajkwQURJcHplS0tIUDd2TF9YVDFoaHdQQ0t1Yk82NGtzYlR0VEw2U3hMS1NRNWNacG4xa293Z2JWUElSYkVVdm94cWZvT1ZSS2pLTlZfVmU4bUNGN0FZd1RabHhsZzdIS1dvUjc3MmhTMmJjenBJMXlKYmVSc2tpOUpUVDlFcWwzVnhJRHNnWC1DSmc?oc=5",
    "medio": "Gobierno del Estado de Tamaulipas",
    "fecha": "2026-10-21T17:18:33+00:00",
    "imagen": "https://tamaulipas.gob.mx/wp-content/uploads/2026/10/IDE-104-2026.-Tamaulipecos-hacen-historia-en-Copa-del-Mundo-de-tiro-con-arco-paralimpico-1-e1792603262598.jpeg"
-  },
-  {
-   "titulo": "Las exigencias (completas y claras) de las marchas convocadas por Vente Venezuela en el mundo",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZDk2RF9UOXZqbi1QUmc4ZjZGRmhrWm1BS09ERUtDMklmOE1pUVNTUmJ0aElfc2c3Q2ZxZ285X2I5UTlCRzJ3cjkxQ1RiMXQ1RVhBenBFVU5XVHZOcXpQUUp4Vk9UbnY1ZFo3a0NXUENwVVd5bWxUcXg3V2JsdGZpLXRXMWVXZU0xTXYxbllNM1lLSlh2Z1laUVNGX1RNblFnUGp4MWhOUVYwMmdlT1ZsMXJnaUhFQ2RNNnYyQXQxYzBRM0hPRUFtYXNnY2M1MzE1V2xaMWZmSdIB1wFBVV95cUxNaThzOHVWQWs3bkoyMUpIaGJzYzRWNnVRWmhBRTdfWjl4WDR0alktNXlhT1ZpYk1WdHc0UHhUUVIxblAtN1prbkN0WHd4RGlQc2lxTWdQUHc1a2dJanVlaGphYXVsODlyb1FzRlNrWjJwSksxbmlMemx5Mmk3UGx0TnVRWk5jYzlFN1RSazlWbzVqcGswWnVfbVpVWTh0Y0NGbk5zVzJYLXpXeWNwTl90NzJLTExLbXZVQkpxYUpGMEwyRFg2ZVg4VlhPOTJ4M1g5NnJCbXlCaw?oc=5",
-   "medio": "NTN24",
-   "fecha": "2026-10-21T17:14:39+00:00",
-   "imagen": "https://intn24.lalr.co/cms/2024/10/29183504/Protestas-en-Venezuela-1.jpg?w=1280"
   },
   {
    "titulo": "Red Week 2026: monumentos del mundo de rojo por los cristianos",
@@ -207,32 +361,11 @@
    "imagen": "https://www.acncolombia.org/wp-content/uploads/2026/10/ACN-20260429-205144-scaled-e1792602302996.jpg"
   },
   {
-   "titulo": "Putin, dispuesto a una nueva ronda de conversaciones entre Rusia, Estados Unidos y Ucrania, mientras Zelenski se abre a una tregua que \"congele\" las líneas del frente",
-   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXEzMVRybkxvSkNyRHdDOURRM21wN1liczVLemhtajNpWWQ3bTdxcEJBQXdlSG96Q2hPODIzdlNMVUxkMFA2dHl5WVpKLW5BWU5VU3ZZUjJMeXNzdEJNNUlyTkV6T1U2SC1vRm9jTVNPUG9tM1F5R2NCT21sU1A4N3lqY9IBgwFBVV95cUxNWVVZQ2hKNW91R3BnUlVwd1FzY0pYdmRsdnpJaXgzSzlTNG53QkFCVlhBcmhyd0hDd3hmRXRsMU1rSkhhcEZtNlNBS21fRXVBcjlQU3hQSEQ4N0hJZE5hZTVVc2ZxbFl4aXVBZklXZF9VemYxZ2JYVmRCd3RwTUctVHpYQQ?oc=5",
-   "medio": "El Mundo",
-   "fecha": "2026-10-21T17:07:22+00:00",
-   "imagen": "https://e01-phantom-elmundo.uecdn.es/b3c2bf3e0bc04ee50c8b7127a69af8de/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/21/17925904137093.jpg"
-  },
-  {
    "titulo": "Una vulnerabilidad en un lenguaje de programación obliga a desconectar webs de todo el mundo",
    "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUkRBOEpXU1hkVmlDaE9JRUs0R1JkQnRqdjZ4b0pFeG5saGtMLVdheFo2b1VZampSRklQSXNxUllPa2FTNkN5Ynd6cWNBanNPMk1McHpjenJMcmM4aExLc054eklBLUJjenBMSGNXUlNtQzNVLWdNcFBiQ2JFLUxnSlB0OEJhdnVyWjFGSkV2RzEyYzY2UzNWZ1FEUjg2SDhqOUNkRENDdmNCS2lydUoyRG5CTXdzWDlPUmEzUzNfRGdXNDhjUVdWZ2xR0gHKAUFVX3lxTE1lWVRMckJEckFrZXdMc1BrZm9MZ3lpT09nOXFNLVFobTBsN2ZfRVhreE9DVFN2WFFiRGFXa2tmYlE0YXZZS0twYTB3RW1JbTlvTjBWQVZWTUQ2Y2xVcXhQZ2RIU08yMVcxVjlTR09wM2RVRjNOMG51bGw0XzRBWklGclRYaEpPT2dFZlVCZFQ2Q1NHa0xlVXF0NktqbDJscDk2UDdsVmZsNnNadDFVeFlhOTM0dlBHTEVwSzFKTnV0T1lTZFFrZlo4UkE?oc=5",
    "medio": "DW.com",
-   "fecha": "2026-10-21T16:58:05+00:00",
+   "fecha": "2026-10-21T17:03:51+00:00",
    "imagen": "https://static.dw.com/image/78727834_6.jpg"
-  },
-  {
-   "titulo": "Chile busca cultivar arándanos en el desierto más árido del mundo siguiendo el ejemplo peruano",
-   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON3FQM0V6Sk9rdXFPSm9fLUxJa211SGZ4QjNMSWJqVTBuRldNQ01rQmJheVBQcW1MN1loY1lOQm5qc28xa1NINUVFVU5kOXJTaW1ZeE5sQ3h0UFZkamI1UzIwamVVdlAxTUxZOFk2b1UzTFJsWmlWX1UzT29uTE43WDJsQmNHWHNOWFdHa2Q2cDAxTjYxTnBRUVRpRExzbVFNY2dPLVNaS1NCTWhNRWpjMk9BbFotbXI3THpFNkZ5bGxuTlZwendkSlNoU1VhbTN6dzl1WTQwTWhlVHl0Uy05cURlNS1SelZL0gGDAkFVX3lxTFAzLXdJNzNiNjR0ZjVoVzIzUTU5V09tZkpRRmFNTl9IZVlCVzRHeUVsQU5OQ2g1WHdHa29oQVJLVjNCSHpuWG5EVTg4alRxZ0dOYllQZEJManVsMzNQdTNjbFNXaE9GWFc5VmpxbDhURXhRZ1N6SlpjdXRqdHFsYmpOcUlBX1NMZE5sMGNRcTBiWmpYNVZNYV9CNHItbTBCbGhKVzZyLWpKWE80bGhld2ZtS1ZGN2lyaWxzZ3RCWHFmZFBLTGxLWDkyNTBjanYzYWY1OTlwYmo3RVhoTGJkNFA0UWxNdldyNEJfZDd4SlFKb3JqN09XdlZ1bDhsVWN3VFd2aWs?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-21T16:46:47+00:00",
-   "imagen": "https://www.infobae.com/resizer/v2/L4MM5RJNEJBX5A42XJ2DR2UPWI.jpg?auth=752c854ef378d729c7dadb8a51a4676edbf4bcb119bca18ad536923448fd6702&smart=true&width=1024&height=512&quality=85"
-  },
-  {
-   "titulo": "Sitios web fuera de servicio en todo el mundo tras fallas de seguridad detectadas por IA",
-   "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVGtoSGI0SGFnVTBFSlJpVHh1dFhZaDR0aFRMdHNFcldVNC1OTXRfRWVXWWJzZmRTTXREbTVlU21SZEVlbWs3LXBXOGRHSzNQTnVqOUNOeExLNUgzSVFsM284akZ2eU1sMTkwak5IMWZzTGJYMjZhbjRfY1lOYjVFM3BoRkxRVDV2LXhwN05Iek92N3dSN0xJNGpCNDBOdjRCcm96ZjZJWVgzZGhNMlJTdHlFdTBWU2l4Mi1SUFp4am1SRTNNZFI1UFdjRFYzTEJhTmxFdTNVM01JTVlk?oc=5",
-   "medio": "Clarin.com",
-   "fecha": "2026-10-21T16:30:12+00:00",
-   "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_2000x1500__1.jpg"
   },
   {
    "titulo": "La película basada en una de las hazañas más grandes del ser humano que arrasa en todo el mundo: número 1 en 9",
@@ -256,13 +389,6 @@
    "imagen": "https://mexiquense.app/uploads/20_20261021152918_25169/noticia_732.webp"
   },
   {
-   "titulo": "Ampliación de cobertura EFE Audiovisual Internacional 21 oct (15.00 GMT)",
-   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb1plcHZLXzlOLXVPRUM0MWs0ZW5GTEpBZmhDeHlGZjZVczI1RFkzOWxTbk9JV2EweXRUdnhWcllNcXNXZVdfdlJ1QUxiUUdpZHQ2amtUQXF5cEgzN193VjVXLU1CX2hiUDZ3ZGlzZUFISnU4aF9PdldoQ0JTX2tWNmJYWnpYbDQ4TUJwWUdxLVR1RjF0Zzc2cmhKeHFueGltV3VIaTJqTVg2aEI1QjRLRTJ0WjhhOUFSbTdNc3FrVdIB2gFBVV95cUxNYWFXbS1LVWNtTG1wZVJmaExTalY2QXBQYjI3WkVnUjNCWlZwaVFtcjk5RDRBTHZQYWhTSGtyR3NFaUxTYzJBOEJuUnR2TnVZb0Z4ZXhPSGJOcW40b3RrR2Z3TmJGS2U2Ui1EZXdKRGJjclk1d3FqSDRhOWp0VnV5OGpObXRkYjRmM2NFTmFGU2JtUXIyZDRWcW95REU2NTBLNHlhU2pwd2lrVllWV2tweHBMbW9DWVdRbEdwTVl2VnNHNGI4OWFON0NwLW40SUZPLXBtMXQ3YUdJZw?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-21T15:56:14+00:00",
-   "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
-  },
-  {
    "titulo": "Forbes revela los 10 futbolistas mejor pagados del mundo: Cristiano Ronaldo lidera la lista por cuarto año consecutivo",
    "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOem1TemFuSlJEYTg1a3JrVDBiOExTZkk1WHpyNXNaYlItLVJwaUNPNGtnUDNQdTg4YjBMVk1qQXhMTFFEaW9QajNhSVAtZWQ4aWdqaDJQU0xjdUlTWWpzMFFPWEtGVy1EUExCbjZWbHdUUmlTNkZsaW9iYmZ3NHBHZmpnVlMtQzF6dVYtTElZa2g3dWZGY05aRmlOY044RjlkNlhwSkR1Q3Nsc0J2VG94V2s3eEZ6TmF2TDZoV2FmUVBjZzJXRWhJRC00WVpCbjNlNklhb2QyNXAwVjNhd1k2RUNyUWJ4NlJsNlVPdXNteURTLWpadUHSAfsBQVVfeXFMTlNMVHhhTVJsVXVFdGRnMDBIU1NDNG4tbDlYWEw1cEtrbW1wckh4RXllM08wSDZnaHNjUDJGWXJFZWxGMTkzVVVQZ2ZkZkVDWlU1d3NRam03TWpuOWlfZV9tMzN2UzQ1VDNraEw1elB0aVBBR3lMRUxmNEp0dlJ6bVNIRjF2MlhRT0VONG9yUjVkYmZyVXhCVFhjLW9zdzJiY1BmYzFZMzA2OVBNTkpMQXZhTDBTb210N0Q2MjBIVWxfU3VDZlYwTWJGN3VIdllhSkhaamtwT01CR3Y5S3VzajY3QWtMbzhQMHA5V2F4ZTdJYVdTRXoxR2pCck0?oc=5",
    "medio": "La Vanguardia",
@@ -275,13 +401,6 @@
    "medio": "El Mundo",
    "fecha": "2026-10-21T15:50:01+00:00",
    "imagen": "https://e01-phantom-elmundo.uecdn.es/1fc8b6e463251f70ca92937c88b2ee7e/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/24/17743404998035.jpg"
-  },
-  {
-   "titulo": "'Déjense ayudar': Comité de la ONU pide a México cooperación internacional ante desapariciones",
-   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVEo3WkNXekV6TlZpN3oyUDhsb0t0TXloZTY0ZzVKMFI0eTNGZmFQZ2I4bUFKbFBXVkhLb2ZSd09mVDlvSlNhb3hpVGZkb3gwdHZCZ25Hc0NwYVJ6V3p0MG9OcmcxOEJNWm1VbnF3QXMxQ2p5ZmFVSnRIeEFialBNMjA3d2U4bWdXVkVxRjlkSjRjWWRkM0xuQkM2UUoyZWxsNDI0aFVVSWdPMUhwWG1lMEdDbF9PYzN0SUZDdm9QdC1ETHRGN241dzAyaFdDYjQ?oc=5",
-   "medio": "Aristegui Noticias",
-   "fecha": "2026-10-21T15:44:00+00:00",
-   "imagen": "https://editorial.aristeguinoticias.com/wp-content/uploads/2026/10/juan-pablo-alban-onu-2-21102026.jpg"
   },
   {
    "titulo": "Rusia detiene a un alemán que sirvió en el ejército ucraniano",
@@ -303,125 +422,6 @@
    "medio": "UDG TV",
    "fecha": "2026-10-21T15:17:00+00:00",
    "imagen": "https://udgtv.blob.core.windows.net/images/uploads/2021/08/más-caluroso-efe-focus-0-0-608-342.jpg"
-  },
-  {
-   "titulo": "Los mejores clubes del mundo vuelven al MICFootball en 2027",
-   "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWNuM29QbVNGZ19weDdJdjU2QXFhOVh2VjZIbDVoVmJ5Q0txX2pwNGJyZGdFNXMwbUpVanBEak45NGpiMlhXMFpQdGEwRGExZ2N5ZFpGUHpaQ3VJM1Z1MjIwMV9VUUMtSHU2aUxfYjZUSTVPNXk3c0V0c2ptbmg0NVJyMUVTS0t2RzBRbg?oc=5",
-   "medio": "MICFootball",
-   "fecha": "2026-10-21T15:15:14+00:00",
-   "imagen": "https://micfootball.com/wp-content/uploads/2026/10/MIC26__IC25079.webp"
-  },
-  {
-   "titulo": "Importantes asociaciones, instituciones y medios especializados apoyan la Semana Internacional de Electrificación y Descarbonización de Madrid.",
-   "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUUtqZ1VhUmtoTDlVMEE2aWd3c1RIQ3BZUDlGaFpaYjJ2SXpfTy1fQmVkUFFWb0J2MUJITlJ4UFJUZVBoVEFFWE0zMnFRdHhIVFlzNHgyRzE5LTdRalBacXZmMkY3NEdlY2hMcUk0TUtoMWhQMlNQVmY4eEgyZGQxZ0NEZG9TRFFHQmY5ZlJDdWdZZ1F6MkxNa1FUSDRGWDBROUp0SWxxcndKVU9zVkZ0Tlpad1NyUGpPb0E5OGxLR3hKdmo0b3F5OC1MVGZFU1l4SHgtM3h4aVBZdGdHTGNPbWN2SUdpdExVMFdaVHNaOHo1VDVhVXVpUE96bWhKdEVBVlpJWlh6WkNmZE5pT0NqSnNXaw?oc=5",
-   "medio": "Energía Estratégica",
-   "fecha": "2026-10-21T15:03:07+00:00",
-   "imagen": "https://res.cloudinary.com/dkdyuefrf/image/upload/v1792594758/notes/pskrl56v6bn7hopdav1x.jpg"
-  },
-  {
-   "titulo": "Primeras impresiones de Stranger Than Heaven: una combinación de combate brutal y el brillo del mundo del espectáculo",
-   "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWmhaZGFQSnpSUmhGMVpfSXp0LWpPWVdYRTVDdnR4ZGM3aE1GNnd5d2I0OUNQbWJUYWFTQnM0MFRhTVoxQ094aW5wQ3cyYU5NUDJINjByekRoQ2gtTXdtN2tBWXVsaDU4Ujg1emNqYVQ1Q0pwVW9WWFVSMnFvYk1MX3JPOEh4ZmtYMnpqeUo4TG55WkFiNEs1MjlwdG9MamtGVGVVNGFTcjQ2UGlGZnhtZm9SSnpCWFJrVTI5ckpzRmI2dW5Pc213b3lid0kydXVTU09sbTlVOHpEbFE0TzIyY2V5QW9fTlVldEtxODdPbHdBZw?oc=5",
-   "medio": "PlayStation",
-   "fecha": "2026-10-21T14:47:46+00:00",
-   "imagen": "https://blog.es.playstation.com/tachyon/sites/14/2026/10/de90beb8b869bab3825b3eeb47945803d98844b2.jpg"
-  },
-  {
-   "titulo": "Legendario exfutbolista inglés se rindió ante Diego Gómez",
-   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXhieWlNOFJwcXdmMlNwd2pXZTRFbFpMSnlERHV4bEtsT1hBOFpoOVZBRkFsSF9nTy02czJDaEUzcHMwSzBuWTZ0cjFfVFA3ZjhRa0ttcUp6Qk9NSFNjNXRaYjFwdDUwNlFsQzNYdldjSktOdWNNM2pzdzIzNWZLV1NlNWI3WW1PQ0RlaXRkX2FFaUQ4SXJHY0VORjVxbnhLUEhibUJR?oc=5",
-   "medio": "VS Sports",
-   "fecha": "2026-10-21T14:46:17+00:00",
-   "imagen": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/versus/wp-content/uploads/2026/10/18135243/Diego-Gomez-1024x740.jpg"
-  },
-  {
-   "titulo": "Alerta internacional por falla grave en el lenguaje de programación PHP que afecta a servidores",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamh4bk1JOHJEM1dja2I3X0ViR0dWWXQxbXRnTmhJQmZEa0UzQ2hTQVp4SHJXYlVweWpDeU9pWGpCMHQtQ0FCQWY4eUFkcWlTYlZ2aDI1aEpNZ3NENDh4LXBnRnFLV3pkbjhfSl9IbUMzSFlYOGJSUzlpM0NEWC1HaFVudFJxOGtYNG5rRmVXMEdmTGJwcTBXTGJKd0RwNUU2UmdqYUgtOHRpUdIBqgFBVV95cUxNS3VQb3pEb2NPQWwtQnoxc3BHM1g1Q3Vsb2hFREpCMVFvZkNkSlpaOElMam1HcWtZdldiRlhQUk5kNEZReURDUFJKaVNTRjl2Q2hqWnByMjBCY1VpS0RMb2FNeE5SWjRQYzJFTlJFLVVsc21SRldrRWdQaWVyYVg3NWhLUkVwRUJKZmNJWW11M3lrS3BtVXVMU3lKT1RtdmxfU0RiaWg3MlFUQQ?oc=5",
-   "medio": "DW.com",
-   "fecha": "2026-10-21T14:21:37+00:00",
-   "imagen": "https://static.dw.com/image/79248870_6.jpg"
-  },
-  {
-   "titulo": "Putin acepta reanudar conversaciones trilaterales entre Rusia, Ucrania y EEUU",
-   "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaDBBV1ZNVnY2ZldObzBSenp5YWNWX0NvbFBsQ2sxQUR1SzNXUUVvdEhjYXdJNndSYzgxWDdkbDdBOXdqeW5odWJDTnpOeUVaUEpRenhvMTl2TEgxanFvZjBmMHhha2FHeFlVSW9UN0ZfaDlGeFNCb21QMjBPdmcwNkR2d2g4c3FmNWhKdUZjWENqYng2N1JybmV1V2JrS3U4SWdPMEl3SldrSU5rX3UwbnVwY0xIcjNXV1hHM0tHMGhJRVN1OHFvUEVuZzRiQzhRWmtZNGNpUW5MMFFIdGhjdkdjdnhIU0tKYXdmNlpBdThnR1QzSU9tdmNR?oc=5",
-   "medio": "LancasterOnline",
-   "fecha": "2026-10-21T14:14:32+00:00",
-   "imagen": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/c/36/c360d9a5-0578-5b42-9ab9-7deff813afd2/6ad76053c0db1.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-  },
-  {
-   "titulo": "Panorama Internacional presenta una experiencia musical y audiovisual en Vaqueros",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNek80V3JiRVYtSEpSMi1lNXE5WS15NWlFLW1BMkZhZ0x5N2VlNUE1Y0dQWEp1ajRzM3lPNTlSZmd0bzZGNElvVjk0Uy12X0Y0Ym8tZHlpXy1SVnNDZ2tlMnhzMUt5d1IyMWk2VFhTT0ZmNHItbUdWV0FNaHdGZHFrTkU3MmhZWG9uQWJQdHBBRFgtSUtXUURhSWxjQjYtZ2VQOVVBbzZwaE1Lc0IySVpN?oc=5",
-   "medio": "Culturasalta.gov.ar.",
-   "fecha": "2026-10-21T13:58:13+00:00",
-   "imagen": "https://culturasalta.gov.ar/wp-content/uploads/2025/07/logo-cultura.jpg"
-  },
-  {
-   "titulo": "«Lecturas compartidas»: una propuesta para descubrir el mundo a través de los libros",
-   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPempFbzJLOUE1MXFkb3pSM2JSNzJ6dHBLUzhNS1ZzMWZIUjhXLVZHZGluTkt2UlpJVkY3dTJwaThrUThZb3U1VDhZWWpyY1FNanZIdTJLeXhQMngtYXhUODRlWk1MNDE5ekpEeXVSd0R0dFFuM2lMVlhleHlmeVNINHVFelJQM29GT29ZRkZkY2JlZm5hNElGUkNEd09jdGdDaGFlV3dnV3Vpa0w4QWc?oc=5",
-   "medio": "Portal Educativo DGE",
-   "fecha": "2026-10-21T13:56:30+00:00",
-   "imagen": "https://www.mendoza.edu.ar/wp-content/uploads/2026/10/cultura-lectora-en-los-estudiantes-_03.jpg"
-  },
-  {
-   "titulo": "Pascual Ramírez, el cordobés campeón del mundo en bochas",
-   "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN05zaGE2ZzhGRkxNbnVuOHExZm80cjBjRENLZkNDcnNsVnFMWGlGZkk2Q1VmWUFFYW1uQWdQTXBDMFhKakVkV0tkYXNVcWJHYUJFTFFCejFKcDFwaWs1ZndDOVRYeFVvYU1ZQVZTV2QtTWJUSnFWanN4UzJYejZQbC0xMGJyeFUyMGV2cQ?oc=5",
-   "medio": "Agencia Córdoba Deportes",
-   "fecha": "2026-10-21T13:50:23+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Tres campeonas de Europa Sub-18 abordan el Internacional de España Stroke Play en Isla Canela",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPenBVV0RMLTRxVVNnRkpIcU1jN0NoSDJyZFNNN2dGcHNHMGJOaHhhZGFUTnFWUTdidUJCMHdsOWhkLXVQQkdLbnlDTlhGV21ZTWloYlZWX0NranpOMWxxSUktT1NzWkZLNUp1bVd5TGZTODNxLVczZy1qdlBuejN4Q2NWOVdpYVNIMy1VSVRvVV9pYzdWV3hrSnFXY0hlUWlkdFZycldzNUtIRnBoMWtiNHBzZ19ORFRuMzAtaw?oc=5",
-   "medio": "Real Federación Española de Golf",
-   "fecha": "2026-10-21T13:47:20+00:00",
-   "imagen": "https://media.rfegolf.es/Fotografa/noticia/tres-campeonas-de-europa-sub-18-abordan-el-internacional-de-espana-stroke-play-en-isla-canela/2026-CEA-Femenino-Carlota-Lopez-2-scaled.jpg"
-  },
-  {
-   "titulo": "Macron denuncia manipulación internacional y desinformación con inteligencia artificial tras las protestas en Francia",
-   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdWp4N0p0M2VlSmI2dkhST001XzlWWVduQndyOWhGQXZvZjJCV0FTVGh5aTl3OTNKTUlFM1BmZW5zZmU1cUZnSjlBT3JwVmxjTFlQTkFycnExT05SY2xTcWVSZjRhUm1nLWpJRnNPM2ctVXhISXJON1VJb1ZjRjZlRHEtMkpPS3p5aURwZkVJUUFLdGZMcUhoS2EyS2VScWxnUVE0Q1FFZktjV2pFVUdrWk9hcWxNYmxhckd3STRyb3JoZk9IcXFZOVY2d2E1bzlBdlBMVHlsaXdOdWR6cHVQemREaElDTkphUWRaaWt6Zw?oc=5",
-   "medio": "Forbes Colombia",
-   "fecha": "2026-10-21T13:41:33+00:00",
-   "imagen": "https://cdn.forbes.co/2026/10/Web-1280x720-3-42.png"
-  },
-  {
-   "titulo": "Esto es lo que ocurrió hoy en el mundo cripto",
-   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Gd1BlTUtSSTdEd0djd0VCOHVuNjJBN0Q2VGpVb29NUjl5SWZ1XzBmb0tFdFdZb2Q5UEJaMTNBZE9kNTMteWlCWEdhdDMwWlVhUEUtc09BUVBycHpTa0l4LWd3Q0VZNTYxUWJ2eVJpdw?oc=5",
-   "medio": "TradingView",
-   "fecha": "2026-10-21T13:34:54+00:00",
-   "imagen": "https://s.tradingview.com/static/images/illustrations/news-story.jpg"
-  },
-  {
-   "titulo": "Tras las elecciones de mitad de mandato, la política internacional de Trump se volverá aún más descabellada",
-   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2ZuOTVQNTBaMlBiLWdnZ09XUGtQOVVFTWpCelI2ZVhSb1pqQzUwTnk2SHJtcUg1YXBqM2VDOGVlb0Z6NkNXcVR0NmRXQjBZSTBFUVdNN3ZLeEt5U3MzUnZ3VS01aWZ5OHRIS2oxcmRTY0pNRnpGTVJMSFFFMEZodDBVUUJsc3ZnMEVTbDg5Y1ViMzRjQnZoS3dWTm5FdWxoMDBVelZ2eXo3eGpXMEhHaC1KaGE4ak5w?oc=5",
-   "medio": "Le Grand Continent",
-   "fecha": "2026-10-21T13:07:17+00:00",
-   "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/6/2026/10/gc-eltrump-4-scaled.jpg"
-  },
-  {
-   "titulo": "Las ciudades más caras del mundo",
-   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZThGZmlBSTN4cVBqOGZEbGdNa0NFbUt2N1Y1N2xNdDFIcXJBajJoZTk0WkJFcjhTZHRYbEo0RUdQenQ2bjB0T01USWstOWZRRU5mYzJPaGJETzBkTC0wRzBaMWsyYjBlNHRLMzZWR0JtanB6SkM1TXlaQ2Y0MDY2azhLNE15Wktnd3lJdVRTUHk0amxqanc?oc=5",
-   "medio": "Primera Hora",
-   "fecha": "2026-10-21T13:07:00+00:00",
-   "imagen": "https://www.primerahora.com/pf/api/v3/content/fetch/image-resizer-v1?query=%7B%22website%22%3A%22primera-hora%22%2C%22imageUrl%22%3A%22https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FOTHPKJE4ZZHLNDFVFCV6YNQOSY.jpg%22%2C%22width%22%3A1200%2C%22height%22%3A717%2C%22redirect%22%3A%221%22%2C%22external%22%3A%221%22%2C%22focalX%22%3A3201%2C%22focalY%22%3A1822%7D"
-  },
-  {
-   "titulo": "CEO de Nvidia pide mayor inversión en inteligencia artificial en Europa",
-   "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZERVTENLSmRwSktBTVc2VHJlYjA3ZHdHOFhiUktLN0dBUzlMRHotVWhQTGdvYlNSb0s3QnhvWHBPR2hhY3NWTGl2OXJGNDBBTGhCcEZLTHlLWTE4R2ZhMUp2d2NHdWlVVC03TVY4RjNYWGZXcElDc3gzV3ZwaXU2LXZyTXRkS2pvLUloSkpEZ2ZGNWZVRXZ5Umk0S2xzd3JPQjhvUXkzQ05Sbzd5YkRkWHcxX2VuS2JDWF9DSVoyWjgyT1VWX08zdmFUOEI0WGdwRVhwNExxZ2JwVTgzcm15eEtoNUpTZDZZbFR4cTVnVy1IeGs?oc=5",
-   "medio": "LancasterOnline",
-   "fecha": "2026-10-21T13:00:49+00:00",
-   "imagen": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/d/fc/dfccc6f6-c5ef-59e9-acb4-c22eff2a2cd8/6ad8b7c83e2ee.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-  },
-  {
-   "titulo": "Se habilita el tránsito de Paso Internacional Sistema Cristo Redentor para transportes de carga de Argentina a Chile",
-   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaXhDRWw2d25uNTY2ZUZtYTdweXBmN3JyZFNPUjBuUXFIejZKRW9IVlpzU054QVRDVmQwVjJMWWpfU2w4bzRZMU42NlZtWWt1NjJ3cnRzblhQcjFHVGpYLXhrSTI1aTZCOUZTOEFuaDlxRmtrR2RjOUpSNWpSX2VWd0VCenJwMm96SURuRHpyeVhIdzlxTklFem5sekstZXpRUDJWYlR2X2VsOGR1RlM0YnVlNEJlaFJKX2RLRURxVWV0Z2R2ZWc?oc=5",
-   "medio": "Argentina.gob.ar",
-   "fecha": "2026-10-21T12:56:11+00:00",
-   "imagen": "https://www.argentina.gob.ar/sites/default/files/2026/10/arlerta-de-frontera-apertura_2.png"
-  },
-  {
-   "titulo": "“A mí la inteligencia artificial me abrió un mundo”",
-   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOExGZ25UWm80ZG5mZTFjdy1vVFNwbl9kSTVNc0txNVVTNHJNMExLdzdfWWlPT1ZUSkFZV1gwek0wcEtiNnRjMFVubWY0MW91aVdGUV90RWJObkFzLVRMMjdhLWktbUNRbjVJcy1lRHJCNmhOY3F4b1p6U0VRYkNZbnlER0JndDB4NWszbnpVemk2STZMaE5oS1dPS1A?oc=5",
-   "medio": "Agencia de Noticias San Luis",
-   "fecha": "2026-10-21T12:41:00+00:00",
-   "imagen": "https://agenciasanluis.com/wp-content/uploads/2026/10/2-Narodowski-copia-750x420.jpg"
   }
  ]
 }
