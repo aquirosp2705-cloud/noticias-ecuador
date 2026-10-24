@@ -1,8 +1,99 @@
 {
  "zona": "ecuador",
  "nombre": "Ecuador",
- "actualizado": "2026-10-24T19:06:58+00:00",
+ "actualizado": "2026-10-24T22:01:36+00:00",
  "noticias": [
+  {
+   "titulo": "Temblor de magnitud 4.6 se sintió en el sur de Ecuador este sábado 24 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUzU3bUt3TF9KWWpBaHRvOXE5Q19fd2NpVm44MnhHR2lpdUlRSHpyaHhuVXAweW4zQWdMRE9RRHAyMmdMMmh2WHRsSzJydS14SEhNTFo4YVFRYU42SU9SdHVLNXpCMjU4aTlMYUhVM0pHaVZ6d1g3SW96dlBtc3BMR0JlSDJCanJOUHhMMG1ZNGhhZVZwZkNadWdRdWpValExcmxta3lRLUNfTl9qYnc?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-10-24T21:37:46+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/sismo-3.jpg"
+  },
+  {
+   "titulo": "Aucas vs. Barcelona, EN VIVO: dónde ver por TV y ONLINE",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU0FzNUsyTXB0MG9jS0I1NlpuQU9VXzByeElIcTJYNkhxbzdCTGhQT1I5eDk4VklBaXo3WDR0eXFGZEJtM0JnZkdjUWd2elZSNS0yR3B0TXBha2dtYmdiV3FOWHBmZ25FSXhWdjAtNnQwSkpiQ2xMWkJ1ZjJrdXpTVFZ4UkNQdG43cl9JeEIyQ2xuWW8tbUtMejJBQkgwczFxU29zQ00takpGQ2xtLXV2QmtiRUhBZ05TUnc?oc=5",
+   "medio": "TyC Sports",
+   "fecha": "2026-10-24T21:30:05+00:00",
+   "imagen": "https://media.tycsports.com/files/2024/11/07/784697/ecuador-_1440x810_wmk.webp"
+  },
+  {
+   "titulo": "Colombia incauta 4.235 aletas de tiburón que iban hacia Ecuador y luego a Hong Kong",
+   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlJmT0pQY3ViQzM2a0tfcDNLX0pkdzBYNmRPSjhoeDlzUlNXdUg4cG1jclFBMFM0S2h1ak1ybmtrNDB6UzdOWHRjYk83WjVDeEltWU5hdS0xalhHNEtaOWdmaTV4YzJlUGRMaVBXNjNuWEd0WVgxX2FNeV96Q24zNVA3S3NPOVBlN3V2Zk5mdUJWZGJ3bm5mRGZud1NfaFhERXVLR21lTS1PQnAtZWlj0gG0AUFVX3lxTE8tdmlHS3kxWTktdm44bVh6Q2VtemlwWld0aDlKUHlrQmRITjMzaUV0b1hGRGVXTi1aY01faEpUcTYwa3FJUlI1SG4xM1E3OHhNaXo0dkNNUExlQnY4djBjLVBrVHc0d2kwTll5R1dVWTZZejBYREtscHdtUGJrWklNUUZpV2RvVU9vdUZTem9xMUZCaUhZWjBpbndRQkRaVkM5MmVxb0hlTVgzNmtwaVE1TUFJMg?oc=5",
+   "medio": "Diario Extra",
+   "fecha": "2026-10-24T21:26:21+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/24/6add183accdbe.jpeg"
+  },
+  {
+   "titulo": "Ratifican la prisión preventiva contra la rival política de Noboa en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXlaT3l2aWFHVHhFUEpOeXE4VWhBRmE5TktmOUhXendSaEhhTzlFT3ZJMy1jSmh6dERiMHN3ak5WcU5zZWNlX1NQZjkzOThORWk1RjQ1bXRBVVM3VnNndWFoekRxQVEwM3IwNld3ejc1TnJUQkFJeER5cGxQM1UxQmo4Q2xFZ1ZUeTB4d0pKTkRlcXNuelBBcnF3MGNqdmFrOUwxZXRJR3ZZZTdVS2c?oc=5",
+   "medio": "HSB Noticias",
+   "fecha": "2026-10-24T21:18:43+00:00",
+   "imagen": "http://localhost:3000/uploads/articles/ed5be2fb-494c-4246-86bd-f8b6fae8f191.webp"
+  },
+  {
+   "titulo": "Temblor en Ecuador hoy: sismo se sintió este sábado 24 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZFRYckY2M3daVGtoQ2hWTEdXbk9IWXkxOFp4VDVtVEdKSUxySkhfZEI4T3RLUHZpTUFFZ00yUHBYQUxibXU0S3ROaVZpTWRZcHpaQkk4TDlYRjR3REV4VzBOY2VZR1VsN2Z4eDdXdTU0c3BXS2w5TExaa3RrRE84UUgyb3I2TzA4cWlpVktiSlFORnV6bFlNdjBpbW9xSE420gGmAUFVX3lxTE1nU3ZOUmZ5SnZ2N0cxNENNRWNPNnowRlVuclJEWGowMFU4aWdtMktWckoyWE52UnZzZklXb3ZYUU1za0JLV2dPSVdyVnA5SC1zTHRoLWEzaWxsY2hkWDFOazc1dTZ3Vk9DMWZrRDJmeWpIMm5PNGRsRm1pMFpoMDRMQk1pNDBGMG1ZQkhDVFg2aVM3RkJEbTlJTGp5OG9CVjVIRDN1WGc?oc=5",
+   "medio": "Diario Extra",
+   "fecha": "2026-10-24T21:18:05+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/24/6add1eff9052b.png"
+  },
+  {
+   "titulo": "Dos sismos de magnitud 3,7 y 3,5 se registraron este sábado en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY3FHMk5FTk16bEVCX1hMRjA1UGI0bWItblU1Tlk4MGxmakhYZ2RfOGd5RURGNklDSXhhWWhjbHpuUGROMkRYc3FyTWdESkUtdF85NXJxalVvNHpJQWRxTFVMQTVGYlhQMDFibE9UTW5ya0JrdV8tWmV1enZCTHB0ZGtEU1dILWR0NlFMRmhrdExIdEFnSmIxWFpSN05lZzE0UkJPdkFUSnZNWFdPbGxVcnQ2azVZdnRGLUx0ZGl2MA?oc=5",
+   "medio": "Noticias Venevisión",
+   "fecha": "2026-10-24T20:58:00+00:00",
+   "imagen": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/gemini_generated_image_plu8w0plu8w0plu8-f18ad6.jpg"
+  },
+  {
+   "titulo": "El Niño en Ecuador: Lluvias en la Costa superan hasta en un 4.564% los valores normales para octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX1FtTGFocHBmY3AyNDBkRnVVbS1BcC1wSnl0NEEtZHBubDVnaFVwVFdFNElTcmFPTnJnLWxkQTNZal8zNmhZajlCZl9iWG1oYUZ0TlBOZWQ4YVhaZjQtcTFNTGdTcWhrUVlHYnl1ZjRPYzNLTU5GekhDT2RXMEo0TjBrQ2RwWTF5WFpBV1BFQlVVemNvTjFyWk9uQmlINGM1MTRrckgyWGV5NHJFcTBmaU10ck5IaVlyUmUxdTdNNjFmYVpMU3YwQ3hhbGFVejA2dWlIS2RZRUNJV0hv?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-10-24T20:50:47+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/10/24/6add126cba669.jpeg"
+  },
+  {
+   "titulo": "El maestro Rincòn tienta y luce sus galas en Mèxico de cara a su presentaciòn en noviembre en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORUw2RVRPQmx1MnJETUttQkxKS0dGZVExaDE3UjNncTB5dzdFaE95NFdzVVRnOFJEQk5tLUoxOXU0ZGYxYnRVc3FDMHdPNHNuaFFoUy16RGhfdXBZeUcxVUVmdlBSQTNEN1dwOFdCRWhmZlhTbG03U0Fja2JvdmpHcF83YWVwbU10WGtwc2lleDhOSl9mZlJwWjY1Vm9uX09JZ3l3SlJaZ0FxUlByMUpEaDVJMm9MVGJJN3ExMXlYRQ?oc=5",
+   "medio": "Tendido7",
+   "fecha": "2026-10-24T20:44:11+00:00",
+   "imagen": "https://tendido7.co/wp-content/uploads/2026/10/rincon-foto-de-fmilia-en-arroyo-sarco.jpg"
+  },
+  {
+   "titulo": "Deja al menos ocho muertos y diez heridos motín en una cárcel en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcEhLekdBNkpxZVlYRE1MZzR3Q3dIek44Ti14dk1ad2hic3RaWVhXRkZmS1N2eVRzQnNxZGRoQjZfTVd1TThXZUtLZEFaNEdrZEpwM2lNVk9JMi1HU0w2bzFKeHJEQUxLa1czazVHNWVNcmUzaTZrNHRvSDhqd3JWdVhHVjJZb25hWkNoOWdSalYxZw?oc=5",
+   "medio": "Quinta Fuerza",
+   "fecha": "2026-10-24T20:41:13+00:00",
+   "imagen": "https://quintafuerza.mx/api/v1/og/photo/deja-menos-ocho-muertos-diez-heridos-motin-carcel-ecuador.jpg"
+  },
+  {
+   "titulo": "Ver EN VIVO Liga de Quito vs. Macará: dónde seguir por TV y ONLINE en streaming",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaE1aVW5wXzlnSWxTNFFpeTZTc052eDNCTVo3NE5HbXBKM0VoWjJwOWI0cTg0Qzl3LURGSFZGN1RlYUpCQzRUSkZGTW9Ia3gyZWJyd3MxWU9NWG5pZXBqU1p6V2xnbjNac0tPNmV3NlU3aE1YamFKNF95dXpVYjVkU3lseHJqWWdrYXg4aGZFbnFScHVXME0wcVlxNHdiYy1VY1Z6SDV3ak9OTlNOYXZUVjFsMzZtMnpxQUZOSWRYYUU?oc=5",
+   "medio": "TyC Sports",
+   "fecha": "2026-10-24T20:30:03+00:00",
+   "imagen": "https://media.tycsports.com/files/2024/11/07/784697/ecuador-_1440x810_wmk.webp"
+  },
+  {
+   "titulo": "¡Último adiós a los Siameses del Ecuador! Su familia hace un pedido especial",
+   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWJXRWVmQXZJSVlZdkpNc3hqd05pMVd4cW5mb3d2Z1FtYnBxeHJYRl9QRE1IRWVnanp5SzZrbkROQWpYZnA4WWgtZDR3b1JxOHFPVHkzMjlCaVp0ZmFPVnphZ05KZy1TeEViTWx5RkpsUjFpRWtyQnpxcjh3elZTRkphZjEwa3JXb1Z4WUFLLUN0Q2p3Sk1TcFY4TUlBam9JVzRWS1BKaGdkUUFZ?oc=5",
+   "medio": "eltelegrafo.com.ec",
+   "fecha": "2026-10-24T19:53:49+00:00",
+   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/01126c3f072946e339bbbf6ca601e6c9_L.jpg?t=5ef3c489c010"
+  },
+  {
+   "titulo": "Cancha Rayada ganó el Clásico República de Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVXNxRGhoM0Y0Tjl2T3VheWgyMnl5UjZTbEdOQktrYmd2THNJQ1hLQWpTTFZ6ZjdqU1hpTVlYVFFaWDhkMlJEcWh5aTZDNUdJS0JVb2dqZHZZNGhRYU5JaDk5SzRIS2xMcjVCeXFGVmNmbXd2OThpbGpvOHQ5TVN2c1dlZ21lSWo3NmFF?oc=5",
+   "medio": "Pasión Turfística",
+   "fecha": "2026-10-24T19:52:30+00:00",
+   "imagen": "https://pasionturfistica.com.ar/wp-content/uploads/2026/10/cancha-rayada.jpg"
+  },
+  {
+   "titulo": "Defensa de Luisa González denuncia detención arbitraria en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53U2ZNMTZTSEU2bWJwTUMtZUhkWDRzLUtMYTEtRjgwYkVLTGg5ZDBLMUxrbjQxc1MxLVhTM1RLTTlheWViZ2xvcEpaQmtVaHpOcW5kNzZOMXJ5Qi1hNzU0TEJ5UkZoVGhWQ0syUEVTWEZiMVVtNTU1VjVn?oc=5",
+   "medio": "teleSUR",
+   "fecha": "2026-10-24T19:04:15+00:00",
+   "imagen": null
+  },
   {
    "titulo": "Emelec vs. Guayaquil City, EN VIVO: dónde ver por TV y ONLINE",
    "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZldYbEZMNnpiZEstbXhZVkVQelVvT0ZVc0MxZ0EzVHFhTjBDS2FNME9ELUlBVTh0dWVCUmNyMzNnc055dFJ1QjFuQy1FRjdzWkNmcmlCbHBERm9tVmlhaFNnQUU4UUpQNjM1U2ZxdTVCWG9WWWplZkdfMG9sZldFaWV1QmYtNWhncnFiMWl6bk53b05zZ3R0bEFnUHN6Mko0SC1Pb2dRcWY4dmZEc0xzOVp5OGNfblB0Zk5xRlNoY3RXUQ?oc=5",
@@ -11,15 +102,15 @@
    "imagen": "https://media.tycsports.com/files/2024/11/07/784697/ecuador-_1440x810_wmk.webp"
   },
   {
-   "titulo": "Dos sismos se registraron en Ecuador este sábado, uno en la Amazonía y otro frente a la costa",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmVJbF9vdmpBS01HSlhOckZZRUdDSTJ1elVaTkZ2MTFCbzQtR3Zydkd3OHNpbldnYXFZNktsZ3lQSTNCVkZrd1A2N2JXNGdodmpXYWFFWlhBQlBZdWJmVXNEWHp4anVtVGhETzFSOFZydlFsSFUxSG5BNXE2UDBNOFB6UElZOFNDMV9rYktxWm0tZ3R3dWtyLUoyeGFlNGg3RXBTdmp3bjhFdDFoSE1UTTUtRFdDNW9VQV9BQW1SWWthWFNaS0hCekNLRkJyV0FIWlB3?oc=5",
-   "medio": "Vanguardia",
-   "fecha": "2026-10-24T18:26:00+00:00",
-   "imagen": "https://www.vanguardia.com/resizer/v2/SOKDZX7FMJGX7P37GKTQ24O4BA.webp?auth=093d720f11f627ca5fefcc435ce2722a359f1c8e1b11adc882b989de870152e4&smart=true&width=1200&height=630&quality=70"
+   "titulo": "Ernesto Samper rechaza detención de Luisa González en Ecuador y advierte sobre una posible “dictadura encubierta”",
+   "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUUNjREJ5S0wtRnoyb0llemR0S0Q5T3ZRS3ZPUnhKM0ZMWGhPeEhxNkp2VDV0TFNWNWMtX2MtaGl2UjB2djhLZGYxRVdUN0xwTzlFR2paVG0yX0ZtX1JTa3BVZmdET2tDTk1ENnd2cEZpWjF4YWRacjB1N2FFLTlVX21rMm9LdW85aFA3OURGakwxbl9ONHJjZzdhZm9ydXRfckswbkdMLWJjZmNXYUhaU1M2ZUE1N3FValRkZmpWbklHdU12TDljYkF0VzZGVTdNUmhHTDI0OWJqdnI0ZmdTSUxXUkI1NU1NcFVVZ04xQWtrMXBtUFHSAfsBQVVfeXFMTWgwS1lHbTFWYmlHSFQ0X2UxRGtaQ0tRR0Vvc293blNuUnVjcEZvR3MyUjQ4ZkFpbnBXS09tX05wbTJ1cTFXQ3NVN2ZDclJyYmNPLTdMUWVFaERXOHVOTGhJNEJid21PMWQzekdiNS1NT1Rvck41dURfM3doQ25uUDRRcTkxNkdHQ0lERG5CeWtoRDFuc1UtdDc5TXVTU2g0VWUwUThMQXV4ejdLRlFxLWdYbEh1aUxWQng0bTR2YUJjTEZjQTlCM2N3cGhMVkJtaVNyYTFBUDhjbFdIOHZzMVBCanEyTXhxX1FIWlN4OEZOcXBfcXRhazlIMEU?oc=5",
+   "medio": "Revista Semana",
+   "fecha": "2026-10-24T18:31:53+00:00",
+   "imagen": "https://www.semana.com/resizer/v2/4UEHD7TPOZD6DF6TJJME6ZBDS4.jpg?auth=231711a451b5e2335961559e6d53524d90059eecee58e13139a4e37e3de33a84&smart=true&quality=75&width=1280&height=720"
   },
   {
    "titulo": "Ecuador debutó con triunfo en el Mundial y Festival sub-15 de Azerbaiyán",
-   "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNU11LV9TUDhWcHBIN1Zuc1J2UFRJdXgteWFMYnhpUHcwY1hiVXkxeUl1TUNtMklSOUNaZXFjSnBqb3J3UTBGX0xzbnNEanM3YklfemhSN3NQZElHSURpWDY4X0l1RDlNTS1JWHo3R1JDaW4takVpZ1FabUd4YmlnX1VkSHNuUQ?oc=5",
+   "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXRJcDFINWc4aGp4UmpNWkZ5WXhHODIxN19lVGQxd1plY2phdUd4RG12azMtRmc5MVFMMXhTc3hMMnZoY183SHBuQmVJLXY5UmdpMTNPTkZKODU1RUFEbGhkbGVvR3o3VHVNeTM4WkNxbk42UFIwTmNpb2RYWU9ORzNacG5zeXc?oc=5",
    "medio": "El Comercio",
    "fecha": "2026-10-24T18:07:28+00:00",
    "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/ecuador_sub_15.jpg"
@@ -32,18 +123,25 @@
    "imagen": "https://media.tycsports.com/files/2024/11/07/784697/ecuador-_1440x810_wmk.webp"
   },
   {
+   "titulo": "Excandidata presidencial de Ecuador pasa su primera noche en prisión preventiva",
+   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHJGbUczcGhxZ1JkZ1JsYnFpb25QTHhUZ2hsM19xUFdKYlMxcVRWMkRkN1dKYWlpNWpfWHlIOWFyTXFJMDk0bkkyR0Ffd1k0SjlwU2JOZUdCanRLb2ozRTBvUDlXa2Y0WmJtZ3BXeDYwRDRkazB1OUNVSnRCREF3VU9rT2twRmM5S3hYNG1vRW5VMnFJQWFwWEZjMDVJbndBYWRN?oc=5",
+   "medio": "HolaNews",
+   "fecha": "2026-10-24T17:25:43+00:00",
+   "imagen": "https://d3k76ktnld9l0g.cloudfront.net/wp-content/uploads/2026/10/24172550/rss-efe4602fd17284cfc7d065bcddda080b8e4c876e12bw.jpg"
+  },
+  {
+   "titulo": "Organizaciones de Ecuador refuerzan solidaridad con la causa saharaui",
+   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNekdyejhRckt0d2tGQlY5QWNRX1Bqai1KLVZta2IyVlpBVndObG9IX29rc3IwQlZYbzU3QlpnSmtTUElqUktJczd6ZzF6SnI5VTZlQUJqcnV4QXkwODFtb1VIN2FxTFFRYlU4X3h5cEVoT05wNFBUSG5SSDlwWUJhLWZRbkdpbXdMTV9wb19wUXdMOUZZODM5ZXJROTNhZGtEMjFaQWc5MHVvM0dMYk9r?oc=5",
+   "medio": "Prensa Latina",
+   "fecha": "2026-10-24T17:24:00+00:00",
+   "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/10/partido_comunista_ecuador1-1.jpg"
+  },
+  {
    "titulo": "Al menos ocho presos muertos y diez heridos en dos nuevas masacres en cárceles de Ecuador",
    "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNDBNOUNxYjl1a2tFQ3YzN2RxT0tYMWsyWlJ1YjRNR3UxeHgzYjllTFM3d0VsS21oUG5DWmE2aXVVU3ctNG8tNm5tVUlNb3ZMQXk0a3otUnpiN2dxTF84bnNEUjJwOXBlWlhFMHU3UzVyTVV3bzBlbmFYbjVDZnJIUFFyUGtkMUNORUhFUjJIOGtlTkpmR0FGYTRzMHhBVThfcDA5U3JTTDY3X2c4M2c2cy01NWJoTEp1OFNUQUR0ZVhLcEpLMjVEWThManlhaVRKdFpCdzFJbEQweFdCMTVz?oc=5",
    "medio": "RPP Noticias",
    "fecha": "2026-10-24T17:15:59+00:00",
    "imagen": "https://f.rpp-noticias.io/2026/10/24/541854_1922175.jpg?width=1200&quality=85"
-  },
-  {
-   "titulo": "Excandidata presidencial de Ecuador pasa su primera noche en prisión preventiva",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcElBZGUtS3ZkSllUZHZFdUJWT3dlOUZQeFZsWFJWeDBqYWpRX2hVU0JDREs4M3pLQnJVdlpuZVJQRjdGZ0VlOGZabVdpXzRVVGFvSUY0S01USjdZTXBSU0pzQ3I0Sjd0X0haTXNXQUdoa1RxUVVocmZMQlJDeE81WDRzTDBMaHJqTTJwSWJKMG9oaThBYWlYLXZYYnFuQ0Zw?oc=5",
-   "medio": "Proceso Digital",
-   "fecha": "2026-10-24T17:03:54+00:00",
-   "imagen": null
   },
   {
    "titulo": "La detención de la excandidata Luisa González complica la campaña a cinco semanas de las elecciones en Ecuador",
@@ -53,25 +151,25 @@
    "imagen": null
   },
   {
-   "titulo": "Qué hacer si su vehículo queda atrapado en una inundación en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcHVBSkVPc0Z3WkpzTGw3bWx2Y29PZlZ1cGg3WDIyLUdPNFdqYU9hR2dwNVA0ZnpOR3BaTnlvWTV0S0gyc0t1cmhlaHVpWFNPNHVUa3ZMTXFZZnBaaHhJNi1wMkNRVXU0VjFRWjVFXzA1cXJWRjYzTnZ0TDNQaXBINkpPblg0TGxkR0lWM04yOEZWX0t6eGZHOQ?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-10-24T17:00:00+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/Designer-1-1.jpeg"
+   "titulo": "Detención de Luisa González, hecho de la semana en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlJOVFgxbU90cHdFZjVkZjl3WEJNa2lQa3BhYkV5R0w0b2dGbFdib0lZSEF2VTdlb0h4cVN3TmpJX0tlaVRlWlUwZ0tSNE1NMzFYcHg0UEJlNERXbTFKcjhOeWhWcE5PZFFuZHVFcEYtYnYxTkI1RjVibGtNMkhvdkN2eXVPdzA0NVpXbURHVHB4NDVCalF2VmFmNnlaMjQ?oc=5",
+   "medio": "Prensa Latina",
+   "fecha": "2026-10-24T16:18:00+00:00",
+   "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/01/29-enero-Luisa-Gonzalez-RC-1.jpg"
   },
   {
-   "titulo": "Ecuador | Alertan sobre lluvias intensas derivadas del fenómeno climático El Niño",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUjFBcnl1MVVaMW9TaVVLV2NHazk4VGF0WGt3ZUZRYlVUekpGYkh5bEdpX0FoQmdFTlBvLTB4RS1RM0ZIcG95MjhmT3hDaUtScEZiRTJfVlppbU9pMzZhdkQ2YXE3THNaMXQtZHRGRWx1aFh6NmF2Mjk4NVpMcUQtRVNsU2VNQ3JVZGhLMmV4WXFJa1ZmaWdVdnVIcm5GcWIxQW93UDBGcDB1anN5?oc=5",
-   "medio": "La iguana TV",
-   "fecha": "2026-10-24T15:24:19+00:00",
-   "imagen": "https://www.laiguana.tv/wp-content/uploads/2021/10/Lluvias.jpg"
+   "titulo": "Organizaciones sociales expondrán ante la CIDH la situación de la democracia y el cierre del espacio cívico en Ecuador – Inredh",
+   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSjlYMVcxYTU4cm1BN1hCZC1oVW9Nb0JZLWUtbkpoTXBET0s4Smt6MkxBZHM3aWxubHdqOW5hRHpfeVEzT3lqQ0pnMm5LdHJqY01jVzlsOHdQMWlERUd2RkVpRHk5SFJQcmVSazZ5QnNJSV9DYnI3OHkzMy1VRjgwS1VQSXcwckhnVEphRldpTVd3dnZwMEx1eTVoamlXRXIzbVQzWi1SRS1JRllNZFh5YzFaMmxiUzdoRGFjYUpBbTlsdE8xNXFxN2RNQ0VvcVFOZ3o4Tw?oc=5",
+   "medio": "Inredh – Derechos Humanos",
+   "fecha": "2026-10-24T15:59:33+00:00",
+   "imagen": null
   },
   {
-   "titulo": "¡DEBUT CON TRIUNFO! Ecuador derrotó a Cabo Verde en el Mundial Sub-15",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZkdoaXo1TERvcG0weWpGbGEzQ3Y3bGtmRVdOSEJMVkZ5QXp4ZkxDTWtxVG1PbWpGRUJFbkI0TFJyUmdtcV9pRmEySEhObmRib1Y3OGUtRU1QbVZJQ2lWaEdpOG5mQTJFRmNUMXJpbmtvVUlRMHhGUXN1NUVyOEFuU0NqQjJGTVVXNlE1Y0NBSFI3LUJqZjhUSWxoTl9Rc2haZl9kT2twR0w2RG8?oc=5",
-   "medio": "Studiofutbol",
-   "fecha": "2026-10-24T15:00:43+00:00",
-   "imagen": "https://studiofutbol.com.ec/wp-content/uploads/2026/10/HVZy-EYW4AAfguN.jpeg"
+   "titulo": "Ecuador debuta con victoria en el Mundial U15",
+   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjRCMnpvbHdybFZaS2ZrOUhad2xZTS1zY1BJdjZtamtDTWlzNkVINm91Z2wwZHVEdjBBSFZ5NHZ5Y0hZdC03R1YxSWp4a3A4TTFxVUJhc0VaNTU3TTM3b0I1Q0d1bmpDRVhVbDFOUGJ1eEF4SDFnVG1pTmtLWnJmQzVoMWFqemhVY1V5cFhkZ2JzcnFyNHdVMUVGNTBGVkE2Z2RQSA?oc=5",
+   "medio": "Ecuagol",
+   "fecha": "2026-10-24T14:59:49+00:00",
+   "imagen": "https://ecuagol.com/uploads/2026/AGOSTO/SEGUNDA%20CATEGOR%C3%8DA/Ecuador_15.jpeg"
   },
   {
    "titulo": "La Selección de Ecuador debuta con victoria ante Cabo Verde en el Mundial Sub 15",
@@ -123,25 +221,11 @@
    "imagen": "https://www.tercerainformacion.es/wp-content/uploads/2026/10/SINDICATOS-23-10-2026-ecuador-1.jpg"
   },
   {
-   "titulo": "Justicia de Ecuador dicta prisión preventiva a excandidata presidencial Luisa González",
-   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONVlIR1Y3WlFaOGhOYXVkWG1pbXZYQU9JcnNpN2IyZmRTNklDU2JBSXV5ZGt3RzhJRW9oRi1qREcxV0pqLU9jbXVzLVdpM1VyUmp5cWg1RDBfZlF3cjRYSUk5VUQxQmRMY3pCSm1yZFNDU2VidEV2NkxmRE9NU2taNGg3bzZrSzEzV3NGYmsxUUlPQ0RpOTZfekc3aUJCUVFPdVZ2eG9PT0FvU1ZSTHMzdDdOVzA2c1E0MldYN1ktOFp4MkJGeWxnSdIByAFBVV95cUxQa2hDaDhncm52WUExOVFrUHN6d3lVSUFXSHVrbGVsOXNmTHpUczRHamVWazRoZFRxZUx3ckZ6M08tcTZyWUpNdmlPVkpMZThkSkdwX2c4UXpOZzVLakRkenVSMkdjSHQzWVpSNXg3WV9mUnp5blRPcktxV0Jta1FZQ2NwRFVveDk4cDNHUFcwRW1COVJqeE5UMjk4OVF6MmhGSVczWW1Zc25tSWJ2dUx1d2JUOUNjX0pqd29HRFN0aEUzRklhOVlGUg?oc=5",
-   "medio": "DW.com",
-   "fecha": "2026-10-24T07:47:52+00:00",
-   "imagen": "https://static.dw.com/image/72211098_6.jpg"
-  },
-  {
    "titulo": "Trasladan a excandidata presidencial de Ecuador Luisa Gonzáles a la cárcel de Riobamba",
    "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUl3ZFh1QUxPM3UxV2xXVHJNZ0hiSGh4MVE5M0xfX2M5clptNWpvdGkxT2ZOaVhwY21BNXFJRy04THpCcWNWbTFNYWRBRXJZbUtMT0t6eTRnV2Q4NnZpbUtaUzAtVFluRUpjN1R1aHlfTWZ0RWZ1V2p3QkRTaHdTUU1nSUk5bnZHay1GVTA5MUVzYzJKQnBIUk9mVGVKYnpJcm9jOTFKNjRHbllTYjlMaXFXQQ?oc=5",
    "medio": "teleSUR",
    "fecha": "2026-10-24T06:57:59+00:00",
    "imagen": null
-  },
-  {
-   "titulo": "El muro, la herida del Sáhara, filme de Fiorella Bendoni y Gilberto Mastromatteo se estrena en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DRzNhUlBwZFVVNU1qTGM0cHhISmk2OHR5UzRQV2UzUXNPVDJScFpYRnlBTjhJUlFSZXFIdUNmX3FuVEpJVHd1bk5INFRVeUwtQlhuYTdZVHBxdEhKb0E?oc=5",
-   "medio": "وكالة الأنباء الصحراوية",
-   "fecha": "2026-10-24T06:53:56+00:00",
-   "imagen": "https://www.spsrasd.info/sites/default/files/styles/social_large/public/2026-10/el_muro_02.jpg?h=725503d7&itok=Jxx1JuMP"
   },
   {
    "titulo": "Justicia de Ecuador dicta prisión preventiva contra Luisa González por presunto lavado de activos",
@@ -179,32 +263,11 @@
    "imagen": "https://static.dw.com/image/72211098_6.jpg"
   },
   {
-   "titulo": "Ecuador se prepara para una fase más intensa de El Niño",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR1lBZVRiM1FYZmFHOXlZUllFXzViV2JJdnZpbUJXcno4YlJNSUZvaUkxVHZGdDRYR0FtZVhkRWc0Mk1NMjRvaUtveFl1UHdNZ1dISFd2NHZwOUNHSFZOQnZXVGt4V3BrcEtuTElGdUFpYjJVSEtGMEtyMXVMTjFaVVpaVDNRMU1RZ1A3am5qRUZRZjhQVExBc2lUSUNscWY3N3VWeHlPekZFNXkxYTRN?oc=5",
-   "medio": "eltelegrafo.com.ec",
-   "fecha": "2026-10-24T02:22:53+00:00",
-   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/68aab8a92d9f0ba3612cf1c6f29c077f_L.jpg?t=9d2af091a983"
-  },
-  {
-   "titulo": "¿Dónde lloverá más este fin de semana en Ecuador? El Inamhi señala las zonas y el día de mayor intensidad",
-   "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd21hbmVKc3lrWnFxano0d09LN21zMldqUHNDZTBZVnRVOHJMQjg5TVFGaFQzUEpYLXJmNjlfSnl6V1B4VVE0c0hwUDlqNENQS1h6eEdiSzBjbDFXajQtNGt1UUYwdnpFNkdxZXpfRFZYVm9lR1hTTEp3MjI0VDh1UGRWWUZfenZDSmJfa3dGZzFTNzRTRTQyNHhEaVJ0bG5JM1Y4aXpRUjhCeXhVa09kTW9ZMXd3WmNwUi1IOXJadDRDZEl4VjhMbTlNRk5BdXl4Uk4tU2NSMTVZUjR4RXFiNmIwbFlwQmMydkHSAf4BQVVfeXFMTzF6aUtodTJDam5ZVXpxRUlOYlRMQ09zcTJfYkRpb1VmYzRnbnNna1NybkpVRUxsbDhGTnh6Q2JBUTRiWmt1ZDVRMEVpaW0xVVZLc19sV202amlrMlJtQnUwRVBtbjNROGpKRFdvWXJQOGJoRE5Od2hXbjh5T2ZLRlBOTVF3M1lOMDN3RFk3ZlhOdHpGbmFneGFuenRvRjU2WmVYU3VJTDZzZVFkckRUeDFlTHk2Yi1rYW9kWjVuamIyZzRadUV0blQtTHppcEMyVUFQTEc0ZUlJNzBlX3k4VWtUUTdkVkczYnlma0JxSTVJQmI5RGFwV1RFWG1IbWc?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-24T02:16:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/UDEPSFWYIZD3BAVFICH7K3KGII.jpg?auth=219569760c772841e9916517607aacbb439f9bd1d3d63c3394f050b5e8a4b61c&width=1005&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Ecuador vs Cabo Verde en el Mundial Sub-15: hora y señal de TV",
    "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOby1EMTV5ZEgtZzhLT3EzZ01FVTB6WkpURTNJZHFtZFU5SE42Ynk0b1Z5QUIzTkNYUlN0V2MtVmFCRjYyeHMzOXJxUEY3bS1BVkZHa0d6QmdZZ0k5OGN4RjBWTkgtRGZZLTZZbUtTcTJGZlBXbTNOT2QwTExfNlZCUEhjdzZTck5SVVMzeTFaTUhhRURGWnhjMFIwZW1vZG9acm1mZWNVelVDbkZla3JpQm1B0gG3AUFVX3lxTE83Y0xncDlTb2o4Yk1fUWtlejY4aC1KMHh2YjJfODNPV2JqR1RSdmhtSDdpSGVzVmQwRXNWeXc3ZGdqT2czR1JTdndqYTJCMzdzMTJfdkRDenBmc2pYQTYwWWNXYm9yUzdPUjJMRkZqWUlmeDhUQjNxYy0zc0VCdkpYY3lxTm1Vdk51RmozVzFRWkZZSG9fU25PVXBKcllyRVBUTndzdUxmSWJzd2xod2E3RTA2T1ZIMA?oc=5",
    "medio": "Diario Extra",
    "fecha": "2026-10-24T01:58:59+00:00",
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/files/fp/uploads/2026/10/23/6adc0f07e5ed5.r_d.2129-3652-2906.jpeg"
-  },
-  {
-   "titulo": "Avanza “El Niño” en Ecuador y alcanzará su máxima intensidad a finales de año, advierten",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RS1ZjdVBoamFlWWo3eXE2Wjh5YmFOOVJjc0V0OVJVNEtNdmxmampCTDVZd1dMRU1xc2I3VjRoZHFtSHNncnJ5RGowdHlvX1U?oc=5",
-   "medio": "El Comentario",
-   "fecha": "2026-10-24T01:24:04+00:00",
-   "imagen": null
   },
   {
    "titulo": "Fenómeno de El Niño se intensifica en Ecuador y alcanzaría su punto máximo a finales del 2026",
@@ -225,7 +288,7 @@
    "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTEFMYVQyOHl3OXl0c1FPVzZvLVRBbTFaUmh1ZUY3Xzl4ZjBkN2YwLTktQlljdUpTMXRzdXNObmNuTmEwRkxvdFp6alU2ZVprZWJMMEF1UmtQTGRnZThIQTlPMndsa01VR2QySlR3SlJYajlOeGF3dUdVQUlKREJwZXB6STVreG0wRFVSUnlOVTVONGdyQ2Q1SDJBdHRyTVJVX2F3ejVBZEZIVlFoTno5RVZ4ZGlkS1l5d19qVGgwSjRTQ2dSM0HSAdoBQVVfeXFMTVdFN2JYQlgwaFM5ZkJRZU55NUl0WTZWUkVseHdpSFBHcmRPUTdKbVJVOVpnSU95WXNlN01NaU04VjZRbFNaY2J3S3EwUFkzOUJFbEJOWThSbU1pQmw4VFV0cWZfN3R2dWNPWFVIb0xjM084WUl0WDlzYkp5RDhadUo5WENqYTFPRTVQU0Y2R2VxM1N2RnV2Y0NxSG5Yd3ZocTY0ZXR4d1dHQ3l6N05KeHJkZ09QME80WXp5R1Rwa29nT1FPMXdZTmwwZUMweWZOQ0MtdERMYlMxaWc?oc=5",
    "medio": "EL PAÍS",
    "fecha": "2026-10-24T00:56:23+00:00",
-   "imagen": null
+   "imagen": "https://imagenes.elpais.com/resizer/v2/NQZNCKOICRGVBE2OS46FRHHTVA.jpg?auth=2991555153929c034f1fe3956a84ed227472e031402654eb874c548b9608ca23&width=1200"
   },
   {
    "titulo": "Dictan prisión preventiva contra Luisa González excandidata presidencial de Ecuador del partido de Rafael Correa",
@@ -256,13 +319,6 @@
    "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/23174958/IMG_20261023_174937.jpg"
   },
   {
-   "titulo": "Ordenan prisión preventiva para la excandidata correísta de Ecuador por presunto lavado de activos",
-   "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRnJYWG5hMlY2VHZjZk9PSWFrS1RJU1dsZnNHQjI4MXhDMzV2QW9KWUw3SnktNUx0RVhFdTB4b2txWWdTOWdLa1Y0djR4SU1CdTNYcy1DNkpHS3liWG5KcTRmYnpqaGg5bzhyek1hN0RHcnVwV2RLdkRJZVc3aWppdHpIRF9CTHc2ekFmaDcwMTNCX2haVS1udE53VTlqb05MRktscGtILVhnY1JoMVhQMHFvLTkyWl95R0RCOFFVYXM3bDg1TkE2X0l5dkJIWlFETWlVOEVJcy01RUJoNUZmbUdn?oc=5",
-   "medio": "La Nación",
-   "fecha": "2026-10-23T21:54:00+00:00",
-   "imagen": "https://www.lanacion.com.ar/resizer/v2/luisa-gonzalez-ex-candidata-presidencial-habla-N7EWVR26WNFJTJF2QG25QQLF5Q.jpg?auth=bff53dd376189e94112a5fddadfa705c74bd92283e51ac51195112b3cd2a2ae5&width=1200&height=800&quality=70&smart=false&focal=3781,2614"
-  },
-  {
    "titulo": "Colombia y Ecuador fortalecen la cooperación marítima y amplían oportunidades para la gente de mar",
    "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTlpDdEZ0dnRCd0VBQ2R5a0ZiQ1p2dk5vNzdUYXdxSTdwVndLZUFsMWYzNklsSG9hQ3FoNXRWVHA2QW1uZm5QamQzajZJZlYzOWpEeVpQZmlnZWJlSFN2bE1HQ3lQWVdOS25WMXVPQ1d1ZXVQSGJ1aVZOUWhZUmh1Y3VvRkhPbUpYTGFoa1QyVmpJUWpCWUI5LXE1cnk3VERhOF9scml6cmhKZG9ka0FIYzJHSmlrLVplbFNNbGpWOFQ?oc=5",
    "medio": "Portal Marítimo Colombiano - Dimar",
@@ -284,25 +340,11 @@
    "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/10/mensaje-luisa-gonzalez-1.jpg"
   },
   {
-   "titulo": "Nace Flint Latam con operaciones en Colombia, Ecuador y Perú",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjYySFBXTVpGQ0FDcWFJMlo4UjB4SUdFaThOMEloY2tOSzFYNEFQZlROWXdLaTZXZUppR0VrNDc4a2NSd0pXZjNRX29sVVlCYWZON2pYMUlHbXY1VXhVZVVSZ25MaXQxdmVjNTlZaUEteEhSd01KOE1qNm51QktFTEFYam1MY0tnUEgwckRKQVVoaGFSQzNFYW1ES2J1d1p3?oc=5",
-   "medio": "LatinSpots.com",
-   "fecha": "2026-10-23T20:24:30+00:00",
-   "imagen": "https://static.latinspots.com/notas/nota_98996.jpg?timestamp=1792777627"
-  },
-  {
-   "titulo": "Consulado de Ecuador presentará un portal para acceder a la universidad en Estados Unidos",
-   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT29YdjRUNVdUOGZmV3I0aEMwbWR0c1V0TWtLMHRoLVR0c0wyQjNhWkZfNGFHVVpEdDkwTHZ3cm5IMTVGYXh5SHBNQnJMcXprM0htSmZNcWlzWUhRS2RMWUlwWS05eVRTSzU5d1JFRVgza0Y1NUNISWlaeGhPenB2c1RvU3lBSFl2akYxSW1vbXExZ3NIXzBV?oc=5",
-   "medio": "El Mercurio",
-   "fecha": "2026-10-23T19:24:33+00:00",
-   "imagen": "https://elmercurio.com.ec/wp-content/uploads/2026/10/Gemini_Generated_Image_mlnlsimlnlsimlnl-e1792783243516.jpeg"
-  },
-  {
-   "titulo": "Luisa González llama a votar nulo en Manabí tras su detención en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMVBfa0YydmNFNllTU0hTYW83a1lSWGNydDg2ZnBub21vZkJ3dERmUy00ZFZPTFJQWEFaazNGZ3R4aEtoem1kTFkyVXNQNG5sS0VqOHRneDdlcmN3RUVVWGc5NkxIWklrMXdDQmN5NjQ5NjBFR0VrUzVta3V3Z01kdEhB?oc=5",
-   "medio": "teleSUR",
-   "fecha": "2026-10-23T19:02:03+00:00",
-   "imagen": null
+   "titulo": "Justicia de Ecuador dicta prisión preventiva a excandidata presidencial Luisa González",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONVlIR1Y3WlFaOGhOYXVkWG1pbXZYQU9JcnNpN2IyZmRTNklDU2JBSXV5ZGt3RzhJRW9oRi1qREcxV0pqLU9jbXVzLVdpM1VyUmp5cWg1RDBfZlF3cjRYSUk5VUQxQmRMY3pCSm1yZFNDU2VidEV2NkxmRE9NU2taNGg3bzZrSzEzV3NGYmsxUUlPQ0RpOTZfekc3aUJCUVFPdVZ2eG9PT0FvU1ZSTHMzdDdOVzA2c1E0MldYN1ktOFp4MkJGeWxnSdIByAFBVV95cUxQa2hDaDhncm52WUExOVFrUHN6d3lVSUFXSHVrbGVsOXNmTHpUczRHamVWazRoZFRxZUx3ckZ6M08tcTZyWUpNdmlPVkpMZThkSkdwX2c4UXpOZzVLakRkenVSMkdjSHQzWVpSNXg3WV9mUnp5blRPcktxV0Jta1FZQ2NwRFVveDk4cDNHUFcwRW1COVJqeE5UMjk4OVF6MmhGSVczWW1Zc25tSWJ2dUx1d2JUOUNjX0pqd29HRFN0aEUzRklhOVlGUg?oc=5",
+   "medio": "DW.com",
+   "fecha": "2026-10-23T20:15:27+00:00",
+   "imagen": "https://static.dw.com/image/72211098_6.jpg"
   },
   {
    "titulo": "Ecuador.- Ordenan prisión preventiva para la excandidata presidencial de Ecuador Luisa González por presunto blanqueo",
@@ -333,13 +375,6 @@
    "imagen": "https://media.diariolasamericas.com/p/e6fc6eab8aa9791b1ab2a62ec8d9818a/adjuntos/216/imagenes/100/284/0100284566/1200x675/smart/afp__20261022__d43y763__v1__highres__filesecuadorpoliticspolicejustice-1.jpg"
   },
   {
-   "titulo": "Revelan varios de los convocados de LigaPro que tendrá la Selección de Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHZoU2V1anVSMzFrZDVpdEFNZllVbVN2dlFUMDlKNndNMm1hU0dIeElMQkJzcHhtb0ZQVEZ3eEtyTFJjdkdRR2RNVVlQbWcwV1l0T2FiMVlPYzZkQVlYY1phOEYzRzBOcmt0SkVOTXpjZzAyTkJhbVotY1hITUh6V1AxTTFYNGtVMmZ3VFdJVGhFNzFwR1RDelNqSnlxNUNoOGl4MXVMbGp3X1JzZ29NLXZyZ9IBuAFBVV95cUxObE9ldGdWVDROZ1U2Y0dncFJ1NEJaYjE5eTFpS0p3UlNyVk1ndXlEMHNfQVo1dFg5cUN6OEh6MFhfS0lHVzFtM2xxWDhWNUVBSEItZ09QdjB2Vk4taFl5N0taeGlNWmVWNGt0RWRYZmtTVmpyU0otQWtiMlF0RU5MYkc4NzlSSkNzYUJCaXdLd0l2U0hlYVYyUVhIMVJlRzlFNkVBaXd3Q1cydXBSYk9UQURqWVVIVlhw?oc=5",
-   "medio": "Bolavip",
-   "fecha": "2026-10-23T17:45:30+00:00",
-   "imagen": "https://media.bolavip.com/wp-content/uploads/sites/26/2026/10/23143905/MacaraEcuador-1200x740.webp"
-  },
-  {
    "titulo": "Ecuador. Federación Internacional de Mujeres exige liberación de excandidata presidencial Luisa González",
    "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSkJjNlJHNzc1bUlpdThvbEo1Tm9xQmNrd0hMV1dUOXlUSFZZODQ5ZXMxSmxTd2FiZGZMbTJvbTNLMEJIakg1WmktTjRpOUVmN19aSTN2RW9vOTdvUFRmNjNNVldtei1lOTJlUDg2a3NneDg5UlY4b3VKUFBKQTBNdTJlMEprV2xSRjRPa2pObkVzdlk1b2taV3pTQ0hBVTNiX0N3SXJTQVdKNGI2UDR2OFJjNmlMRmwtQ2M1VmhteHNIT1RDckdieUNRSnVlaWNBbFVlUGNwMEpEUWh4aTJyV0ZiMmM5a2tmclE?oc=5",
    "medio": "Resumen Latinoamericano -",
@@ -355,10 +390,10 @@
   },
   {
    "titulo": "Fiscalía de Ecuador pide prisión preventiva para la excandidata correísta Luisa González",
-   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdEFFaTdLNndGRVVrczRDYUE4dFM2WkhJNlg0NWplVzZmQ0tWUXlZMUx6YzFsSy15TFZvc1hwTlFuTlVjUmQzUjZGemJVT2swb3k0blVjbkQ3eTdiSUJLSWFTMTdDOFhmc3NndldnbDN3VF9vNUxobWZHX2llQV9hRXRyRXpiakhjUUxVdWIxdUh5WmhOazgwZzlYbWRSSkt5ajJOMWdKeVp1NDlsTkFyNDRYendzSjhid0lUeWtFWHlTUlBZS1hWVjBKSVNXRzNZNVpLZU4xUFhVUQ?oc=5",
-   "medio": "Noticias Venevisión",
-   "fecha": "2026-10-23T16:56:00+00:00",
-   "imagen": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/lg-79fd86.webp"
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUExrSWpPVnFYeW91UlV6U0dvXzA3QmU1bk1MOWhYZmtfYmlMNnllR0VJdHhhdjA4YkI5WGZkSk1kVUE5T1hZUlR6WUdWWWZ0ZlNPQi1yR1NFVHZLRWZjY3p1Z3pxQ1dHRm13UkFld01tbGJTZDFJQkx2dUZCNVQ1OUxGdjhKRktOdU8tcnA3ZjNNMFpIRUFiOTBMenc3X0piMFNUazVBd2JsNFFRVHhsakJ1b2dCNEplOG5keWJwcExMZw?oc=5",
+   "medio": "El Nacional",
+   "fecha": "2026-10-23T16:07:23+00:00",
+   "imagen": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/23114357/3408f0b091edd1fafc3ab5e68f939455c9e76397w.jpg"
   },
   {
    "titulo": "BID asigna US$130 millones a agua y saneamiento en Ecuador",
@@ -375,20 +410,6 @@
    "imagen": "https://images.euronews.com/articles/stories/09/96/51/41/1200x675_cmsv2_1f923948-0e56-59ce-92e9-d67319d4ec87-9965141.jpg"
   },
   {
-   "titulo": "Ecuador. Otro ataque represivo de la dictadura noboísta: detuvieron a Luisa González, de la Revolución Ciudadana",
-   "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcFotamdRWFlYYmhrYjhCZnUtQkJoa1E2Y2UycXVOYlB4bXlUUnU0X1pESnZSYWMwTTF5R1VwZDZieFZfdkhBeFpHd2E1cV9rdjdqaEFoMFo0OHotUDJpNVN5NDFXUVpjcE5lbVdCY0dDaVhZNEZteVVrNXZmZ1VKV0xZdUUtY1h0N2FwVDBfZDVyR0FSU0J5TkZqbWRTNU4xcjhSeEZDUE1BcV9lM2Nmel9SYXhvTzVkU0N4UW1YWDAyeDFtaVRydjFpUDlycGFFT0VzNmJ4eG5US0VGX1FldV9tSEpaUWllUHVkei1jUGZ6QQ?oc=5",
-   "medio": "Resumen Latinoamericano -",
-   "fecha": "2026-10-23T15:03:24+00:00",
-   "imagen": "https://www.resumenlatinoamericano.org/wp-content/uploads/2026/10/1519134678-1-kNlD-U302381756404AjH-1200x840@diario_abc-e1792767714390.webp"
-  },
-  {
-   "titulo": "Ecuador. Persecución política a dirigentes del correísmo",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWRKaWdCMEREd1BIQmJNUDVkejl5SVN4WUQ4S2NWLUNKUHFieUQ3QXVOc2prYWFIZHZYc3Jpb0laaFhKaGcyMEszTWhtV1ZRNk9DRHpvVkt3U1FsZXFURkJFUDNtZzY0T21Ud1BFY0xqaGpwRUl6eFZLRkM3aFdnN2ZvN1dnVzNPZWpucGUyTE1rVkdKMm1ybWEtXzREOTliX1NFbEswYVEwUQ?oc=5",
-   "medio": "Resumen Latinoamericano -",
-   "fecha": "2026-10-23T14:38:37+00:00",
-   "imagen": "https://www.resumenlatinoamericano.org/wp-content/uploads/2026/10/1792698487698.jpg"
-  },
-  {
    "titulo": "Mueren ocho presos en amotinamientos en Ecuador",
    "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQy01aEszN3BqRWN6Sk13Y0dPMzA0ZXdPWUZIV3dxaXBTbzZoblpjSjZIbmlwTU5sLU0xVmJPMm5HemFLLTdoNzlMOU9GR0FWOXByQXVuRVRuMC1acEdxajlMQVpNdnRtZXpQLUlybzJfM0hRNS1SQnVDWk5jSGNGRnFNclBkRFXSAYcBQVVfeXFMTldfZzB0d3NMY0VGS3d6QWRGRktuelZ0QnQ3V0Jxb01Rc244bkpGUy1qdDVJWlVXZmdBSTQwbWk1Q2VVZ1U2SG5mTG9BMlNHcHVCNllTNnJhaGYzRWVreVh2QWZRRk5VWTlRTWFpMldWZF9JbzlDeS14Q1pHTEM0TG90NzAwV1NZ?oc=5",
    "medio": "DW.com",
@@ -401,27 +422,6 @@
    "medio": "CNN en Español",
    "fecha": "2026-10-23T12:02:20+00:00",
    "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2208794989.jpg?c=16x9&q=w_800,c_fill"
-  },
-  {
-   "titulo": "“Dictadura no, democracia sí”: protestas en Ecuador tras la detención de Luisa González",
-   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTlJRNjZnTldYRlZFZzVNN04zbGJVWjR4d0N3c1hyQmFNZzd3T1ZUMjl2RGR1b3dqY1AyeW9rSnc5WmVoZFVkTjlEdUZYNW9CNkplTkNtZXlxZWJMRW1QZUFrd0lueVFKcklseHFhVXZmVE9xWmNRSEF6Zi1UTjNyeHdrb3JfTVQya2p3dW5NeVpmUjN1TnRUbEJkbTFfNWhrdnNYeTA1dXdnMjUwWXB4N1pVV0RJWERreWV4Rkhva0o?oc=5",
-   "medio": "Página|12",
-   "fecha": "2026-10-23T10:44:47+00:00",
-   "imagen": "https://www.pagina12.com.ar/resizer/v2/2RNTXTAAHFBGFOOQHWAA2D7KHY.jpg?smart=true&auth=fd692387ecc2f439623f7ccad6bdd114f48505e66a5efff6a4ef6051c173ac7a&width=1200&height=630"
-  },
-  {
-   "titulo": "La policía de Ecuador detiene a la excandidata presidencial Luisa González",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVG12dXdtNlpfZnp3cHFNVkM4MGNpd2tSTjZSZjNqamdXRnlYRE1Mck5ibjBZVEVCUGFwSUFMSGtnNmlqMDRlMk0yTVFhTjlsV2NWQ0o5V0hHRGd2c2tqbTBaSGhCRzhuZTFWc1c2a1FUTFA2Tk1ZSjhnOUV3VWdNbXNvdktHdkZMb1VWWmFGdmxuQmVXRmM0Z1N0QmwzdTAxSkxDU2FJRFZ6eGRvZkxUTzBJRdIBswFBVV95cUxQVG12dXdtNlpfZnp3cHFNVkM4MGNpd2tSTjZSZjNqamdXRnlYRE1Mck5ibjBZVEVCUGFwSUFMSGtnNmlqMDRlMk0yTVFhTjlsV2NWQ0o5V0hHRGd2c2tqbTBaSGhCRzhuZTFWc1c2a1FUTFA2Tk1ZSjhnOUV3VWdNbXNvdktHdkZMb1VWWmFGdmxuQmVXRmM0Z1N0QmwzdTAxSkxDU2FJRFZ6eGRvZkxUTzBJRQ?oc=5",
-   "medio": "Acento",
-   "fecha": "2026-10-23T08:47:03+00:00",
-   "imagen": "https://acento.com.do/resources/logos/og-image-1200x630.png"
-  },
-  {
-   "titulo": "Motines en dos cárceles de Ecuador dejan al menos ocho presos muertos y diez heridos",
-   "enlace": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ybnhVTU5EbDRwd0xYeWl1ZUlFZ1NJRmpJZ0pXY2pRQWZKRWhFWGpLVXZCblE2TlV1ZGhlN0l4d3V4OVFrOTRWdQ?oc=5",
-   "medio": "سانا",
-   "fecha": "2026-10-23T06:58:52+00:00",
-   "imagen": "https://cdn.sananews.sy/2026/10/Motines-en-dos-carceles-de-Ecuador-dejan-al-menos-ocho-presos-muertos-y-diez-heridos.png"
   }
  ]
 }
