@@ -1,8 +1,15 @@
 {
  "zona": "samborondon",
  "nombre": "Samborondón",
- "actualizado": "2026-10-25T14:37:07+00:00",
+ "actualizado": "2026-10-25T17:55:13+00:00",
  "noticias": [
+  {
+   "titulo": "68 inundaciones en Guayaquil después de fuertes lluvias",
+   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR3VIYUI0Mm1wZ3h6WjVjMHduRWZOVml3MXowbmtMUmt2dHJOV1RTOGU4NF9QSWlwd0REb2JIRXBGX04wMkdfZzdOV0Y5QXhYeW9sVGlCLTlLVWpNNzFKUUd1Tkx0WFNXSkxyR01zLUpCOTRvM09GcUpVSmJxNWhJOWREV1B0SzBUVHdZYk9Jd0dBTjk2UldSMlFLdmJFZnN2OF9EbTZVOA?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-10-25T15:48:16+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/Diseno-sin-titulo-10.jpg"
+  },
   {
    "titulo": "¿El viernes 30 de octubre será feriado en Ecuador?",
    "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmJBdGFUNFZoUkk2TW5UaVpHamZrSU1HMy1CWkdSZ1JneUtDZk9Yc18tbWJoc1NEXzM4RmNKemMtUUdHNUd6R2hnQUh0Q2J6b0FVTzVaeUh0Y25FZjdkWUJ6YmtXTzRieEFXLWZ5UzQ1RjlsMi1sWlp5T19kNVY2dVJOT0x6VmJ2TU9vZjExM2xteExiVE11bW1KVWVXZHlx0gG0AUFVX3lxTE1ENlRhZnJPeWRMMlRNLWRfZXBYb3VNUTktLUliTnpZSmNBcjYwM000WU5uZFFtWkVkaEFwaE1hcHZjVnVQVXNVMENOOF84N3VrX0tzeVc1azJNUVRWWnhyMHJLWXpob1BXZHU1eXZzUEc5aUV5cS1LRmtiYnRqcm5OcTlod25JVE4tTGh4TUxqWFNlWkFPWnVPTWo2Z1A2NFNQN1pobDhrS0FSV2gyUU9JTWctcg?oc=5",
@@ -214,13 +221,6 @@
    "imagen": null
   },
   {
-   "titulo": "Plaza Lagos y Mocolí: ¿qué pasó con los detenidos tras allanamientos en Samborondón?",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFdnR1o4SjFmRGNLOXlSclFMTDA3WTJDcnRqT1dqYlFnY2xzcDJJMFk0emw2ZnNYa0dxWGhONHUta2M5UGRoMGExUERMemE3MTNNQlEtWGlKdXU1TDVVTWpCQWNvVDkzcndwVGFrdWJmNnV1NDNEdmdSM3pwUGg2dDBzM1IzRTR5T29Dd3NyZTAtNklLZmdqdkdzcDFHdzljTHpwRDFxS01ub1Z0WW5v0gG0AUFVX3lxTE1UcThpVVNXcGI5eUtJdjdVTm1TVXhoMm4xYnprSUh0c3EzVGo3bHhZeXJCNDhxRFRjYlZ2bFBveVBOcVVXZldrcUlhVlRBZXNaZG9WTmlUWG9ZeVkxeWtxQmVPUEdUaHdvS1dDb2c1MmZ2VVBCaVJfMkJ0c2NHd1RERXNIUkhVUGVIVmE3OWRrSk0tUzBuTkwtYVJ6cGFSclFiUHVCNUtjRXNsanVFWTFaTFpsYw?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-10-09T07:00:00+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/09/6ac942da40e19.jpeg"
-  },
-  {
    "titulo": "Sismo de magnitud 3.6 se registró cerca de Samborondón este viernes",
    "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMEZFN3dVS045dzVZUmcxV0xkU0hwb1lTLTNjWVRNM0NpVGJIWjBDT1hnQ21WTkRTLU1HMHptLWN0OUxRalFkNVp4Wkxyd3J5c3lnUVZWYzhKbDhaM3owZ2Exbmh5X08yc2FubzU4TnphVWVpdm96X0REeEZKMlFGVVNVMEhOMHVrWUVYeS1tMVF1ZGZpS0tpNGZ6d2o0VmFNRENCRUhTSFo3UzNiNUdPWVJHYw?oc=5",
    "medio": "El Comercio",
@@ -347,18 +347,18 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/KU5BY7QT45F5BE7IWQRC4HKQKE.jpg?auth=73e3c45dd8db9c9a96b8c660235b45c2992996ede24d5a31aba1ab1b29a02746&width=893&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Tres cafeterías de Samborondón entre las 100 mejores de Sudamérica: así son sus propuestas y precios",
-   "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU184bjBrZ1k5Wk9hUEp1dE9MV2ZGWmZ3aTBnT1VDRVdzbS1nWVU1UVo4b2FiLUVnVHBQdERkRC0talBvX1dfQkNyWGh1THFZSXc1YU5YX2NEdmw4SjJQckNqeEV4V0V6T3N2cFdiVFZJVXkzYzQ2VkxzOHJseUlucDZDaDlNYl8zanNUS3Z0VGpLZGtHakxxTFhKMnJWLVduSkVNVl9fdkhBNWNIVlQ5aWVramxqZTJLekZLRjB0OVBhRlI2NGhUaktIVm9BSUowVElMdzBOY0ZRUWtKZER2VzBpZ0hFb2trQ2pV?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-09-25T07:00:00+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/files/fp/uploads/2026/09/25/6ab61413e7cc2.r_d.960-540-6249.png"
-  },
-  {
    "titulo": "Cartel Jalisco Nueva Generación en Ecuador: ¿quiénes son los detenidos en Samborondón?",
    "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMzFQOTZmS1Zpd2U4MXh5elFFMVRNZVhxeUJIT3laUEhRWTFXOUxVVTF4enR6WTU3UzFtSldYbFJ5cmhsYmpsSnU3MGswbFRia1ZrMkxRc0pzVDFVb196dEdYbmF1MjBuSUo4cVZSMFRESXFWUzlHVWZOT3JzcUFhY0pIemF4TF9aalFSZm9DakFxOVlGeTdLSzdNdlZET0tCc3pWYzZLemhlOGZVM0tQWG5UYm5iZDBBdW9WU1JXdXhqdlFuYlVjX2hURVhub0Mx?oc=5",
    "medio": "eltelegrafo.com.ec",
    "fecha": "2026-09-25T07:00:00+00:00",
    "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/89e2566a2bb32fc0a13648ad3a43d466_L.jpg?t=132134e8d02c"
+  },
+  {
+   "titulo": "Tres cafeterías de Samborondón entre las 100 mejores de Sudamérica: así son sus propuestas y precios",
+   "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU184bjBrZ1k5Wk9hUEp1dE9MV2ZGWmZ3aTBnT1VDRVdzbS1nWVU1UVo4b2FiLUVnVHBQdERkRC0talBvX1dfQkNyWGh1THFZSXc1YU5YX2NEdmw4SjJQckNqeEV4V0V6T3N2cFdiVFZJVXkzYzQ2VkxzOHJseUlucDZDaDlNYl8zanNUS3Z0VGpLZGtHakxxTFhKMnJWLVduSkVNVl9fdkhBNWNIVlQ5aWVramxqZTJLekZLRjB0OVBhRlI2NGhUaktIVm9BSUowVElMdzBOY0ZRUWtKZER2VzBpZ0hFb2trQ2pV?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-09-25T07:00:00+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/files/fp/uploads/2026/09/25/6ab61413e7cc2.r_d.960-540-6249.png"
   },
   {
    "titulo": "Samborondón: ataque armado en la parroquia Tarifa deja dos hombres muertos y un herido",
