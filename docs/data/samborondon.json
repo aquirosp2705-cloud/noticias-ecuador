@@ -1,28 +1,14 @@
 {
  "zona": "samborondon",
  "nombre": "Samborondón",
- "actualizado": "2026-10-26T00:47:27+00:00",
+ "actualizado": "2026-10-26T05:30:07+00:00",
  "noticias": [
-  {
-   "titulo": "Guayaquil soportó la caída de 114 rayos ayer sábado",
-   "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmY2SkJYYkNwbV9jQ3ZtOU1kdGlxNlFPMzEwaGhfT25NN0dDOWxCSjhkLTVKLWgtU2pVUHZTa2gzLTl1enp3N3F3S2hPVmVIQVJhRi1QeEZEWmd3aTJJQmtfS1E2S0FZLVU0bDdKenhfbnNUYkY3WHpTTmpmTlFGcDFOdVY?oc=5",
-   "medio": "Ecuador 221",
-   "fecha": "2026-10-25T16:13:00+00:00",
-   "imagen": "https://ecuador221.com.ec/wp-content/uploads/2026/10/guayaquil-soporto-la-caida-de-114-rayos-ayer-sabado-ecuador221.com_.ec_.jpg"
-  },
   {
    "titulo": "68 inundaciones en Guayaquil después de fuertes lluvias",
    "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR3VIYUI0Mm1wZ3h6WjVjMHduRWZOVml3MXowbmtMUmt2dHJOV1RTOGU4NF9QSWlwd0REb2JIRXBGX04wMkdfZzdOV0Y5QXhYeW9sVGlCLTlLVWpNNzFKUUd1Tkx0WFNXSkxyR01zLUpCOTRvM09GcUpVSmJxNWhJOWREV1B0SzBUVHdZYk9Jd0dBTjk2UldSMlFLdmJFZnN2OF9EbTZVOA?oc=5",
    "medio": "El Comercio",
    "fecha": "2026-10-25T15:48:16+00:00",
    "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/Diseno-sin-titulo-10.jpg"
-  },
-  {
-   "titulo": "¿El viernes 30 de octubre será feriado en Ecuador?",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmJBdGFUNFZoUkk2TW5UaVpHamZrSU1HMy1CWkdSZ1JneUtDZk9Yc18tbWJoc1NEXzM4RmNKemMtUUdHNUd6R2hnQUh0Q2J6b0FVTzVaeUh0Y25FZjdkWUJ6YmtXTzRieEFXLWZ5UzQ1RjlsMi1sWlp5T19kNVY2dVJOT0x6VmJ2TU9vZjExM2xteExiVE11bW1KVWVXZHlx0gG0AUFVX3lxTE1ENlRhZnJPeWRMMlRNLWRfZXBYb3VNUTktLUliTnpZSmNBcjYwM000WU5uZFFtWkVkaEFwaE1hcHZjVnVQVXNVMENOOF84N3VrX0tzeVc1azJNUVRWWnhyMHJLWXpob1BXZHU1eXZzUEc5aUV5cS1LRmtiYnRqcm5OcTlod25JVE4tTGh4TUxqWFNlWkFPWnVPTWo2Z1A2NFNQN1pobDhrS0FSV2gyUU9JTWctcg?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-25T11:32:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/Q56PLX6NP5DMDIAAR3AU7KYI4E.JPG?auth=ec19ea1582478ffec76ab61a3de76377e1ec4142965a7ab4d0a9653e32f0e68b&width=1002&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Tormenta eléctrica en Guayaquil, Samborondón y Daule deja sectores anegados y cortes de energía",
@@ -51,6 +37,13 @@
    "medio": "Diario Extra",
    "fecha": "2026-10-22T15:41:14+00:00",
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/files/fp/uploads/2026/10/22/6ada2df662618.r_d.600-800-10000.jpeg"
+  },
+  {
+   "titulo": "¿El viernes 30 de octubre será feriado en Ecuador?",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmJBdGFUNFZoUkk2TW5UaVpHamZrSU1HMy1CWkdSZ1JneUtDZk9Yc18tbWJoc1NEXzM4RmNKemMtUUdHNUd6R2hnQUh0Q2J6b0FVTzVaeUh0Y25FZjdkWUJ6YmtXTzRieEFXLWZ5UzQ1RjlsMi1sWlp5T19kNVY2dVJOT0x6VmJ2TU9vZjExM2xteExiVE11bW1KVWVXZHlx0gG0AUFVX3lxTE1ENlRhZnJPeWRMMlRNLWRfZXBYb3VNUTktLUliTnpZSmNBcjYwM000WU5uZFFtWkVkaEFwaE1hcHZjVnVQVXNVMENOOF84N3VrX0tzeVc1azJNUVRWWnhyMHJLWXpob1BXZHU1eXZzUEc5aUV5cS1LRmtiYnRqcm5OcTlod25JVE4tTGh4TUxqWFNlWkFPWnVPTWo2Z1A2NFNQN1pobDhrS0FSV2gyUU9JTWctcg?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-22T13:00:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/Q56PLX6NP5DMDIAAR3AU7KYI4E.JPG?auth=ec19ea1582478ffec76ab61a3de76377e1ec4142965a7ab4d0a9653e32f0e68b&width=1002&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Operativos en la Zona 8 dejan varios aprehendidos tras persecución en Samborondón",
@@ -130,13 +123,6 @@
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/17/6ad37692cfe21.jpeg"
   },
   {
-   "titulo": "Horarios de mantenimiento eléctrico en Samborondón y Durán este sábado 17 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN01GRnMyRmtBNnhGRmFIQmtMcUxYVE1HWlA2NGlvaTNXbE10ZnlaM2xCMm1SWDc0STFNckMyMUVDVXg2MlJDZXc0WVN6Vl9WQ3Njb0w3WFo0anNJdlZJdUFaQko2Tk11MjhFS0N2bk9Dcjl2b0ROdGhBaW5xLWtTYXVDT2NRRVRmQjIyY1Z3UVEwQkU5bVZHN1FWU1ZzbmtGUXBSNWtXc0ZHUG1KdEFaS01WVEJ6MGptd3o3dlNhb252OTNKVHNoXzVXeHY5N2J4RGdN0gHnAUFVX3lxTE5sQkcycWhkeXN1SEgyLUJJYkpYRnlZRmcwUjQ5a29lSlg1SktVd1Y0U0N3aHBiVEFac2hidGRYcXh0Wl96NnhISWhrNFRFOUU1VW9HTDhPWV9FWkVvTWNXLVpSbXZJOFBJdlQ3ZWdiNzNOQm9ieFMzNkRkcDVnQ3l5LXZ2OE5mQ0JnVGlDamVZMnpjVTNWc3VVZ0c3SGxoVWlFQWdKa3NsS01JNG9VZ0x2aWJtU2hWc09sOHZocjNCSWxaOVMzSXZ5a000YmNOaTRzRDVZZTB3bElTLUN2b0RfOFNIdE9nZw?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-17T02:33:34+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/I66HZYVAWFALTPCENMOLQU3BMQ.jpg?auth=4f5079905cce7b4dcc2ec71cc31b882e2aecbc2a90d668df4613923dc76ee6cb&width=1063&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Cortes de energía en Samborondón y Durán: horario y sectores para este 17 de octubre",
    "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDRnR3hYZHJGWHlNVktMcUdOZ1dRY09jSE91T0tJdnRkTEtOSVhYMjhyMENpdUd5YVdfX09MSzlyNUJfaDlrT3BUVEZXR0VCWXQ5R3lBeVFHMjJyZGpMbThGMF8yREtyREl5eklfWjUtVlctNUljVnJCc2tqVERCbEJFSjNyclhacEJ2ODNIUW53MjVQQ3dBc3R1Z3BBWWZzMU1NWE1ua0U?oc=5",
    "medio": "expreso.ec",
@@ -156,6 +142,13 @@
    "medio": "Primicias",
    "fecha": "2026-10-16T07:00:00+00:00",
    "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/10/16/6ad2894df3ab0.jpeg"
+  },
+  {
+   "titulo": "Horarios de mantenimiento eléctrico en Samborondón y Durán este sábado 17 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN01GRnMyRmtBNnhGRmFIQmtMcUxYVE1HWlA2NGlvaTNXbE10ZnlaM2xCMm1SWDc0STFNckMyMUVDVXg2MlJDZXc0WVN6Vl9WQ3Njb0w3WFo0anNJdlZJdUFaQko2Tk11MjhFS0N2bk9Dcjl2b0ROdGhBaW5xLWtTYXVDT2NRRVRmQjIyY1Z3UVEwQkU5bVZHN1FWU1ZzbmtGUXBSNWtXc0ZHUG1KdEFaS01WVEJ6MGptd3o3dlNhb252OTNKVHNoXzVXeHY5N2J4RGdN0gHnAUFVX3lxTE5sQkcycWhkeXN1SEgyLUJJYkpYRnlZRmcwUjQ5a29lSlg1SktVd1Y0U0N3aHBiVEFac2hidGRYcXh0Wl96NnhISWhrNFRFOUU1VW9HTDhPWV9FWkVvTWNXLVpSbXZJOFBJdlQ3ZWdiNzNOQm9ieFMzNkRkcDVnQ3l5LXZ2OE5mQ0JnVGlDamVZMnpjVTNWc3VVZ0c3SGxoVWlFQWdKa3NsS01JNG9VZ0x2aWJtU2hWc09sOHZocjNCSWxaOVMzSXZ5a000YmNOaTRzRDVZZTB3bElTLUN2b0RfOFNIdE9nZw?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-16T07:00:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/I66HZYVAWFALTPCENMOLQU3BMQ.jpg?auth=4f5079905cce7b4dcc2ec71cc31b882e2aecbc2a90d668df4613923dc76ee6cb&width=1063&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Cortes de luz Samborondón, sábado 17 de octubre: en estos sectores serán los racionamientos",
@@ -207,18 +200,18 @@
    "imagen": null
   },
   {
-   "titulo": "Corte de luz en Samborondón y otros seis cantones de Guayas por falla en un transformador, asegura CNEL",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2hLeHBVeV9Rb3ZRNmhIREo1RC0tNU95U1pCWlVwRmZQLUNpTHczZGdGSmlPRXQ0RjI4N1QwbTk4VGxucTZkZVRoQjN6LVdZRGVOdHdWR09JQzBpaEpnZnZKbHJJOWdtOThuMy1STTdMU3l6ZXd1cmo3WnFaZU5hTlo5ZHA4UHg2NmM5ZWpoekpITGJ6RV9tSklYYVFOS1pCQVdvZ1RSRWRHQzhjbmE2enV2N0FqYl9OWmJF0gHAAUFVX3lxTFBPanc2MGVCTUxkdTVSd0NLajNmRzVsUlQzb21lRFU1YVduZERWblBIUzlScEcxNDZ5cnpWLUlwR0loeG5JUE9IbzJWMzE1aUlUQXNBVGp6T0lESW1Wd0JQTnhtbjl1RVZNUmZTUlZESTVtaWNrNDk4YUdpdFBmTTFySF93bHk3YU5PbDh3S0gxTzFCT3ZKelZpTU15N0QyUDNuNVhZbmV1NlBwOTFzUldsb1RBVGRsbkkyNENRdW9SQQ?oc=5",
-   "medio": "Vistazo",
-   "fecha": "2026-10-12T07:00:00+00:00",
-   "imagen": "https://www.vistazo.com/binrepository/778x601/178c1/600d600/none/12727/YPDO/cortes_2754415_20261012125704.jpg"
-  },
-  {
    "titulo": "Cortes de luz en Samborondón y Daule generaron reclamos este 12 de octubre",
    "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0Vvc0tUajNZT1NfYXpIV2xTeng3bGc2R1JHZmEzQmhnUjVvTjFIcHc5RGlKVFpSTHptZnpTTUJvUWN0OWN5QUJPaVlXR2I1QnFiUnBoUk5sYTRieDhWcnVYeW93eGN0bkwxWXR1XzUzWWgzdktfVk92Y2syQWhZWER1NHZzT1pMYVpGS1psRWYxN2Vya1l6RFJPZVNOMG5DN244?oc=5",
    "medio": "expreso.ec",
    "fecha": "2026-10-12T07:00:00+00:00",
    "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/12/6acd1913a1b80.png"
+  },
+  {
+   "titulo": "Corte de luz en Samborondón y otros seis cantones de Guayas por falla en un transformador, asegura CNEL",
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2hLeHBVeV9Rb3ZRNmhIREo1RC0tNU95U1pCWlVwRmZQLUNpTHczZGdGSmlPRXQ0RjI4N1QwbTk4VGxucTZkZVRoQjN6LVdZRGVOdHdWR09JQzBpaEpnZnZKbHJJOWdtOThuMy1STTdMU3l6ZXd1cmo3WnFaZU5hTlo5ZHA4UHg2NmM5ZWpoekpITGJ6RV9tSklYYVFOS1pCQVdvZ1RSRWRHQzhjbmE2enV2N0FqYl9OWmJF0gHAAUFVX3lxTFBPanc2MGVCTUxkdTVSd0NLajNmRzVsUlQzb21lRFU1YVduZERWblBIUzlScEcxNDZ5cnpWLUlwR0loeG5JUE9IbzJWMzE1aUlUQXNBVGp6T0lESW1Wd0JQTnhtbjl1RVZNUmZTUlZESTVtaWNrNDk4YUdpdFBmTTFySF93bHk3YU5PbDh3S0gxTzFCT3ZKelZpTU15N0QyUDNuNVhZbmV1NlBwOTFzUldsb1RBVGRsbkkyNENRdW9SQQ?oc=5",
+   "medio": "Vistazo",
+   "fecha": "2026-10-12T07:00:00+00:00",
+   "imagen": "https://www.vistazo.com/binrepository/778x601/178c1/600d600/none/12727/YPDO/cortes_2754415_20261012125704.jpg"
   },
   {
    "titulo": "¡Captado infraganti! Conductor manejaba en contravía en la av. Samborondón (Video)",
@@ -422,6 +415,13 @@
    "medio": "Diario Extra",
    "fecha": "2026-09-24T07:00:00+00:00",
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/09/24/6ab52efb16e98.jpeg"
+  },
+  {
+   "titulo": "Operativo con tropas de EE. UU. en Ecuador: allanan viviendas en Samborondón",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWR3blI5cEI1bVNveU9qM1B2TC1tdjJFX0VIYjFvb3Fwa3J5ZmUzaWpMcXkwN1JaQTNOMUFpVDFYUWtjNV9kUUwxaHdqRmpzdlh2WnZrcU9Ocm9FT2ktc19Fc0NQVWkzekhBbm1kcG1PUVRtVDlZTXhXc3ZGM3hheGVIbUpicVA0aE1rdHEwRlpfMTBPX3lzcVlLNGVhNVJxTHVuU2dPN2ZIVUxHRnfSAbMBQVVfeXFMTThody1OMjlNQlI5eHlOX0ttVnJwR3dMbmtfZHNma1hDQ2FRbWJfNk9DXzItcmpFSzNTZVJIdFhkakhMS0paZ3lJekZQVjBQelpSXzl2NlRsQ0FGRFJJS0U3N09IWTBVdWtLdktFc1NMR0thVzV6RlpMN2ZaWEJldHEwN2VTSEE2cXRGLWdwSFRpTFdWOXpibUVQRjVuQ1FlajR2U21HcW84YjU5enl0NEo1QVE?oc=5",
+   "medio": "Diario Extra",
+   "fecha": "2026-09-24T07:00:00+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/06/05/6a238a7be0737.png"
   }
  ]
 }

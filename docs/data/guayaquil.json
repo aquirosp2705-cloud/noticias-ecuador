@@ -1,21 +1,49 @@
 {
  "zona": "guayaquil",
  "nombre": "Guayaquil",
- "actualizado": "2026-10-26T00:47:27+00:00",
+ "actualizado": "2026-10-26T05:30:07+00:00",
  "noticias": [
+  {
+   "titulo": "Midón da el primer paso en el Challenger de Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVDB3WXRKV0lPcFFYN05wQ1hocURUalFrUks5TmFsRldpeUFpTng2cENpWE9oSzN5VVdxMjNPdXlFYl9jRXlrOXZRU1lJMl9peEsyeWFvM0hVRUx3cmxjV3RQSnhfcUFRaTFWNUhRbFQtZlZKeHk1Q3hlTWNKQWJoMEI1Sncya3N0M01JTHlhcjZob0RCcmI4?oc=5",
+   "medio": "Diario El Libertador de Corrientes",
+   "fecha": "2026-10-26T04:18:29+00:00",
+   "imagen": "https://www.diarioellibertador.com.ar/wp-content/uploads/2026/10/Midon.jpg"
+  },
+  {
+   "titulo": "Clima hoy en Guayaquil, Ecuador: el pronóstico del tiempo para este lunes 26 octubre de 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkp5Q3ZLZk5SQm9kZnFNcW93QmlpRmstbkxPZmw5NllGaFlrOVgzWFViX190VVljdjRZYVNCT0Fmbk56N2xYcThmQ1M4WXJESnJ1X2pjX3RGR3QwMXFGNUdMZ29Mc2pEeEZ1SEdsdmpLV3BUUHlFbDU4RThiYnktYVRFeGVCd1RLa0R1a01kWk9EOVBqMGNLSUF5TUxYQ0xNb2FmVDUxOXJ2b000bC14SGpNdjMtQVUxcTY2WkRjVjNTZTV4M3NF0gHMAUFVX3lxTE5vT0dwX0Exa1BzX19sN0R6VzctY3VaSkNzZVcwelB5Y2UyVWp5Vi05VXo0Yko5VVZreHVCV3piRFYxTndfZVFGV2pvdnRDd0lmX3pyVEYwV2o0c0E1aXRWTXNQMVpkcWs4Qi1GaHkxSV9yMGJkazJaRWlfMGlLaFIzeEZiM2w3SFZtUk5VSHZZWTctVlgzVFlhUlZPOUdCeS1EdEF6QUkyYWExTHcyVHFWa2NYTjRCbDc1Q0RMcGNrRG5sUkRfYjlqamFaQg?oc=5",
+   "medio": "Clarin.com",
+   "fecha": "2026-10-26T03:31:21+00:00",
+   "imagen": "https://www.clarin.com/img/2025/04/30/D7oJD2O4p_2000x1500__1.jpg"
+  },
+  {
+   "titulo": "Acumulación de agua afecta a 68 sectores de Guayaquil tras tormenta eléctrica",
+   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXNkTVczbnhGRzFzZ3ctUGNHOHprVm9jX19yNVhFcVBFNlN4NWNvcDBUUWJ6WjdlX0oxVld0d0xCWjVubkVaYW0wR24wRXpBWktsTV9wVzBLaG1lNEhIX1FVVnU3U2ZkTnRxVjI0dUZETnBrUHhWcUZPWVhnUGhqYWstY2JHTW1HYVVvQW9mUTUxSW10bFQxcmdwcXdnMDNfcy1Ydg?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-10-26T02:15:55+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/10/25/6adeb7a01145d.jpeg"
+  },
+  {
+   "titulo": "Magadán y Pacheco pierden por “walkover” en Cali, ya que el zacatecano tenía que jugar en Guayaquil este domingo",
+   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSTQydllEMTlZM2ZVaFExak1Yc0ZCeU5VRGNsc3ZoNG1HOEFPLVZHeWlDMDhjaExnZTlyUndvNlBtaXctYUtlU0VNQXhHQldobm91Q3M2RFR4Z0FZR2xLalhnd0h3Y25fekxkQURmMWtCU1laVDlTNzVIVXJNeWRhV1BwTFFIemVCUlpRTFpfdTJ4NGlqNkVPWkhuUnROWE1McG5ZLVVUUDVtSUxpbzlnODdSRXdKeFhMRkUySktGSEd4T1R0aE1zT195Y3FEeXRVeGJFeEVpbC11NGJvTHVWMw?oc=5",
+   "medio": "Imagen Zacatecas",
+   "fecha": "2026-10-26T02:07:45+00:00",
+   "imagen": "https://admin.imagenzac.com.mx/wp-content/uploads/2026/10/1-40-1.jpg"
+  },
   {
    "titulo": "Guayaquil City FC se ilusiona con la Sudamericana al confirmar que le agarro de pato al Emelec",
    "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVlRdUVzdm55SVdJMVNoSW83ekZSQV83LUlTTzVpOG4zTXF1RWJzb1QybVVZQVFDQ2ZiNFNFYUNZLUJEZ3M5dHhaRDhvLW9LSl94eHpoZGRkQnVJRHN5V2VaSnUzVTdUVEJ2a0M2SElsUkJhaXlXQ3ItQjVnVXRCcWVOR2Y0SFpXX0lCZ0lYcHByek0xYUxUdlBIeUJwZ2EwcmltRkd1cldUUlgxcnQ0bnJvNzJTcktWRVY2TzlUS2VueWMxRVhubGRqbVR5UVFLUFZxc2VUTkNrM204?oc=5",
    "medio": "futbolecuador.com",
-   "fecha": "2026-10-26T00:22:30+00:00",
+   "fecha": "2026-10-26T00:23:45+00:00",
    "imagen": "https://www.futbolecuador.com/imagenes/images/thumb640/6bbc130e95ea1b2b9212d4b1f1a31003.png"
   },
   {
    "titulo": "“Esto no es vida”: Bellita perdió su casa por las lluvias en Guayaquil y ahora busca dónde dormir",
-   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbFJ5UlZzQnVXUEpvamNKU1pkcWVESXJTRW1ybjRLb2RmRmRXdjlLeGQ5XzNHakNwNzlEMFBWejQtWFFvYkJrRng0djU3eHh6WlNxX3ZoR1lfUnZrdUlSZWtqZVZubnNIMEVCZmdGVVFZLV9GMExUOEpXVFdyWjR6c0M5SmVYazJaRjQxUHd1aHJja2hBQndjTkJoOTRsUERkd0trejk0UGhzQWlLVmNnU1ZfMVc?oc=5",
-   "medio": "Portal Extra",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbFJ5UlZzQnVXUEpvamNKU1pkcWVESXJTRW1ybjRLb2RmRmRXdjlLeGQ5XzNHakNwNzlEMFBWejQtWFFvYkJrRng0djU3eHh6WlNxX3ZoR1lfUnZrdUlSZWtqZVZubnNIMEVCZmdGVVFZLV9GMExUOEpXVFdyWjR6c0M5SmVYazJaRjQxUHd1aHJja2hBQndjTkJoOTRsUERkd0trejk0UGhzQWlLVmNnU1ZfMVfSAboBQVVfeXFMTk1nSHgyVlFVaEJ6R2FnbktXQUhmdGlUSnNJWVZwRGJ3SWZtNDVzR3luVlNGb1RqWGd1TXpFM1d1WDMzS1ZJN0lFanRqdy02WEh3OWxMbHRCSXdsN3Q5SWlQRXcySVExSW9leVFsZmU4R0JoX2p2dlJqeVhtTURQa0RkVWtHcE16VURrd2ZLYVBQem0ycGZUaS1pTmkzOWQxbmFPUW0yVjVNVk55WWdqcWdmUDNBSVVxNmR3?oc=5",
+   "medio": "Diario Extra",
    "fecha": "2026-10-26T00:11:04+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/25/6ade98efa0401.jpeg"
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/25/6adeb3faf1b41.jpeg"
   },
   {
    "titulo": "Pronóstico del clima en Guayaquil para este lunes 26 de octubre: ¿seguirá lloviendo?",
@@ -102,6 +130,13 @@
    "imagen": "https://media.aficioncentral.com/uploads/futbol-ecuatoriano/2026/octubre/guayaquilcity-dorregaray-emelec-capwell-fecha-4-cuadrangular-ligapro-2026.webp"
   },
   {
+   "titulo": "100 años del histórico triunfo de la selección de Guayaquil sobre el Arturo Prat, de Chile",
+   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMVlQN0VIMFB3R0NzNWthbE5hSDJ3YVJJN014ejJyLXBFbVdVQVVYUzJtUFpiT0ZnNXJjSE1ON2ZCTlp2N2xncHBmYWZaQ1J0ZXNqNTFlQWFKM0k3Nm9UY1RGd3RrU0VlR1pXUWdENWdyQ18tN1BMZmk2RktOZnVLRjVJTUZpMkhKVV92ai1UNmhiZ3lTb282WmtuYjd4am1kVkhpYklJWVBPSUJaTGVWNDJMOVpnTUFhY2ROZnR5QnpMblRfVWN6S2dJME9JMDZTd2Z6dG9TcGxvNDNtaHdHN2doTmZlZ1HSAfsBQVVfeXFMTlM4UTgxZXZGMlVUUmdaQlZQeXA5YlgzS1Fja3F6dHlodnp2WWxhOVNEeGhLcm05aEk2MDhTc0VkODBYQ05LdFA3SDFWRmZJTHotZ18wc0ljazZSeE43cXJYREJPS2JyV1BTMWlJYVlYSVNjUVpQMExZb09vLTJpWnRUWlQ3dmhONFFvNTRLbVhpRHlIT0V1MjMzWHQyczdNaFNBc1RpMW5sb1ljak9qQzhyY0xyYktFdzJvendBdllxR0RmMDhqR2dlbExlb3VfczRfb1NBYXJEM3ExM25iRU1oZTY1cE80UkhVRjhaMXpwMTlYc1R0Z1BTd2c?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-25T20:43:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/OVERADLVQNG6FLVQVOETAZET6Y.jpg?auth=fd00f51496635cedd3a2628930fd5895ffe38cf736bbeff6cda5d05f3feb119b&width=893&height=670&quality=75&smart=true"
+  },
+  {
    "titulo": "Operativo en Socio Vivienda 2: cuchillos, sustancias, chalecos y otros objetos hallados",
    "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdEJJdFVtZEh1RC1rZHFHU1EwX182eWJBNkdsMnljUl9OdVZDb2s2S0I1bGlPZ2U1THJiVFhMOGtmRmZUQjF5NS01cWM2dW9nRWJFVGozMEFfQ3VpbWs4eGVGSXo3Z08tSnZPUHN0c2xlSzhRZFp5UUc1OWMtZ2U1ZkNxcmtRWmFXbmYtdm5iWXhlcTVTQmt6Y0lHci1kWWdv0gGmAUFVX3lxTE1HMzgwU1g3bG1BTVp4M3VQenpmRnFLM0xmaVU0czhpRkxVUF92SFZ2NDJEVXQ2RndzQlk1VVpHenZ3ckNOb1hZeEUybW8xQnhGaGdoUXRpV205YU91MEZWY1ZyT0M2X2o3TnhDSUtCVE50Ym5uVFFTcXZtTDhHMGo2VUNOX0F2OXVadTJ1bEVtY2xPcU5GTG9qTE1PR3pXNi1Lbl9QNGc?oc=5",
    "medio": "Diario Extra",
@@ -123,13 +158,6 @@
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/25/6ade60975b185.png"
   },
   {
-   "titulo": "Emelec vs. Guayaquil (25 de Oct., 2026) Estadísticas del equipo",
-   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcUNONjZPdFh3QUlRdXA3ektkTGphbEZvSVpNcUwzWEY0OENWRXlKb1l3WkEteldlQWgyeTg0Z3A4SFppTzQ5ci1mbl96NXZtYTRicmV1WlBCNGU2X01qekkyNlJuTmFpNXp2cF8zNjJsNzJhMndtTGl1OXNBZzRHenkyV090Zjc1WkE?oc=5",
-   "medio": "ESPN Argentina",
-   "fecha": "2026-10-25T19:05:14+00:00",
-   "imagen": null
-  },
-  {
    "titulo": "Emelec 0-1 Guayaquil (25 de Oct., 2026) Estadísticas del equipo",
    "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbjJNdnlEYl9BTVRoX3AycUw5clNlNlhCZTlZNWpXZ05NVUhwMGNMSUFTMEZxMHpsd1o0azZ6ZTZGNmp4dnpkNGdPbHpySlVxZmh1Wno2a0Jmc1cxT1pPWXNjWjZfUTRkdjhuRXJQNi14TVJ1Nk9zZ1dFTU1uZURtdHFReU9SRF9xUzNQQVVzUkV0QQ?oc=5",
    "medio": "ESPN Deportes",
@@ -137,11 +165,18 @@
    "imagen": null
   },
   {
-   "titulo": "Bombero ecuatoriano viajó 28 horas en bus para llegar al casting de ‘Yo Soy’ y sorprende al jurado con imitación de Victor Manuelle",
-   "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQc2F6R0tnSXFlTk12RWtYdUwxcDc2bGh4b2FublU0bEF2S1M1MUZza0d4MmNxcjRYb05ESW9GdXkzaUVFTkRTZ3hmUXMxd1M3OGZ6YUk3a1RhLVg4cVAwYm15Z0dtclQ2ZXE4S0lxbnVoaWJaLU4tOWxQWEhkNGgwRVZTdDBPNHZUTzNldlhEUm10TWlHc0wzUnRVRFN4ZUV1UkpMdjVfVXh2bnQwWUtQRjFGYWFick8zbmVzVEhPdS05XzNtbGQxUFZPU1RVdEJGcUNObVVzVGpXSXc5bTN6N2RsMWsxQkc1ZlhSREhPLWdHMHZQVXIyajc3QzYwdmPSAZoCQVVfeXFMT0xDdTRMRW5VUl9BalZZNG40NEg5LUx3LWQ5NS11TXRfWkdxanhpNzZxOTd2ZDJMc2RURUM0djhQS29aR2QtTE1DUlk4WWFLQ05GdkxJNDNvWUJtRmg4Wm1wbDhPb3dEbUtNQ1UzNk1URFZiRlpkcjR6dXBLdzRrTG1TZ2podzVuaU85aFdTYjQyZHIzb1d1Y3ZnbDlzSi1qNUwySlFSMWFZODNDZThFNERoSFRvWnFaOHVYbE9nd3kxc1ZIUDZYODZFdXAyNklMN0Vla1AzMGxIaGFmZFVZRFNSYmd2bE44MXdLY05US0ZmZjRkVlVrc09Xb3dGSDhNRDRvOWFiRHVSUWJmZ1NkTllienAyUGpDX0Jn?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-25T18:48:05+00:00",
-   "imagen": "https://www.infobae.com/resizer/v2/5HFX4LB5C5CMLLDHTPOPGQA7FM.jpg?auth=f0d13e8c5afd38ca267f99c4ba672adbe17b758adb5600bafcaad548c9936c35&smart=true&width=1024&height=512&quality=85"
+   "titulo": "Emelec vs Guayaquil City EN VIVO: resultado y minuto a minuto",
+   "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXZE9GMmFZMVpQMWMzMUhsSl9QWTlNM2xZZ3Z3bTV2S09Ccnp3WlVNMVdzQkExRHBaZlZ5RGdWY0R1aXdzR2tJQU5fa05Ua2x5WTJ6YkhfNlNqYWQtOUdoWm42WDBaOUFPN1ZCNXV0dDJXQVllR08zdzdqZ3RuWTg?oc=5",
+   "medio": "365Scores",
+   "fecha": "2026-10-25T19:00:16+00:00",
+   "imagen": "https://www.365scores.com/es/news/wp-content/uploads/2026/10/4856529_live_ES.webp"
+  },
+  {
+   "titulo": "Emelec, obligado a ganar ante Guayaquil City para seguir en carrera por la Sudamericana",
+   "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0xKWnVxZlZJSU04R1NlSlhQMXRYVjNrUjQyRWVZOU1mZGhyWTIwM1daQWhwU0JfN1BUVXV1b3ZaWmpTUkZSXzR0ZlQ0YTNKZ19sVTU3by0zYnRQLXM4R210T1psYTN1WkdveElTak5waDhNdi1nU25DWkN2ZDVNUXlnZk9oeFRMOTgzdkk0SmM3Vlhsd0JnLUxDcFBsNjhpR2pkYWtlWkFOXzc3OXdFVklPd29GWXMxVEZuT0hQUWZ3RG9OMjJfY1IxMkZzZ3duem90MDBJREY0aDFpMmFycVlZSTFlUdIB-gFBVV95cUxNVUpFVGJybkF5UkJJY2U3TV92eGlyTW1PbXFMU1VLbHkyZlYtUHEzYjFlX284SVZuQlJNNzZ2cEZDaHhDTzhZM2pfNlZCbTRqMTFkREhwaVpsY0Z0U0MzcmozdDBQdlhYb2g3Y0xTaG1ScUw3RkJhbEpoRE5IMDhhM0JyRW0wd1NpZkRkdVoxbnlwYkxnLTBfcjZyYml2a3pVVkd1bGt5SThZS0NLX3dQOGw3ek9EanktaGpDdFdfOTg3X1laYmlCWVJmd0N0M2RweGZVcy1nTGlvMXo5MHNuZTZkMm5qNXVsa003SFBVeG9YRkVqYmx5ZUFR?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-25T19:00:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/QFZOEHHBWZEHFHXUU5HFUCPNOM.jpg?auth=d6dbd83cca57f4447f7de1315960f4fd79a79fa27308863c4cc60bd07b978af7&width=1000&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Kenia Pérez, de Guayaquil y radicada en la ciudad, cuenta cómo empezó como modelo mientras estudia comunicación social",
@@ -149,13 +184,6 @@
    "medio": "NOVA La Plata",
    "fecha": "2026-10-25T18:33:08+00:00",
    "imagen": "https://www.novalaplata.com/data/fotos2/bbx_b6759a462cfe66a25e46ab53fff0e7cb.webp?v=0.125"
-  },
-  {
-   "titulo": "Comentarios en directo",
-   "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByMEVWVW4wc254dEttY3ZuVjhJaEZVRkhkNG5Mc0phOExnanNHNGpkRmFLdWpVX094WU5qaEdOYVJmUWQ4QzA3a3dLNFdlcHBNWnpJYkthRFh6Ukk4QkVxaEdUTG45cXJ0cHc?oc=5",
-   "medio": "Transfermarkt",
-   "fecha": "2026-10-25T18:28:53+00:00",
-   "imagen": null
   },
   {
    "titulo": "Ver EN VIVO Emelec vs. Guayaquil City: dónde seguir por TV y ONLINE en streaming",
@@ -186,13 +214,6 @@
    "imagen": "https://ecuador221.com.ec/wp-content/uploads/2026/10/guayaquil-soporto-la-caida-de-114-rayos-ayer-sabado-ecuador221.com_.ec_.jpg"
   },
   {
-   "titulo": "Calles anegadas y árboles caídos: los estragos de la lluvia que se prolongó hasta la madrugada de este domingo en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaGJhUURCSWVDOUNxU3Jsek4yaFJONUdSaWJmeW1vMVFEWVVrdWN4WVlCeFRvY1g2VjgxRTdTaUJadWwzR0lWVFFjRVVjRU5yVS1RV0h2Qk1FTktHUElCa3JBZnpvWFVhMTNpcWlwMFRET2RocVZFVUJjWlowV1RPV2FGOEF5bHZDUGhydUljNGtVZS1aUTk3ZTN1WmJMbFpYXzRGMUNiV1VCSEZTejl5TmxYZm56eGdydHctV3hJTHY0Z2pZMW9acUk2VGtDaWVqRy0xTXVZSDNtNmhETlpoeUJfWjdxUjRwVG1tSjU3THI1Qnh4QnJpdy1aQWg0Q0MwS09Yd0FR0gGaAkFVX3lxTE9MUElhS3FBM0h6WTQzNTYzVXZzYS1hVVpicnp3WEY0aDk2VlVQZ08yN0VZcW9rUy0xWFJJM2VramFITnFzY195M2tmdDN0RjJ3NWx5RktDYnAyM2Vsc0hMYTRONVJnZDdXeHpCcE5Dak81YWZ0V0laMFZjbzNLS3lHOEFCbHVnZ1p4VTNRTUR5bkR3UkI3T21pU3Y1cXpGVk5Obi10eTktMUZKQm9HRGN2dlVvcTAwRk1fZUZfOG50b0d5Z1Noa3RQOUNMTzFSN3hIeG45d3dZSDdWSDl0eUdITm81a0JNdHN5OENGMlJwaFhKMWtkaU9qWDJsLVdnWTZuNk43WHppUkFZN216U0h0QnRCMFBZd3BGZw?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-25T16:12:02+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/R7FGJM2G6NFHRLMK5UVGZTFMQE.jpg?auth=44296f89d40f5465fbd31d7e904f48fd8688213380c9a2bbb9713f3526251399&width=893&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "¿A qué hora y dónde ver EN VIVO el partido Emelec vs. Guayaquil City de la Liga Ecuabet 2026?",
    "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMFpLdHRzUGNES2dfZ3dJQmI2YmptejlaUWlZSXhISEQzSzQwOGdGdENmQ3hPV0FGTmsxZ2ppUW9tampPYlJjQWVRd0tZUjhibF9wclIzdXktMjBoTUIyOUF3ZlROQ0dLdm40OVMtbDBVTl9NN2lqUy1qVXhoWmo4YWpydG95cVl2a045S0hQT3hVTlRwZzZSbXhwaExWcUZacTlJTVBKWmVDNW4wbkFrX2xQeWhvRHlDRVpsM2pOSFdKRm1vak0zdEhjMFNOeHpIWVN1VmlVM05TMDRVN0ljYm11TlgxeGtaNmVN0gH_AUFVX3lxTE5ybGtUYXZCQ2hRZTNCY0JNMnNpMnFWQzkteERUMUNsVkkzblZRQ3h3TEJpT0g4V0lYT0UzT0l6Q3dfTnN6LXNuS2FIOGpNT1dEVWdXeDR6dDR6TUlpT3U5ZGd1TWhwdnowUUxJS0ZnTkMtLVZvaVo5N2ZrQjJWQUZ1NGc5LUNpVVNMc1hFeDFDNW9Kc00yblp3T3BOVDRfQ0hhTDZTWmVkX2F4d3ctR2g2ZHlVMWdaSjQzbWY3akR4VlN5NjdYeVpaaGVPTUdaeXBJZTFlWGhjMDJHQk1XQjdjamlMOUNhVjZyMlpQUDFYMjdWS003cG1XLVdISHFtQQ?oc=5",
    "medio": "El Universo",
@@ -212,13 +233,6 @@
    "medio": "El Comercio",
    "fecha": "2026-10-25T15:48:16+00:00",
    "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/Diseno-sin-titulo-10.jpg"
-  },
-  {
-   "titulo": "Rescatan a una cría de ocelote en Guayas: ciudadanos la llevaron a una unidad policial",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa2VoZzZIcUZqWTMzdDE1dS02UFRmdUtNZ2NMVTJTSWVaUlJISVNPQlUzeS04c1U0VjlTc003QmU4Zng0X0pNaEhscFh6OFZ2T0x4MS0zaV91R2JGaGpNRHlqQ2JOMGJ3ZlFoZ0FsTzROelZleG5kaklESnRNeGxOVUFiU0lneUZLTy1yWmtiRHNPbXJXYjcxNW9HSEJUdEhRUEhaYUw2cVV3WVpRS0hhMXBVeDBuZ9IBuwFBVV95cUxPY0s3MEtVOUZ6QU9BVE9UZW1YaDBYVFpXdkZyZ1dudzVnNU9sdS1yV1BDcnhYWnJNdFh3VnV5NUxlWlB6TXdlaUJqamxnWHRkVm1PQ1NNSThVWVppaXpKenZPSmJReG9CQlM1T3RvS2VmeUo1NVRBLWJ1aF9zbFkyZVRGMENRNnBwMmJUT29RSWVybC1PWkpJVUROVndqN2JSTWtIb1Q4d2VnQ1pSNWNDRG85QkkxMTFBeXZZ?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-10-25T14:36:45+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/25/6ade13f1d3020.png"
   },
   {
    "titulo": "¿Qué opina acerca del reemplazo de las palmeras por árboles nativos en Guayaquil? (O)",
@@ -242,11 +256,11 @@
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/25/6addfca047511.jpeg"
   },
   {
-   "titulo": "Emelec, obligado a ganar ante Guayaquil City para seguir en carrera por la Sudamericana",
-   "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0xKWnVxZlZJSU04R1NlSlhQMXRYVjNrUjQyRWVZOU1mZGhyWTIwM1daQWhwU0JfN1BUVXV1b3ZaWmpTUkZSXzR0ZlQ0YTNKZ19sVTU3by0zYnRQLXM4R210T1psYTN1WkdveElTak5waDhNdi1nU25DWkN2ZDVNUXlnZk9oeFRMOTgzdkk0SmM3Vlhsd0JnLUxDcFBsNjhpR2pkYWtlWkFOXzc3OXdFVklPd29GWXMxVEZuT0hQUWZ3RG9OMjJfY1IxMkZzZ3duem90MDBJREY0aDFpMmFycVlZSTFlUdIB-gFBVV95cUxNVUpFVGJybkF5UkJJY2U3TV92eGlyTW1PbXFMU1VLbHkyZlYtUHEzYjFlX284SVZuQlJNNzZ2cEZDaHhDTzhZM2pfNlZCbTRqMTFkREhwaVpsY0Z0U0MzcmozdDBQdlhYb2g3Y0xTaG1ScUw3RkJhbEpoRE5IMDhhM0JyRW0wd1NpZkRkdVoxbnlwYkxnLTBfcjZyYml2a3pVVkd1bGt5SThZS0NLX3dQOGw3ek9EanktaGpDdFdfOTg3X1laYmlCWVJmd0N0M2RweGZVcy1nTGlvMXo5MHNuZTZkMm5qNXVsa003SFBVeG9YRkVqYmx5ZUFR?oc=5",
+   "titulo": "Con cáscaras de coco, cañas y piedras se cubren baches profundos en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzR5WS1OSmZFb1VmU2p4M1lYcy0xNERGMEhhX29yZGptTFNYM2txelpKczBIaXNtWTZrazVxNm4wM1ZyNUg5OGdBMVNjTzE3ZDRJTHVTZWdpelc5OUk2eVZCdnlya21sZWoycjdKdmEyUi1PYU13NlAweTdEODhRbzNCaHlVNnpHNDlZQ2hlSEEtbThPMGUzR3B1X1hvSWdRV19Ec19Da2pJQWc5d2VCbTRTdVVONVlremFFMUtHUFVGeXloTkE4VdIB3AFBVV95cUxQX2pEdzNSdlRxTVlCVlhTYzktQ1ZsRVR2Z3hMNUttMExQNm5KVTVrajlKY2tDY0FuLVNvSVltdW5ydm5wejNnZDIwXzdRa2FoQ21SNGFrbWpPSWFyT2cyWHlIRTJFdWJDeUFEQzhxTGFpcVV2TjN1N0Z0WlpwamVWWnN3a0U0aHdZVDNSY0ZwUUd4Y0ctSGVrdjdsSEFscDRFYzEwMWRpSnR3TXRLUjhvMWV6eHFUbmlIck03M0lwOFNGYkRVQlRhN3dHc3k3V2JEWHhuS253RllNRHRL?oc=5",
    "medio": "El Universo",
-   "fecha": "2026-10-25T11:42:14+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/QFZOEHHBWZEHFHXUU5HFUCPNOM.jpg?auth=d6dbd83cca57f4447f7de1315960f4fd79a79fa27308863c4cc60bd07b978af7&width=1000&height=670&quality=75&smart=true"
+   "fecha": "2026-10-25T11:32:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/FEX5XXDNL5ATTNFUV5WCNROWOI.jpg?auth=e980f73fba2bf4ecb00f00f569674df530960c07008bab603bd54661037309a5&width=893&height=670&quality=75&smart=true"
   },
   {
    "titulo": "“Casi me atropella un carro”: peatones arriesgan su vida al cruzar tramo de la avenida Francisco de Orellana en Guayaquil",
@@ -256,11 +270,11 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/PFLXHFSBCFG5ZKZRF7R35NAZ44.jpg?auth=bdd211b08ec971e748b55f59ce6c879a49cba966bf9d2d5f7b56ae3fda40fe3a&width=893&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "100 años del histórico triunfo de la selección de Guayaquil sobre el Arturo Prat, de Chile",
-   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMVlQN0VIMFB3R0NzNWthbE5hSDJ3YVJJN014ejJyLXBFbVdVQVVYUzJtUFpiT0ZnNXJjSE1ON2ZCTlp2N2xncHBmYWZaQ1J0ZXNqNTFlQWFKM0k3Nm9UY1RGd3RrU0VlR1pXUWdENWdyQ18tN1BMZmk2RktOZnVLRjVJTUZpMkhKVV92ai1UNmhiZ3lTb282WmtuYjd4am1kVkhpYklJWVBPSUJaTGVWNDJMOVpnTUFhY2ROZnR5QnpMblRfVWN6S2dJME9JMDZTd2Z6dG9TcGxvNDNtaHdHN2doTmZlZ1HSAfsBQVVfeXFMTlM4UTgxZXZGMlVUUmdaQlZQeXA5YlgzS1Fja3F6dHlodnp2WWxhOVNEeGhLcm05aEk2MDhTc0VkODBYQ05LdFA3SDFWRmZJTHotZ18wc0ljazZSeE43cXJYREJPS2JyV1BTMWlJYVlYSVNjUVpQMExZb09vLTJpWnRUWlQ3dmhONFFvNTRLbVhpRHlIT0V1MjMzWHQyczdNaFNBc1RpMW5sb1ljak9qQzhyY0xyYktFdzJvendBdllxR0RmMDhqR2dlbExlb3VfczRfb1NBYXJEM3ExM25iRU1oZTY1cE80UkhVRjhaMXpwMTlYc1R0Z1BTd2c?oc=5",
+   "titulo": "Calles anegadas y árboles caídos: los estragos de la lluvia que se prolongó hasta la madrugada de este domingo en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaGJhUURCSWVDOUNxU3Jsek4yaFJONUdSaWJmeW1vMVFEWVVrdWN4WVlCeFRvY1g2VjgxRTdTaUJadWwzR0lWVFFjRVVjRU5yVS1RV0h2Qk1FTktHUElCa3JBZnpvWFVhMTNpcWlwMFRET2RocVZFVUJjWlowV1RPV2FGOEF5bHZDUGhydUljNGtVZS1aUTk3ZTN1WmJMbFpYXzRGMUNiV1VCSEZTejl5TmxYZm56eGdydHctV3hJTHY0Z2pZMW9acUk2VGtDaWVqRy0xTXVZSDNtNmhETlpoeUJfWjdxUjRwVG1tSjU3THI1Qnh4QnJpdy1aQWg0Q0MwS09Yd0FR0gGaAkFVX3lxTE9MUElhS3FBM0h6WTQzNTYzVXZzYS1hVVpicnp3WEY0aDk2VlVQZ08yN0VZcW9rUy0xWFJJM2VramFITnFzY195M2tmdDN0RjJ3NWx5RktDYnAyM2Vsc0hMYTRONVJnZDdXeHpCcE5Dak81YWZ0V0laMFZjbzNLS3lHOEFCbHVnZ1p4VTNRTUR5bkR3UkI3T21pU3Y1cXpGVk5Obi10eTktMUZKQm9HRGN2dlVvcTAwRk1fZUZfOG50b0d5Z1Noa3RQOUNMTzFSN3hIeG45d3dZSDdWSDl0eUdITm81a0JNdHN5OENGMlJwaFhKMWtkaU9qWDJsLVdnWTZuNk43WHppUkFZN216U0h0QnRCMFBZd3BGZw?oc=5",
    "medio": "El Universo",
-   "fecha": "2026-10-25T11:00:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/OVERADLVQNG6FLVQVOETAZET6Y.jpg?auth=fd00f51496635cedd3a2628930fd5895ffe38cf736bbeff6cda5d05f3feb119b&width=893&height=670&quality=75&smart=true"
+   "fecha": "2026-10-25T11:27:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/R7FGJM2G6NFHRLMK5UVGZTFMQE.jpg?auth=44296f89d40f5465fbd31d7e904f48fd8688213380c9a2bbb9713f3526251399&width=893&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Amenaza de un fenómeno de El Niño histórico obliga a negocios a subir muros y a instalar compuertas al norte de Guayaquil",
@@ -305,25 +319,11 @@
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/24/6add67ca9338d.jpeg"
   },
   {
-   "titulo": "Tormenta en Guayaquil deja más de 60 sectores con problemas por acumulación de agua esta noche de sábado",
-   "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmRxdkZCWFBWakNNYUFKcGw5b29pODMxTFVWc2lkOEdCaVFydXJxeEF4UzJOQ2RmNk5ibzV2ck12ZFdaLUxwQ3VFbi16djhqZzl0eW5JMUI5OVdMVS1DMi14Qnhmb08yZVFGOG1Oc0g4TllMd2xHajh2NlBRZHpnZXZhQ2xBcjdnZXF5RThUZ3RBSVI2M095Wi0wQjg2Zno0LWNFVzVMZHcwWnpJZEF0RWtGNXhuZnNvN1VlZHlkR2R5dWZqZFN2MTlSU2NCdzZwbkZtSjk4ZDlMemVaN08td3hpME1PQTJ6eFJNLWZn0gGCAkFVX3lxTE9ta2dEcHk3OHVYb21vTC1ESzFFYV9TSWZodU5CQnU2eHJYWU1mV0x1TkQteklYTkJKWGpmWlZqeW12dGZBaWlDTHl6b1pwVV9la3Q0aTlnc3NzNFhOYmJSUlB2NG5PYXNsV1pOMHRDXzVwMlp0X1VfVFp6ZEdSOVNJbkpNcklWNjJmQkRja2Rnd1hySGEyY045SHdOQmp1S2hRbkpUczJZMVB6NzJIWWk1clBEUWhMc0lhemtxeWcxQWZPUEZEUmJkVlBRUFRhalhWLXVpRVFsYmoxYlh2STBNY1Vqd19SczRPYTN6TGpHcTJKX0EzOGdHbkRWUmRrbHJZUQ?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-25T02:11:32+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/ZJ7P5Z3AMNFSDNESIATVWKCNJE.jpg?auth=bccb5b901c169d837a8333c8d3bc2ae86751736eb084ba9355566a7063156eea&width=1129&height=647&quality=75&smart=true"
-  },
-  {
    "titulo": "Lluvia en Guayaquil: estos son los daños y los 22 puntos afectados este 24 de octubre",
    "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaTZZQkgyeFhjWVRrTzFtdXJxQ05SLS1vWTNxVndlM0lsTm9ETTZkRUNaYnI0b1R3OUttMF9VNC1JTGNoZm9LUkRHek5jbEJhajlaVDJRb3k1STFpQzZDUndxU25hSXkxVnRSYW5PWGpoblVabGI3ZjNSTzdWZEI1SmFPdjM2RWVfamp0bjJJc3NJWXQ0ZkJVVHJBX1hmTGVnWTM0OVBJZUtJQ0hL0gGyAUFVX3lxTFA2Sm5rUHJ4R3FoVGRFTDlTckY1OEg0LS1JbkhUMU9FYVZ6UG04Y19JQUZLd1JLbzlwRmVkaHI5ZEMteFM4TWtLc1Qwel9ubVRONmhTajJVZEEzdjRSemdSVUFKNnBuMmV3cTB2SzJWd0pkMFYtcDBhOVdoTVlzMGFXWWVPZHVzT1F6QWdyYXc2c21oQllMLV9fUW9ZeXk3Mnh6LXowTHltNVcyem4xOVVCTGc?oc=5",
    "medio": "Diario Extra",
    "fecha": "2026-10-25T01:48:03+00:00",
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/24/6add5e26d2205.jpeg"
-  },
-  {
-   "titulo": "Atacan con machete a 14 árboles en la vía a la costa de Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZFRRZTF6bV9JT0kxVGdsQ2FEZ1Q4eTZ4Mks1ZGZsM3lvNDlrZ2habzdfOWc0U2RsSm5TeTQ2Q1c0Zmt6TXEwcTVMRG1OVG5vYjE0cFEtbkRjODdQcllxdnJudXhKeFA1OG5PVjE4VjI1aExIeFFzN2twS3hBa3IwTG1qb1paeTkyaERMc1ZieVc5bG82OEd2ek1iVDhHendINmtzMDliaVNEbXQ5Y20zbUx6WUZHQS12dERBSThFbG12MGVBUDFGdjBmUGNtLURWSWN2R1JfYWNuZGlka3NrcXVnbXZtdk1CT3llYTdrM1FFVDd0Wlo0MDROVjktalJDVmNUOTR0d2hSUUlXeXdUM3doOFpYWEhR0gGeAkFVX3lxTE1jMHU0bzRTTFpVbzhWQld2UjRQSjVKQW0tejhuYVQwTkcxWHk0SjE3OWNiWG9aY25OSU91Mzh4VGZoWXZCOTRnMWg3ejJieURhTmk2bFlIWV9iUTAtM3M0MXNoSGdBd0FIX0NRSFRaOFpVcWlpamdnS2xNVkVqLXdUdnFTcW5ER21vUGl3cUpJNms0eEh3c3BrZUJEQnkxN2l2TGVkZjJqU0Y2U2YwTnZlZjZpUllhZEctLVoxeFBmQkUxWHZEaVJsRGlaTXZMcHhtRllTblROaW5yS29RdmhERjRQNEFaOWxiV3dYSlNQamhxX05EN2dPWkR3QWRrcy1JeW9wUDFLSlJBblVVNElkN2lZbk5seFp2bnYyclE?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-10-25T01:39:35+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/files/fp/uploads/2026/10/24/6add5dbeadfb7.r_d.1728-2592-3472.jpeg"
   },
   {
    "titulo": "Lluvias intensas y tormentas eléctricas afectan a Guayaquil y otras ciudades de Ecuador",
@@ -352,13 +352,6 @@
    "medio": "El Universo",
    "fecha": "2026-10-24T18:44:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/UWHXB4QEABFJJPXQWZUUAXTLEU.jpg?auth=101f1a5f6d33749a0576fadc32fa60dfb3eced5fa4de739f5190164b612ad950&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Quinto Puente: avanzan los trabajos en Guayaquil con cinco frentes activos",
-   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc0pBX3VHWkxEYUh1bVhQTlpHN2N5N2ZBZFZPeXYwZ1BFRWttbW45NkpMLVk0bEpYRmdwcWpkYjUtbUVYc1RzMUYtNHNOdHZqdjRYZjJRU3hUVmk5RXIybnFvUnUtcGtwQlBsUTBLUGRZampZNlM3QkN3dmZ4ekIwZkw2dWJfd2JsdW4tOGpHa1RLS3BXeW1IUG9mMVdqaFFyMTlNaFRxWS1oZFRlRUI5VE4zdlVMbkZiS1BVUmdMdWpqekHSAdcBQVVfeXFMTjJIOTQzTjdPSHFYejk2OTdibFh6UEpTbTRhUkxCcUROTlR2bjJLVklSSzQzQXNidFNUcUg2dExQZGRmTU1ZVkNjOHBRWGhxazVHcVY2Nm5OWWVSRUo4QjhSeF9DVjdqS1doZHcza284ekZyWlFZVHl6NEkwY0N4V2R6MnE2SUtIWFg0YVhRbnZOOGxZRFdMRXRBTmZsb0t6VlY3ZEdhbTBDRkFMYlJnVG9JbG5lSHNIRGx1SWZYcnZKY3Y5SWhFc0tKNlU1azJYUWE1TGltVEk?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-24T14:30:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/VXWUNY7YORBXPJMSX7A2IBGNF4.jpeg?auth=bea63f3a164a9a9c608522fbabcbd920a43a5aecce2b5417b7627668cb3cfef8&width=893&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Clima en Guayaquil, Guayas por horas",
@@ -396,6 +389,13 @@
    "imagen": "https://s.yimg.com/lo/mysterio/api/1de01aac78962fc8ab52b8f788f330fa4024c45ae68119cca8ee2d96fc485461/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffrance_24_videos_es_latam_956%2Fa3cb5833831a19c4ed7f2c6f357a0b01.jpg"
   },
   {
+   "titulo": "Mujeres 360: la iniciativa de una iglesia en Ecuador que busca dignificar el trabajo del hogar",
+   "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONkEwRkR0RlJmTnlWbFRBRV94VWdtUjR1ODZCUXlCVVFGU2pPRFNOM2FMT3IwQVhKR1BzRnRlU05rVWdFWHhUY1hnZ3dQYjYxU05wdDNDUGs3M0RtRmRKTHB4UVRPekVCdms0UnhOWkxBb2JWOExuaFpSTnN6WWF0VDE2VG5sMmV5ZzhXcjE0UQ?oc=5",
+   "medio": "EWTN News",
+   "fecha": "2026-10-23T23:58:00+00:00",
+   "imagen": "https://res.cloudinary.com/ewtn/image/upload/c_fill,g_auto,w_1200,h_630/v1792794040/ewtn-news/es/Mujeres360_231026_o2bx97.jpg"
+  },
+  {
    "titulo": "El eje Guayaquil-Lima",
    "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMNndHa1I4RWt1YlpLdFN2NmxUZmdnQTVzd1pWcFlCb1p1QjlyNEJUTlYtOTQtaEVpVFk2cGVRcVBCamdOYVAySUxpbDJ5cEhlUktXV0VhRV9OMWRvQklzc1FoM0VlbXBCeU94V0czNzNSTW8?oc=5",
    "medio": "La República EC",
@@ -417,11 +417,11 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/6IARIWFDURGSTE5OAMOA2XCEYI.jpeg?auth=489bd96ff9b85a71d2b69df0e8dde5c7c915469ad7fea649456f6c63160b1963&width=1005&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Lluvias en Guayaquil provocan acumulación de agua en al menos nueve sectores este 23 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGppNHlzT3NmS3hhX2Z2dmc5TGtWd0k0NjFxcENqNGhBNjR6WmtjTmZyeWh6X3V1TGtzdnp1S0NaVjJDRzRtakFKZDFXanZSQ2hoN1pqZ2dYa3hmano5TmJzb2ZUc1diTUZ1NzFRc2p3ZndIZ1RzbVE0cHdOWW9ncm41UlVVSFpjNDNWcUFXVEtDOXRoMTA0UjFXMmJLcy1DRHVuRkRSZkhhZVl5eDltc1M3bw?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-10-23T21:27:50+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/10/23/6adbddbda1078.jpeg"
+   "titulo": "El fenómeno de El Niño inicia su fase de mayor intensidad y se aproximan lluvias más fuertes, alerta el Inahmi",
+   "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRHFRNjZSMnVHaDZWRkg1em13ODB3Uk5oR0h2bXVNUXBILXI4SEp3VzQ1MzlZWjM0d21wV3FCTlFJTlp0VXp2VjZvc1JNM2ZXYXhmdnRGOHRaY19FMzJCMlFZVUZoUG5zbzFTX01vX2FQREJaTFI1UHh3UlNCbHR0WWl4UHZuVm02dWNicl8teUtqUlg2X2NQQ0haOUZFUGdsUmhkMnZKaTFFQW9MdjAxbzJ0Rkg3YUZlclAtU0VjRFVpc2V1VG8zTTFmdlZZVGdwSENSMUo4NzNELVlzbnBuUkxPeVRlRkRybmxlck5hMDRXd1Bu0gGIAkFVX3lxTFBqOUVtVWt4NTFMY09qcnF5UXdsbzVPc3ltVDZBTnhYOHh3SnlxdHlvYkZIaXk1djdIWEtSNHdqdm9QS01STkdBWXdvUktsRktCNjY3YTBwQlNJdkVCX1VWTEI0dTlyYS04dlpyQ3Y1OXkxcFRhX2hiZ2lwOVlyLU9OdXRaYWJodTJpbzlaRmpSbU9Nc0JmNk9RUFB0aTJPbzd6Q1pOUzZfdXNNd09ETG5YRjhhS2hmaS1udWJrM2FWM3loSlY4V2haLVNsOGtOV216czc5S1dqM2NxQ05ZZ1lqeThWa2Z2Y294WnV2cWc3Z0Z6UVpuUkVuWklXci1Bd3BoRTVDSUhBRA?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-23T21:29:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/AFU4YOGHTBGTLAMMMW3OX6KUTQ.jpg?auth=8d0054a4546b1351ec18e2ab7df4b250e23f1478d2ac03d8eaab363c26420c2c&width=1005&height=670&quality=75&smart=true"
   }
  ]
 }
