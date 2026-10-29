@@ -1,14 +1,322 @@
 {
  "zona": "internacional",
  "nombre": "Internacional",
- "actualizado": "2026-10-29T03:03:10+00:00",
+ "actualizado": "2026-10-29T10:29:00+00:00",
  "noticias": [
   {
-   "titulo": "Turismo internacional en Cuba sigue a la baja, con el 34.9% menos hasta septiembre",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzRTMxXzM1YW1GQ0xjc19GaTZmNGJrX3lYMzRPVzg4cVJVUXFwbzNsVjRHZlQxTTRIUlIzaHV2ZUlvc2NEMGZnd2tPVElCUXc?oc=5",
-   "medio": "El Comentario",
-   "fecha": "2026-10-29T02:50:50+00:00",
+   "titulo": "La prensa internacional se hace eco del trágico accidente ferroviario de Urda",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTVJxZ1JocXY5VnhJOGxkSjFyX3FxcW1jZ3FvTTd3TktTUHF0Sjg3dUNtWTU3aXM5aW9QU01XMFRmbGlRQlloclBxTHB4Y25WQ1VwWDRKb05uRHl4TklfZi1GQXZIZ2JfUWItOG5kRC1OdW9PWWR4R0dKSzZoa0xzMjZ1ZGRYRkltMFFiY01BRzVoNWg0cnIzRTVVM3BoZldUSnQwajRaVkFHaVRJcTViSmRnelBCVlp6TFdPTVA0Wi0?oc=5",
+   "medio": "Tribuna de Zamora.",
+   "fecha": "2026-10-29T10:22:12+00:00",
+   "imagen": "https://www.tribunavalladolid.com/uploads/imagenes/images/2026/10/29/464509/20261029100707_caratula.jpg"
+  },
+  {
+   "titulo": "El Juan Bernabé acogerá tres conciertos del Festival Internacional de Jazz de la provincia de Sevilla",
+   "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOGJodUNPNVRRZjRGUTQ5UUUyV0t3Qzdxd2Npd2gxOHdYdHlfaUhEZDFXS0FMa2VyNEVaWEVqM3JRMHJWWjZXM0NnQmpZYWNFSTRQdTBsbHhONmtZeVpmX1M1V1pIOVIwSWJqVG0tdEN0ZGNvcUhjckpfUGxvQURSQk5wV2lOdlFSd2tySHQ5VWhBMDhyTGZvYkFEV1VaSFdESUM2RzczaEh2UFBTcENvd2xZYWFPZEgxSU5XNWl1bW01b2R0MV9ESFNEZEpmZDl5bTVjNjJndS1pbzBuYzFXTmNLTHdvYkN1NVJIRFZB?oc=5",
+   "medio": "Ayuntamiento de Lebrija",
+   "fecha": "2026-10-29T10:15:33+00:00",
    "imagen": null
+  },
+  {
+   "titulo": "Air New Zealand y el Aeropuerto Internacional de Hong Kong reciben certificación IATA One ID",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnFXZVE1WFZBQi00X0ZmLVpIdmZETUNDczhDdHRhTmlBSU5kZTFmUkcta29IYTVqOEFOTE4xNlZFQ20wdHI5b2hLRTJqeEhIdnZlYXRubExLVjU1eS1XVUtHREd1eWJXTlZkZTlOaTB5b1VOT216alhuNW5oZ210cXZUNlJvTE5FRElKa00yc1JSZ1oxd0VLZlQ3YWlCcV9pWVU1dGxua254TXFtOTdrdGdyUkcwRllpMlU1bkF2SkY?oc=5",
+   "medio": "Informe Aéreo Noticias",
+   "fecha": "2026-10-29T10:00:00+00:00",
+   "imagen": "https://informeaereo.com/wp-content/uploads/2026/10/Air-New-Zealand.png"
+  },
+  {
+   "titulo": "Videoconferencia internacional en ATE Córdoba : ¡La deuda es con el pueblo, no con el FMI",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMmFKU2N1SUdIelVDM2dLU3VVeWNPUGFZT2lXOTF3emowTFR1VDcySVJsaUEyM3drUE1Xd19adjlScjVFc0RaOWp6M1dHcWg0TDJ0WWV5ZHdUZzNqZ2RwcnlZQVZ0amVxbThHM1pVNFdrMkRNNW5SUEUySkNNXzRQSkNaN2ZhdnNueDg3eExPbW5FdWZ4b2ZIV1IzYTUzNnF5MWc?oc=5",
+   "medio": "CADTM",
+   "fecha": "2026-10-29T09:53:37+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Así ha contado la prensa internacional el accidente de Urda: un choque “inexplicable” que reabre las dudas sobre la alta velocidad española",
+   "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRk9fbDVHcEZza1IzcjZUUFEyMERPTDZNSk9QYVdpZzQ1SHl4MTRYNnVEMUNPSjYwZnY0dndOdjFRREh0REg1bDNoemEtNVVFTG5iRC1XRmY2NUw1cmJOaUpUcVRFUFBlakhRaWRyVVF4SDlMSXFoRzBTYzNhVHprcWtGWWhOeVotZmxtMS1tb3JXZ2V6SHJFdnRJa2FhS0c5M2NvZ3lDWUEtWmpGR0lFOXBSeFhMMFVGdWFCSklIV3hKQUVaX3JSLUh2Nk9HVFBVdXk3WjBhTC1GY3cxSEhtb3ZJREJ1Q0huX2tscEFIdmRueVdoU0tHRzdWYW3SAfwBQVVfeXFMT1JqckFPajVINmNJakFsRktlbUFXbXFNRjBvLW9KamIzN0RGTVZBTVBXTlR6Z0UtYkJRZXM1akM1THQ5VjdiaFlMYThfNXdDekhBYmR0NVE4TjRIakZyNWc0NTFjNUhYNGtIOWVvX2MwQmRtTlpBX2l4UXlvY1RtM284TEZkeEROUGxCUElnaUdQV1BROUtmcWVVWHJXQklBTEF0RlN0MV91dVlDVWluT3pWOXVuYWt5SVZqTVhOZjF2YnBOYVpaWml3cGRSRmJBT3ZTa0ZkMjVabC03WjRNc0FPSXdjQWlyVG9nMGVuYV9VX3hfdXhKd1owWGV5?oc=5",
+   "medio": "MARCA",
+   "fecha": "2026-10-29T09:49:26+00:00",
+   "imagen": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/10/29/6ae315df95913.png"
+  },
+  {
+   "titulo": "El trompetista Ibrahim Maalouf une músicas del mundo este viernes en el Cartagena Jazz Festival",
+   "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVy11SVlUV2JpSHZGNXpnWVBjMllkSVhORGgza3k2cGI5MmlaXzU2UlFqQW0xVXF2Q2hmamQ1N2k0Y29GLWU2ZjFqMkZOM0ZFMHdxZElMbnRvQ3RwNjh3NnVmazNLSkszM0hNUHI1Wnc0U0xNLXZpOFp3NDF5M0Jqaw?oc=5",
+   "medio": "Ayuntamiento de Cartagena",
+   "fecha": "2026-10-29T09:46:24+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Mutua Universal participa en el X Congreso Internacional y XXIII Congreso Nacional de la Asociación Española de Salud y Seguridad Social",
+   "enlace": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNdVhxOF90LTJLTVdYcTRDNTVTTU1wWmp0VlZyWDJxcUt0OS1aUGJucVhHNU5RRXFBQm9kaUdlX1FRQ2tCaW5ZV1N0Qlg4eHhKWGRMNVllY1l2S3A0TUhGOWRJQV9QSDNXNVdwUURRR0JhU2dVSjlpWVFqTjZfR2ZwNXdpdkNxdUZiRVFfN0ZwYW1KVlh1aW8zSFBHZDN2TGRHU3ZnbzNUNFBYekNsSXBqVVRiZE15VFBqOWNkZHlRZDY2ZktLRFBpQ0RLTE9vNE04bzk5UDkwS1BsZE0yQldSUXRXMTRxWnh0a1RxQy05NGNiZWpHbHRNd3hfeVk0bzJJZGo4UmQ0dGtpUjdwMDk4U2dCMlVsZnIzT0x4bG1vNEI0a0JudXc?oc=5",
+   "medio": "Mutua Universal",
+   "fecha": "2026-10-29T09:32:58+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Aveturas para la familia: ‘Jumanji: Mundo abierto’ presenta nuevo tráiler y confirma estreno para el 25 de diciembre",
+   "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0JUcHFEQ2FLbEZvcEN2TENDSTFRajc4S0VaQ0o0Z3B1NkpOZXpEd3AtblVWYkEzX1BLNXJncVhfeEVBS3lRSlNmYlRGUm5hR2YxMWczcGx0OW5rWUY5aWhDWXRSdDI4Q3gtX3d4SGlwemh6VktMWkY1eVI5R05aM0pxOHBNZEhnTmdhM2xZbHZiSkdFLTBlZURUQXZiUVZRQURMUG9NeW9qbHpJSDB2d0pWMEJmUHhKRF8tb3JFMXBHdVZKNG1YZTB4R0ZiZ3FMd0E4cktvREhJWVpPZWZRa3V3?oc=5",
+   "medio": "cinemanet",
+   "fecha": "2026-10-29T09:30:27+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "La huida de Flávio Bolsonaro desnuda una alineación ideológica con Trump que prevalece sobre el derecho internacional en Latinoamérica",
+   "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbHZ3aENWTlJpejFfS3o3WjBiZGV6eVRfTzlaUHp3eXpaSWN3NF9QT1NEWU1YdGNTM3IxaWFsYV9FWHVGNXZmRXRqdUg2Xzk2cGhNWEo0Q1QtRndOeG5wdzVLQ0ZNYk1aRk9qazlEVDl5dkVPc3JXb004UVhBYjVIbDh2elVzRlRSN1NzNDhqWWxBLTVyc2pENU5tMmJJT3pONFM0amNCVHppMktsbTRTTWRvUS02dUlRbzlNXzREWFhibkxMSmhxOGwtWW1IZlpZQVNZOHh1WmFMMF93ZFItbG0wUEFfS2pSbXFueU5zcm8zOXR6Zk5HanVzTkpXMlJaeTBTTTF2MVPSAZwCQVVfeXFMTXRXZFlXNm1jRFNXdUM4WHh1Wk5DWHdRcU5sSU9XVFF6NUR4T1dhN1hRWTRhM3RfY0Y1Smw4VkdpaEZlY2otcFdKNTFoN2ZGWmZ4dGV1bGVwTWN4Si1KWnd2UVJMRTlyQmJqYmFmVG9ZVktjT2VETkM3X1Z3TkFPNzFHaWc4aFBYTHRrVnk4elFXR25obGtuaDFRSFR2X3Y0SzRvM3h3clZ0S1Q1dVdIeVRWM1hPVXAyMUU4UHBwVkFacXRCXzdfRW03X1M4STJBSk1EOG1oR3c4SFc0SjJZQVQxSzlHUi1wUnNhc3UtMmtWM1lhVzY0MlRaV2xuaVp4ODRWMHZ6aEJIbWNOX3JvRlBsVjFCTzJTd2xmUkU?oc=5",
+   "medio": "EL PAÍS",
+   "fecha": "2026-10-29T09:30:00+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Modelo Trump se mide en las elecciones intermedias",
+   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU2RqM3BCeXozZ1FGRzMtU0szV2VmS1VEUTd1ckhPWEVOOTA3Mm5RVkljWDBsWDI3eFJ4VTNkbm53SWxsUDJyUjB5cmw1VndwQTRyc0VXOUVzSFd6S2ZkS2lIR05SWlRBaVk4YlVacDdiOTY5ZTVBaHFMdUZrNGN3bnlNLVBhZjdPYzBhTDVsRWJHZw?oc=5",
+   "medio": "El Universal",
+   "fecha": "2026-10-29T09:30:00+00:00",
+   "imagen": "https://www.eluniversal.com.mx/resizer/v2/2OD4IPNU3BHEZGMXBRLJBNCGMY.jpg?auth=2d93730f8d644837b3df7afa70d8de5eb09ffd096148f8e9810e6179db8c2f80"
+  },
+  {
+   "titulo": "9 hoteles alrededor del mundo que pertenecen a celebridades y casi nadie conoce",
+   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVnI4dlB6SzRxYWI0QmJyQXVJWjdiRlR4MWFjLUZkQzZwOEhVSFcxaDRuZHlXTGFwZ0E3WjBjd1NCZS1hZkFxX01Cckpzd3VOSWluNkt6SWlGN29ERUM4a2NXbkl4b2NuLTUzMFYzUDhLMEhvV0FwaXFxbXh4SEhTZ1JlclcycWNUS3hybmp5Q1A3NDhIdUZyVEZCUzJSdXhqSnpvZWlqeGYxNDJKRUdnWGlXLVQxa0hjb2RKTGU5YVc2NEM5Nk5vUC1xRdIB5gFBVV95cUxNRDAwTU5NV0hwT01UQVBkQmFUcldaS1RPelhXVjEzaEhkRDk5MkxJUXptbFowR1pvMXptVUVCQUNoTlZDUTdQWnBFWGtfdEdPSXJRM2Q2TGJYWVFkam8wd0JIUVNlUG1qNTVxWjktZmRyUTE1MFowUnUzRE45U2NkRUZ3SGVZU3NfUmNKdEhBcVBXUGh5UmVQLW9kWVAtTFp5dHE4cE1TY09ud3ZLN1RueWhDTHBTTGZmRXJCWS1WdHY2V29iS1hWczY4SXA3WndGdDlJUnh1ZVBRUDVYM2pwUEtmYm9tUQ?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-10-29T09:13:18+00:00",
+   "imagen": "https://www.infobae.com/resizer/v2/73FZTCK52VG2NBNFAB6MBSXY54.jpg?auth=87da4a18b27afd8bf89bd3277dd97fffa5c7be27ce85482846ab5a00b44ee7c6&smart=true&width=1024&height=512&quality=85"
+  },
+  {
+   "titulo": "El mundo va muy por detrás del objetivo de restauración de los ecosistemas, según la ONU",
+   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZUI3eHF4V3Z6T0pjbkpXcl9iMjlBYmJLZ3BYV1FvUmctWlNRX0tGYUhBRWVCWkU4czlKMGVmUGFRQ0ZDSXZpa3RucnN5ZkkxeTA0bmhLX0xkME53NDBmSDE0N3NxcTBoS3h3b3huWlFBcHZpV2NIS1dod25BNGVaYzBtRy1GYmUxSXcyenJOOHd3a0thWlZRM2huSDNHbDFVZU5YdkR4Zw?oc=5",
+   "medio": "Yahoo",
+   "fecha": "2026-10-29T08:41:00+00:00",
+   "imagen": "https://s.yimg.com/lo/mysterio/api/2de03f8865051ff80ba61e444dc46659bf65cab39b31f241403b158ab1e35276/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Freuters.com%2F9c95f046c3d3587d44830ccdb7b93b71.jpg"
+  },
+  {
+   "titulo": "La familia de Antonio Vázquez emite un comunicado: \"Continuamos sin tener noticias de su paradero o estado\"",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcW5VVTZUWWpYaXFyNVV0YkdjVVNSbG5PVmtqUWVDRkZHMkNqZ1BYc2hPUGoxOHFpWXRidVFwVi04REZhWm5oTldLUmNPVmdWTDBFTkNpdFpndHExNU9NZ1pIM1JLS0x3VFpKTmFjdmVHSXlKSEkyeFItZ1k1M0dWSlNVRdIBgwFBVV95cUxPNElpZy1Jc095SF9VSldrbjZNNEh2Ql9HTGdTUzdrQ2RhRjlaY0ZsTS1vNzBDVUhaOENqUFRkdjktZVBOb2J3Y2YwNk9TR2IxSTMzX1lvUndSb2V4Qlk2alFET3JUQnFzUHFTWWo4dnprNDYwT3pxby1rdXlTRUJiNjdOZw?oc=5",
+   "medio": "El Mundo",
+   "fecha": "2026-10-29T08:40:04+00:00",
+   "imagen": "https://e01-phantom-elmundo.uecdn.es/eb8a099839e1540b3c827b9a8a1d2e4b/f/webp/assets/multimedia/imagenes/2026/10/28/17931967311471.jpg"
+  },
+  {
+   "titulo": "Más de 200 viajeros de un crucero son abandonados durante una escala en Camboya por el alto precio del combustible",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcjE0dVF2V3dNc2RrSzN0SERBU25yU28yX2lJRVJrb0ZKZW1rOVhWSnBFM0dwY1FuLWtXaTR2UmNjbl9MLU1jUnhOMFdBMGpNdjJZanJibE04NTVNZnJjVXM3aTdVTjNuVUtOQjN2cWl3TkVfcEJzSkJablJhdEQ5RVVIb9IBgwFBVV95cUxQQ1RYNjluaXBacDVSaFRqVndJR3RyUkdlSW84NGlKTjh0RFphajNXRWxmMnU1NEhpNW8yVzdHV0V0ZzVURUtyLXNGcXVfNWFGZm53VGRNYUZKV2RnWFVGaUxTM2JGbjNfRDMyY0FlV2tRZUxOcmtqXzJOeFhCUW5iYnhFQQ?oc=5",
+   "medio": "El Mundo",
+   "fecha": "2026-10-29T08:25:48+00:00",
+   "imagen": "https://e01-phantom-elmundo.uecdn.es/68cef64ba8c03c18a86891370bab2cae/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/29/17932622810733.jpg"
+  },
+  {
+   "titulo": "Director de Marca del Aeropuerto Internacional de Gia Binh: Creando estándares internacionales, llevando la identidad vietnamita al escenario mundial.",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVE1OS0hIXzk5Tlk5WGxsYkNEVTc0VXJJMnVBMjJIWGhwS3lLS2dReTJIMGJ0UkpQUnRQUnpOUmxjV25JcktiWC1YR0pacUJWWVVhQ0JKSXBvLWpXOFd5Nmh6UGhJcktYUW5aRDVwbVc0Ymg2d01MNjRwaElxN1NyY29NZFd1eTgtMTlNNkF2VWp0UkRHbi1iSWpHcmtsdUJySDI0RzhvcVR5OE9XWTZZV1l0bVJSMmY4QXVCZ0RONA?oc=5",
+   "medio": "Vietnam.vn",
+   "fecha": "2026-10-29T08:25:35+00:00",
+   "imagen": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/29/1793261569990_package-media-88329422694218404791660-92636314131684545549367.webp"
+  },
+  {
+   "titulo": "Isabel Pardo de Vera, ex presidenta de Adif: \"El Gobierno no puede hablar de error humano después de lo que ha hecho con el mantenimiento y la seguridad\"",
+   "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wQUxoUlFXdGRZZ3BjeVBGR0dkcDV1RGlScGFiQUZhX1F4NHBWRk9IbzlSbm5OQkFEa2IxWjRnbHdPUmdhU2tBNDJEWnpJS1UtRVllV3dhZTdBNGtDalU4TENLMXpfVFR6YXJMZWxTOFVkWlhpaHFOU0hUVGfSAXxBVV95cUxQR0Z5aUZ4VXdQMGxCRXJTa2tXQkt0Ym93UUFNVTJCWExpUHl2dW9wYTN0VFhYTEFUSnpuWE5Xc3UwM3RCdE4yV2xpRHd2RENsRnRDSERROUpGTURianItMHFQanFpcEpLZl9WU0RPUVY0RldUS1ZCQVZGdEl6?oc=5",
+   "medio": "El Mundo",
+   "fecha": "2026-10-29T08:17:37+00:00",
+   "imagen": "https://e01-phantom-elmundo.uecdn.es/097bca2466c8d990d895a91f56aa8ba5/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/28/17932138674535.jpg"
+  },
+  {
+   "titulo": "El USDA confirma un caso en Arizona de un perro afectado por el gusano barrenador del Nuevo Mundo",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaGI0Q0xWZi1zNEVEMlY3QzlWcHA3bDBUYzV4X21vTGZSdkMtUm13dHh0X19ic3UxN09iYUVZakVLWUZPVS1ja1FwMFlkLXZ3X3J3cW5HQW5idnJEbmVyYTZ4Nk5UVUVqSEJHNEJTY25fR1NNM1V3S0FpSWRuN1h3dmxpbFpKR2xLSUlTWmkzckRiVjh4RGo0M2hydVVSY2tFc2Q5WXlfRzJMZFJFdUV2WDc1N1F1ZUxVZ0FpakpOdTNLSjBKaHdyVjNXeGZ1dw?oc=5",
+   "medio": "Srperro",
+   "fecha": "2026-10-29T07:53:18+00:00",
+   "imagen": "https://www.srperro.com/media/post/476c2f2d-0aaf-4ef7-9b04-43f0b7421d9a.600x429.jpg"
+  },
+  {
+   "titulo": "Fernández tumba el Transpacífico que Chaves celebró como una Copa del Mundo y despide a Indiana Trejos",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV09qTTAyYXk0OU53aFFDenh1cUdtQ2o5VnVvdFZTNXU2bW8yYWs5TWpFVVJmamJJSkxJc1h3TGFkbmlyLTZqZjNNMHkzSU9BTjN1ankweDk5Tjh1eGEyYlpkTUhKQmxsR3lUSlZ5WGI5a0c3U3c4dFZIaUpJcHpDSFBHZUxIbHVTVlJFUnpBTmhFZjgxdEUtZjN0NkxBam1HWm5qbldzQlNaYXF4bFNFTXJuRTBGVHV0Q2VueHNlck91MzBaZm85Qg?oc=5",
+   "medio": "Delfino.cr",
+   "fecha": "2026-10-29T07:52:43+00:00",
+   "imagen": "https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2026/07/Segundo-paquete-proyectos-seguridad-Laura-Fernandez-ALCR-1-1024x682.jpg"
+  },
+  {
+   "titulo": "Qatar Diamond Exchange amplía su red internacional con una alianza con London Diamond Bourse",
+   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSHRnUmp0NlNXekZwMXpLOU43Qm5BYml2a3ZxUHBKMk9oU3ExY1dVZlZPeldGOGgwWkw3ckNmRFMyQTQxMGNRUVZ4R184NjZtSDJDZUItLTdtOWtDTTFmd0hnLUtuNWNOQUpqNWhHWHVsOEFZa25GWElPbXA3dVZXMFFrT2VkVXdoUDFYa1l2d3NPSV82cW9QQmdnTk5NLUZka211OWtnRWgzZjFVWDVWMFNIY2pQbllV?oc=5",
+   "medio": "Grupo Duplex",
+   "fecha": "2026-10-29T07:42:23+00:00",
+   "imagen": "https://grupoduplex.com/wp-content/uploads/2026/10/Qatar-Diamond-Exchange-amplia-su-red-internacional-con-una-alianza-con-London-Diamond-Bourse.jpg"
+  },
+  {
+   "titulo": "Ucrania lanza un ataque masivo con más de 600 drones contra Moscú",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ2xWVW04RktjY3U3WGEyUUNHNnV6bHo5S2VSaGlBblU0d2MtSEZfaEZrendtdjlTa3BQc3VLb3laOWJaMDVEUko0SFM4cVJPV0YxX0NpNTEzXzJhY3lrcUdMOUEzbFgxb2Jya0htUVBqeUtuNDFyYVI5Y01Yak1qNV9ld9IBgwFBVV95cUxQekdqTWFYX2ZJREtEWHdnSnhtTi1XaFY4SzNiem9mTGJwcnhZLUthNDhjVEdRSHZLWkJYMWw5QmxEa21CaktGbldaMFlZeWZ6bVJrLXI2bXcxOG9TYThCTFhLZTJ2NHFYLUNYQTFabHowOXgzTGNJMUdDbk4yQS14QkVCUQ?oc=5",
+   "medio": "El Mundo",
+   "fecha": "2026-10-29T07:18:09+00:00",
+   "imagen": "https://e01-phantom-elmundo.uecdn.es/2d8ec777db486e43e5d8f3fbffec8667/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/29/17932582217843.jpg"
+  },
+  {
+   "titulo": "Presentan una nueva herramienta para reforzar el liderazgo de los actores locales en la cooperación internacional y la acción humanitaria - Gobierno Vasco",
+   "enlace": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdF9IYkU2ZGlkNXprMDVWcXkzbWVqN0RVZjJTY0NVbXcwT0duOGNBSEZaajFNM1ZScVUtWXJPcW9wSXJzaE9uZ293YVlQTkR3RFFuSlUtM0dOMnh3cXhoUi0ycjVLU1hUejB0dGY4a2tmd0lhOUJ0WUJKelBPSUo0ZjBSMjluNUhnSDBJNl9DeXRFX1BRTFdTUWlaQVBFeTVTbHJsbUl5ZWtpenJpOFkzMHpzVGwzSUJKNlQweVowdjFtc05hcEJzTi1vN3JaTlJQTm8tbGNmWGdRRXQxMzhfZ2xGUnlDaEp0dFRtbzRYZGFtd1VPRnYyaWw3SmxXNkRvYjA3dDVGOHJtZkd5LUlCbklLU2xObDlJd1dGMA?oc=5",
+   "medio": "Euskadi.eus",
+   "fecha": "2026-10-29T07:03:20+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Kohlmann: \"Contamos con el mejor jugador del mundo\"",
+   "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWhmN3N6Q0V4aHFZdzB1aVR6QU5mdllMNkc0enA3Mkd5UFJxS0dPM1NjMzZySWNPRFJnQ01mR1p1WC1pbE44WHhQaXNEb3pRbjJOY1Uwa1ctWGpYZXFKSUFHVmVVemtjNEladEtTMlptMUw0ZGY0OHVGSncxc1ZoRXgwbXRzRTBNRXgwVDhB?oc=5",
+   "medio": "Davis Cup",
+   "fecha": "2026-10-29T07:02:21+00:00",
+   "imagen": "https://images.ctfassets.net/0gg9pgt9u0k4/307d2Uq8i3YqxUKgbpYwpg/6492c8c6df57ed8f3963a6273ef45cea/EC_001_25_0128_16770_R5II2462_m4Uja2tU.jpg?w=1200&h=630&fit=crop&f=face"
+  },
+  {
+   "titulo": "Dumfries y Galloway, Escocia, entre los mejores destinos del mundo para 2027",
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdjk1N1R3ZU92TkRBQS1raklZaHh6ZVJsNUtQOXlDYi04MmpfSThuWTFPQlpvbTZyZXFnMDc5ZGYxQW5rTmtzSzR1X2gzZEltODRMM0VPNGtIWVpWQWV2OVVndXJaVUdOdWFJR2Jtc1VWOUZTQ3cxc0FIMkZmNXRyQ0RaM2lHS2Jpa2VZTERtZEhHdjVxUVhVcDcyZjhyRlVZY3Z5dFptUFVwYUZxVjI1YV9sTFVxc1dhMlN6WExxbnE4dw?oc=5",
+   "medio": "Expreso - Diario de viajes y turismo",
+   "fecha": "2026-10-29T07:02:17+00:00",
+   "imagen": "https://www.expreso.info/files/styles/expreso_theme_teaser_secundario_desktop/public/2026-10/Escocia_Dumfries.jpg?itok=MoInMXUG"
+  },
+  {
+   "titulo": "Las marcas más valiosas del mundo en 2026: Apple lidera y Nvidia registra el mayor salto",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOW1PNllMX2I2SGNTOURTNURXNnZpUEYxS3hxRkdkbDBtRmF5am5PS1NFZE9wYWJpUHdFMjQ1bDNydld4cVZMbTRoaXVUdW9OckI2LVpsVGl5eExhdEUyNFNJODNCelNYWDhGdmctNEZmVHE2Zk5WbHJZeDRzcmQxRTZHSkp1akxPQ0dXMXE1Z3diR1M3UXBBUmpmVXpWUTFObXBIU2lwbVZJdHBmWGM5dFN3RVhlVEQtcGEwWWpMXzR4aFZGZ2Rn0gHbAUFVX3lxTE5INl9lLXBMbVFJWUUtTnNKdFJ5dEtxSVpUbTFDOUJ5dl9HV3g0NF9Iam1qMUdLdmRuY3FCNDNFamNQV3VMU1RsMWtIOW9SaFYxUnIxZEhmMjhxQ3pudWdrd1o1SENQSFgwSDhTT1RNUmFXanE2WkZRUWFDVTNJZEVHandpb01sazBFbnJCY3RqN3dKZ3ZyVkt0YmhJNTcyZTQ5LTRIYWJsM2J6aFRwYkdDSWxRbi1Cakp5YkRFaTlLUWxGNERrMll5WnhVc0dmTW8tV25MWW9iVlFQaw?oc=5",
+   "medio": "Bloomberg Línea",
+   "fecha": "2026-10-29T07:00:00+00:00",
+   "imagen": "https://www.bloomberglinea.com/resizer/v2/GZ5EFNFORREODLCJQKPV7JCRLQ.jpg?auth=034100dcf3532b558cb810cdaa297c76451a61a2755984df4955871246a8a8fb&width=1200&height=675&quality=80&smart=true"
+  },
+  {
+   "titulo": "'También derrotaron a Japón, número 1 del mundo': ¡La rebelión de las promesas del tenis de mesa coreano! Medalla de plata y dos de bronce en el Campeonato Asiático... China con cuádruple corona, Japón con triple corona, dividiendo los títulos",
+   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16SG5XZTFSM3RzTzhxVkxjcTBYTGpjazAzRGRfSnlOWmc3U1ctaUdOY3p2d05ValViR0VMQkZSSDdPYkVZVnNFS3dQZlJQenI4OG1OUnJQWk5yajh3SzhCeEE2cmVjandXTUNWd2NUMnVhVDJxWGJwTzd3?oc=5",
+   "medio": "스타뉴스",
+   "fecha": "2026-10-29T06:39:04+00:00",
+   "imagen": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=800,fit=cover,q=high,sharpen=2/21/2026/10/2026102914532118088_1.jpg"
+  },
+  {
+   "titulo": "El mundo reacciona a la muerte del luchador social mexicano Cuauhtémoc Cárdenas",
+   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYVJ5THBPSUpBNFN4d2phSHpKU05Day1rY0E1YzdRdGFfakZtV0t2R1I2bjVRdlRLeGVNeFB0VTh5T2FrNnRQV0hJd2pleHZIbVFmVU1FMUtnYjN6YVpJT3dIeFJ4cXFLWDdWWmxQN194M1lHREM4VzljWS1MV3Q5VmtmU2JfWV9sVkYwOGR4RDNpeWdJdGFKS21zUEowVFBpelk1aGdHemptRzdtUDZPSWVoeHV3RWp6cEgwZmVaSW5CWUU2N0JOdXpGWQ?oc=5",
+   "medio": "La Jornada",
+   "fecha": "2026-10-29T06:24:00+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Por qué Islandia, uno de los países más seguros del mundo, se ha convertido en la cuna de la novela negra",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeUFXbGJja3hRYTk1QVBsSjBsOGI5azBydU13SGd6YldvTDNBOC1wQ0xIRHlnNXQ3aGdZenZmU0UzMXhFeWd5N1BlcTZhQXVCQlRuUUZiYmRHQXNXQUZlZWZGSThmMTVTN19ZZ3pWSloyUzdENHlVY0VqaDljVW9fT21zRGJPVmIySFVrS1RCbm8zUHVnMDJLRDJGZTJaUEJmSHZMWmYxLTBjYmRlSU1sVXhKRDlWRmplSkRVX1RNQ3phRzA?oc=5",
+   "medio": "Euronews.com",
+   "fecha": "2026-10-29T06:16:52+00:00",
+   "imagen": "https://images.euronews.com/articles/stories/09/91/30/90/1200x675_cmsv2_97e19c90-e21a-5f29-87ed-c31bd4b409c6-9913090.jpg"
+  },
+  {
+   "titulo": "En directo: el mundo se solidariza con España mientras siguen investigaciones por letal siniestro ferroviario",
+   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVDZjVnB2WlZOa1JiTWlzWWxjckNnNjBLM0tzcjMyczl2cjVTNDZrNmMweG1HSTBzQUdYME5hRHBITDAtUGJPSnVFY1doaGxMRzZMM1FmdjBzZ3JFZV9TZV9uVlVsRXc4OXpVNHpzWm9BT2FuWXR3Tm1wRGlPTDhYV3pLWFRMcE0xeDN6UHg0aVBWOGp5bFE?oc=5",
+   "medio": "Yahoo",
+   "fecha": "2026-10-29T06:05:00+00:00",
+   "imagen": "https://s.yimg.com/lo/mysterio/api/3dd2e75a2cc1482c6e25a6b8ce698f57d8397618870336730d665fdf0dee6491/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Ffrance_24_espanol_articles_785%2Ffe5344f6c3db0fc4f281f4e5a7af2ff7.jpg"
+  },
+  {
+   "titulo": "Las 8 millones de personas con mayores ingresos del mundo contaminan más que la mitad de la humanidad",
+   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdWpjZWpmNGJ6dExfZnpieTdpWUFQVUVNdWc4bVlTb2c1dlpNVFZCcklOMkcxTmZrZXkzVGVaU3g3NVhwTEc4ZUJqOGIwb2ZEby1VTEVCRTBrQUlBZS1zRmI4cWJNOVBIOFRPaTVLU2NxRmlsM2FlMzA3SVhMQUxfOXhFbWJza2hwdE9nS19fZW5NZEg2OUpNMTVIV0lveGhHS0llaENnX0tiYlRmWTczc0RsaGJESGxIaER4OUtjM2poQ1p2bUJHODV6SGlqNEYwZXB1U3pBRmpIdw?oc=5",
+   "medio": "Diario Socialista",
+   "fecha": "2026-10-29T06:03:30+00:00",
+   "imagen": "https://diariosocialista.net/content/images/2026/10/crisis-climatica-desigualdad.webp"
+  },
+  {
+   "titulo": "Esto es lo que ocurrió hoy en el mundo cripto",
+   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Gd1BlTUtSSTdEd0djd0VCOHVuNjJBN0Q2VGpVb29NUjl5SWZ1XzBmb0tFdFdZb2Q5UEJaMTNBZE9kNTMteWlCWEdhdDMwWlVhUEUtc09BUVBycHpTa0l4LWd3Q0VZNTYxUWJ2eVJpdw?oc=5",
+   "medio": "TradingView",
+   "fecha": "2026-10-29T06:00:00+00:00",
+   "imagen": "https://s.tradingview.com/static/images/illustrations/news-story.jpg"
+  },
+  {
+   "titulo": "El Barça cierra filas: la conjura del vestuario",
+   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOamNSQkhlY2pmdkhUUm5wLXFqZ0RMQ0lrRWl2b2M1MmI5ek5WWXlWVDRqMTZxTkpoWDktcGVxdklMWWJiRUNFS015S1VSMTNJWkhQRWJ6Rlk0TG5HSmxBdjJkMjhYM0FMcjl6TGF5by1NTFJCeE4zTUZmWnVYRFRMLTJpc1UyOFZ3Wi1vWWpVb2NaWG5IMlo4Vkc5a0dGaThLTUt4Z01oRUNUdWNHVWNv0gG8AUFVX3lxTFBZV1EzRHFjYUEwWV9oNDNmMzhxR2xVTjBYY1ZidlJEODRTM0piWUljM0pWUVNzZGVUelZqTTNmT2pUU0tFMHE0d2pJVTU3Q0NicEVnRm9jRk1ERWE4UnZNZ2FGa2xqWC1yeXMxUlRLWVVSTlRMamVFQkFpbU80NTRqT2dTOE5MM0lIZkZRZkM4ZkhQeUFrM1Zkbnd0XzlaUS1RcEItb2JfSFAtZ3lxOGtGQU5pS0trVU9NbGs0?oc=5",
+   "medio": "Mundo Deportivo",
+   "fecha": "2026-10-29T06:00:00+00:00",
+   "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/13/6acdf36e43ede.jpeg"
+  },
+  {
+   "titulo": "El turismo internacional en Cuba cayó un 34,9% y profundiza su retroceso en medio de la crisis del sector",
+   "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaUp1VS05ckFNY3ozSmxRUkRlSGFrOURMOXRNSTBxQ3ZsbVRsQnRCa2lycU5pUWFTNE1lU0RmdEhfSzNQZ013SVUzRUN0LThlY1pqYUR3QnBST2toZHpFZGNRbDVQUFRLbmk4TDVmaG12ZGZXb1ladFRTZ0JYMUU1bjVvX3MxWTJBdFAyd2FPOTNGM3J4d19UdFdtbTIyR0dDbFl5M2JiT2gxQ3I4bjBPU2M1eEM4d0F4OVZDRzg4YjgyM19EdEZ4VEdja0U0R1FOWWt0eGtDVXNmQ2550gH3AUFVX3lxTE55UjFlUS1lZDZDOTRLM3JuWWlESFJDYl9pWGtmZk1UX1lWdGdNclQwbVRON21McDNXOUdNcjVwcnJEUkZJWGNZS0RacExaNmdyOHg5SU1ZOGFKQ2NYY3RkeHlBeGhJRE1JMmhvOEREanRIOFhINTFaOUZQdmlmbFhsaEJ3aHlUREZxQnl0blZTalZvdUxiX2ZvYzRHbDZIVVJ6NTJWMEptMDdhR3FrV25TUDBJQUdieERBY0tyeE5hRnd2UlZlb2VsQXVsUTh1Q0Rsa2NmVURaZThrY1lCQThnWWdzdWN6enZINl9YTkxYZk9GV3dLX2c?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-10-29T05:44:47+00:00",
+   "imagen": "https://www.infobae.com/resizer/v2/V3SYHF2J3JHB3CCXVNK4FJWVOI.jpg?auth=d4073f2e9e034adadeebab47a9db137db57abe941cf7103d48d146380a03a53d&smart=true&width=1024&height=512&quality=85"
+  },
+  {
+   "titulo": "«Primer torneo internacional en África»: la delegación principal de Corea del Sur para los Juegos Olímpicos Juveniles de Dakar parte hacia el extranjero → se envían un total de 41 atletas en 12 disciplinas",
+   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9meUtGMHBBVFJTWVhBWVhoMExZVXc3X1JKdUZxb2labnpKSktvTWE1bEtDZEVXT1R6ODZjNGh4c0xXNENyNWxEWm9KLVQ3RmNMS3N2aGc3b1lnR2dRbC1LVjRqYlc4ekxCSFBMNTZKZm52Wm0wSVFaeUlR?oc=5",
+   "medio": "스타뉴스",
+   "fecha": "2026-10-29T05:32:48+00:00",
+   "imagen": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=562,fit=cover,q=high,sharpen=2/21/2026/10/2026102914294838707_1.jpg"
+  },
+  {
+   "titulo": "La importancia de cuidar a quienes cuidan: Día Internacional de los Cuidados y el Apoyo",
+   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbllmQW9xMlV6V2c5NG50VkRJZ29RdWJXM0c4V2hTMVBFU1NnVVBqWTFsQUw2el9YQ0RmdEJocHctazJQcEV6TmNHWFJkUVZYNkxieTh5cURaZnY2S0VXd1lxWnZod3lMQlJIbXlFMTlfTFBSZ29qcWp0SWRxc21neTNQMUxZSVR6a1BhQjBscFRmUUMwN09rX1VqenlJUzZDUGR3dEhRMGFYUWNMUXNV?oc=5",
+   "medio": "https://www.infocop.es/",
+   "fecha": "2026-10-29T05:05:13+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Giuseppe Stigliano: “El mundo virtual ya define los estándares experienciales en el real”",
+   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWVKM09TcVJyaG4wTWUyTHpIVmZiVkxIVHZTYi0yTGNmV3EyNG9vdlVQRkhIc200WHhUM2JCNHpqNmt6RUExaHUyTGlYdzdRWFFoVmN4SzAtUHJSREl2TXBWanpYTnVZN2g2MnlYbnNhcFgtdEp4Tk45Zmg4Qko0ZFN0V3pCQXF4TXhrenpDSVBnS2twWFcxYjM2R1JZUjlYTWQzTHhkNzJyNTBUYzRFc2xMNHlmM29sVTc2bVRn?oc=5",
+   "medio": "Adlatina",
+   "fecha": "2026-10-29T04:51:32+00:00",
+   "imagen": "https://www.adlatina.com/uploads/img/261028052634_adlatina.jpg"
+  },
+  {
+   "titulo": "El dilema español de la vivienda se extiende por todo el mundo",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUFlU0RxaWxlSkI2cUEwSnNWdzc4QzFwQTBLTHlMbVZvZ3hoeHppc1dUSC13Zy1Hbk9MNjNDc0xRdklsSXQ2cVZhM0ZZREhrSVNUSnBMMmN3UXFCbHptY2hxMHFZWmVQZ0ZOc0JuWEF5d0h1Um4tWXg4blJpeFRKQ0NicS02UlpkWkhKY2hBZUJ5Tm12Z2Npc1QxZm13Nmxielh2cDNKUm5DanNGUzZDS3R6bFl1d9IBygFBVV95cUxQRlZseXNjaGc0Q1BvOWRHTUdOMVJkUjFlMnNQLTNMalM2b3cza2xKWnZRWDJBMTFyVmZPb3FKd09BWHU2R3VULWVURFhkemJIYjFwX2J2dDlVeno3UV9PX3F6dWFqZ0stZjFEU1ZjdEI0bzN0MkVXWjZwWmJGRE5pWWZQZ3ZPbzZ2VFZXUUpKeE9EbFd5bzlQeVVRLW5Fb1FScVJkMlRaeGlZOVNFcUlsOFdjcXlNbEZRWlpVMW11cmRJSkJpMjNrby1R?oc=5",
+   "medio": "Cinco Días",
+   "fecha": "2026-10-29T04:40:00+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Christian Yelich: \"La mejor sensación del mundo\" | 28/10/2026 | Lasmayores.com",
+   "enlace": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QcjEzMjBMdXg1NzBZdU1mSjExTENaelJjOTZqdkVNWmRjRVFkYmZCQlhDczBuUHRYeDZPTGs0MTBVS2NiSHlsalVnak1YanFGMmtoc2h0bkctZ3dpM0xzWUVZR29uenJnSkFxaU9DMkk?oc=5",
+   "medio": "MLB.com",
+   "fecha": "2026-10-29T04:30:15+00:00",
+   "imagen": "https://img.mlbstatic.com/mlb-images/image/upload/ar_16:9,g_auto,q_auto:good,w_1536,c_fill,f_jpg/mlb/raonyxd3mpbrlebkaqdb"
+  },
+  {
+   "titulo": "Susi Sánchez, actriz: “Vivimos en un mundo muy difícil, muy retorcido, y a veces pierdo el contacto conmigo y necesito preservarme”",
+   "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTF9YTzdWaldYY2JlVE5wVVlENE5EMlFfQ2lHa2doM0RRMjZleHhNNjh4NVpweUVQOHhmYXZMV0NhT256RkxLM3FSNWFzcFFLN3NxWjNRS0c0TDRLOHdoVndvU3cwbmlxRFYtZzBFTzNvZ2JSNFl6cmJMd2tJUmhKMldWZlhyV3lna2xNM2Y0VUtaYUkxYVhlWTJWWnZhQkhNNF9yaEVvdk5wN0NyZmZyUndrSUFXTnJMaTVrRVJQektFdnc5ZGU4UFdBVUltOHhvRUc3YmZxU2JkczFBZThiMWJpa3c4ZTZiQkJwY2ZiZ0gwLW15elJBRjJrb2ctZlF0MFVn0gGXAkFVX3lxTE9JSER0Zms3M1hzLXRKZC1iV0R6N1JsTzZSU0s3NWFYLTF1Mm9GbTcybnlvWjQ2ZEJUSjRLbEdjUjlxX0Q2cnFwdExLMHZQOTNsVWxhT01UT0xVb0JVcGE5WjhBNGtrbEVYYTFzM1NKbU5ZU0V0Y2xOeHZ6R2FXQ1JEeVREZWduNFNGTnplWUkwbFVNa2NiU0JydVpVOWt1VWc1ZmtCalNzRTFJeHNHd1cySks0cFpXLXN0elhDbm8xM2o0VU1rSmRTYWVTbVY2LXBpZlBtRkJNZUp5eV9tQmFubTc0QUhnQnJMa1FlWjdVeF9FM3BvQ2tJQzlUN1V2S2FiUnVMdG1aSm1WbXNpRVd3YjlHWkl0TQ?oc=5",
+   "medio": "EL PAÍS",
+   "fecha": "2026-10-29T04:30:01+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "El miedo da otra oportunidad a Netanyahu",
+   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT093WW1LbzBQTGZYUmVXeVdCc0ZBVVFWWE1IYWN6MWNSeUt2VDJTUmlHc1VBX3J6ZkZZelZlV2h4VTJWMUJlenh3SG9pMl9uNVBPZFhWRWYtUTN1YTc0QTFia3RsbnhyTHRzX21qU2M0VmJGdVZPcnkxR2VoczJLM1NwcGlxY0l4TFpielRUbVJHSVXSAacBQVVfeXFMTWt5eHJ4R3F3LVhuYWJfYUgxQzJneUsyZmYzRXhlOHJGaVBIbG45NDVBS0pLUUZuYmQxWG5jZjRseDU5ZjYtQmtoMXlVTXlDNXNybEJyZy1lN2R2Qk9zZWpEQ2FCckxrMUNvNXRzRjVzcDcxOEVqdHR3LWpmb3F5OEl1UFFpWlgxWVhUVzhkN3hicUxGYjlYRW1ZZU9hR2NkcTFScEtKeUk?oc=5",
+   "medio": "EL PAÍS",
+   "fecha": "2026-10-29T04:30:01+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "RIIDS | El financiamiento de la Universidad Pública Argentina en debate internacional desde Chilecito",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHBkOWpRQ2JXY0lwZTVpMUE4UGRrOXJocFBaZXA2Z3Boa2hhUlU5c2NTZmlMZlJjOXlSbk40clR0OENBdlg2aEJQUmNuemJXU29NUVRjdWFfbXdOVFVPN3h1ekVmNW9zazh5RGwzVi1FZlNlU3o2TmhqWXNLa0N2bWZfOEpEV2xfNlRpQ29NLXUwNU5nZVByaWdYWGJlc25TYXdIRGxrejJzemstbkNFUVNWVEpBelpJcnpCTFRpU1ZsSWc?oc=5",
+   "medio": "Universidad Nacional de Chilecito",
+   "fecha": "2026-10-29T04:21:02+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "4 escenarios que se abren en Israel luego de que ni Netanyahu ni Eisenkot lograran mayoría absoluta en las elecciones",
+   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2YTQzOEM1TGY3QWc2R0dTSnl5TDRCOFotZWVMWFpGM19RaDZ5QnpjWUJFU0tBTUM2dnJjTXRBdENkNk1semp2RzZDX0pDVmVMT3RVUjFmdlltX04t0gFiQVVfeXFMTkdvdWdaWlBORllZQnZCdk5senNlbEltenBZR0RIMTdOdXVfczBwbmRPLXpSVUJteWgxeF8tWVNOSkFfOFVpOUVZRFpWbFZDS2IxV2tFaFhxcDg2MmdxUDdmb1E?oc=5",
+   "medio": "BBC",
+   "fecha": "2026-10-29T04:14:19+00:00",
+   "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/d043/live/9e4e1a90-d34c-11f1-b9a9-575940b3d79e.jpg"
+  },
+  {
+   "titulo": "El proveedor de índices mundiales amenaza con excluir a Indonesia de la inversión internacional",
+   "enlace": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55WGw5WTRQWl9IbERaUEVweGlLbDRaM2dCdkw5WlFoLXl2VEgyemdUNlp5NDFkNDJRTXZmdmIyelIyZzU5M2Zfc25qU20tZXpzaDRvVUVCeEt0ZVVkR2tjN0NzeFNtc2o2?oc=5",
+   "medio": "World Socialist Web Site",
+   "fecha": "2026-10-29T04:03:42+00:00",
+   "imagen": "https://www.wsws.org/asset/d159a35a-a3ae-4fa3-9907-f64061af3713?rendition=1600x900"
+  },
+  {
+   "titulo": "Vietnam y comunidad internacional piden el fin del bloqueo contra Cuba",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzRxbmxwdlZuNTJOZHZwRUdEM1k4MTRxdWY2cm05MktVekU3OFBHQ3pCcG51dE5wZExoSm1YUm5naV9ZdlFYMTZoVHBWbklfYm1jSi1mTVNwYW9Fcm56TTRRUW1WdC1XLTZhc3k4NmpFM0ltdzJXNW9nNFZISXY4R0dnZ1l5bVdKSEhJMExQV05MQk5BM1pJbHFZdTU1eFlGWHFzcEFiTm5ycTlVQm1pcA?oc=5",
+   "medio": "Vietnam+ (VietnamPlus)",
+   "fecha": "2026-10-29T04:03:06+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Internacional de Bogotá vence a Medellín que sigue preocupando",
+   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ1I5M1RBOHNZa3RIbmF0TTdSaHFOaXdzSko4c0k4ZjBZeVJSQlhla2JZY0w4em5WeWxONjBTV3U2UWd2QkQzVHdQNW9KbTY1RVVjUVpnX25OWDl0Y3RKaHQzUGZ5ekhkVzVLNVhia2h6ZTc5NFRENFBMUFg1bVlobkc2bHJMNl9HbFVXMTJlQm5SYWEzeUNEbHF1YTZhYTFlTXFnSWI0OG5LVnfSAb8BQVVfeXFMTzF0dEZBczh4eDZnMnJSQnloREc5VjV1eUlTY1J3S0daUmhNbU5ieUFac3hKb0ZYZXdUdDF3bWcwTWxKVnM4UVpqdEJUM2ZieWNwbkxZQUUtQTlaQm9uYjdlMHpYUkZkclg0ZTFzeDB3RXNteU1lanAzaHktUnBmU0ZYaDdfUHZkQjRsRm90ektfUUNaQnJBNHZrOWJQWTY4cUVrOF9RTFZyc19tQ3BBMzdfY3RfWWVRTHNwcjJNdFU?oc=5",
+   "medio": "AS Colombia",
+   "fecha": "2026-10-29T03:02:03+00:00",
+   "imagen": "https://img.asmedia.epimg.net/resizer/v2/MZOV3RWLPZB77FXEYPZC6UAYAE.jpg?auth=80b2f74d2a1300f2050b974ebf98fd831cd14c5e951c777dbe1a52a90e8c705e&width=1472&height=828&focal=431%2C147"
+  },
+  {
+   "titulo": "El potrero más grande del mundo",
+   "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUGF6TFUyNm02OGpweVhGaG12OEpobzdOOWlHNzhFS0hOZDFEVndVaFhlREZtbnB4X2R2dU1qY29JR2t2dTdVbW5Md0pPdXBwcVhBWDlma3YzZTZaR3FCSHN4Sk43cXE2ZUljRWgtY0NLUVVOZV9jMVp1T20zUldJN0dpWm1USldDMlRNQtIBkgFBVV95cUxOdmt0eUhqQ19MUW91SG1ucXVBUnJyRHk5SUxIS3NlUjRqN1pFQmtDT2xKRF9EX1lvQU5GY3liTFFJRzlxSjBUbFR6Ymh6QzRBX09xZzMtUnRzblo3Xy1mSWUteE9NYjVpOVJ5Z1VRLUdnbjZXSUNoWmhRNVN2dnpoVWhPZVRPblJRdTZ0LVFjRHdKUQ?oc=5",
+   "medio": "El Tiempo",
+   "fecha": "2026-10-29T03:01:00+00:00",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail//uploads/2024/11/28/6748671ae02c1.png"
   },
   {
    "titulo": "La música del mundo encontró un escenario en el Centro Comunitario de la UACJ",
@@ -16,34 +324,6 @@
    "medio": "UACJ",
    "fecha": "2026-10-29T02:49:45+00:00",
    "imagen": "https://comunica.uacj.mx/wp-content/uploads/2026/10/94b76477-dc00-499d-a6ab-17be63cd6a1c.jpg"
-  },
-  {
-   "titulo": "Costa Rica se une a 18 países para reforzar la lucha contra el narcotráfico y las organizaciones criminales en América",
-   "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUmpqUzltVVhyRzMzVWlYRGZfN1d6ZDdIY0RnMF9GZWs2YV9WNm9PUEUxRDVXT3JLbnBRLWk0VGN1b1VWMklPMVRGMFlHN0J0ajYxQTZ6cjcwMmR5aUtmQTItV0ZKd0Q2cTQ1TDRVbVFBcVVJVFpwcmJHSTlvcGUxZEgyV1I3MUhibHh5Z09DQkxtbkxSeTBZbjNEcW5saUlyb0hOTEhuY3FfRm43dm5ncVF0ZnpKRkJTT1VwVXlvOGpyenkzMk5oRkJnWGluZHpaVkM3Q3pQXzFsNEcyU2ZZMVdyWXBMZVFRcVk1QWllSGkyUVBjd1FURNIBkwJBVV95cUxObS1pbHJzc3d3ZHp0QWZmdE1qUlc5eE1qeG02QjN4MzdjN25RN0RPMkEydkFqRlBGTmlVYUJzTGhZelNESzZESjVZbXBBY2ZjcTZ3V3U1c2dxbG5iUXhJZjEtVndvRDA1TGJsQ2NLLXY5LUR0TUZ2aTVHS2hxYjlXT19sVzBnX0dpc24tWVdQend0cC1OWTFrblpvb1JGY2NyQWJ0bFY4QlJUMkNBNjhXSnA1cWpTY0x3TXJmOHZnWC1jSUEtN1JRQXBMS0RrWkVXcUpsYk1NSnNKclhEdHJZNWpRX3lpNTdrcV9xMFAxYk9FbzkwSTNHV1UtRldNbjVpVVNmUXp3LXNKYmhScVZyWGFiRQ?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-29T02:33:41+00:00",
-   "imagen": "https://www.infobae.com/resizer/v2/QXL7522ZUFBWBG6742HFL6FGH4.png?auth=d4a86f591bf099a0594cd00b5b45a06f317cc0ae0d0ca77e566c039c86a81c88&smart=true&width=1024&height=512&quality=85"
-  },
-  {
-   "titulo": "Se activa respuesta de emergencia en instalación nuclear de Estados Unidos por incendio",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaHd2YXhaS0hHTmFidzlQVzlqZ1JlbnU5WkVfRjJHdjYzeHlZMmZBRExWVU51THJYR1NLbFJXWm1SQzNldHhXNWJKTXM1eUpteHlNY1dVcU5GT045TjIxbTU5djdjVlVHdXlMSDhFdl9qS19pbW1iNlNsOHA4V0cxeW1SeGVhSmpFTVIyVGliSURzLU5JaTQ2WlE5QWl3bXNHejBTNElZVWtqUnlqZHJRdGJuUVhadzFENG9VOUFmTkNmVmIzcEtCY1UxUXREUdIB0wFBVV95cUxQamxueEQ0WkRpQzZKZG9mdHY0QTZhU1pmaC1rTmdqczUyaTluV2VqLU9leHNpeVJSZVhkeGRyOVlUNjRkUnBqSjZiMmRQNzZZU244c1d2dVVxRExBbl9OY1hRQTdDRVdvUmRlY2lBbVBObWFEXzFKZnlpamVJYjZnNWdaNTRYem1wWjlHbE4xc2g5TER2QVlZdlVFQXNiRG5fZGxCd0dvb0FuamxtTjJaX2FvRVBVbWxuNng4SEVMS3Y1am5JQTJycGpEREJtcjdJVXZv?oc=5",
-   "medio": "Revista Semana",
-   "fecha": "2026-10-29T02:31:13+00:00",
-   "imagen": "https://www.semana.com/resizer/v2/WH5JNQJAFZEFZH3FOIN2C7U7PU.webp?auth=157920c7a3f53212463daa657fc18f79c0810b21b9009a6416ebf5df6ffc76bb&smart=true&quality=75&width=1280&height=720"
-  },
-  {
-   "titulo": "Danzan por un mundo mejor",
-   "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xVEx5ck1EUEh5REpTWkdkNk9DOW9ZNWZjYmZtM1pOcFBPaHplczk0TXhfNTN1M3plbHpJbnU2eEdjNTlTRUtLVEdGM3ZoN2RfTTRNZlJNa3lTNGNnUTgtNzNMYV9uY3BNbS1F?oc=5",
-   "medio": "El Norte",
-   "fecha": "2026-10-29T02:16:41+00:00",
-   "imagen": "https://iphonegr.elnorte.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/309/6308205.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.elnorte.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0"
-  },
-  {
-   "titulo": "Cooperación internacional para mejorar la capacidad del sistema sanitario.",
-   "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pbUw2SzdIQTI2akkzVHZKS3J6em1ueFlHSm9rVTQwMF9qMHpzelQtS201WE1TT19jU0FGdXM2Q1RYb2owZEhMRVc2c1pfVWRZaGhyaWhEajhyTVJwdkktdVRXQ19EOU9Nd0hsbDFZTzhRUQ?oc=5",
-   "medio": "Vietnam.vn",
-   "fecha": "2026-10-29T02:14:07+00:00",
-   "imagen": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/29/1793236212263_hop-tac-quoc-te-ce58bb0e5f68fb5f0def57505f419bf3-1.webp"
   },
   {
    "titulo": "Saprissa acabó con el sueño internacional de Firpo en el tiempo agregado",
@@ -60,39 +340,11 @@
    "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
   },
   {
-   "titulo": "Ramón López, opositor miembro de la comisión de diálogo en Venezuela: \"El año que viene habrá democracia\"",
-   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcHVKa3RmRmkzZnpxOW1ER0tVSzA1OTZPX3F2N3lYbk1nLVBqSVEydXJlNjZXQXRFclluYmpPZkpoVTU4bnRCMmhBWmF6RUo2RGt6NUlXMnF4SnVKd3ZfWWtRMFFvMHd6YlRoeXdaXzFaY0JodU1JVkhlUXljSHRkMmVlTdIBgwFBVV95cUxQVlB2UlA1c2h4eUVmQmpmVGEzWEk3UW5sc1R5djhHdkFFREtkZUcxUU5RZW0yeXBHZnpERUdFU3hxS0RiNlZfYVJrZGpaN0tTUE9RS182VEkwSXJZRm9YTXJHX1M0bnFXNlktNjhYeDhORFVCdE9HS0tCUlppaUFMTU9OQQ?oc=5",
+   "titulo": "La historia detrás de la huida de Bolsonaro: estrategia de confusión, ayuda de Milei y control desde EEUU",
+   "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTFpVm5SSC10RFBGdURPVjRvVHlsbWU5Snlma283S0ktTEs4cXBtckItRmFHTGZyMmN4b0NDRmU4c0JuWDdzWkxFbXM0ZjEzZkg2NFRKbmNrUERRajRjWlRhbzZhal84T0RwZEtZUkN3aUZsYnpLdGxNcjgyMGVURUk1a9IBgwFBVV95cUxOWjRISGZqdjhWZkJOSHMxTnppZGxwc3Y2Qm5YWDJMbGdSVkM2R3psM3VzSTRCWXdXeXVtQjFJVkl4elpIdVkyTl9nUUdtLWNjbURaMVJ2aWJhWDJsNFotM19fUHFsaHN0ZFUyOXJ3X2lhRW93M18zWEpYNXozQmx5Z0JHbw?oc=5",
    "medio": "El Mundo",
-   "fecha": "2026-10-29T01:03:55+00:00",
-   "imagen": "https://e01-phantom-elmundo.uecdn.es/0e7a9e856057eb59a12d191cf435b0b7/crop/0x1212/3058x3250/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/28/17932025959157.jpg"
-  },
-  {
-   "titulo": "Aeropuerto Internacional de Mérida: estatus de vuelos hoy 28 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNazJFd1Mzd25CTXNfNmpLbzhaNmZfRThHbFNhV0syNlNocmVTUHBkT24xLWVkZ0VsYnlTVm9rTDc0RFZBSHUtbGViSTVOS2syUzJTalNUc05OUXN2QXJoY1M4YzQ2SDUwRjB1NkoyZ05HOU1MandzSmRzckw5NTZEUEhib29fZG05eVBqSHJySkxwX0JYRnRkWnNfaklhbERnZ2Z2ZlpISU9XV2gtVXprQlJjeW5HcUNNOWdZb2RhTHF0NDlKNWxHTUNBb3c0QQ?oc=5",
-   "medio": "El Heraldo de México",
-   "fecha": "2026-10-29T01:01:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Aeropuerto Internacional Felipe Ángeles: estatus de vuelos demorados o cancelados hoy 28 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUXBVSHRQZTVTTXZBUWZ6RGd0YVMtdmxkS2lqSmRueUh5SlRFNzR4YWFzVzRTYncwTEVQdC1pNy1PWGZVRDF6dU03aV9vRlhmWEpJZkNJX1ZWTUs3VzgxaER4WU92bHZfeWZoTUU5TEJQOHJQY0ZSWFZWVFBjQkZhQm5BZWZiWlNjTWl2RVdTSVZNSUJEVHI3dXR0cU9GQk1EMV9KdUFLMkpDeDZoTUpHRzd2eGtCZGtKOU5uX3RoSUY5YWJxZDNMYUdheTJ3QURCSHZVOEJYdUV2bkY0akVGREljOHZSWG5RRnBzTkV5Zmc?oc=5",
-   "medio": "El Heraldo de México",
-   "fecha": "2026-10-29T01:01:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Aeropuerto Internacional de Puerto Vallarta: estatus de vuelos demorados hoy 28 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORHR4NC0wZ0V1RUpxS2ZJbUQ0QTctWmcweVlRd3U5SzE3d0dKLTRydGxmc21pcmlzNV82Tkh2eVVTbjdyblAteVgwck9haXFHUHZxR0c1M0NodkQzZUNFU3RWdXJoTEJTUGVKbFhmQkdWakZSbC14R2s2TDkybzlVY2YydTA5bHpncE56RWY0aFlpWXZYeGN6X2JQaXJOSHR0dEdPc3hlSGRjcEVRcmp4b1dKdWpEdmdZNkpGc2VyeG5RX0NMU0NMS1NQX05NT3pVWHI2bTB2d3JaZXdzNVdwdVJoQUVLZXc?oc=5",
-   "medio": "El Heraldo de México",
-   "fecha": "2026-10-29T01:01:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Así es la montaña rusa en alta mar más larga del mundo a bordo de un crucero de Disney",
-   "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOamQzNWpEekFXdEtJM3ZnU085dFBjM0s4UFNBLWRwTVRvWHhGUGRUdjE5MkIzMnVPcjIzT3A3ZTFBTk1tbWY2Z1ljWEpTbmRmUzNCVkp1WFlYVm5FcXVtU0pSZTJJNGVwNDRTM2Zvdk9VbUp0X0RpNUJwWmwyZ1A0VlZwOUR3VUU?oc=5",
-   "medio": "Yahoo",
-   "fecha": "2026-10-29T01:00:00+00:00",
-   "imagen": "https://s.yimg.com/lo/mysterio/api/86329c0b6c7b9b1e6a3bf5cdd6c110d38ad753dcc18425d07f5f2dd5259611d2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkameraone_latam_vertical_video_740%2Fa9c9f7af8c5fc51cd74c360417fadeb4.jpg"
+   "fecha": "2026-10-29T01:03:56+00:00",
+   "imagen": "https://e01-phantom-elmundo.uecdn.es/bfbcd106d1e7768c66720d1326e7d867/crop/0x0/3000x2000/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/28/17932197155774.jpg"
   },
   {
    "titulo": "Estados Unidos tras la votación en la ONU: “Queda trabajo por hacer, pero el mundo empuja contra la propaganda cubana”",
@@ -102,25 +354,11 @@
    "imagen": "https://www.infobae.com/resizer/v2/HQQJON4AIFDF3E37A4DMDCTCUE.JPG?auth=b29dfded2f2de92e63bedffcf40479dd20e7f7710a0e75e1c957841479d8419b&smart=true&width=1024&height=512&quality=85"
   },
   {
-   "titulo": "Aeropuerto Internacional de Los Cabos: estatus de vuelos hoy 28 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYVYwYjQxM0hBU2NDS0hmUDQ2ZW1oM041a1pkRHZEMllCTEZRb3pxbTJmTTNhZFpjVXF3RnVvdzRhMTRsaTdHZVMxSTM1Tk1ldDFhUXRhRmdLdVZFc2FIejdCb3pUcmRBRjBNYjZvMHUyeVJFeEx0Q2RZckJaSGo2OTZRemI2UHlBVFpWUGZDYWt0X1lpSEppN04tUkxuYWZWdDlWYkdUSWJFMmZjZnhTSjNQUkFRNkxPcmRTY2I3NFN4NDEtdnRsanlRb3pjSXctMWc?oc=5",
-   "medio": "El Heraldo de México",
-   "fecha": "2026-10-29T01:00:00+00:00",
+   "titulo": "Fluminense remonta a Internacional 2-1 con agónico gol de Acosta en el Brasileirao",
+   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUEdkM081c0tMYW05R3RNLWNLOEJoX2RnUFB1SHRSdnVFbmJsRENTRU8wSU41R1BMZTZwYzB6T29INUtnWnp3NWNIWmd1STJXV0ZpMTEzeHBmbUxTV050TkVPcFlvcUZkc2czcmdMdGZsa2dnYldmejRUNzh2OGZOSnRTN00zTkd0YWc0bF9xVVFtWlhSN3J3ODlNZHE1NlFVSzdOR3dySENzcjJ0ZTBVT3lLS2lKVFRXb0dMeXZLYmpmNllVRzNZZUZEVS1nSkJ2U29v0gHYAUFVX3lxTE00YVE0amp4c25RU3JYdXBXMzd1cXlyQUZXVllFU3pSQXRQVjlGTm5xUl9oazdXck1JVjVKNzBzQXg1c0RfMHlDaGxXZ19PdFVCOEx2UHFoc3BmYlc1Q2RmSmZYanYxT3B1eXR3ZHRXclhBVGxQVWU4M1NMcWZacU1jZmQ5UldHamJNZ2lqLVlNdEdCVGtmYUpRam1oNHYyeXBGSkRhRGY4TjZRUXJUejN1ZmdSWm9mWU42SkFTMHY1cFhOZFhraFQwLW8xNDNnYzl0d2thb0c2Wg?oc=5",
+   "medio": "Futbolred",
+   "fecha": "2026-10-29T00:50:02+00:00",
    "imagen": null
-  },
-  {
-   "titulo": "Aeropuerto Internacional de Guadalajara: estatus de vuelos hoy 28 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFdrRzl2RFN1dkR4SWpiZXZYWUtaNEZvUVRBSTZoRHRrUURVc2xncWo0SHV6RnNmLXJJZ2txRmdKM3B1cG15cWdWbVFiYzM0dG9XUVo1WURUQllQOUNnZGF5ZWpCaVVoeGhhb3k4V3Z6SUJBTTZ4QUs2RzlEUzRvMGY2NmxBM0RORWdOMkxvMklOM0d5Y3NNYWdKYzI1WDdSdnlPVklOdjRLbnl2VUFRdzI4akQxYmpaM3VIS0YzSlpaU0VuSXEtQ3MwZHZmRzBval8wMw?oc=5",
-   "medio": "El Heraldo de México",
-   "fecha": "2026-10-29T01:00:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "BHD exalta la grandeza de un nuevo grupo de Mujeres que Cambian el Mundo",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFJTeHQ1bVktMEtYSmtGeE1ZSTN0RUFJMVQ3UmpLYXZfN2dZWEZsWUhCbWJDcDRDR0R2TEhFaFU2b19ZRmVQUllyaVNkRTYwcGhqX2l0WUhPZUppUEk3dWRaamZaZlNlb1E3RE1obHhDRzc5WlBYVElwaTR3MmVyaS1YWGdBamRzbE5qQ3dveEFmdUVKTVN6SmoxZS1GQzQtWU1jSmwwZTgyY3l2cDBLTDJhSEx1Z2tIa3ZR0gHAAUFVX3lxTE1OcGREUG1JNnBsLVFyaEVjMTFNa3lBcERxSkp3NEdFdjhXZndwd3E3eFNEUlpyUVFZZFdUc24xTjlVOGduZVR6ZGZ4RGJETkZCdkZ4QU5qSHhWZU4wU1dXRG5rSVdFbk9zVmVLaVB2Yk5nQ05EMjRrQmZvQmdfVnR1cjVoS1UzSmR5cnluYVdydkhUQnYycjhJWEZ4Qkx2RExCYkhQWXBtOFRRa3dSMjlRdEtQancxSHhMWXc5QkNiLQ?oc=5",
-   "medio": "Diario Libre",
-   "fecha": "2026-10-29T00:51:00+00:00",
-   "imagen": "https://resources.diariolibre.com/images/2026/10/29/bhd-celebra-el-premio-mujeres-que-cambian-el-mundo-2026-350fbe5b-focus-0-0-1200-675.jpg"
   },
   {
    "titulo": "\"Sentimos un impacto muy fuerte y salimos despedidos por los aires\": los sobrevivientes relatan el choque de trenes en España que deja al menos 68 muertos",
@@ -137,32 +375,11 @@
    "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/969b/live/c4714630-d323-11f1-ba7d-b5eab6da6837.jpg"
   },
   {
-   "titulo": "Así alineará Medellín para enfrentar hoy a Internacional de Bogotá",
-   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOFExREQ0cFBVZlZBOWNxcTVfUEZKNWRiNEp6TnNKYWN2QVcxRTE5cTdoc2RwZWVzZlpFM1ZOdXNTUW1qc2UzLWMzUjB1YTAycWxUNXB4X1FpUW1YbEExSTllQkRQWTBuYlNENGxwa1BkS29VdGh6WHZ0M2hjUDFxdzJURFUwdkNvQXVGYUpQT0I1OFFEYTd3WmhKS2Vad3dhc2VRcEh0QmZERkN6cWVJaw?oc=5",
-   "medio": "Yahoo",
-   "fecha": "2026-10-29T00:16:00+00:00",
-   "imagen": "https://s.yimg.com/lo/mysterio/api/b72c6d1187bcddad080183b5ff774f4a02305cf72e6ce91d076de49ff9cfec02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fel_colombiano_410%2Fa25638468380bfb37fce25276bc47b8f.jpg"
-  },
-  {
    "titulo": "ONU exige fin del embargo a Cuba, pero crece el respaldo internacional a EE. UU.",
    "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQelpCZ2NkSmZaN3pMaFZKSkU4MnJWN1R5Y21mMGtRYXZJZVV0VXpOaWttSzNfTDV1bVhfdTFoWDk0Q0hCQ09LdU5WaDVfMGZpem5qSzQ1bVlZdjI4ZkxqNVVmUjl3NzQ0aGpJTXBHdHNsTEdGRFJ1U096ZjhyXzRrblBkOFg5anFSZ05WNXhVSl9xbnpFVXJ5VWs5V2hJUVdyVEVQVTdNenIxQTJabE9MUm5LR2lQM2tlZUhQTg?oc=5",
    "medio": "France 24",
    "fecha": "2026-10-29T00:10:08+00:00",
    "imagen": null
-  },
-  {
-   "titulo": "1929: el martes negro que destruyó fortunas y sacudió al mundo",
-   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUlNDUzBLRFc0MUNtNWNHVVVta254b1hOT3l6RF9oM0VqVW5nX2YxSnNPWWtkbU9uRHlpSjNkNnpISFlQLURCYmN3X1JTM0xYY053empIeVROd0R2by0ySW9xS3JreTJiMURFTzBoTnh4d0E2QTRlT2E0TGZud0I5Njk1OUljbWVLeWNnenRYdzVQXzNhZF9SYkpDWGxrdGtpR1FV?oc=5",
-   "medio": "CriptoTendencia",
-   "fecha": "2026-10-29T00:06:00+00:00",
-   "imagen": "https://criptotendencia.com/wp-content/uploads/2026/10/Martes-negro.jpg"
-  },
-  {
-   "titulo": "Voces y debates en la UNCuyo: Se inauguró el II Congreso Internacional de la Red Internacional Multidisciplinar en Estudios de Género (RIMEG)",
-   "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYXczQzhrMTZVOXJoYl9HVlc0a3MzQmh6ZGdwN2xEYXRKUzVOeG45VWhaTmxJbjk3WTNVdlBOYW1JbFhVVE8tSWhQazA3d3d2cDNqUEpVNW9KU3o3MnBjbW00QlJEeU9jV1VKQVZsUG9lX0w2N0tudjZ3S2hNbVVZalYwOHl0dXc1V2E2SS1Yd29DUFFaT2dhY0Zxc0pRcE5ya1l2VGU4RnB2dllOLXplY2FFNmNqOGx6Y2NCb1JXTlNvTWZDSEwxUnpmRy1xcF9JTDEzT01DZTN2UWxwS2JwR1ZWVlZRZjBEckhHazhUdnF0b0d2SEF3dw?oc=5",
-   "medio": "Universidad Nacional de Cuyo",
-   "fecha": "2026-10-29T00:01:40+00:00",
-   "imagen": "https://ffyl.uncuyo.edu.ar/cache/57e1728e5deab8cfd313d90b7895fcf7_315_600_c.jpeg"
   },
   {
    "titulo": "El ultraderechista López Aliaga, virtual ganador de las municipales en Lima",
@@ -172,11 +389,11 @@
    "imagen": "https://e01-phantom-elmundo.uecdn.es/2db62cd8e9bb997fcd3a714094817c7e/f/webp/assets/multimedia/imagenes/2026/10/29/17932313568281.jpg"
   },
   {
-   "titulo": "Flávio Bolsonaro denuncia el \"robo\" de las elecciones sin aportar pruebas y agradece a Milei y Trump por su salida de Brasil hacia EE.UU.",
-   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTQ1NwejNIRlZjMG56QWJHbmFKWjlCQUJDRXo0Zk9uRXVfZk53b1VJVktvNEhwaHJ3RGh1TEpPSHRfWnpRazRlYTVFVnpINFRETUlRWkZQdGtDV0hq?oc=5",
-   "medio": "BBC",
-   "fecha": "2026-10-28T23:34:20+00:00",
-   "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/812b/live/6e3e7240-d31b-11f1-ba7d-b5eab6da6837.jpg"
+   "titulo": "Portada de Mundo Deportivo del jueves 29 de octubre de 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3JoN1lzbXlmV2k3dGFLMFRxbWR5RnZFME9WM2VPNndRNHo0cG90SlJZd0pMSVZ1RU9PYmpGYXo5VUVFZ1U3RjAzT3hzeElJRUFkME1ya3BaRDdEZmhBTEtpLTZnVXR4Ync5UFY5YU0yOHhCcFJQek9Ta2VpdkNmeUFEYkFoR0kyblBzTTgyQkpoSG84THdlSl9uU2NlSWllbnVHVm1lakpHUXNnZWZhVUkxRdIBwAFBVV95cUxOOWFscDZaRVBEaE4zb0J2dGIxYS0yTnR2SHJfY2JWXzBzc1o5YkcwVWFyWUx6NUhWZkVTQjFRSlZMcmFrUFQ4RVhLcUtJWTZPakhkQ25ONlF4d2Z5Nk4wNkVOSVhiSkMtOGRRdUlpNHIxbnJUSTREb1FGU0RIeTk4WWt1ZjF2cjM3eW9tWW52T05VSjFmVC10czdNLWxMM0V6NW5Sa1pFMjQ0RHZNRzJ6RG5VdF9yMkRnRXJWQUdnZi0?oc=5",
+   "medio": "Mundo Deportivo",
+   "fecha": "2026-10-28T23:30:00+00:00",
+   "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/29/6ae2819089350.jpeg"
   },
   {
    "titulo": "BOAT de Cristiano Ronaldo: qué dicen los medios del mundo",
@@ -186,11 +403,11 @@
    "imagen": "https://www.mundiario.com/media/mundiario/images/2025/01/07/2025010717512134832.jpg"
   },
   {
-   "titulo": "La Bolsa mexicana cae 0,76 %, contrario a mercados en el mundo y baja a 69.182,39 unidades",
-   "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MVGtsQ2RWS1U1aFRZQ2RoSk5FX08tazdaTFFtLVU2akNvLUE5VnQtaXAtUDgyQklSV0RGNmJJS0ZUemdMWDVCZ2V3ZmJsT0M0Vk81RWNSanBHZHJMUllhMDRDdEtjTVZPeXdhcHg3dFUyZzR6ZU9peW1MSQ?oc=5",
-   "medio": "Yahoo",
-   "fecha": "2026-10-28T23:18:16+00:00",
-   "imagen": "https://s.yimg.com/lo/mysterio/api/40adddf73344ad0135db3437ba234303c52d6cbd86ce8146556ea64d1b51973f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fefe.es%2Fe07c657776918c9c1a9696dc0921c178.jpg"
+   "titulo": "Un triple colapso de la seguridad provoca otra masacre en los trenes",
+   "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RSElVS1R3Y1RfUEpXUU1GVWZKQmQtR1BnLUlINk9OWk5ER1NidnkxQWRXbWRKd0J4TmNEY3cyblV6aVdzcTB4dmwtMy1iQmNjM0ZXdHFWM0o3OTRiV1pmcW9CV3VLbGJHa3FvRnpPMFVFcUpjLUtnbnk0T2XSAXxBVV95cUxOYzJLX1g5NGJLRTZHXzZmaEY2ME5EWmhFbU0wc19jdG1pZHU2TUFmOHBCcWpEb1ZkUE9WaUg3Q2xRV2dnTmRxNkUweFJPV3RCbnBMT09oOGdQT2FTTU9TTFpoSnFFV09RRi1JQ2NKaFYzOHBSX1hNbUx1bzF2?oc=5",
+   "medio": "El Mundo",
+   "fecha": "2026-10-28T23:06:00+00:00",
+   "imagen": "https://e01-phantom-elmundo.uecdn.es/fc64e09c33323af4f855cc046fcf9561/crop/316x186/2773x1824/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/28/17932175955634.jpg"
   },
   {
    "titulo": "¿Y si los demócratas le arrebatan el Congreso a Trump?",
@@ -200,228 +417,11 @@
    "imagen": "https://e01-phantom-elmundo.uecdn.es/8aa6839db97df51d4cf4661b099834ad/crop/0x1727/2849x3627/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/28/17932050190666.jpg"
   },
   {
-   "titulo": "Venezuela y sus migrantes: muchos regresan, pero el éxodo aún continúa",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaVZlRDVfTkdyYkVnR2M0VEtlNGdkWHJDbWZsdDFkT0ZEZlZpN2ZpUm1OUy1FT29ORkdDem9LR2s2aTdUWFVJSjc0Xzg5cU9pR1JZTldjQklUaUJpY1MycnhMTmsyTDNLZkdZUHVrUi1Mei16ZHp4OHBIc0szNWxRVGpGZ25zU0ktNzRtd1E1R0k0VnJ5OXFvTG5Cd05DSXhOeDloV19BbzJ2NWhKTlNnNGdabEoxNXfSAbcBQVVfeXFMUEFKVXA3UXRmTGxZREdQWkFrWlRkdHpGbEVqaVdTVTdKM1BqdXdOdVF1M0czb01mWEpLeXBnMzMySERLeGRQS25LTEtLOE0yUnZjci1BemJyRzgwczBNbTNnVDZXSGRGdTNZWUk3TDlwdGpQQTNMU2thTVBaTGF4QVdidFFvLWdnUktXYjZFSDczbEVxZzB4T0xNR1hoc1dUdEVxbnR3a0lOVW9kaFQ5MlBPU2MzR0g4?oc=5",
-   "medio": "DW.com",
-   "fecha": "2026-10-28T22:39:52+00:00",
-   "imagen": "https://static.dw.com/image/74960396_6.jpg"
-  },
-  {
-   "titulo": "Festival Internacional de las Flores celebra la diversidad cultural en su séptima edición",
-   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWk1IZV9LczloYkpHOEdlZ1E2dnN5NEZxR2VGVjhISVRfMjdBOXAzZUVWbVpSUkt4WFBEeURWSWpXS1FFWlIzNGdNaHJGdERTUFJIanI0a09xZnAzYjhfN1cxdHFURVFlMU91MnJsWjRCNm9LUDFqRUhuUEluWkNuUFRmajc5WWdXRlQxb1hUZG9hNWliX0lQV2pxYWFXTjlfSDZxSkhhV09zWWtnX3FSZg?oc=5",
-   "medio": "HolaNews",
-   "fecha": "2026-10-28T22:33:51+00:00",
-   "imagen": "https://d3k76ktnld9l0g.cloudfront.net/wp-content/uploads/2026/10/28222812/WhatsApp-Image-2026-10-26-at-11.08.46-PM.jpeg"
-  },
-  {
    "titulo": "España acumula tres accidentes mortales de tren este 2026",
    "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb25CU19UenNHb29LVDNKdUt0dXl1eDZ1SzFzSEtkUmFQZ01TZWs0UmxnM3RDV29leGh5X0ozZDBhMDY0RU02dUlHeGhCdkNmeGY3b1Y1djdSc2pZU0RPd2Y5TTFkanBUV18zRlhXbUF0RmlIZHBlU0ZKTjVwV3ZCai1vd18wWl9NamY5cEo2YlUwWWpqLWZjLWNETVV4bnc?oc=5",
    "medio": "Univision",
    "fecha": "2026-10-28T22:27:09+00:00",
    "imagen": "https://www.univision.com/api/image/og/us/noticias/mundo/espana-acumula-tres-accidentes-mortales-de-tren-este-2026"
-  },
-  {
-   "titulo": "Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos",
-   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kQ2VQd1BQMzZSYVJsTXZxVnByV1locnFBaXNZX3BhSDZ1WGJOT25xc0tTWWluSFNjcFhjSTZWeUpLNzZRNHducldIeVZGMVRTMlFpX1pQdW5LLV9D0gFiQVVfeXFMTU1JSlNYNHd1VTZfZ3h0X1dRRmxTNFZjbzB2SVBfUzdEdS1hZDRQYl81QXFhbHF2U0JoQ2tkQ3o0VUJoRXAtY21zUlUxR05uU3lSSkJiUC1Uck9nM1d5VTdOS3c?oc=5",
-   "medio": "BBC",
-   "fecha": "2026-10-28T22:19:51+00:00",
-   "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/0eec/live/229cea20-d2f7-11f1-8d86-83eebc838351.jpg"
-  },
-  {
-   "titulo": "El Brighton de Diego Gómez queda fuera de la Carabao Cup en penales ante el City",
-   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ0cxNWtyRnpCRTNyT2tlVHROdDZlX0QtUFZFTFBMNFZ1NUcyRjFvNHVVNVYyRFBGR0c1WnhCUXNMMnRoZ2lGUkdZbVY1Mm5XWEJySzlvbW1FVF92R0Ftcm9qSmVxbl9VU2xtcEdlVDU2Smc2UHVmVXBFRkZwajFhMlVBZUxmY0tnVzVjTnRuWXlhbEViRlZ2NVFJUzN2anRzWlpJbWRnQkVBZEhCSEdYT19GZGhIOG9mU0dBaWFPSnR3LV9x?oc=5",
-   "medio": "VS Sports",
-   "fecha": "2026-10-28T22:19:34+00:00",
-   "imagen": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/versus/wp-content/uploads/2026/10/28190307/AFP__20261028__D4QZ3T7__v2__HighRes__FblEngLcupManCityBrighton-1024x683.jpg"
-  },
-  {
-   "titulo": "Universidad destaca en congreso internacional sobre bienestar e inclusión universitaria",
-   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTVBFSGE1czRGQjJFQkcydTVHV3dHcU1WVVV0RUxTbVBRc2luMzlaVTlFeVNGb3d0S0JmTEc3VlNhZ1RpNlZ4dERBelhJNXZPU3FBZUloZ1prVXR2dkFfQkpRVzlLQ0lSMkRnMUpLTGxkdUxHblVKbm4yMkJtZ2JBMjVtd3lwWVEtaFVCbVMzeTRXdw?oc=5",
-   "medio": "Pontificia Universidad Católica de Valparaíso",
-   "fecha": "2026-10-28T22:18:46+00:00",
-   "imagen": "https://www.pucv.cl/pucv/imag/v1/default/default_600x450.jpg"
-  },
-  {
-   "titulo": "Los países árabes prevén continuidad en la política exterior israelí tras las elecciones",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOVdJbUU1R1V2azc3Tm9RcGZySFJCNnN3cVNIWXNmZzVYMjhxWndrV1Vfb2ZfRjY4dzdzclpON0ZQd1RTUXZhYXY0a0NLdTh1Y255dTZqMlc0a1hCR01zUTJyZG9iSmU2TkpMUGFHOXo5RThuY2d4dnhTeGVOTWJoSXZ2YzNXUV9JOF9NU2xFNzVQYmVBeVdVMGx6NlFGLTRCMlZBRVZMSmVqN2M0M2NJYllpQnNtYW50STVsYU5OV1hFZk4yQkU2STVvR2xtbEVaWExtaEQ0NUlkeE50UzN2a1ZjZnU0SzdGWHYxNnFTcHFLYjB3eWZKUUFDclBNWXV6WkFQSi15NGXSAYgCQVVfeXFMTl91SEROaHNnbnhVR2tjQTNYRFZPMjNZc2xGQXlHeUFRX2dEanZqTjNCaFQtd2N5ZnNVS2xHeGQxRWRqWlVaeGVLR3NaYWpKOE5LWlhOTTJmS3Q5R2doVjJsUk0yR29naFdKREhuUUh1VEZyWnY0NEpkTEE2QzIxNktfX2REU3IxeS1iRVN3SXV2Q29zRHZoYlJzdXY1UHgxMlU0SWpNVnIwTldLZmFDamVyNEZuNi1nTVFMSWwxeWV0dm5PNkFLYmFIQURSMmROYnhBeG56STF4Tzg0cmJEU3ZHSDg5RHhJOVV3SjVfSEhySEd2ZDM5bkF1Z1Z4WEg5SDhIbkZnaXNU?oc=5",
-   "medio": "DW.com",
-   "fecha": "2026-10-28T22:15:33+00:00",
-   "imagen": "https://static.dw.com/image/79781929_6.jpg"
-  },
-  {
-   "titulo": "Viven jornada de aprendizaje y capacitación en el primer Congreso Internacional de Protección Civil y Gestión de Riesgo en Guanajuato",
-   "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOYkNHVHNPTkEzQ1N5cmZwczRidWVONjI3aWg4ZjdZbkxCSThFLWVHVl9zYlRKOWoyWTByWUNCSmhsenZRdUptUURmR2JySHd6NVBhRFhYdXpBMzRvOUlXZG5KYWlxRndZM2FNc0I3LUxHaW9YcVlyNlZYNHF3c2NpdkVsR3ZNVEdGZG5XcnFSQkltVk1SX25SZTRTZDBwdDg2cHF6VUt5N2dGdmdnMmVXTm1QN0JnRFVUOVhkVVA1akdXdzMzTEZDeHltRy1Zcm5ScHZpTWt0TlhES0xwQzQzV1gtMFlKZFo0dXRwWU5LYzNCNWRHMlp2MUY2T1VlMGJ1QzNHYkpwZzl1M2xsUFE?oc=5",
-   "medio": "Boletines Dependencias",
-   "fecha": "2026-10-28T22:01:31+00:00",
-   "imagen": "https://boletines.guanajuato.gob.mx/wp-content/uploads/2026/10/Viven-jornada-de-aprendizaje-en-el-primer-Congreso-Internacional-de-Proteccion-Civil-06.jpeg"
-  },
-  {
-   "titulo": "Portada de EL MUNDO del jueves 29 de octubre de 2026",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1VFb1MxcHh0Skc2dkQzNzl5UlNRb29fc1lreHdmc1FhYy1ySXZMX05ZZ0pDSjVMcC01cFJHTFRGUVg1VHdsSXBvYTdLTGE0aFhaZWt4S3d5bFlteTVmOHhLTVlwZ3hBUHBMUFVKNVppc0dOVGpFdThndjdvOUhwR21QbGVueDM50gGIAUFVX3lxTE5vbTB4bDNja1dXVENtVFhCQkxsS01RQlJmbklxX21pcEYyU1REZDk2THgtNGp2NjNsVGd3Z2p2RF9zbXBGTEh1WXdidl9FWGsta2ZrZHhpYl94cElCcXcxcmdHM3hJUmY3WEVNZWZvc2lVeVFmb2dnLWRfRUhfZ2g1SHZzUmYxOWI?oc=5",
-   "medio": "El Mundo",
-   "fecha": "2026-10-28T21:56:03+00:00",
-   "imagen": "https://e01-phantom-elmundo.uecdn.es/8c23437bf03c892cc9cfecea495aef23/f/webp/assets/multimedia/imagenes/2026/10/28/17932257095892.jpg"
-  },
-  {
-   "titulo": "Senado aprueba homenaje a Charlyn Corral por ganar el premio a la mejor delantera del mundo",
-   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY2ZOZUhrZjhwMlJSTDhEQ3I5Z3lRQ0lkaG1IVFlfRkNFWEd4RUItUWNfRkhlbGdiTTB5R3RqZC10bmtOOHNoV0JidGRVa2p3eTM2aVFPTDRNYVdKd19xTUE0MXVTX0k3SHBtU2Z1TG9Md0VKUzZSczNaQkRONjhNY09DOVN4dlI1bGlxWnZxTEVLRG40eU9NcEdHTHNvYzBSMlIzMFNvQnZ2bFpLTDBEQmR1RUxRVWZ3dGdvUHRzenVsejBBQ0MySlE5RTVzRUnSAeoBQVVfeXFMT2Ewa2drYjJ5T0VDVWZxRVpsdU1IeGxmWW5JU3hKelZubzRwckdlY0UyVEE5enlNbU9hdUhMZG5US1J1TnJqRnhDRjhYTElmYWtmT2lWQ0hCdHRpcGF5ZlFhOW9tcnlJY0MzRmtPTllPMEs5ZkgwMFdVQXYtOVVlOVcyRDRKY0VoZGVsd3Q4RXFNc0JXdTNuLWRGZEw0RzREUGVSeGFjbXZRUFhHX3FMb3djb0k2WkFhbGxiZ0V3YkY0N0x0c3l6aVlHRTZnamI3a3Vwb196V04yQXhsRFB6UF9mdHIzRllBek13?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-10-28T21:48:25+00:00",
-   "imagen": "https://www.infobae.com/resizer/v2/DP4MKGROPZDKNJSVFHK7BISUIQ.png?auth=2530d4c465a00529cb7735f4b150657edae2c6e05f67f8b79f0eaf8a60b60496&smart=true&width=1024&height=512&quality=85"
-  },
-  {
-   "titulo": "Flávio Bolsonaro aterriza en Miami tras perder las elecciones presidenciales en Brasil",
-   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlbHdkRTZBN0hDMjlRNDR6UGkydkhvSzlVUzU5OWpIcUczN21UUEcxdU14MXVsWGRHZkxxUVNuemhBMm5OclU5d1FPYS1qa2xvbVFhZjNpSDJ4UVot0gFiQVVfeXFMTm9BR3drcWZodG03d0dfR1dsV3V0QS0xeDhIS2Nxd2VuaVItWVZaNUY4cVRnOGtLbWRqdEJyRXF3TUhJY0tXX0liSVB0OXZZamY2M2lMSnRncGdEZU41Y3hWNFE?oc=5",
-   "medio": "BBC",
-   "fecha": "2026-10-28T21:34:17+00:00",
-   "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/65cb/live/c058b910-d315-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-   "titulo": "¡Lucía Yépez está a una pelea de convertirse en campeona del mundo! Estos son los 3 impactos deportivos",
-   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdWdlSTVnOGF6ZjQ2NHMtRWp6YWMtaGNFSWl4MFVEaG1FWDNYeFZZSlFNODVLWnhpbVVmMHRxVnJJbmJVRTBXWkY1M1pzM1lGQlE3NW5tSzdtY1U3TGdJa0dUWmJJazF5dkVERTFfYUdfX3FfYVAzS1BMTjhQUVh6UGN2SVZpTnYxVkp1RDFXakp1ZTFZMEswWFFQeU1rUFQwemxPQVlNODdPbVBMVXk2T0ZsX1RTc1h4WnVUYmgxek9rVkVzbGZRSnVoY2xUdHFsQkc4emg1VjMyR3dzSTVhN0JMZUlPYjNCVllWZnBBONIBgwJBVV95cUxPUm1iWm5MZnZ2eEpBUmxfYnhYdVE0VUc4OXAyV0NnSWY1MHRHSGdlYTN4OWpueGg2OVFQRXU0UDF6UUpiSDRvMFJJclpOcTgteFNxU0Q3U1hySDMyOURIZzNXUkRMTGhwcmp0bHIwVHI4c3lUYmNtNGZiQjlocmp0RnFNWm5QV3UxVEVGa29paUxPZFBGbVd2TEtLdVRhVjc4ZUhvWV9OZDRoWjRCZXZEb2tXQ09ITDByMVBGT09zQlZ0WkxPRVNERC1sR2I1T3QxV3Vhay1EQ1ZhdGU5TVJJV3FfQk53VFFaeERlNVJMYklOUjc3cUJxOTdYWDlkVVBnWDFz?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-28T21:30:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/EE6HNB7LDZEVPPUZOLAE63BX5E.jpg?auth=a90809d5be0be0f1a3051212bf2b8500fe063bb62bdede623322da102a3e293e&width=729&height=546&quality=75&smart=true"
-  },
-  {
-   "titulo": "Fano, en los Premios Stella: \"La educación está para cambiar el mundo y yo me levanto cada mañana para eso\"",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb19FQVdqcFF5WjIybHByb2VDSU5CVERYa00xSGtJcnRvWUpXLWZLSk9jU1ZNVDZKUXJBVWl0WjU5QjV3U1ZzeS1yU2xwd24zaEhOSWQ5SXZncjdJbkRsYS1IeGZYNVM4X2JkLTl0SXdrblJDOE1aaVlRVHRpUTVhcHc4emVLNTZnel9kTXZOVW95b2pqUkRweVVMZ1NXaWpzTjJNQW9FZDJpdngtdWQ3WGVHWnpndGVOWlZSUXJZeTVUYkxKVXNieU1DQ1A4V2M0UXZN?oc=5",
-   "medio": "Magisnet",
-   "fecha": "2026-10-28T21:26:44+00:00",
-   "imagen": "https://www.magisnet.com/wp-content/uploads/2026/10/IMG_7976-1024x551.jpeg"
-  },
-  {
-   "titulo": "Los pasajeros de un crucero de lujo quedan varados en Camboya por el aumento del precio del combustible",
-   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81a21KUWRjaFUxTkhsUFBzVkx2TDUyT241STNScWdsdHFKNzNrUGFyb3N2emhBVlctOGsxekphb2N6RHlLa2FTRHc3RVF5OE1IWHRyNzZRdnB3RmN60gFiQVVfeXFMUE1NdUxYdTlUVkN3MWYwaFJ2YWJmT2FheHpUc2VxdWJfSmFBTmJWaVBSTlg3TnpiMzRXMlJyV1B6SDVHc0hYaUZMWGpmZDhkVmNZc0ZHUzZLSW5uemRwekhoUUE?oc=5",
-   "medio": "BBC",
-   "fecha": "2026-10-28T21:19:19+00:00",
-   "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/5db1/live/450ec990-d2fa-11f1-8091-57f2713cabe8.jpg"
-  },
-  {
-   "titulo": "🤯 ¿El noveno mejor del mundo? Olise demuestra en Copa que es una farsa",
-   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlBQcEVmNEJoWF81RU1PcVRLcF96SVpHaUphRXRCT0xrZW56Y3FDeXVHdVJfRUt4NDE5ak9LN0FiY3hEeEVZd05WY3NTb2xYUGZRWFJIby14cU92REpwMUhWOGlnMUx4TU5ueUctTkNrS1FXTzVfT0JDMW5iclUwWlYwYzJ1ZmhiNkZrRHVNX2RydUlj?oc=5",
-   "medio": "Yahoo",
-   "fecha": "2026-10-28T21:09:00+00:00",
-   "imagen": "https://s.yimg.com/lo/mysterio/api/91f24bfe39014663d016fee2f0ef939fc42c6bdb585cb6409d339dfa0eee81ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fonefootball_spanish_325%2Ffa389bffc97e8bc3bcb61113ad46b1ab.jpg"
-  },
-  {
-   "titulo": "BBC Mundo desde el aeropuerto donde aterrizó Bolsonaro en Miami",
-   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2VvUGgzSmYtQlNyRDE4MkJfbE9ubEx1VWpLZlpHTW9PMWp6cHg2NGJPbTFhZ3JaRmx1TTZ6OXdVSjZiRnQzZTk4aDFGOHl0NmwwZWlWMEdOeFdCSTZwZDdXUTdkbnJoVFlqNjhGb25JelFMd0ZDREhaZm5tMGx3c0F3eXdSQ1pVY2QxLUZZV0lfaVRmQlZV?oc=5",
-   "medio": "Yahoo",
-   "fecha": "2026-10-28T21:03:56+00:00",
-   "imagen": "https://s.yimg.com/lo/mysterio/api/c6d3ab35f95f6435c9acc3d88a2ba0441a5eaa54c3d5850200b0247fac74d8a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_news_mundo_video_760%2Fc6126b2dcc54aa69135cef773b500fde.jpg"
-  },
-  {
-   "titulo": "La prensa internacional destaca el accidente de tren de Urda en sus ediciones digitales",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3l3NllqQXVnelB5OWNHUE9tNGRDd0Y5RWxhN3kwSVlqMTIxR1M1SUNrSVNtM0xjMGFwVU5nU0E3aFVaLTJZeGE4a3ZvVUJzYURrT0ZMSnNkWWhGOWw4a2NSOVJzQjZzNmJreWlxejV3UzhOZVJVNkx4bTRCb3pOSjFwX3o1Mnc5b3NTa1lkcTBQekNVT3B0YkgxS1dZYjdyTm96MktxZkV4V0nSAasBQVVfeXFMTVNJNm9RVGxNUm5FRzJCYzd5OHlfLWo0TGpOTVNHdE84RUdwaUhPVFl4MHFuM25McEZqR2s2NFNnWVcwQ0FuWXI2NUhFa2RXeTFXNDhaSzRSdURBRGUyNWJsNlNndlZxeU5MYS16TUsxTllwOXc2TlRCU0g4enpweDNoZFBnRlgteFFLUFhFcFRGa1pNeml2Vlp4bnRkdmZScXpQU0RvTFEwUUtF?oc=5",
-   "medio": "El Periódico",
-   "fecha": "2026-10-28T21:00:22+00:00",
-   "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7aeccb64-66dd-42c2-9c1f-9acfa1f2ef33_16-9-discover-aspect-ratio_default_0_x1000y402.jpg"
-  },
-  {
-   "titulo": "La izquierda internacional importa el 'manual' del estratega digital de Lula y utiliza la 'L' como símbolo contra la ultraderecha",
-   "enlace": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPaFVIaHZXcU92LTNYTW9HczZySktFZG82dFBfR0s2UTBkT1JUNEJ3TS1DVHZWMS1kUThmUmFYT0pOMXBkSWpLakhUcWh1bHRkd29oNHZZNkRjSUNSVkxVNFJOYTQ3TVdFM3U1NFkzWlY0RDhYNWVhSHREX0dNb2RXNVhiNE9mN282M3Q2X3BZTjNYNkd5aF80Q0dyVDdZdlc2R3dTUTI0dXVSX1lVc0FUMkt5QVVHdXpHQ1JrcEhza2FMeHFlWHhGZHRHTkFoX3lQVXkyVllBSXJaV0xodnFuRGMxMjRSRGRBTi1NaUR4Nmx2MGZCcUxFNEtMUnhRak10cGh4UmRBVExvMUdhb01BMkZXcEdDaDJ1bEdqbg?oc=5",
-   "medio": "Folha de S.Paulo",
-   "fecha": "2026-10-28T20:54:00+00:00",
-   "imagen": "https://f.i.uol.com.br/fotografia/2026/10/25/17929612566ade6ae85bca7_1792961256_3x2_rt.jpg"
-  },
-  {
-   "titulo": "Los más ricos producen más emisiones que todo el mundo pobre",
-   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2pGaVVIOUlRTDBqOGxMZWZBQ29pZlFFYWREcEdPVURBYmxoU0N2cGxlTkNncXJnMHRCN293ZWdlWmNTN3dORW1RSXpOcmVPS2l5Y2ZPMnJmcUhWWkxFSVhzNWxQTzZQaHdwN2txajVHMml5dXA4MjJTR2J0RWdldWhpZ2ZfMXY2eW9KVXNKUUJaeWNzRkF1aHpXUnNRSzR4VUFn?oc=5",
-   "medio": "Prensa Latina",
-   "fecha": "2026-10-28T20:50:00+00:00",
-   "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/10/gases-emisiones-1.jpg"
-  },
-  {
-   "titulo": "Película costarricense-mexicana \"Plan B\" llegará a la televisión internacional este domingo",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3BxakpUcnN3RXBKaEIyMjVKNHFOQkYtZGY2ckpSOFdpMmc3c0RFVWdnOHBVb1dBcnhMbVhmMENRYU9FNk5XTmpFWWlnZ1JHUWwyS2pZWEJPT1h6M01YMURVWjlBMmw2WW1haEVRcEhmaEhhMUlrMEtNNW5NT3NUa21aeWFhd3U5WWwwa2NfemhnTWxwR1RncFZwWGtjanpDbTVCSThoRUdlZDllb2t2NXhuY3hONmM?oc=5",
-   "medio": "Delfino.cr",
-   "fecha": "2026-10-28T20:38:22+00:00",
-   "imagen": "https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2026/10/WhatsApp-Image-2026-02-27-at-1.19.57-PM-1024x768.jpeg"
-  },
-  {
-   "titulo": "Excanciller Roberto Álvarez pide apoyo internacional para fuerzas antipandillas en Haití",
-   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRHJSQ3Vid1JqeXhvTHFWeDRwVWZvak9oUVVnODVLLU1mbDJ3MXVaaThXVGx3QmhrQl95R1V3Y1p3RS1MdkJaNElLdHJieUxFZWpEZUltTTFLT1NMb1J0bDNleVZlc25kNHlrZnhEUXRQb2ZLUHBVVWlLQVAtazVEd2xaS2hZSGZZWk4yQi0ybUhDNjVLVWV0RVZQVlZNQmY0UmpYRnY2b0p0T1FFNFBHa3g1eXVVelUxVVU4bUptOWlkVUx3RU9CMDd3cTJ0Yl9NZWZGcdIB2gFBVV95cUxQV3QtenRUbWVvUlZEcmxRd0pqTEN2TFlucXFPSlR3dF9MSURUaG1lMFBGT1VuTmp0OXBhUy1TTFVWZjU3dkdYbVloeklScTc4OU85czdwS0d6bEYtOTdNdXBYWGVwcjhGOW5nRGczRG5Fa2lidU9iaVNlX1liZ1RVbUFKaXdCa0RYTVYwc0ItNWJxTWlWZ0ZlTnYzWHlFYUFwUHFzb25RUlJZa2dDWGZYSkFFUnFCNks2bDRpVW9PdzZ1bTYzTFB3R3FrNWp2emdVMXJ2NWs4MDRkUQ?oc=5",
-   "medio": "Listín Diario",
-   "fecha": "2026-10-28T20:35:23+00:00",
-   "imagen": "https://listindiario.com/files/main_image/uploads/2026/10/28/6ae259e076ffa.jpeg"
-  },
-  {
-   "titulo": "Día Internacional de la Animación: una celebración del arte que dio vida a las imágenes",
-   "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQVlEV1VEbjVLelpBUEVJc1kxdkQwNThwQnVkNFdwMHB6UkxmMFNQclRsb0MzNFhhaHBCV0NEM2RnV1hPQTBVSUNCZUlHOUxXRHBKNVppT1RSZzFIeDE4VUN0RlpmSzRCRExJb050TlRRNm41elZaWXhOMjRFam5rYTRrb3hkeUVURzk5Mjlvc0pLSldqU1VGcml1NXg3UUQtd2NOMEd2N2JKTlhMUm9TdDZpcGpDTmZ0NHN1TjllRW8xQlRGcGRabmpSdjdRVEk3ZDdXcFIwVGFKSGJXZzczMG54NFg0by1lVmhTaTVn0gHzAUFVX3lxTFB6VV9EM3RjVlRfbnNzVDBjMU9pcUI0WUJiLS0xS251SE1XaHpmaHBTNmY0VWc2cFNyM3FnTnBSVy1Ea2VYX1FKOWh2Y2JtUEtXUW44THJBV3hCMW1DTDFWdVBaWHpDSXUzY0wtYndVTVp3TjRpR21BUl9ZdzBWNVNsUE12SjN6aXdpVEp3UHFaYmRVdGYxQWN2U2VMdXg3T0paWVZYOWxTMmYybGFCd3JIT2tySmJGeFBhUHpJRnlEOVlQQWViNVY0R2YtRmZ0dVV0RGZXN3pyc3J5WDlrdWlfV0dlUG1Da0VaQ0NVUl9JT3g1dw?oc=5",
-   "medio": "El Vocero de Puerto Rico",
-   "fecha": "2026-10-28T20:06:00+00:00",
-   "imagen": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/c/f2/cf2de464-1cf3-4860-bf14-389b7fd8af34/6ae256aae2d93.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-  },
-  {
-   "titulo": "Con 80° de temperatura, este es el lugar más caliente del mundo: así es la vida en el desierto de Lut",
-   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONFppYzMwZE93R1NuaHo2eTVzYUtPX3hKZ3k4MjZxeGdxclpJWmM3aTdiMjZoaEQyb1JwVm0ySHFtNGpFTFBhaUhDYm1rUkVaQm85TVV2OHJLaU5fTFU1MzRkUDR0NmtXdm1xeUVlWkU1MVIzY1o4RGhLS1RjYnpNVVJfbGxqZV9QSFAzVzdsd2NVcnE5b3ZVNGtrOFhGcXpvd1ZNVjVIc2lYMVNxamRYQTRSSEkzNlZRaTVYX1MyVlVqY0FkOGdoOVJNejZBS3lfM2pPQlA2QmozMmg1VHfSAeMBQVVfeXFMTXhXY1lPV3I5SWo0UEFKMURTOERQZTZFYjhBM0pUS19OV3JhZXgwU1IyMXBTeE9XdV9xS3dUODBXVktpMnViY1VLcExhZ3JUTlQ0TFo4RFVvY2FRR0tKcVZqdHZIb0o3aWhWRC12UTVwVTJubHh4UnF4TjhhcjliZXp4QkU5TERRcmh1cmgyWFg4Y2ZpZTRFZElXV1hsQ3pvd1JSSThlenFlZ2NRYS1DZ2V0RnV3bWw2RHVmbHF4ZTdoZ2hwZGRuLVpEU18wNEJtS2E0bGhrSXJVWkNOT1h3blh3NWc?oc=5",
-   "medio": "El Tiempo",
-   "fecha": "2026-10-28T19:54:52+00:00",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/28/6ae2523d4a50a.jpeg"
-  },
-  {
-   "titulo": "EEUU celebra la pérdida de apoyos del castrismo: 'El mundo está empezando a empujar contra su propaganda'",
-   "enlace": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iRjZPTld3V3Q4dEZlLUNpXzZzeFh1Y1BqUUl0eHZldXNyb3FCcG9rb3hwRHVWckowYk0xcS1zeVVkeVR6dUJFZHZhMUo4REdsXzZUblhGNm1mb21wMGZoeA?oc=5",
-   "medio": "DIARIO DE CUBA",
-   "fecha": "2026-10-28T19:48:00+00:00",
-   "imagen": "https://diariodecuba.com/sites/default/files/images/2026-10/onu-embargo-eeuu-cuba.jpeg"
-  },
-  {
-   "titulo": "Gualeguaychú abrazó al mundo en la apertura histórica del Mundial de Canotaje Maratón",
-   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV1BhWVBoczNvRl84ZlBjVzM0V0dBTjRrRXlwelFRQk55bDhYMjY2UnRXOTNlS0VRTWpabUE5VTBmTzB2Sy16NnpJNDUwdnliblFxVnBnWFdnOGRGYURteGltellRbFVZWDlxQ0k1VDZWTHljU1c3dHRBU3NDZndVcWRmNDVXWTYxMUcwSE1BZVd3dWVtVFh4NzRLSW9LRFlQVUFfOFNwaFFYb3poeEtRc2hwa1doWnI4QjhfdTRoXzJwbThGOEE?oc=5",
-   "medio": "gualeguaychu.gov.ar",
-   "fecha": "2026-10-28T19:46:51+00:00",
-   "imagen": "https://gualeguaychu.gov.ar/apps/dashboard/ftp/web/images/landscape_l__Gualeguaychu_1792629823.jpg?cache=1793231011"
-  },
-  {
-   "titulo": "Esto es lo que ocurrió hoy en el mundo cripto",
-   "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Gd1BlTUtSSTdEd0djd0VCOHVuNjJBN0Q2VGpVb29NUjl5SWZ1XzBmb0tFdFdZb2Q5UEJaMTNBZE9kNTMteWlCWEdhdDMwWlVhUEUtc09BUVBycHpTa0l4LWd3Q0VZNTYxUWJ2eVJpdw?oc=5",
-   "medio": "TradingView",
-   "fecha": "2026-10-28T19:46:45+00:00",
-   "imagen": "https://s.tradingview.com/static/images/illustrations/news-story.jpg"
-  },
-  {
-   "titulo": "Las tasas de anorexia y bulimia en el mundo se disparan más de un 70 % desde 1990 y seguirán en aumento",
-   "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KdWNvMmF2UmtBQmtiMjZJZi16TXpoRUp5MkdseF9wc1FFbHZWMExhazY0eWQwMkZyUGFWQ0VrNWpXN1J6N1o1VXVjNHNHSl8yWS1BVFRTdWNCZkxjVVlFeU9UZzhqY3AyeFlpQ042dzlpRDVVRkpmUTV3VQ?oc=5",
-   "medio": "EFE - Agencia de noticias",
-   "fecha": "2026-10-28T19:32:45+00:00",
-   "imagen": "https://efe.com/wp-content/uploads/2026/10/anorexia-bulimia-tasas-aumento.webp"
-  },
-  {
-   "titulo": "Mundo de empleos: 27 de Octubre, 2026",
-   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZnNsVTk2cGI1YjBLMFFoZXVZcDN4TVdYMVVzcE1zSVlUV1YtQnNyWmY4WHdRcGpLV0dlLTZ4SkNYODhQMmR5bzAxSE12anYwclNaRmtmRWZkU2F3MjdsYUhGcUxqNDQyUWZTdVlrVFctRXBvM0ZJQmxGcGlXUXhiYWFaWmJ5SVVPZ2hOcm1ldnFDT3dFRi1IWNIBngFBVV95cUxOa2RQNHNyUGN5NGt6T3VTTVJnWm5HeGRIMjZNS29ZdDRrNl9Ld3lReFl4TlE2UFkxRnF4cE1CWGlIdkoyQnB2R0dGZGZkR2Q2TmJBSUcyUE1qZDBENnFlbXVNVlM4Nk5TaGp4cTlUWVRiSnhfdFFneW5Kdkx0WDN3R1FNeGNRYUJsd3RkcEFmaHdVWmdEdU1yMGJlWDU1dw?oc=5",
-   "medio": "KGET.com",
-   "fecha": "2026-10-28T19:08:03+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Gabriel García de Oro, filósofo: \"Nos cuelan relatos prefabricados, repetimos opiniones como propias y no miramos con nuestros ojos. Como decía Kant, hay que atreverse a pensar pero no solo para entender el mundo, sino para dejar de repetirlo\"",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQajAyc2Y0SjZtS1BTem9RWEc1NUllbFpRc3EzdHBoTnlqRTRRcDRialIzQ2RTX2xmS0YyRHVsWUMtVzVqZl8tVXdRZ2JfWi05M1JDU2xvOFRycU1RSjdCZWItd0lyeDVxODRvUXhwNzNqemM4NVRoVWJOOWdqX2hOQ1oxcHJRWTN5?oc=5",
-   "medio": "Cuerpomente",
-   "fecha": "2026-10-28T19:00:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Activista ultraderechista británico es hallado culpable de acosar a periodistas",
-   "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeU4wZldiZ3NjdkZVaXFHQ1lRMkI5LVpuaGN3TmJTa3BDZnpyeVhEWFNWVWdDMmZsbEVmVEJqX1h3TDBVTTJmRHZVWXRlRjJzaXFGUnNfVWdhQ2tZSkVOQTFKYUJWWmxVcG5jN0xMZnJndXFOMjZqeEYxTVlvb2ZrNk5kUHpINlR6N1c2d0M4Yk9fOWlxZ25MTVV0MlhTNWwzUFI4R05VWERpNVM2M3FiYnczOHdtTEhGVGdjVGhqRV9nRHFNdXMyUWNJOEZZbGMyTldSM3BuR1FZb09vaTJST3pVTGUySmZTWmc5UGNFVWg4RGV2LUo5U2hwS2NXdw?oc=5",
-   "medio": "LancasterOnline",
-   "fecha": "2026-10-28T18:45:43+00:00",
-   "imagen": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/e/2a/e2a597a9-335d-555d-a148-5e9f410c565e/6ae24349a705a.image.jpg?crop=1783%2C936%2C0%2C112&resize=1200%2C630&order=crop%2Cresize"
-  },
-  {
-   "titulo": "El diccionario más consultado del mundo eligió su palabra del año y es un término nacido en internet",
-   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaXc2S0pXX2ROY2RLSURwU1dDRkpvb3BTc1k4eHpWS0JsZDh5akd3M0k0R1M2ZGVHMWs2MmVfNTlGd1FOSnR4NXc3NGZlczZtMEk5aUwtOUYzR0x2RVlBLWRId1JNNEdpVmxHaWxTZ2FYeFRHOG9TUEUyYUhtZEp1WkJlVHB2TkpiZ0NqTE5wYm1uZTJXekxHbWpDOWprdjlrMnBzSndkTER6bmpTd0N3QzRhZzZkdWNxODV0SE9veWVpT1dP0gHKAUFVX3lxTE1TRXFvb0xyQTRDM3B3a3BMa3B6WmtoM3RPRk1YcHJ5RFhUQlk2eWV0VURIa3h0RVpuaVNQVFZISDdmZllUdGhhQjRndGFuMXRJRWhhVGpUSWlWMFU3b2N1NEtNUC1Nc1VtZmltX3FXMF9LWFRHcnRtUmJUR05tVFNOemNkUjhQWlZEc0xleXpvcnpxN3gyV0dPQndmTnU0dnNRcnRZbHpra1VGX2E4YTRLNi1Wb0NfVGxOZERlc3Vac0pVWXlWU0hqMXc?oc=5",
-   "medio": "Clarin.com",
-   "fecha": "2026-10-28T18:44:19+00:00",
-   "imagen": "https://www.clarin.com/img/2025/10/13/AUvo8riAz_2000x1500__1.jpg"
-  },
-  {
-   "titulo": "BBC Mundo, desde el lugar donde chocaron dos trenes en España",
-   "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqQWl1eElEUFBZTDB0YXoyX0RENTV3ajdtQXZpM2xwU1BWajVmRVBWUlgtaUtEOTRNS2FRQUtMMktIOTcwWWM1X3Zwc2JmRVgwcmZ3d3JPaG8teHps0gFiQVVfeXFMUDc0eklrbXNTdl93RWJwNnBkaUVJZUw0a0RKeEhpX0oycGo4REFlSVVaN0gxczE4ckJrVHFVTmZ6MHVYTmpLVmJVTHNtS1l0MEh2LWFacXhmRjI0ZjNJZTlIQUE?oc=5",
-   "medio": "BBC",
-   "fecha": "2026-10-28T18:29:03+00:00",
-   "imagen": "https://ichef.bbci.co.uk/news/1200/branded_mundo/a73a/live/98157290-d2fc-11f1-93e1-3b657b665bcf.jpg"
   }
  ]
 }
