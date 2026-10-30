@@ -1,7 +1,7 @@
 {
  "zona": "samborondon",
  "nombre": "Samborondón",
- "actualizado": "2026-10-30T16:18:23+00:00",
+ "actualizado": "2026-10-30T21:10:19+00:00",
  "noticias": [
   {
    "titulo": "Apolo 37: 23 aprehendidos tras 22 intervenciones en Guayaquil, Durán y Samborondón",
@@ -60,13 +60,6 @@
    "imagen": "https://www.metroecuador.com.ec/resizer/v2/ZP4Q3KMGGRFV7EMPSOFA3FZQM4.JPG?smart=true&auth=e7e489e27d55f5220d469307a09a3b7d97aab692df837c930394b86c8ecb95a4&width=1200&height=630"
   },
   {
-   "titulo": "Tormenta se registra en el norte de Guayaquil: Inamhi prevé precipitaciones hasta las 22:00 en el Litoral",
-   "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUlVFSTZqQXpmM1NMN3pYOS03Ujl3Z2J1OGs0VS1sblZGRDdWb3VDT3JFdEVtVVlfX25DcnVvRHotd0tZRXFVWjJTdERLNEdKSFRQWnRuNEhCZ28xZ2lIM1ltS24wUUFaTEFhal9mbE1yZWwtaFY0ZDFqMjh5QXRhUGJOSzVYVXd0M1g5X1dyc2xxZFEwUi1ueUJIWmR4YXlDdXo0b0Jiak9xWHJ2WmoyTC0wUEdzNngyLXRSczVpQ1RSVHozZXpWbUlMaURBMjI4X05mcHdnSzJ5RmxpQ2UyOF9JOFVmWHNCeUHSAf4BQVVfeXFMTmxmT2VxQk5LU2dEdHhzRHptdmFveGxhSkZhODRTTHNuS3RIelgwR3Q3UkNTaFU4dHZpdVJCY21jUHpCY0U0SkdMUHdKUkFhQUlpN3dOMW9UZzlCOWE3aU5nRjZGWlkxbnlUMVQxMWR3SmNLVUZjZzlJS2h4TFVsYkVLTTZkRFZjRWo5MFlrWVpIRVk1MlJlREFTbVNMZjBoYlE5MFJOS3M3dHRNenhJdEk2dVBYVWZXelNTaTJvWEdEMC0tMWV0YzVWcG1GVU10MjlOU3BEZU9FNGFfS19oc004dGFtRTRad1U1X1dSYjlSRTk0ZFhqOUZ3V2VUNmc?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-30T00:42:06+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/ZYQ6DP2IU5C7PBY5O6C4GC6N4Y.jpg?auth=e505d95aae0d76c46296f226df3727df821ecd6c57b5dd3a637d27d12f7534cd&width=1080&height=590&quality=75&smart=true"
-  },
-  {
    "titulo": "Lluvias y tormentas eléctricas provocan cortes de luz en Samborondón y Daule",
    "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPakY1NzRZT1M2YnA0VWIzOUg0TUZweU41VGhTWi1lWm82a21idUJaU3AteDlQOEJTckdoWV9hSlVXcHFKYXF4dXppOU1QSEF5QTZ4eE1CRDM2VXZZV2ZWX195ZDJpYlFRMVBNX2ZBRzZyUzNMZjBVSXZWMVlLSFdZMC1ITUVGelBmN2VaSDh6RDM2SVQ2Q25kRlJWWTZRMDdZSkxaNnBrNDk?oc=5",
    "medio": "El Comercio",
@@ -109,6 +102,13 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/YYBHL35IZVCRTOG6XIJFN4NU5E.jpg?auth=164e71caf3f35c4c3bd5b53be462580f7a16f2af44eb1597fb0b118df4d17a9c&width=1005&height=670&quality=75&smart=true"
   },
   {
+   "titulo": "Tormenta se registra en el norte de Guayaquil: Inamhi prevé precipitaciones hasta las 22:00 en el Litoral",
+   "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUlVFSTZqQXpmM1NMN3pYOS03Ujl3Z2J1OGs0VS1sblZGRDdWb3VDT3JFdEVtVVlfX25DcnVvRHotd0tZRXFVWjJTdERLNEdKSFRQWnRuNEhCZ28xZ2lIM1ltS24wUUFaTEFhal9mbE1yZWwtaFY0ZDFqMjh5QXRhUGJOSzVYVXd0M1g5X1dyc2xxZFEwUi1ueUJIWmR4YXlDdXo0b0Jiak9xWHJ2WmoyTC0wUEdzNngyLXRSczVpQ1RSVHozZXpWbUlMaURBMjI4X05mcHdnSzJ5RmxpQ2UyOF9JOFVmWHNCeUHSAf4BQVVfeXFMTmxmT2VxQk5LU2dEdHhzRHptdmFveGxhSkZhODRTTHNuS3RIelgwR3Q3UkNTaFU4dHZpdVJCY21jUHpCY0U0SkdMUHdKUkFhQUlpN3dOMW9UZzlCOWE3aU5nRjZGWlkxbnlUMVQxMWR3SmNLVUZjZzlJS2h4TFVsYkVLTTZkRFZjRWo5MFlrWVpIRVk1MlJlREFTbVNMZjBoYlE5MFJOS3M3dHRNenhJdEk2dVBYVWZXelNTaTJvWEdEMC0tMWV0YzVWcG1GVU10MjlOU3BEZU9FNGFfS19oc004dGFtRTRad1U1X1dSYjlSRTk0ZFhqOUZ3V2VUNmc?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-10-29T23:15:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/ZYQ6DP2IU5C7PBY5O6C4GC6N4Y.jpg?auth=e505d95aae0d76c46296f226df3727df821ecd6c57b5dd3a637d27d12f7534cd&width=1080&height=590&quality=75&smart=true"
+  },
+  {
    "titulo": "Retiraron a cuarta víctima de masacre en la vía Salitre-Samborondón, ¿de quién se trata?",
    "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcklWWjVGY0JOSHBBX3BEZ2FWXzdNX0JqckNYN0hfcXJPbmtzT3dsTVBSVzF3UjdPMVB4d2hjc29aM0NCNlh1OE9mcHZZQ0lQWWNMdkptN1Q0RnFVNy1VYmFMRkRTSFdJOS1sVmd6MUl6eGd0eXBUSTBROXRjenczcFh0eUhKdFQ2cE4wYVNVQl8xa3pnQVlRVjZIM0N3dFFsaW1zT2o0dmltUGhmT3I3ONIBtgFBVV95cUxPMXpmUDdwM2FwaEFpWW14QUwzZTUydlJpMjZkZkhMNmRFbGxTTVRSN29ud25udk52OF9leXRDa2NfVkIxdWEwd0I4aHF6N2xGOFR2T3ZPVkpDaWdTbURJOW5aLVp2SS1zNGRFSTJhQ2JrVmRkallRYkZQSUtwN1BHSk1rR250U2V5SGVWdDZ6ME9qWHhDN2Y2d0doMmE1YWhMczhISDJsbjdiUEhhYko5MjFyT0F6dw?oc=5",
    "medio": "Diario Extra",
@@ -121,13 +121,6 @@
    "medio": "Ecuavisa",
    "fecha": "2026-10-29T17:24:27+00:00",
    "imagen": null
-  },
-  {
-   "titulo": "Guayaquil, Samborondón y Durán retoman las clases presenciales este jueves - RTS siempre contigo",
-   "enlace": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1GblRWTzJ0ZXptb3hrNzAwX3IyTEJITTNpS0tlVWhpc0NCSjVaOHN6MzNLZzNSWTRWazJr?oc=5",
-   "medio": "Howl.Link",
-   "fecha": "2026-10-29T15:11:22+00:00",
-   "imagen": "https://alba-ec-rts.cdn.mediatiquepress.com/wp-content/uploads/2026/10/retorno-a-clases.jpg"
   },
   {
    "titulo": "Ministerio anuncia retorno a clases presenciales en Guayaquil, Durán y Samborondón este jueves 29 de octubre",
@@ -277,13 +270,6 @@
    "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/10/27/6ae0de5b0ea66.jpeg"
   },
   {
-   "titulo": "Guayaquil, Durán y Samborondón mantendrán clases no presenciales en zonas afectadas por las lluvias",
-   "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMl9XSzhNakV6THJEbE5CT0xwSXJTZHJ1djB6bTRMMHlHM2F2dkYtR1lEYTVaTjFIWmg4Tk9uQ1UySnVqQ2ZsTzZWQXVhMm1qX2c0T19jRlNOUkRzVnlfQWRsMHk1RlFmb0hSUmNxdDJEVzFTTFM5NDdPZDFoei1zOWpxeGkwRTg1VVh4M0RkdjBZRlVGY1M4eG0tZWNYYlIxblNCOG9STnR0aDVVZURNZ1hBMHU4clZqbUpDYTNXdXhaZVJ2YmJWdnBHel9YaEpKeUppeXkxb09MdHU2N1g5UlB5Y9IB9wFBVV95cUxPVXdwdWJCcjJXYVZjS0ktWnZBNG9pTWU1LTVsbnF6eWVpWVI4bDc1NXRBc213TDI5cFF3S1VoXzBMazE0amtoVVlnYVdMbzl3QnBRWnFWTE5qdW9ZTW14WDBGTkdzNGdVbkNsTDY1NENzekZPQzk4alBISFRLUUR2UWVlcVp5NnJ3Vi1mVVE5ZXNNaHNieG9nWFJXaWk4RGZxSzBVQWlSNGMzNEQ4dFduZXVoTC1zTDhmLVRXNkd4SFFHS0tEM21qcnltUFhFY3FYamVfcXBPcU1QT1oxLUo5eFJETEJxVlZkbUF1ZzlndHlBVHliOXVn?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-28T00:56:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/RSDRPJYZRVG5VFANZXNLUEEHGY.jpg?auth=a4ce7a1554cb193ebdac7c93b0ecb5a0a6159baa88b98999331f2992ace987ba&width=1005&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Clases del miércoles 28 serán no presenciales en zonas afectadas por lluvias en Guayaquil, Durán y Samboron...",
    "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUElzQ1NCckRkel9aTzNtU0hKSVRyQzNIN1FWVkpwc1VTbVhna0lOWE9DdXBabUMyVTJQY055SnEyZGZvakZWYXlaWHBYLUtOSjdGYzVmRUJJaDdzdVRoUDNmMEZVMkVxbUhhMFVqbFU5b1hSbl9Na0R0ajljT1BaWGM3WXRGMzVRblNfWUhLWTU1SVV0bnVRT3NDZGVsLWNlZU1ETTkyazhDaV9hVEtScHEtazBhamNaZnfSAb8BQVVfeXFMUGtKdWxEQ1BLbmdPNEpMdDdkVVJMdlhMd0QwVUtmbXE0a1VqemNIVWNJNm1XT08wdzJlcS1YUFFBNEJqOEtYM0RpTEVCTTAwSkU1Uk10WXVmb0FONEs5R3lBVldfVFJPQ1IycTlCZjIzY1RlQU95WWRHdzE2X3l0YVhza0hwZlpEeGQ0RGdWMHBFWDRFdExQbnZmMEttanlkVFV1bmlQTWdkRjZhSTdOeDVoNDd5bEtyODZhMDVvQUE?oc=5",
    "medio": "Ecuavisa",
@@ -338,6 +324,13 @@
    "medio": "Ecuavisa",
    "fecha": "2026-10-27T20:03:39+00:00",
    "imagen": null
+  },
+  {
+   "titulo": "COE Nacional de Ecuador se reunirá para evaluar emergencia por lluvias en la Costa",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWVVBejZGV2xOZTRGeC1tOHB2SmkzdDNWNmpXTFh4Z1FnQ1Z2U3BpV2JHUDhJZDFpVjAyTzhEZFZXOEJJYzVKOHljbElWcGlXS3dTRC1JbHBIWmRpblNsdDZCUW1BR1lWd25xR2JWY3p3SkJtWDdvWnBEU251M2FsQmk4aUM3TS1SYTVzTjhGN2RZUEFiZDZzSG5oZlAtc2VjOUpBQ0dhZU5URS10Skk3OU9YT3hFTU1HMDl3ckxSaFA5WUHSAcgBQVVfeXFMTXB1Z0dBZlkyTVB6YlQ4clliLWk2RVc2dHpEVUZJdHJ3TnFkQXpEQlZzQ1JtV2pzWjlDS0Z5NjVrN0hKTW1TbnN5VXNyY09Lc2drMFAxMkIyQjVzNC16SjhvWE8xYjdhYjBnWDJ0Y1FKZm00S0lMOVdEVWQyR2JNNExUYWdGc01uSWg2V0VtbU9iSzkxWm1pemxwTF9Naksxekk5SW5vSU5tdVQxUzI1SWxsbzhweGktSF9MS0tvVGlXMTJQNUQwbEU?oc=5",
+   "medio": "Diario Extra",
+   "fecha": "2026-10-27T14:34:35+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/27/6ae0b4fd9cca9.jpeg"
   },
   {
    "titulo": "Ministra de Educación anuncia modalidad no presencial este martes, 27 de octubre, en zonas de Guayaquil, Durán y Samborondón que presenten afectaciones por inundaciones",
@@ -415,6 +408,13 @@
    "medio": "expreso.ec",
    "fecha": "2026-10-16T07:00:00+00:00",
    "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/10/16/6ad25526919b9.png"
+  },
+  {
+   "titulo": "El caso Mónica Martinich devela los problemas de la Vía a Samborondón: cinco años de muertes anunciadas",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSk9ZQm1nMDR4S05TQ2JZaDRkTnpLMTd4UDctNFZkaE5jMHpDbExERW82WTdFUnRNbFJsVkhyX1Nrd3BxeTN1eDdPdzlVaHMyVEVYOGVoQ0lRRDgzUGJYNDRZOHFYSUhaZkMyTHozM1RIaFJ1bUd3OVMtRjNKVzFxMEFaakNqSm9mdE9YcE9uYVJhY2JYN2VDZ1dnMElFVWN2Rk9qVVoySC1jb3pheUNxTDJub1U4VUd0SjlENnFhazdFZmIxNlBzMnhxbDFBeE83TnfSAdcBQVVfeXFMT3cta3pBZ0hxeGQzbUpoa3d3WFJ2V0w4TlVXMEtJeHQtbnlOYVlNR3Jwa1MwQ2tsNGRVQUJPQUoydnJJYmp3bF9tQzZfaEhFanlEczVkTGw4QnMzeTZaaTJSRmN4NHY1RUNKUF92NnJieENiNjlVZ09aZzFaTElYanpGTTBWMmszTUpJa3VSU2c2YTFwSnpRTjlPQUJOcHEzMVVvaFBRU3g4TnZmV0JOQlNQc2tpbzJhUXpOemFSeXdra012bnlGcHlqbU16WkloLXFGbnpvb0k?oc=5",
+   "medio": "Vistazo",
+   "fecha": "2026-09-07T07:00:00+00:00",
+   "imagen": "https://www.vistazo.com/binrepository/1148x601/304c0/600d600/none/12727/CDEQ/caso-monica-martinich-via-samborondon-27341_2734147_20260907152115.jpg"
   },
   {
    "titulo": "Carlos Vives y Bacilos encendieron Samborondón con pop, vallenato y una noche de grandes emociones",
