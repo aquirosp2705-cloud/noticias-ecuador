@@ -1,14 +1,105 @@
 {
  "zona": "guayaquil",
  "nombre": "Guayaquil",
- "actualizado": "2026-11-01T13:55:35+00:00",
+ "actualizado": "2026-11-01T18:39:40+00:00",
  "noticias": [
+  {
+   "titulo": "Cierre parcial en la avenida Juan Tanca Marengo durará un mes",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHRiVkxsc3J1T0FzVXgyMXlJM3RRZlVMZEYxTkdNd2lrQ2o4N0dWSEUydVh4X2xNSG9VUnpJNU5aX05mMEtGZG9pUF80dUx0a3VXYVV3bG56NFdUMHFyS3BuUGlhcGoyb3p6dEhuSDBvcTRabWNIQ0pjMEczdnZia2R4d1FaNDJsRFhwc2xISDduR25BZlpaanJDX0tWWlE1T2lpcFBNNmZDSDN5YjVkTjJzYjPSAcgBQVVfeXFMTmN6TGJyMTdfNmo1T2xvYjRKd2tZaFliRVRXQmRRTGRrOWg2Tk96dGRhWk95Qmt3Z2NEN1RxR2hVaGxjVEtoeURhZk04YVZneXFvM3BNR1lldTBRRm1ZZi1MaHA0Yl9OTXlLT3BQRTR2aU55c1pGWVRsbm14X0x4NVR1Q2c2TmZ0VmlQalA4V21RYmE4Y2txOTI1akQtamY3T1V0b2JPdjVSc2hpUTFrdHNNTWN5NlVFcGNuQ3hyMXppX0lXT3Q1RDU?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-01T18:00:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/FFUHS5IFRRAALI3GIGYMJMNLTI.jpg?auth=8f488ae8e09223d55f7870c60085d522846024814febc358fa72a83265339280&width=893&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Cielo despejado y controles de tránsito acompañan la salida de guayaquileños hacia Playas y Santa Elena este domingo",
+   "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSGtYNzByMWIxT1lEZ2lVbVJUUWlzTXZkNUN1bHpmWC1XVFEzZFpTVlR4Vlo2eUlxVm5LNkk5ZVFrMjN5d0VhRjNYOHRPay1WeUdDYy1Uai00NWV4d3lLYXlKalU3dGo3RDNNenVPWDhYcnNqOWZMNUd0RE41cnROQUtFcHNqVGgyWmQ3OHVIYWVqaURoQlBFRDhEeE5TeHJzZFI2V2NyQVhXc0Zib05EYTVvOGowZlVqQjE3N1VOX3dIMHJNSUc2ZEVqa2FLLWJnTXYtVEFGSlZpdjYwWk1TZUdVUE45U2d2ejBxbUs4cE4xYzU5RUxXUE9VM1p0d9IBkgJBVV95cUxQSG55VUhLUXZrdmttaHc5NEp5WXpPcEJkZHVpb1VvR01TYkdVT3BCdVlKWUJXVTY1LUhQYkRfRlhYSTE5OXVVOWNJQUpSaEtyZHVFYmlxYUtTSWwxd0hwS2g5clNiV0VkVVMxb1M2WVFZSk5OaERVVTFIMGx2MnNfM0I5bzV1N3lPbGRDWlhITC0xZmIwWnNPWHVab0NFY1VVcUdVeDZ1MzNhLUgyNFR6YTl3eW91YjZNRkhSTXB2MGtrMnYzRWphMjcwY0cwNXhuNEYzSW1oVVh4dnotUC1lWjNGRk9uUW1JSjBYTENvWVVEQU5ZTU9NMkdTTUMxMlBnbXVVYmpHbVlyckUzcFJ3dm1R?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-01T17:36:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/SSKWIWTIWBHUPHVROHCDUPPJ3M.jpg?auth=d26c665ab6078fca4b17dfcf1758e94651fe25d814a37c2be8ce594e63c4f67d&width=1275&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Taxi Enlace, servicio que unirá sectores periféricos de Durán con la Aerovía",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWE84ckRVVENhLUt4QnJoQ2RCZlQxWTkwYm0zSy1nVERCTU5oVnZIa0dhLWJqUTk1dGQ0TGNSelJDVHd1UGNRRTI0S1pYS3cyR1loZGJhQVJ4WW9qU2RqSUFtY1dUdVk5WWtzMnN3ekFjNnVITnpQX0p0NEE3ZjFvMWJFMzQ0c2RPQTdsSzE5aWZTdzFoSkd2NTdYV05Gc1ZWOUo0SURiNjhaZzBMXzZhRVh1RU0waW1xQXktZE4zNUtkWlRySVJr0gHbAUFVX3lxTE5nclNJanNxNVViQmpLR3lGNENpQXhCVjgtV3NfaThvNnVEZE1sUlJTWThWVTU2QU9fSE9sM2g2R0tYZHh2aXdMN1RKaUctenF1cFZLTktNQWFVRTQxczlKbGEzWjdGaTFVcFFmNEFiVzZ1VEN4VlJOaWRGMDJKVkJYTVEtQXhuZ0Zlb2lhSGpheWhqVzFhSm95bWI3NUJ6S29kanFYSjlfYmZadWxIbFFoSmJ2Qm1TVUZmVXhhM2hDYkhBTVVrdlpVdWh4b1pHVkZrOU1hNWlqX2RGdw?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-01T17:00:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/P5J3H7QAV5C4NK5QVQ2ZPEB3MI.JPG?auth=5fb266c250ddb0312102443d6c1a76e4164896394e4e640d6958640d4b6d20bb&width=1005&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "“El problema no es solo la humedad”: las lluvias y el calor enrojecen las patas de los perros en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaGgtUXVnWkRlSVNGeV9NQm9QTmVVdE5sV2xVdHNEUERod0R4VWJhMDQ5ZjR5a295cHpteTdkdjVIWlNOUHFzODNmS3JzampzcjNjbUQzOGh1M2tONDg2Y3NlLVBUQ3dHTzRBSGlSMmVUbUQzcWg3eld4QzQwd1JQNVQ5eld3cENVdXhRc0FGNDdyamt0UG1jOU9LeVBkbU1uSG5ldERZNkstRHltbUN4RHJmMnQzT3NfdVhDVU56T1dXd25SVzNrcE81N1dMaUZtU1ZkbzJVcksyNW9nWUdEdlRNa3haR0tkSS1WWdIBgAJBVV95cUxOdTV4Qk9UN2tFM09abERhYkk0Ty1YSl9fcHRNWERqREJfQmw1Y3dhaVNod2VQd1VHR0MwWjQ2NDJUNFlYaFU5UTRldE4tYzVQRW5OUkczODU0S2QxZV9OMldhYW1HNlEwQk9QX2VReUdBSnFvbTJVZWNWUW5TSWVfTm93Z2M4WTVvcHVqcnk0bjRhSEZJUHMyYVJ0M3gwdVVqTkZ0TzZXWWJTZGpubUV1WDJtanVhVW9neVRUbkFQWHZqQjd5eDByVW1FUGhPYzRHOUFxdUVFSmVkSjlZVnBtamY5bVlyV3VWaWRCbHNjVHI2c0lLYk82eURZaDZZcFNu?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-01T16:33:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/SNM7JBNJSFDLBCDHRIBVY744TI.jpg?auth=61120f57cba159c6371483e3715e5fa0682abc6ab6c398064f35212a7d00269a&width=893&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "40 personas fueron detenidas solo en Guayaquil durante la primera noche de toque de queda",
+   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd3NtajlpVFN5dHR2cUs5ZnZ3Q1NQeURMQUItUjUwT2tBOURMVzl0d2N0SEdpOGZJZTFzT01zbDVReUI2TVo1N2ZMajc4RzhDMF9Va29qaHk1Q3hDcE12ZmZJb0p5OHpERVYxZUtsWi10cm5oVWxBYkRsVWhPMHQ0QVV1NlN4RHhRQjlDb1B1WHRSejBzUFNVSmc3RW1YM2VwOGg1a0lDZGYtUXI3Y0J3bS1HRTN1aEktLUJ5bVNNR0VfdnRzRzQ4Zk1Zanhhd0VQeGxXSnhILWNTQQ?oc=5",
+   "medio": "Metro Ecuador",
+   "fecha": "2026-11-01T16:23:50+00:00",
+   "imagen": "https://www.metroecuador.com.ec/resizer/v2/LABEXYGE3RBVDFP5IZRQK3CYOU.jpg?smart=true&auth=4dcbb0c755a757352d998aafaffd4b8dc1722172b1a01eac03d14020e3bbc21f&width=1200&height=630"
+  },
+  {
+   "titulo": "Lluvias dejan calles mojadas en Guayaquil y anegamientos en una urbanización de la vía a Salitre",
+   "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORVF1MmFVODBScFpSZmhPSzVjMy1pY0E4eHVrQ1VLc0x0YkcyczNvNEhOSjNjcThKV3hHTFpGZVVKcTRxZjdjN1BDWWxmWUVUYzZ1Tk9zZFZ5LVpxc0RfZWlOS2JUR1pka2JKaWxkc1RnS2NkVGlySU9fMEZsNFhubUtfRFBMc1BFWTRzeU41RGFrQ0ZLNFdFVXIxeEk1ZnJRRDBhT2tKV0ZXT1MxX1ZYX0FEMmNsN2ZOTlpocnBhOHNTaVFDcklFb0tWa1BvdTZnbDFqZjBKZm9WZElJR2tUX2N2RdIB9wFBVV95cUxNdmZ4OEJob1JoZ0kwZ29wX0xHTFlKTDhuaW40bUxPbEE3eVVJeUxBVThWWVd3N0JGdmNtZDE2Rjd4TDZlNENuYmtVZXctRmF4Q1MtX2ZqUmJBSlFsTHZUZm5xOXMwTXBFaUNDSDBqcWNBWnVQaWcyb0tvd25IV2VWVl9VOVdvMnRKaU12NkxXMVFHay1oaUlPOVFvd1Znd1h3SV9mdGhxeHVnUzNrOTRsbmxxUzVFb2RqYldJZDRQd0FFR3lpTFRYdldCemN3ZlJmN2FyTnpzaHRMQ25tYUdiOUJLaFJ5T2xmSVNPbThsYXRoc3NOZ2FZ?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-01T16:03:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/HAPZTAFPA5C4HD2PQBMOIAU7JA.jpeg?auth=6bd338ada218515c017f3a8786d8041e4484f4437dfd60968f324cdd5f203931&width=578&height=433&quality=75&smart=true"
+  },
+  {
+   "titulo": "Más de 100 detenidos entre Guayaquil y Manabí durante el toque de queda",
+   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVUwN0puMjRNMXVvaTZ2bEJtdTBBQlFLZ3FvOURLZGdUVmtZX1JzRC1SUzludjN2UGVuVFhpR0tuNVY4YWV3bm0zU01NS2hmNDNKTVdTX09yNWRqNktqdF9IeHVrTFNFb3plenZVRnZ1RFZjWnp5MHBMemhfTUJnN0U2VS1yZGhha0t0LVhQZkNCNlZmalo0?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-11-01T15:55:40+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Las lluvias en Guayaquil esconden los huecos de las aceras: Estos son los sectores más peligrosos",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlZiZmlTYklfdjVQS1RZN1E4RVpEYTNzbnRRMmFzek5VVlc4amR3aVNmbzgwQlJIU2Y1M1VGR1FLZi10M3BVOWdLZTZ2b3VCOUhtUFZrQ3hMdUM2b05QUVBoeGZLcENNRlBITVZIY2hfdkFaYlU2ZHZ0LVBaSGMyRHVOQXN1bHBlaGNCaGt5RFl4eVJkMUNQdWxuZnowX3g2RU1QcGNSNUhsbGhpXzcwdHg5WkM1d9IBuwFBVV95cUxOd294M2poeWJ1X2t2QnF0Wm9rMlFZb2NBeExzNS1sWnRXU3NwYWFkb0tkRUpLU1A4RFFldWVfSjN0cUxHRDRDYVBaSUMxb1dDWWVVZnQtN1FNWUhacDlFdWFjOE81bjZVVURxTmJoTVp0NDBoMnBDLXh4UEpXaDdPeXRxdk5FZWstWGN3UDN5Tk41VWc2Z29HejFTVVN6NkJuWi1GcGtqS2h5QnZic2UwLUhudVJQWUxsS1Fr?oc=5",
+   "medio": "Diario Extra",
+   "fecha": "2026-11-01T15:38:21+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/11/01/6ae75c4f955f7.jpeg"
+  },
+  {
+   "titulo": "¿Vas al cementerio este feriado? Estos son los cierres viales en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjV1ZGFPLVVCSDBDbXpRQWdKZVhmanpCODhWQXN6Ym11Sjg3YzZ4VzdrZ3NSeWlDZXBJQjRtN1k1SzNvM0hkM3QzY3YwSGhaaGR3N1Awbml2Z2RBM1pBelB2UHVJWHA0ZlNrOTZNZHpUZTgtbWxkdWxvelpzOFlIYkZ0Sjcyc1lDMGhiREFQMllsdXJCTzZJNW16MDFGX2ZrSHpvZGdJVTdwMDJDRWNUVWtRSGo5b1dRRjE2QVhwa1I0MUE?oc=5",
+   "medio": "Metro Ecuador",
+   "fecha": "2026-11-01T15:28:52+00:00",
+   "imagen": "https://www.metroecuador.com.ec/resizer/v2/CWFUAFMSSJAY7OUZ4HDZ6E5RCQ.jpg?smart=true&auth=4dd025c2101f3eb1fe952180c9df39331837d5d92feac6e51e71e370684570f3&width=1200&height=630"
+  },
+  {
+   "titulo": "Guayaquil: horarios de misas, homenajes y actividades en cementerios",
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY0RyZnRrNUpENGhlTVNOd1RtNHZaWVBqUk1Sd1IzX0ZMMXg0NDdib01YdTNRRjBvUTU0M3NtT2VDUXltLVRGbW8tVVlIOGh1dmtEbVBOQUZ0d1FXc2E2Sk9rNnZ2b1RCRjFuUUFWQWJiaXhRdkhrMXNBUXhxbTQ5d2xWdE9kLUlkblpZbERFaFVRNmdBczRYWWs2Z1VxOFRkYm5ueDlTSlpsTEcxT3JoY3JkX2lCTjZVbWNn?oc=5",
+   "medio": "Metro Ecuador",
+   "fecha": "2026-11-01T15:12:28+00:00",
+   "imagen": "https://www.metroecuador.com.ec/resizer/v2/NYWMJNENFZCGPFXEWVVXGNMGCA.jpeg?smart=true&auth=23cf652061b83824a5b280a5926020334e2beb47f2a005614f7d04d447149331&width=1200&height=630"
+  },
+  {
+   "titulo": "Ciencia, clima y mercados centrarán la agenda de la Cumbre Banano 2026 en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSWM0S2Z1MTZxdDFLeHE3Ym9iYWdra1BtdDdJeWVxdVRiN2dFVjN1cFhWaERIeUJHdHh4U1RYS1NOUWlwNXQ1bjVzYTBackRjVG84R3QtMXhPZzJKWXdDaDNsTlZ2TDRacVEtTHhBaXk0cjlXN3VHT0F1blhvZVlWVjB1QlFiUHZKVTRCOGhiMS01UjlXc0hUMzFfNGZabkFUOEx4a0JzUjFNRnZsTUVySlpnNkVtc0pYOTd6cUlhT2tqa3RKNktVNEI4Q0daby03VGJzWkJIX0RzcnUwZXZ1TEtydnNESXAzcmfSAf4BQVVfeXFMT0FfYTJ1bVdGRHJuUWwzY0JlUWYyTDdEU3JGakJpNmJVMlJOM0tDaEp2YmN4anBNR1M2WEl1cEd0ZmhwaHV1eTBELW5CbDFFS0JTUkVwakZTUmkxX1RYeVQzN3NrTWRzT3pjRDhlY2E2b0d5YnBMekhUN1hWQUliWjBNVWs5NmxqMi1ZcHZYRDFDUXNHRDRGaEVldGxLUUg2Z0RNSm5KeUFpLUxuSWNYS2ZhR1UwSFZRcUZ2Vl9mY3NRODBUNUNOQjBSN1Bhc1QzSDNGaHJpS1RXYmlUTk9ESU5YdHZoMENLTXJBdG1OZWt2ZWhwSmdPcDVuWW9BVHc?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-01T15:05:02+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/HYVWC3KWT5CPXK7ATO4RFXLIIE.jpg?auth=0fb7519006a1b1983f36435f6c3f571b20f778700f60167466b6781f34691151&width=1200&height=481&quality=75&smart=true"
+  },
+  {
+   "titulo": "INAMHI advierte sobre lluvias en Guayaquil y Galápagos",
+   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFBsY2E1V1JCTG8xakJ6aXpjZFZjaVU0VzViQjVLMVpPeE1rQXQ5WjNhdVVTVndNQzc0a0FuVjdUazBiNEgyT2pSTzhzYnQxb2lxUmU4Q1o5UjE0NXpFLUE1TkFhV2JyakMtaTZyaEZsUHg3YlNlVjlhczV1ZTYtMXhsNTFmeDZqTDhDVmdUNndRNDBweTNBejVDT1prQdIBowFBVV95cUxNV1dpUk82WE92SnlJeVFRcDFDM0tiNmlIek1YR3NEbGlhc252V1J5RW1Idm1rTC1LOVZKSnhkSjRGZTlyREh5dzZ4RXdiOTdFenREVExOTDVyR2o4TjQxdjVHYUdlWnp1SldIOTlBS0lXbzZHR1hKTmFPV2dudlIyMURTUXZUWUdva3ZBZTN6cjJob3VJQlNWem5mMFhEc2xvMXBR?oc=5",
+   "medio": "FM Mundo",
+   "fecha": "2026-11-01T14:27:00+00:00",
+   "imagen": "https://statics.fmmundo.com/2026/10/6ae0ad16cc1b2.jpg"
+  },
+  {
+   "titulo": "Shrek tiene un nuevo pantano en Guayaquil: Daemon estrena ‘Shrek, el musical’ con Mar Rendón, Andrés Caballero y Alex Vizuete",
+   "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdXpsVG9EOU9fdUJzM0lwMm55a2lvWE9ydkJqaDRPcnVEcUFvTktwbzNDNkVyMDhsdXg5TEZhLVdtb0hVWHQ1UjRGOHRFUFFiRDZSeElCdXdLNy1lc3QydDJzMFROX1laSzQ0MHh6c0otN0R1Q19LNXREUlV4QkxSXy0wbFVVNG9OaXlQTVU3V0psbmUxNGtFLUREakZ3dV93RTVVVGZTZThPRXZoUTl6TEJiMkl4WldjWXdLampuUkExWUJBanVKWnRkUXBIODRFdUFUMmg3cmZEMlZOcTJfTHltdWE3MU1vNzB3dmE3M0I4b0Z0bFBFamg5bjEwNXZ1SHNaWGpoaDfSAZwCQVVfeXFMTXhyNVI1Vm5GSlUyWnBhREZGcWttQnVNYVIzSlEyNkJPVHhNWEExaUJDTW1DTmJfQ0JjVmhwSGVzWHJkVWNyOEJLM1NYSVN6dUNBdjByNkFadUN1Uk9JZzVwV3ZMRXA2OG9qNl9aa1BfVEpuQURDZ1RFbG1lRFdkT0NzcnVHUmZNMjJJTjB3eldVbHBuZkFkVTNDWHV1NVNrbUFTT3d2VzJQMWJFVGl2eVozNjF5aHdzc3hGVzlhZDZaR2hEUlp3YVlfVV9obEI3OUN0TDdSQVhRT0J5blFneXRxSkJFYm80ZmJ0YkFTTG9QM1phT0Y5cmQ4RU1GemRJWVlnUnFRbVdtQV9jMmtwem5Id2l4QjRiNm5mUEY?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-01T14:15:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/I255NQP7TRDJBOBHR37Z72K3UA.jpg?auth=9efc118cb80137aa73366476cf5775c2ab957495518926d8ffa6795514ec298d&width=837&height=670&quality=75&smart=true"
+  },
   {
    "titulo": "Camilo Ugo Carabelli se arrepintió de haber abandonado el torneo de Guayaquil y dio una curiosa explicación: \"Se me fue la cabeza\"",
    "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdXM2anlNUFlzYXZ4WHRuUzN1dzdrVFdadUNhSVp1M1NsNkIwbXdnazNXdWhKbDB0UndMWEVaV0NGMDg5NXVkMmdFcHdhQVlORDZnT0hNUUtPM291ZTdtNmdxYXhLOUxpbWJNcHdhZWRHd2NQWHJuYXM3YzgwN0ZSVmNlR0VESFdDbGZJX1A5MEt0Q1djbXdJaTdrdkZZb2YtQmpHVlA4Unk1bnBRVzlGcWJrZDhVcXVMX1YyZ0hOQWliN050blZFenRLaDJQR2NlSjBhYnVfMzl5Z0JZLTNMNTRMWXBkTkk5eDduaGZuLXJzTEg3Sk42LUlPWHpscDgwaFHSAZYCQVVfeXFMTVB3X0ppVGg5cGR0V29OY0xXTFl2MGJPcGZodDkyQ0xVUl8wandyLVU4U05GRnJ0YzJzdzNDQnZNZmlmSlAwWWZpT2MzNnYzMy00MjRKMjMydEN2YXpKZ093NGF3aUh6cm15ZFRLd1Z1d0U2c1VKcTJnd0tWdnZsUmV0OFVoSTZZVDNRdHZyQUpjLWMwZ2RnVE1ZY3B1SHZYUUNJT1gyWDJXWnl0ODE4UkxiWGlqcDFFbi14ZkNYbGtfTjhHZERsbFhwT1JNTWZWV0NYMlowQWJMQjVoVXE3RkJpUmRuZmN6cFU2eG9UUURIaDZoZjcyUnhTd2Jhd1NIRDdmQkFpeU50RThzZ0hhRlRfeU5oR3c?oc=5",
    "medio": "TN",
    "fecha": "2026-11-01T13:28:06+00:00",
-   "imagen": null
+   "imagen": "https://tn.com.ar/resizer/v2/camilo-ugo-carabelli-se-arrepintio-de-haber-abandonado-el-torneo-de-guayaquil-y-dio-una-curiosa-explicacion-se-me-fue-la-cabeza-camilo-ugo-carabelli-ig-HJ6KOSDHQJC6NGAGHX4BAMBEZE.jpg?auth=776406011decdcfcea0eb73f3121999c495c5f9d9546ee38737b594a2e93c251&width=1023"
   },
   {
    "titulo": "Un llamado de respeto para las ciudades",
@@ -23,6 +114,13 @@
    "medio": "Diario Extra",
    "fecha": "2026-11-01T13:15:10+00:00",
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/01/07/695f22dc8ab8e.jpeg"
+  },
+  {
+   "titulo": "Flores, oraciones y recuerdos de quienes ya no están: así se vive la víspera de Difuntos en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNzNmdkh4M3dyWjVfcjRNS25udmdpMW9QRFo4cHRhc3lCZ0lKX1NCbk9YTVhFNkd6Z3J3Z0pfb3pYWFhrR2VQcnRhQ1F2SnIwOEcyTDhKVFVDSk1MY2E0QjUwV290dXFDS0s4STdIVkg0LTgwa3Bqa3pzaU1FYUNaM2VEN0RDb25iN0ZEamFzbk5SWmJhYk9aU0pWdVBZSFNuWS16Z3RybVZiNng3UXlGOXpHWW1pQmFqMXd0OWROS3RsMExVeE42TzFMRjI4Y21EZGdraEUwYnZtODB0SFE4VUdUT2tQdmfSAfsBQVVfeXFMTS1XbW5VaDQ2YnZ0UFZBbTBpQ1RTZWdBU3B3SzV6ZTF0U19pZUJsaUhwUDhYd2ZRNVgwNm1FN2xnNFd1MXFIZ0NZM2lpN0VnVVZ5dG9aZ3NFRmVQemN0c2ZIUFRLeGU5SWlXWlFMQzcyazVuMU43VEVBVndJSGJjSkR4dXYtOERMQkE1cXRjZExxdlh2b1ZfdDFpREk3SE9ueDRRc0JGWGU4ZnZxQ3lKd2w0TlJmRV9YOE5VQnEwcW1JN1ZGQmZCMlJRNHplYmt2YXFtaWtXeDVRUnc5dEtXRy1XWEE2WERYeTI1NmhFd2tFMGpKU1htN1NoRlk?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-01T12:52:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/U4IWTIJUOBAFDFJKYMJIL3EIIA.jpg?auth=e26476fb022ef41cd51e96989772f926258708eca2e60ed3e520b538e2a98136&width=1005&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Dellien va por la corona en el Challenger de Guayaquil",
@@ -40,17 +138,17 @@
   },
   {
    "titulo": "¿Sales hoy en Guayaquil? Se esperan lluvias fuertes y tormenta en la noche",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1Nta3pYOGJMbTNEUjc2a0ZvWEJIcDlneEpHeVhOWUNSSmxSR2JadFpGeGFTTl9GN2lvN3BTY2tNd2dJbFRVQ0tXc0g3Q1B2N1VuMHhsVmZkdTE5UER2MG9lelIwdklXTFhOZXQ0cDI0VEptR1FjU29mNUM0b3hsc3NxVjc4dHdfSmhkY1ZwR3V6aXlLUlU3QWg5OXd3LVRpeUpURGJ3MTEwdw?oc=5",
-   "medio": "Portal Extra",
+   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1Nta3pYOGJMbTNEUjc2a0ZvWEJIcDlneEpHeVhOWUNSSmxSR2JadFpGeGFTTl9GN2lvN3BTY2tNd2dJbFRVQ0tXc0g3Q1B2N1VuMHhsVmZkdTE5UER2MG9lelIwdklXTFhOZXQ0cDI0VEptR1FjU29mNUM0b3hsc3NxVjc4dHdfSmhkY1ZwR3V6aXlLUlU3QWg5OXd3LVRpeUpURGJ3MTEwd9IBrwFBVV95cUxQTUNWTGM4cndNeEV4bEtteUJydU9RMGJHYzN1Q3hDV08wWU9aNklHOEhxQUIyZ0xtdWM4aHpraGdfNTJudVRKdGZjdmduLXFMOTZxSllYRW4zeEpYQTV2QTAzd0FndXdOSk1jNi1IQUhpVWlmQ3pia3h6U1hzZ3ZEQ1owU2w4SjZXNzFKNFJkejJPWVY4Rll3WWZ3ZmJpTlJ5YlFNLUlpSWF6QkxGMGdR?oc=5",
+   "medio": "Diario Extra",
    "fecha": "2026-11-01T12:29:37+00:00",
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/11/01/6ae72f5edd265.jpeg"
   },
   {
-   "titulo": "Se enfrentan Guayaquil City y Libertad por la fecha 5",
-   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZk1UaWFBSnN2Rm5TTWhkQ3ZBckN0dVJudTMwZHNQZXAyU2JFTDhqRmVSTmlKTTdrLVVLcTVQVFlCSW9rcFZLS0FPX3N1a3pwQ2ZUTTR6ZFF4bzdTX3Q1RWZOZXpzVTF5S2ZQckFsXzZJMGV6anV1R1Fwd0k2MmdLY1BTT0RaMU9NcHBtdzhmVzQtVHNp?oc=5",
-   "medio": "Anecdotarios",
-   "fecha": "2026-11-01T11:26:19+00:00",
-   "imagen": "https://api.mightyshare.io/v1/MS05kk5vowJ4XuXQ/68a065c13bc69b13bccfd3cfd10e320bdfefaef86ffbd6724ea8ac69f0b0fd6b/jpeg?cache=true&height=630&width=1200&template=news-1&template_values=%5B%7B%22name%22%3A%22google_font%22%2C%22google_font%22%3A%22%22%7D%2C%7B%22name%22%3A%22logo_width%22%2C%22text%22%3A%22%22%7D%2C%7B%22name%22%3A%22primary_color%22%2C%22color%22%3A%22%23003399%22%7D%2C%7B%22name%22%3A%22logo%22%2C%22image_url%22%3A%22%22%7D%2C%7B%22name%22%3A%22background%22%2C%22image_url%22%3A%22https%253A%252F%252Fanecdotarios.com%252Fwp-content%252Fuploads%252F2026%252F10%252F800573_0.png%22%7D%2C%7B%22name%22%3A%22title%22%2C%22text%22%3A%22Se%2520enfrentan%2520Guayaquil%2520City%2520y%2520Libertad%2520por%2520la%2520fecha%25205%22%7D%2C%7B%22name%22%3A%22description%22%2C%22text%22%3A%22%22%7D%5D&page=https%3A%2F%2Fanecdotarios.com%2F2026%2F11%2F01%2Fse-enfrentan-guayaquil-city-y-libertad-por-la-fecha-5"
+   "titulo": "Los resfriados lideran las cinco causas más frecuentes de atención médica en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbVBhdnNVTkJaU3VxQS1YSlJhNk5wMjV2XzdxQ3ZrVzhfRkQyOUI5WVNsMk9iSk9OeWpJanNvVXdhUUEwNWs5WjMzaG1RTmNhOWk0cEI5X2ViT3dVU2ZobGpjNEhrMUR2Sy1DdWlpNFVvaTZrRndFTWRHdW1RZC1XUzUwWm9FZC1kSHlXalR1RmNUeVB2M2NRWEpVTHJCZGNGUUVWSEVLWGdTZkl6QlZielQ3dUhZZkxiX29RdEppY3lLQV9Bc1psaFFFM09XdUlaNWpoaTRR0gHqAUFVX3lxTFBjb3pOdi1EWWVNWFJ0UVlQWWg1djYxRC1JbXJ5VkZ4b1ZwRnRIcC1JbGt4cnhhcHRyY1RCQ1pSaWxFQjk3QXgwSDBnUk4wQ0lzVVIybmVOMG1PSzRvQUp6RHF6d19Jc1JNUUplOXAwanVjY1h6NWd0ejJsR0QtbVR2TGFyblVKbnAyVy1kd3B1WDJtUjVGQ1JGcDBDSWY0TWxrWFNXbXlXOF9pdUcwbEdmc3FMNlVpSUw5OHltYWZ6eXJSd0h0VTd0TVFPOUNXZXNyVFJpaU80eE9JODdxc1FUNE1fLVN3enN0QQ?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-01T11:30:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/JRC6J22YLRFTBMODFOPH2U25KQ.jpg?auth=ef43d79e02c59ee872679dc7cb6ab12af0ba31bd4d1a0d04789b222cf73289a7&width=900&height=600&quality=75&smart=true"
   },
   {
    "titulo": "Guayaquil vs. Libertad (1 Nov., 2026) Resultados en Vivo",
@@ -123,18 +221,11 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/CZKYTZ7BFVCTTLLYQSXYAINKEQ.jpg?auth=3134b42e574529a11bc7a1a4ad117c7e207aab12dd93945e92c34adc3a99f3cb&width=893&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Los resfriados lideran las cinco causas más frecuentes de atención médica en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbVBhdnNVTkJaU3VxQS1YSlJhNk5wMjV2XzdxQ3ZrVzhfRkQyOUI5WVNsMk9iSk9OeWpJanNvVXdhUUEwNWs5WjMzaG1RTmNhOWk0cEI5X2ViT3dVU2ZobGpjNEhrMUR2Sy1DdWlpNFVvaTZrRndFTWRHdW1RZC1XUzUwWm9FZC1kSHlXalR1RmNUeVB2M2NRWEpVTHJCZGNGUUVWSEVLWGdTZkl6QlZielQ3dUhZZkxiX29RdEppY3lLQV9Bc1psaFFFM09XdUlaNWpoaTRR0gHqAUFVX3lxTFBjb3pOdi1EWWVNWFJ0UVlQWWg1djYxRC1JbXJ5VkZ4b1ZwRnRIcC1JbGt4cnhhcHRyY1RCQ1pSaWxFQjk3QXgwSDBnUk4wQ0lzVVIybmVOMG1PSzRvQUp6RHF6d19Jc1JNUUplOXAwanVjY1h6NWd0ejJsR0QtbVR2TGFyblVKbnAyVy1kd3B1WDJtUjVGQ1JGcDBDSWY0TWxrWFNXbXlXOF9pdUcwbEdmc3FMNlVpSUw5OHltYWZ6eXJSd0h0VTd0TVFPOUNXZXNyVFJpaU80eE9JODdxc1FUNE1fLVN3enN0QQ?oc=5",
+   "titulo": "Ramas que tapan semáforos y letreros doblados: los problemas en la señalización vial en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSXRWanNpWHhOQkxUQ2dWWVE0UTFKb1UtZk5ua1Q2cFVEaGtJRmI1WHVzSk93bXlWb3dfSDduX2FmZEIzckhLelNMU19SQzEyVHhxenl2cGZCX2xKbGprcUU4UWwxTnpoQnA4T1J6T1pLRnpmb3VqMEVYOUxXcTFOdmJKZTEtN1ZLRWxDbk1HWXo4WWtlekxOX29aVy0weW5kYnpZRmlPVTRQX2lYa0pyejF5OWIwX05FME92M21pX2ZPUW9fczY0b0h6Y2JqbVl0UkNpUG5UV2xWVlNQRG5PT3Nja9IB9wFBVV95cUxNNGR0dzRncXpWaGJSVURJdE5IN0c3Ty0zMFhEVFhPRkFkWV9HUFNSck1fdTcwMDhBZEJGOWVlY1d4SmdHbDlfS3NDTW0zV0lNN1JMV3AxeFF6cEQwRVVBdWZSMXdjOWlPQjluYWx0YlhMeEQyNksydE45V3ZHTmk0TTUyWGpMRUFHc3hTWkExUHl6Q094ODh2U1BaUkVfVjd4UVRVTk5SMkFBR3dZd2RVZ19mdDBuNmEyZGE3TldMbzVrNjRHUGlNd0gtMDZNMng4YTBOYW9MaEFHaDQtaGNBV3R0SGNJQkt4ekVpdUlYbFJOb3VBelVB?oc=5",
    "medio": "El Universo",
    "fecha": "2026-11-01T00:14:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/JRC6J22YLRFTBMODFOPH2U25KQ.jpg?auth=ef43d79e02c59ee872679dc7cb6ab12af0ba31bd4d1a0d04789b222cf73289a7&width=900&height=600&quality=75&smart=true"
-  },
-  {
-   "titulo": "Árbol cae en la vía a la costa y bloquea un carril en dirección a la avenida del Bombero",
-   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOG5MUXo5UEhSMEtMTUlXVnJhYXVhYi1XR1hwbDhIcjNnVjNIX0d5UXFKQlF6Yk5COVRZOHUxSjY4U2dSaUxXSEpENlp4bnRoNlJLSnBoOVIyNDhkVU5vc19lbnVvSWwxU3F6ZHBxR1o4SHJCSzVoRzJDd1RKLUhCWDcwWmUyUjBwN0p4RWx3UWpNa2Z4VlFHbEE2T1BsUjNUTXQtYTBaTUpTcC1RcXo5dWstODBwejhJVE9PZ2hvTU5QRHU1WC1HVmowM3VJRkFKcjVCSUlCWXbSAewBQVVfeXFMUEQyM2Z0aF9rNFl4M20yTEpPOHJ4bEhMOHNTSHp2S2ZpQ2dtcHdkUUZmUjJGaFRELWU5ZGJzMDk0NlQySTN5cXpmQzd6TU9mQWRsRmd1dEpUcEpZMDdSenN1Z2hmQTN2RmFKYXVqZHIxcnZqT2xHejBOSmM5R2tZT1p1QWlPTFRZRGlUaWZCMWxyM19PN1dVUHJCSWkyT3BFMl96b3Y2R1FramFQMV9TdUFfUjFBR3RkZmZRZDNVYmkxY2lkNE9Id0wyVjRkQU5YVGItVGRLX25Ka0JBVnExMUZOYU42Y0dKeGpSelU?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-01T00:14:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/CK22GF2PYNAB7P7DQ45F5M6P2M.jpeg?auth=00cecb02579ed61a313010b893c0e77bb5dea1833491cdaa9ef0af7731759be9&width=670&height=670&quality=75&smart=true"
+   "imagen": "https://www.eluniverso.com/resizer/v2/ZJYV44Z4D5G4NOXMEYHOPKVYJE.jpg?auth=10302d721de321e5261e11c010b8732cc288d6aa8a56c0432386695a697e9ffd&width=1005&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Camilo Ugo Carabelli hizo un profundo descargo tras abandonar un partido en Guayaquil: \"Mi reacción fue mala\"",
@@ -156,13 +247,6 @@
    "medio": "El Universo",
    "fecha": "2026-10-31T23:10:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/TSJIIG4INRG2HJPT5VW4NHGUDA.jpeg?auth=21b0ca64a0435484d213e0c3cd81d77fac93df352f4eecdd871e369e15ae213f&width=893&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Lluvias en Guayaquil dejan algunas vías anegadas",
-   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMkE2RjhBaXZhUGVMV2xrVG9iZVBubVdqMmxzZW9YX1BfTWxUZUpsaXdNYkdxMGh3MjdueFpPRUl6YlM0MkJjVVpsdVp2SUpfR2E5S0EwclpQQ1lrSEJvSS1pTGZ5cEU5X1c3d3hiLXFnMWt2TmtkNEZUVEZQQ3dESl92aHF3RV9LYkN5LXU4OUk3czhaOXprRHdn0gGfAUFVX3lxTE5PTGNkR0paaXdHWFlnNEJERU9DV25HRmp2U3Z2NzFfdDNpTXpCeVZrR2NBRXNabURIc1dISGhST24xRXZoS1ZydjVMTzdkNTlvVjZEWmFfZlpDQ3p0MmRGaTJlQVQzNHpUU204Zlh2M1JuTURwbWRzWFFIOVNKaXBSV0lmaXJvMngzazlQYUFibGN6dnA4Y3k0QXVDQUhLdw?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-10-31T22:29:27+00:00",
-   "imagen": null
   },
   {
    "titulo": "Hugo Dellien se clasifica por segunda vez a la final del Challenger de Guayaquil",
@@ -207,13 +291,6 @@
    "imagen": "https://cdn.diez.bo/diez/102026/1793482297172.jpg?cw=1200&ch=630"
   },
   {
-   "titulo": "Autos sobre las aceras y contra gradas en un sábado de 13 accidentes en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcG96WEExVU51TnA4TDJRbkpSUmdqRXZDOFFUaUZncW84TkVhVjFKbWdjU3llRFNBeF9Pc19VNVpHclhTV2dHRTdJTnREWXcwV2pWXzhkYm1LS2s2NndKSHBMVjlzanFIb3JLN0hWVzdMcmNyVmI5VXdBLVVPTEVWbWdITVMxTFd3bEZuU0dLU2stV1FlY29rZU9zRTl0WGdORXBqQnEtdWlQZVUz0gGyAUFVX3lxTFBkbGxVcWNmcUU5YU1DQ2d2UHRwNk13bVU1RVNaN2ZLMkxWWGRFQ3l5U21PUmFpblptS1NCRVZVM0ZKYTBBVTZNa1hwUEpraUwyQllSbXpDOU1heFpBVTE3XzBHU2g5dEdrZzBObWotV3gxMWF5N3k5RzRLd2xZY0xEUEZ6ZnZjSEpod3FOOVFqMFVUXzRtU0RUdzYweG8tU3Q0RVNVSkdQbXd3QVoxMUs0aXc?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-10-31T21:33:40+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/31/6ae65e6950a30.jpeg"
-  },
-  {
    "titulo": "Estos son los horarios de la Metrovía y la Aerovía durante el toque de queda",
    "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONE5RTElQaXJ1Vks2SnZBM2pibjRhSWl1VE1JMDBSQk5YdWlFczhvYWFuT1FsQlpBakxNNEYtc2lpdmg2VG10TlNITDBtNWo3X05VTzNDaXZibVNCTGRyaldBNHdJb1NkbncxNTVnaFhsbW9sTWNoblBNb1Z0UHpXcHpnVW9qZUxOLTBfNTBCWGNqR2YxWld5Wk9NUDNIQktCaWlfYjVwaEc5YzByRy1WWVNYWjQ5WGNxXzhtMTk3M0N2bnhS0gHYAUFVX3lxTE5NZWJvc1FHXzlrRFpnbEdzSnE5VFpBZmlERWNNNjM3T0ZucGpzeERxWURfRy1lOWFoZFFadnBPM05MSGIwYTBlN21lX1lnMzlZTFJfbUcyVnk4WUg1UnRBbTA2RmFtRHU0SFQzLUgtby10cHBGSHVrSE1XZTBEMW9PN0tXX2haRExBT25pUlpFZnZWR2FnbWpyR1BUT0V2SjRwU3R2empjelBLbVZQSldmWW85LTVhS25Vc3BEVnZfTk5JcWQwS25sbDU2aXY3RTBIanBXWHBWMw?oc=5",
    "medio": "El Universo",
@@ -242,25 +319,11 @@
    "imagen": "https://cdn.sanity.io/images/wp253i6j/production/51bf3669831abb5351f031a658e6bb434b961e92-678x452.jpg?rect=0,48,678,356&w=1200&h=630"
   },
   {
-   "titulo": "“Buscamos el mejor tour para salir en grupo”: guayaquileños viajan entre amigos y en familia para disfrutar del feriado en Cuenca",
-   "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVExrc3hycTBRc3pOOUZ6OVBSalVTdDBLV0lwaTVONDFUYjJETG5ZalZ4Z2tNNGJURnNfY3dYaG1lMkJvMXFRWW5UQk5aalN1RFFibGtzbjJpUU1NeWNONmczWVI5Q1lQVE5BMzI4eExKeEhOSTJNcmwtSUpLTG1NOHdTOTAxajN1cGVKVzgyWUNGaEgwM1VlRWdOd3h3Vl9zc1dMTnQ0QnRjMUFiN2xJUXkzaDhQZVNmNlhMUHEzWVpuMW81Y3lDZjh6ZmYyX0xERVc5UFRvNnJvS0pHVHZiaXAtSDFkMkhOanpHZ3lzNnV5djQwS2tIM3VkQUFwRktWeEJNbHlfSmd1Y03SAZ8CQVVfeXFMUElsNGZieVhaTFVOVWg2NTBSNGVnXzVROTJPRm5paVB5MGd2Q25sMHlzTld6REtfcGFoM1Z0WXNHWlRGby0wUkNNSV82RVoyY3NTbG9KR19pS1VPdGxMbDc4dXVSSXhvSEJmTXNxUEM1dkhGVkUyNGFjd01mSDRjRS1zQlc1X1pmZGVyZnBZOWp4dzVJcnU5elotdVBOX3Y0NnRmRVBXM3NBX0tsR1BjOTd6WS0xaUl1Q0YxRWpROEQwdkpHZnNRaWVKRTRjWElHU29LT2cyNS0wUGpyQkM5a29GSElsSGZoM1lYZ3lDRE5zV0wzQ0J0dnhrWXJNMENSQXBUU3JHQ25hcHQyWnZkYi1QSXhnNXFwdmNmX2hpclE?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-31T18:34:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/ZDDMNWL5XJAVJCJJUEP7NBZPFQ.jpeg?auth=5cef498dd683cb20fd44cf44a9e6d8d2d49b5b0af0c2ee023673d0e19002a12d&width=894&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Cien años de devoción a Cristo Rey: comunidades católicas se reunieron en Guayaquil para celebrar su fiesta",
    "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZXM3UlZRZENKZGRrWlNEUzVic2VucWgzN1NWRmwzQ3Z5Q3NrWHVIRXJ3YjZYYl9ZUTR5UW4tYTFiZF9tTC14ZTdLeDN1ZFNiR2xMS2dqalFsdlQ1SmZpLXBsVkVCOTJIa3YzZk43TGdpNF9sZWx3X2FUMVRCd3hQdTJtUGlFUUM4QUNRa1FEckZyTW0wc2h2MUQwV1RGYmUxbnFBUWg2bDN6RHV5T3h5cWlycWpXVGM0OXRMejZWVzBIZ3p3T0tHaVdyRDhLRTBTeEUzMUpOQkpPWXZ2XzBBR2xlcjhaT0pFT1A1NXQzTW_SAYQCQVVfeXFMT3F2SGhob21LQTRYQ09JQnBVaGx0aFdwQWRRaTRqSk1VeEtBcTcwcmxPNHN0TWtibW9GcHFLeUdXZ2xfUXczUUg0a2VwSWxaZ1ZnQ3RJd1RfcC1xN2JwM1ZWSXo0MUktZmp3d3FJclhmSFdRQXpRU05TZC1BN1RwNmk0cmVmLUU5NWdacjA5MUpTRzJwRnMzQ2hrbHNjZ2ExY29UWndiX2diTk9XOE1jVkN4ZndyYnMxdlBhNTJUTUl5aXU5TDJjaDRoQzBmQUdFTGhuX0ZmRXc1RnlpVmRMUXl3ZE0ybDl6YTNuUnlWN2xFSGY1akdybXBjR0xVaEo2MEpPTjI?oc=5",
    "medio": "El Universo",
    "fecha": "2026-10-31T18:34:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/RLQ7PE6ICJDD5GVP42YL4MIY7I.jpeg?auth=75197a3d88d61a84fc125d6999dc43e548b34f5382ec04e2fc04fdc219a24335&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Allanamiento al Municipio de Guayaquil y la presunta renuncia citada para preservar archivos",
-   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTVZUT3hHQTBzU2FJcm9ST1M1eXhLWkFEUndEejlGMC1fYk1jdVJQTHpTUGs4VzB0WFFoZzUyNUxhWnRpTTdhc2ktSDFsUkl4VjYxUVNXOUhvaFRJWDR4UFJtTlkyNF9Tck5hRGwxRzJXeFVXYnBWdEdRWVFSZW02YklsOFM2T090S3JYWVhzQmRrQ1pBOG9BWUExenB0MkhoZ3MxaHBjcGlNTkRjTjVOWTlIeDRRUG9XQ2picmdVV2xZMDBkNGfSAcsBQVVfeXFMTXg2aXBDdnpUdEtRU3hzcWZqZGpOTEVUSi1WVmQwWVdEYXl6amlWME9IMkFMUDBZYS0wQ29YVzVOR3Yzd3RVMEJuTjh2ZWgzMHAxWXd0dmd0TF93a2Ftb1UtcHRrN0VON1MtY0ZwNkFTVkpFemVNaXYzTVhFNlUxNzJseVVaMlJsUGMwaHlBWjVwa1BFTklVSklQanRwWTRLSkctT1NLeFNsQ2xkeWtwaXpjQjM1azlBV1RmLWc4aVR6RmdiSnMyV1h5TFE?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-10-31T17:48:17+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/31/6ae62669a07cb.jpeg"
   },
   {
    "titulo": "A qué hora empieza el toque de queda hoy en Guayaquil: Horarios y provincias donde rige",
@@ -284,11 +347,11 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/XLRAR2VTUBF6HBTF7BX3HKRG7E.jpg?auth=ac5d65087f8b52d82c2185a8bda379bfebd132e40599a1fbd01937d9ca15b035&width=893&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "“Nadie nos responde”: pasajeros se quedaron sin viajar a Galápagos por vuelos cancelados debido a las fuertes lluvias",
-   "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORDZrTk5ZTDZoVDNJVUNTZm1hbEtLa1dPeXhwTVdiUlVsWGhuZ1lqTHlqSFBDb2NBN2hvdm9HbS1aVXl1ZHV3T0hMNmpORFpBOEdwdUF1QmlhMkNNdm9uTHhHYy1GZG9HNDFZeW5YZm9vU01vVVRybm55Tms5MFRVRXVITzdITllCb19QTWs3N1lpdEwteTR0dU42WHpWSEloTi1aOVNmZHBFSF9GTmRTSzBFeFNZNTVHaFREYmRIei1abXF5UG9pZTE4cFd6TV9pMGx0eVU5UGhGYl9Tb3dneWJSZ2txdlVoOEdJcVBEWVRWUWxXQXJfUHRZUdIBjwJBVV95cUxPaTBOQ0ZFUmhWYVJndHBjLXhoS09RSGpKVE1CVTdPSUdtMVU2clJNYmJVR3NZckx4ZjdDLWVjX3BMUWxMZ3hkWFZOenluaFFhRmRXNHk5eEUzTl9tRXBuQXpINDE3SnVmSGllM25QRjg5bWNuNEdfb19vdEdiaWlzbFhGdmFsRnpGN1BvSEZ5STh2c3BnSlhHV3dpQXB4bTl3Z2x5QmJhYmd5SXZMcExZR1FZQy1QeGcyQlpsZEpsQ0c4VmZWUERBbXpIS19PTXU1dWZfbzQ4Q09DUkRWNVdYcExiZV8xeTVnbkhVNnRIMHZieEZvY1ZBOU0wVW9uZzBQQ19XV1hkSXIwZVZqNk5n?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-31T16:03:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/BYW3C6WGW5AIHHFMIA5TEM5REU.jpg?auth=1a865fd2f53e00af5f9f7cefc8928bd1fe68127618c74eec2c42ab3b49f21908&width=1005&height=670&quality=75&smart=true"
+   "titulo": "¿Qué hacer en Guayaquil durante el feriado? Estos son los planes para los cuatro días",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZktrZzhVTVZaYkRySE9ubFdnQXYxWEVvOWlIMFhFR3ViVWRneUYwMFlkMXI5bGprMEpROEFveVE0ejgxV2w2Sl8tNmxDcnQwV0RPSUFZSzZtMU5lYmdvNmx0U0VPaGJZZjg5RG1qQUxDQTN3S3E1X2FhRmhhdmcxV1ZVWmVMSURtVHg2eEJsbzBrYjZrejlpTTBCSEQzTHQzQXN6QTFmeU9UZ0lINDNOb9IBtgFBVV95cUxOajBsNUZueDJVWk0yM1ZnZFFtNUdJS2VKd0ptbmtOcXY3eXRHSElBYTcza2ExcWZrTnFoM0ZmRWtfR1hLZ2hjdG9CZC00elhqVjF4Rjd6YzUxUlF0NThVajRuWWRITkI0YjU5VUVTSThhWnN3Rm43bHJDbTdFTk5fcW5jXzcyOHRaclh3QXRjVW5yVXZQckFPWGtGM2tVOXc1VkdxUFcxLVpIZEZpZHdpYXBMYUtfQQ?oc=5",
+   "medio": "Diario Extra",
+   "fecha": "2026-10-31T14:06:19+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/31/6ae5f5c9e0626.png"
   },
   {
    "titulo": "Camilo Ugo Carabelli protagonizó un escándalo en el Challenger de Guayaquil: se fue de la cancha y fue sancion...",
@@ -312,39 +375,11 @@
    "imagen": "https://www.lanacion.com.ar/resizer/v2/un-tenista-argentino-fue-descalificado-del-WPKJXHVTFJDGZOH5DY3QWH4LKM.png?auth=82649d59fafb13fe6aacdba9e5811cfb79dc8a12d841a3778b673a3c7430ae6a&width=1200&height=800&quality=70&smart=true"
   },
   {
-   "titulo": "¿Qué hacer en Guayaquil? Estos son los eventos para el sábado y domingo",
-   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUVNqX1lfTW5IcW5WeTNzWTVPUUN6Y2FtX3FMX2tINFpsT1phUjNEQVZ4bERKVHVYZDVfTmdNVWVzcFhjREJOM0VyMzJMZ0JWanF4M2RMSVFmX2UtVTZyT1g1LWNYOFRKV1JtUExvREpUNzZiOFZjeThiTXJBVFM0c0RiODdpd0ZlQ0k4SkNSUHRHQ2VJa0lRdzFrc0cybGh5REFnN3dHQUpiUHdBMXprQW9LVE1xbU91UXZhTzFZSdIB0wFBVV95cUxNRWZDTGxDMXFBeV83eGpNOFg0bzRsMTUzS1NrWmFpMkdsNDFPZGpXeDBCcHFSWDZSMndLOGd5cDZ5MjloUEFKOW1hcTRoOEtuYTZ4a1ZIV3JvMElsTWx4MS1MeUVaOU9LTlp3VjZXQ3h4VVBNU1JmYkNkNGpObDhqTWNNMlhwRWpJak5idElwUGJZbENCcnZmZzBud3haaDJiRUlteTkyMlBYUEhKSUtjMmsweXg4am5RWWlMUWh6OTNlMFI3enhtVjhJQi0wNGhLZGZz?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-31T11:44:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/TYHSYHBT65CR7MEAD4IMZWXDF4.jpg?auth=e6df8d6ca912ba26297a7723ecdfc5f7f577c8080aaed1f2b0c350b23b020f29&width=1024&height=478&quality=75&smart=true"
-  },
-  {
    "titulo": "Toque de queda en Guayaquil: qué servicios ajustarán sus horarios y cuáles atenderán las 24 horas",
    "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdjZnY1pMUng2RDJ0eGczTEZOTVZ0RmVtdy1Yc0NzQTctN1pGOTFDTnl2WkFXbXlGeHpqNlBlMzZPUUVzQVJsQ29RQWJsaXlJQXdPUU5JNk5hVnZ0clFkLVBPM0NUM2VjV21rZmN1cU13VGNtWmowQVR2U253dlh0LWd3clRIRXRKWVZ3ZFUyOWZvS2h6UHpGUUNYZHI1eV83QnZVV0g5TkFFUVJaRTlQNVpQS3BEYk50dnpNV2M4RVY4S01PbnZiYlJVc05yMWpnaHpRM09KOHlaLWdRaWhBT1R6VdIB9wFBVV95cUxOWEp3V1p0SkVIYklmemVmT2pqc2djbTNIMTRVa0VOZG1ZcE9zLUxxbFZXM1NQWXBMdjZqbTBxSVVNdnU1c2hnY01SRjlJeVpjeWRSMm1ybU1zeGtJaHhHVXB4NklFSVlsWl85Sjl2Y1poOHJYQ2twcWJMRDVLZUN2elJRMjVlOGxBY3A4T1kwN1BzQ1NTajhJWk5mbnowZTZUdzk5bDlCQnJJMmJ3VHV4bEFnbVh3VTJGLURWWEdKWm5Icjl6cFNFUDc3c3BOWlgzcEZaZGpKanVVZXRiVUpXbUFRRzllV3lBWHNpVHRRSTlrbE9vVDFJ?oc=5",
    "medio": "El Universo",
    "fecha": "2026-10-31T11:00:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/MYGDDLQOJFHWHEGBY3ZAHQGOD4.jfif?auth=3a7255c4bc061f68c226ca61758af9707c2762e7f3598f127442dbf2cd74a731&width=1032&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "¿Adiós palmeras en Guayaquil? Así avanza su reemplazo por árboles nativos para enfrentar los efectos del cambio climático",
-   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1FZMmdiNGlEUE9oNjJFZXhERTluQmVnQktscWprdkFGN3lZUjhjbjY2ejhTQWVYUWg2LUJRaXZfQWlrSnpvbUkyaTg0TU9hSkhqU1ZXZnlQREtaVGV4c3pyOWpOaWlKOElNOHd3M2JlaUxZS3hPYzFnMTVyZXVnbnI2MTZOT2V4ajllM0RxNWo4eW8?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-10-31T10:55:00+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/10/22/6adabe4268a7a.jpeg"
-  },
-  {
-   "titulo": "VIDEO | Retiro de un perro por lluvias en Guayaquil, investigación en Quito y el final feliz de Cumbre",
-   "enlace": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOW40ODZZOTZZeWtybUpEMjhGamsxSTdaSGpob0tNdVZISkFEU0Rrc1FfaHFVZnhpWTBhTFNNQ1c2SXZGV3lKUWIyZ0NNeHRsQ2lqRmkzTGRwLS1kOE5ENGJDWFJhS1dZaWU3RkVJVms3b1hpZXBNQmZrdWJfNGkwQ3VJbE5wS0ptbERpTDQzWFJqQWNaYVUzR0lDaHItbWVGMi1TSHVwZl9VbHlSZzdSbjY4ckFERnZYZzgwZmdwdVU2aWprLUFraVZMMTRKLXFrRzFqcEluLW9wQmpIS1pwY3FvYXFKeWlCeTZSOEtoOEQxQUxwX2M5OXVKOTZwRE4xVkZWZzgyb1otNWk0dzNj0gGUAkFVX3lxTE0tMnVUUTVQMUQxYzVEZEo2aTJhMm10WWJQaGZkcTE0YlpNQjRHVEdrc3RGZUE4N2FEMVM1MVVXbXNkLVdUQlRLRTN4cUVGUmpfVW10d3RrdXJsYVlGLTU0R2tXWk9XVjhQbmFSTmpPdWJWbUFybF9vUTlidGR3ME9BUFR6UjI1TlplR1JYc25BV0NoaWxYdFVxdEZxdXRkWWNMSlFpcVdlak1TZC14dkg2X3F5V1dtb0hHOWRkcmRMZW5zcEtxRE85YkgzU24wcE9Yd2JEUjRBbTZGYi1FelFJM2xPYk5qdmZscURVdml2c1JsVnQwdWU5R2FhUnlUVk1wZFNObE9qVFdveGVZVXA3SlBZTw?oc=5",
-   "medio": "Vistazo",
-   "fecha": "2026-10-31T04:04:27+00:00",
-   "imagen": "https://www.vistazo.com/binrepository/802x419/116c0/600d600/none/12727/PYPP/milimg-3601-466465-2764959-20261030230_2764963_20261030230428.jpg"
-  },
-  {
-   "titulo": "Dellien imparable, es semifinalista del Challenger de Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMmFtOHVmaU5VSl9XWU8xTmpDLU03TFpIS3ZTSkRTSTkzdlg4MGxaMUVmNExQRlFsb3FHcW84U3M0WlRaQlpQbkFmM1dLcTcyNTJTbHdmQUJ1VG4zUGpaZkxTdjFGOExMSjdBWHdKeERITU5QYlVQM3Y2SnVEY2gwdUFzaFYyd2dRR3c?oc=5",
-   "medio": "La Patria Bolivia",
-   "fecha": "2026-10-31T03:55:43+00:00",
-   "imagen": "https://lapatria.bo/wp-content/uploads/2026/10/6ae56187d4be9.jpg"
   },
   {
    "titulo": "Indagación por supuesto peculado en Municipio de Guayaquil y sus empresas públicas alcanzaría al primo y al abogado de Aquiles Alvarez",
@@ -359,13 +394,6 @@
    "medio": "La República EC",
    "fecha": "2026-10-31T00:43:32+00:00",
    "imagen": "https://www.larepublica.ec/wp-content/uploads/2026/10/6ae3930c27062_gye-sesion-concejo-invierno-5_11zon-scaled.jpg"
-  },
-  {
-   "titulo": "Pronóstico del clima en Guayaquil hoy, 30 de octubre: siga en vivo cómo avanza para la mañana, tarde y noche",
-   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNazUya2l6LVhiOF9uQ25sZ1BjTUtJUEdEU3FKa0xQTDg0ejlJWng2NnMzd3c2Q3VQUWhNdmZFYjFLWWFyVFZjY0JndFltV0xRVC1HSDlVd3V6RGhRelltQ3k0Rm5Ma3dudlJrSG1jdHhOMEhDSDAxbl9ia0xtQndMdEtTTkxrSUVmUzVIYzNHYVJJVFg3SnlLT1VMNlRSUndLTmg0Vkg2ZGdCSFgyMmxhU25pOWExN0RvcW1kcFdoMk9IZWRXa3JIYWtXUVlaV2JwQmY4M3RVUmkyQURhMEdNYXJHRUh6bGtlMkVMZFdRSdIBgwJBVV95cUxNQXJVTDZHb1hPNWFjNjFxR0kzTkpXZjdPRTE0OHNiY3NVRmxCS0dSWS04S3o2Nlc3VDM3ZHB0U1dMeUxaNFJiVkJHazJkRDA5V1BqcFNlcXdxZXpJX0FiWENpMHRjanY4cHR2X2NUMlQyLWFNTVNYaGZYdGJjSlpBa194TVFQNVlMdkJEdkdUUFRvREY5UkZpd0VVc0ljWUNBVlhsT0l6cG5NUkxET0ZHcGJTVFM2UWxYZ09BTlpOUzllMXhOMHJmcFF6MmYtT2RuR1ZXS09lM180TUZNOWtMMld0bW81d2FlSnZkQ1hBNE91NVBsbU94cGdtTjRsVHd1MWdJ?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-30T22:00:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/622OBW4D7NB3ZAYWUPDLOUZR5E.jpg?auth=e97a6d72df461ae2804343c9c8a7ada6f1ef64e9ba8b985734fdb013a9ec4ffb&width=1005&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Hugo Dellien firma una victoria contundente y avanza a semifinales en Guayaquil",
@@ -394,34 +422,6 @@
    "medio": "El Universo",
    "fecha": "2026-10-30T17:37:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/7M4NODJKZNE4DEPP6Q3N6QRJAQ.jpg?auth=d83220e8244bc5913e447780192381e29d326bbd606003e8c081f9029feba56b&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Toque de queda comenzó en cinco provincias: Policía instala puntos de control en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUHNsODNBclE0aUxGRDlPNWVIM1FObFQ2SkpZcU11Z3Z1OVBldmdIRTNwWmxjTnMtdkJreDRaYjhFRkxjMGR3QWh1NGN4NVU3dlZ0NFdscTFZZ053S3RzV2JjMkE5bWhBSFk4d1RicmVqWWx3aFEwNURadW1jbFVFNnpmaXl6OWx3bzk1Q0pzZEtMYU0tb0pzQTFXWkhseldBeEc2SXh0MnU5X3NBaThIRW15elFLRGRCWHlldzdpTGxBZHZ4M1pUandNU2xuakN0YWRCUFlmTWfSAewBQVVfeXFMTnV0cjE0OWNMaFFnRUpyNWU0SEZIWFNwYkNxX05yQzBhdERRM2FHU2dJWk1xZ3MxU0pWZ1R4akNINWpTWGZyZUNIS3JVWTg0VEZyYVY5bnc3cTNnaTJmZm9oYWFycEVmWndpYVdFME9aQVlreFpoOVJRVXVpTHhqeUY4QjZSRGJldFdHZHpBYjlYRWE2WmoyZThWNEVZQlBuaHhnaVVXbzh6d2xUa0RyQWVPUHlMZ0QyNEJJTTFJekkyMV9UTDFxZUc5a1gxYm1ENEJBQlJVX19HSkt0UndWc2w4T3VjWllxQW5SWVk?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-30T16:55:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/R3LNYCO5CFF4PGOZXX2X4QGDVY.jpg?auth=369c077b121fd5aaf2e75954b56af2fab6036bd1414286f1880088212a846340&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Fiscalía y Policía allanan el Municipio de Guayaquil e instalaciones de la ATM",
-   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbUlqbENrU1p5MFBkZTVheEE0eHdLNTBYT1ljUEg3Sldia2ZpSE1HelNlR1docGhZdVN1RzZhM205TVo3aHNQZy05ZVIycGxiMGw4MTJMRTZ3Q1hpU2xhV3FNY05UVzBDVUhnY2lrVDhiUjFVdTdCdlVxZlU5V1JwTTY0MGMxWnRzU3BEX2ZtSTN4enQzMkYzZ0p3cWZCakFkczNIcG1uTDR5anZtODczZWlIVm1uaDhWY1I5d0U1TGJScGvSAdcBQVVfeXFMT0RyMHh4YUVyR3VfYzNIZGtSWERaS1dqaV8zSU05X3V4QmcteDVfcUtqWlJ2VG5fZ0FMV3gzc2d1OU85Q1ZFNzROS2t2akR2QlNNU01CNmRhYnlwLXl4TGpDT0tmWkt2WWlFazQ0VjlVYy1MRThMMGZFUVB2OEhlYVphaEZ4Q1d6N18xcmZoVkJqMXJ1RWNJaXJOUjhkckMzeHVyRmtSTXhnRWZHbExtZ05Ua3ZQZFFCUFFyY3VhZjdRdzZ1emNCWFZzV09WS3FWdFZfNTdHZXc?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-30T15:16:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/WEVTZX55DRBC3C324XCWR4MQLQ.jpg?auth=139437b6a6390bb28de1ff43b511806ecb0ed843cd432d3721229e3ff733941b&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Fiscalía allana el Municipio de Guayaquil y las oficinas de la ATM por presunto peculado",
-   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORmJqZmoxWkxia2ZQU2h2R181M3NvM3dqZVhKd0VyUVgxS0VIdy1nZTR3S1hrNjdzVDZPdEFZTDgzS3F1OGVyWHJwdV9kXzFiVFV5cFkyRnFSSWlWNi0xMmh0QTFYaUpvTGpTLWljMVNJdlJ1VVVNNW05S1lRNXZyX2NKWHNCdU81Uks3NktDZWkyTmoyTmVKY28yTQ?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-10-30T15:10:39+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/10/30/6ae4b3fe6358f.jpeg"
-  },
-  {
-   "titulo": "Rodada del Terror en Guayaquil deja 70 motocicletas retenidas durante operativo previo a Halloween",
-   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWY0MU9oRXVPY3RiOTFoY0lIaGFXdVdvZVpjdFFWTHBDM05HZnhTS1pkUHNNYU9kYnUycGpxWjh1YW9jYUdzUGFxcDVaZ1NjZVpQYUFfbWEtYW5NZE5rMVFKbWt1R00zbV9LLWpFQTVCTUllYjVSWGx0dXZrY1oxdkxyZDBhOG00Q0VBUi16U0FaNjVCR2NoZEs0WWpFVk40OVRMWnpSZTZvQUpCYTgyYnMtUWlZWV9jeEZxUXJXWQ?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-10-30T13:37:20+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/10/30/6ae4950f4cf28.jpeg"
   }
  ]
 }
