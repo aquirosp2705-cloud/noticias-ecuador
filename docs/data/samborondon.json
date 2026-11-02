@@ -1,8 +1,15 @@
 {
  "zona": "samborondon",
  "nombre": "Samborondón",
- "actualizado": "2026-11-02T08:35:07+00:00",
+ "actualizado": "2026-11-02T18:54:36+00:00",
  "noticias": [
+  {
+   "titulo": "Inundaciones en Guayaquil: Las lluvias vuelven al norte de la ciudad y Samborondón este 2 de noviembre",
+   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUxpbk1sdGtSLUVDbjdqRzhfcFU4dkFzYjQ0YzRLTUw0bWxQbk5jZy0zQTlWNU5fNjlTZE9BTWRqN1B5bnNpVkVPamV1RURLNlZpVmpZSkZiUHZYMTJXMDBVdGxSOEU0RzU0ZnZjTHJYT3doZkpZU2o2bFg5YnBnb0k4ZVNrcjl0NVlvWDBmWC1qSmV4UFE1UlBR?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-02T15:37:14+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/02/6ae8ac160d902.jpeg"
+  },
   {
    "titulo": "Brunch in the City 2026: la experiencia de 'brunchear' en Samborondón",
    "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOElfSGpFeEVNTWpaYWNWSXVmY2wtcnRaLV9VNFhvZElPSGJlMGVjcEF0ZFdkZ3k4aXhjcEo4em0tN1hpR0hrSEZGdXlVLWlwTHdXMHJWV2dLSEtXVmVqMGp3Tko2UFNLSkJhUHQ3TVVjX0RtTm5LMmRJZ09ZMEt1a3VMeU5STFlCNFgzUDl4WVNQQllNdHNKUGhrLVFfWVIxRktpcHFSUlBtbTNaM1HSAbMBQVVfeXFMUGJoVHBEQllMcVdSVFdpQjE5RFAxT2NuVVQ3V0owOTJRUG1hRzVDby15cTFJV3ZMYkdaNXVkMHYzZDJFUUt3RjVNT3VUbnB0NU1GeDRiQkNsamxUaFhKVEZvSWZwRVRFV195VFRXN3RtXzhpdnZZeVlxNzUxVkYtT29NSWpIaXVvN01ieGdtcjZhN2Q5UjktWjJsSmNmUlVGWWpXNE9kNDVNMmw3SXMtUVo0dGs?oc=5",
@@ -167,7 +174,7 @@
   {
    "titulo": "Guayaquil, Durán y Samborondón mantienen clases no presenciales este miércoles por las lluvias",
    "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYVQxUTA1dXc5VWlBN0tBeFAycmcydm1fcktUME5XU3hqN2NoSHctdTVfdHJQOUF5ZjBvSDcwU29HMFo5V1QtdFY2cHVjcGloTGI3S085UGYycVZNSC0tRzMya1pwc1dWajFwR0twQ2xEeGk1Yk9YbzN6bHpxMFhGMzlKc1Baem1vcThKZWNZZ00ydzhBbldRRU40OHhaSG9OMldQLXpjdFYzc2dkOGV2dzVmZ0ppTWZJ?oc=5",
-   "medio": "Confirmado.net",
+   "medio": "confirmado.net",
    "fecha": "2026-10-28T20:35:37+00:00",
    "imagen": "https://confirmado.net/wp-content/uploads/2026/10/ecuador-clases.png"
   },
@@ -191,13 +198,6 @@
    "medio": "Teleamazonas",
    "fecha": "2026-10-28T11:06:42+00:00",
    "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/10/28/6ae1d70e87b42.jpeg"
-  },
-  {
-   "titulo": "Lluvias acompañadas de viento se registran en sectores de Guayaquil, Durán y Samborondón",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSF8xMzE4ekhrQ0pwSm13bm5rWl90OTcyVFlGNHVjbDZsNkU0MUU5MUE2Y0RTWlgyY2VIa014RTlRcGpGNlZUSVFzOGx5ZFpvMHhENkVoM1lXUzZ4V2xmODVZOFNRd1lrWnFabnBqWnI3Q2xjU1FYMzYzeV9ydWloWl9tLXozQU9Dei1URkJKLVBDSTFnOWxfRHh0aHVWUFQ1MnpIMjNCdVZZZjY4VGJ3dkJPQzBsUC1fWDNUZXdMSjE2dUxQTGE4ZHdqRzY2WjM4Y3ZEUjBzY9IB6wFBVV95cUxQUzU2RGh0N0lKcTlxMWVKNjE1cnNSaEFVcFNtT3RNQzIzQ09od3oyeldpOHFpcUJkNzZrRkoySDFtc1UxMy15cnRIcldTSUh6cHJFUXhNWUNqbmtvTDE0c1N1Q2RNRTBTODgxQkNQUTdYZGhGb2xzREpRVVFYNk9BNVprdWRLVHJNS3J1UFlwMExYZzNMazZSSEgyY1NKb2lBWTJTdlE5V25meW8tUG9BeDR1T1pKamFxdU5EdnEwdG9sUTJvUTJWUmw5aV9LQTl1QS1ZNDBqTzNKZFNfV0tzV3VLZHRVcktMSHhB?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-10-28T04:11:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/SMVGB5SQFVGFPBKK4FD5H6CJJA.jpg?auth=e9e906c2c643e1a5e52a9a8242394ef0dcf2267fcc0307ae5625576d235b9e5a&width=768&height=576&quality=75&smart=true"
   },
   {
    "titulo": "Guayaquil, Durán y Samborondón seguirán con clases no presenciales este miércoles",
