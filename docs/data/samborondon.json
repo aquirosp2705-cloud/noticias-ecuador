@@ -1,7 +1,7 @@
 {
  "zona": "samborondon",
  "nombre": "Samborondón",
- "actualizado": "2026-11-03T22:06:08+00:00",
+ "actualizado": "2026-11-04T02:47:13+00:00",
  "noticias": [
   {
    "titulo": "Ministra de Educación decreta clases no presenciales en Guayaquil, Durán, Samborondón y Daule este 4 de noviembre",
@@ -99,7 +99,7 @@
    "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY3A1OEJtdnpfY2x1a0JNRGdHdUx1b0ZUUGNsLXdOXzhKQTJNdnJOcGUtV1hUM2FCSTM1TTVGRDgwbk5jUWdHb2I1djN5aU8wYjhnaWFBaTUxNUJTbERWYzBEc1Rnd09ISmhBcm94WWZsd3EzUmhVSUVfaE5RaHh0dndGZDJVQThLaWE5X0ZYN3N4QQ?oc=5",
    "medio": "Ecuador 221",
    "fecha": "2026-10-30T11:16:53+00:00",
-   "imagen": null
+   "imagen": "https://ecuador221.com.ec/wp-content/uploads/2026/10/clases-no-presenciales-en-guayaquil-duran-samborondon-y-daule-ecuador221.com_.ec_.jpg"
   },
   {
    "titulo": "Fuertes lluvias y tormentas eléctricas provocan cortes de luz en Samborondón y Daule",
@@ -396,13 +396,6 @@
    "imagen": "https://www.larepublica.ec/wp-content/uploads/2026/10/HVlbNsHXwAALnPf-scaled.jpg"
   },
   {
-   "titulo": "Samborondón: vías y locales se inundaron en jornada de lluvias de este 26 de octubre",
-   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWhjM20tNFpvTTdzVXdGVUo1VmJpY0RJb2IxdjQ1RFZJSG5tZXRUWF9fM2hxXzlTSmZNcFZIdmUzdzRVb2tlZGdQYTRIVmY4SlVDaUxKY0E4MFh2Q2Nrd19SZ2ZEbFRrSkIwU2VjR3NNTGlNX0xSeEZFWUt1UE5fN3J6c0FubzloR0lJS0dpQXdIa1gxMnA0TmNBajRhcDhHSE01clBoT2liN2sybTlkSmxn0gG3AUFVX3lxTE55UUE4TmVha2gyeUo0UG9rM3dtZHZSRTF4X1JtQUFzcFZEbkZoc1ZPVHl3MXVKaDg4VW5KalRnby1PWUN0VWg4QWVZRThvZ3ZqNGk5aGYwVDhOeWZHN0ZfNzUwLUl6d0RTanFDcW1fd20yVzF4RVliSFBiTkUxemNLM2ptTFFQRk15QkxUSm15SmlWVktjMWIxQkFBMzF1Rk9SVVY0dkYzR2hMWXlkd2toZk1qX0Qxaw?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-10-27T01:01:01+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/26/6adff489cb694.png"
-  },
-  {
    "titulo": "Clases no presenciales se activarán en zonas inundadas de Guayaquil, Durán y Samborondón",
    "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeFF5WlJfTUFhNEltWTd5VGVzWHk2c2VpX21aR3JGb2VoZTNZSGhMUC1kM3RnZWh1S2xGZzJkYXE4VWdNZk9fWnBTc0tIX2JKSUNCbzc3Qk43QzljT0NsaW1UYlZ4MGlEdXRldy1FLXU1Z3N5NWNNMkZ3Z0hCaXVEQmRIaW91amZrdlpZRU9MLUtrUkMxUEFZN1BJTFJlaEhaODlfMGxwU01qbk1nYVlXNFFCOW1OSWxmOUY1TENBSldyMGdFcmZRUWVPc0dlOVpRd00tbEVhWDJsQQ?oc=5",
    "medio": "El Telégrafo (por eliminar)",
@@ -415,6 +408,13 @@
    "medio": "Diario Extra",
    "fecha": "2026-10-27T00:35:53+00:00",
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/26/6adff0b94251b.jpeg"
+  },
+  {
+   "titulo": "Samborondón: vías y locales se inundaron en jornada de lluvias de este 26 de octubre",
+   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWhjM20tNFpvTTdzVXdGVUo1VmJpY0RJb2IxdjQ1RFZJSG5tZXRUWF9fM2hxXzlTSmZNcFZIdmUzdzRVb2tlZGdQYTRIVmY4SlVDaUxKY0E4MFh2Q2Nrd19SZ2ZEbFRrSkIwU2VjR3NNTGlNX0xSeEZFWUt1UE5fN3J6c0FubzloR0lJS0dpQXdIa1gxMnA0TmNBajRhcDhHSE01clBoT2liN2sybTlkSmxn0gG3AUFVX3lxTE55UUE4TmVha2gyeUo0UG9rM3dtZHZSRTF4X1JtQUFzcFZEbkZoc1ZPVHl3MXVKaDg4VW5KalRnby1PWUN0VWg4QWVZRThvZ3ZqNGk5aGYwVDhOeWZHN0ZfNzUwLUl6d0RTanFDcW1fd20yVzF4RVliSFBiTkUxemNLM2ptTFFQRk15QkxUSm15SmlWVktjMWIxQkFBMzF1Rk9SVVY0dkYzR2hMWXlkd2toZk1qX0Qxaw?oc=5",
+   "medio": "Diario Extra",
+   "fecha": "2026-10-26T07:00:00+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/26/6adff489cb694.png"
   },
   {
    "titulo": "68 inundaciones en Guayaquil después de fuertes lluvias",
