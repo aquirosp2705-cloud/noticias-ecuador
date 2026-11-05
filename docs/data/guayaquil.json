@@ -1,8 +1,57 @@
 {
  "zona": "guayaquil",
  "nombre": "Guayaquil",
- "actualizado": "2026-11-05T05:22:41+00:00",
+ "actualizado": "2026-11-05T13:34:42+00:00",
  "noticias": [
+  {
+   "titulo": "Alexis Macías, ¿Por qué se inunda Guayaquil?",
+   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdVRpaGZFcXN5SzBQUVc0OHFGSW9rdFdsalZiUGgzZEdnYzR5clRaUk5pY2RGRGNSQ1VYeDZxSFBnSVgwbjE5MDMzQkRKZ2lYa003d0J3M0k1OUJBc3JuTGM3TUFLZGVEdnJvWndSVFJkN2VlNk5NYS1vcjdyRVBZRjVKeFNHUXcxVmtISzBac2E4WWJrUUxn?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-11-05T12:38:46+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Clima 5 de noviembre en Ecuador: Inamhi prevé tormentas en Guayaquil y Santo Domingo",
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQXRLaVg2bFhMRE9zOGIwelFFMTExLVY0TThreldyME90WF9qbXA1R3ZPdUlSUm1NOF80cmtCcW9jc2JkTUthTFdxU1JQUm9pOGp1QThiMTNiVExpOU1ZTG04QmFKVjlObEFTOXJVcTQ4M1pTRW1UTUZmdDNLMEhDLVZzMnBZSXpEbEVma3BHUXNIVGpkMGpUb3VPM3FiRnE3OTF5czEzd253YkpHV2ZjWTI5YUlyZkNmalJ3Wlg4SW1zZw?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-11-05T12:32:04+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Clases virtuales en Guayaquil, Durán, Daule y Samborondón este jueves 5 de noviembre",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1JtN3ByckFMU0ctSFRrT2Z0MHFrREx1c3RudnpySjZCbE1KVTFiMzVGMEhPRThsY05mUFo2RzhQbW0tcVdUcl9pMkk0R3oyektMd3pWNTF6WEc1WXd4VVNsYXVvckY3Mm1lWk1icl9hX3pXS05FSUJhOWJIdlZlLThYX1loaDVkZHlhQjlfQjRUUDZZQWw2OHRSQWJ3U0xxRG1jV0NDWHZQUFRuaGc?oc=5",
+   "medio": "Ecuador 221",
+   "fecha": "2026-11-05T12:32:00+00:00",
+   "imagen": "https://ecuador221.com.ec/wp-content/uploads/2026/11/clases-virtuales-en-guayaquil-duran-daule-y-samborondon-hoy-jueves-5-de-noviembre-ecuador221.com_.ec_.jpg"
+  },
+  {
+   "titulo": "Guayaquil prevé picos de marea alta y pleamar superiores a 4 metros este jueves y viernes",
+   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUV9tQTR3LVQxMjljd09HSU5lWEpJNF9fcFFpRlUyZXU4VThnZXY2ZmMwNHAzaWxWUHlaQTBoczlVbUVkcXpiTm1RQ0xKUm5oOEtQNUtYajJFNUh2QWtCUW1jQXdfQUE1aC1PTk16ZHRldEM3d2R3eE9JLTRYd0tBQ2w2NUl6Vld5RWExaUVIS2lSaGhLeWNJOExjSFFfOWx0ZFh1SEwwM055eEZfM3hN?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-05T11:51:11+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/05/6aec6d86a1479.jpeg"
+  },
+  {
+   "titulo": "Candidatos a la Alcaldía de Guayaquil: quiénes son y qué partidos los auspician",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUGRXd1lXMHZMZENvNmdDUWFfUGVPT3RNczFGdFpXQ2g1VGNSUkFESkRMVGtrczludnAxd25vbFZzS3Q1VXh0M0luR2k4dXRIVFlienFobUxHZHR3c01haGp2a2k5eVBOa0VOXzZPMWxnTHZxeGFpSDNXeFFrc2hHeF9nN1BzMVlRZmhpQjJ3ZlR6ZmtWZUY3WEhvdHJWNnNqc1l4ckk4S2RTN2NaR01od29KVy1OdHVaaE9FSjkzbE1CYjRscGFfancweXJxTVJMOU1hRXFBRQ?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-05T10:55:00+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/04/6aeb978e41cc9.jpg"
+  },
+  {
+   "titulo": "Caída en picado del clan Bucaram: Detienen en Guayaquil al hijo del expresidente ecuatoriano para ser extraditado a EE. UU",
+   "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNX19lS1pQcUNTMXJvS2t1cjA0WXZVakwycHY5dHk3dFBKQlR5Mmxha0dQcERkTk1DWkZuTWUycTRUMkluU0FsOFZlc0pnbE5lYmd2V2xOdG5yZGVhMnBva1pyOVFtbl9ZNEVNcVNGT3BXODJKa3p5QWV5TVowbS1wYk9QMjVBUTJHWU5KMWYzZUdIYXcwMzJEWGcxV3NucnRJTVpPaWdIazNLYXdkMm9zUDhjQmZZMEhPNkZ1THEybFA2UEFmTU5hd2tLMWhTZlNTc2NvZk1ZTWpNRkVvNkNPRGpETlB3VG8yZnZSSFN1ZHcyc0lqX1JBUTNqV0VFdTlpbjlWX1J6ZWozeFRYSEhzdmFVSUNHSGPSAYICQVVfeXFMTTY0Wi1nZ0s3WW9UNXlWbExQc194alR4Z083U2UtMFk2am9VeUJ6SjFOSzdlblo5dVZ3U1FTeDY2NkYxNmw3MUFyXzdMaTludXRJTjB3dmFEc2MyRFZxbFMzUkN1d3pYZzhBcFFlVFNKTm1ibVFGQVhrM0VSQmNuYmZUSXFieUVqSEtHbzRoMTJTZG1xRlpUUGFFRlY2ZHpHWkpnUkt2bjZNTUd3eElMSl9vRkp1cy1BV0l1eWlXT2NMWXVDRVF2NTk1M2s5ajVsdVBWRWN1QUphcFJTUFB1b0F1dkJQV2p3elhmSEZwS21CamFpLWN6YWktd0h2YmhFNTJ3?oc=5",
+   "medio": "El Economista",
+   "fecha": "2026-11-05T08:38:18+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Jacobo Bucaram fue detenido en Guayaquil por un requerimiento judicial de Estados Unidos",
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUJSUEtlY2JzczFiTE1ZRktlVjZIWXNYZVdtekJkR0V3M2Y3OFBGaWlwNVJjZGczYkhrM0piVXZzVjg1SU5fRE41ODFmU0FNRFlCdTlhclQzVHJNVFNPeEhqYXQ4dVZGWTJKUXhXVjUxNEpJVFRJVm82WWlQZkFxTzg1R0RyTURQNXBEUF9zTzFHaXhiVG9LdGNCcUJDaF9BaTlWX0YyRU9HdC1WUHp2dXVRQzhDdW0wc1dJ?oc=5",
+   "medio": "Diario Los Andes",
+   "fecha": "2026-11-05T04:49:40+00:00",
+   "imagen": null
+  },
   {
    "titulo": "281 iPhone permanecieron dos días en el aeropuerto de Guayaquil; ecuatorianos pretendían venderlos por contrabando",
    "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUGFRalBBVk52QlpfMEVSV2lRalRwd1dtcW5sRkN1NnpaVFhFakppUkhaZ2RreVI0dzl4MFNlRWN0RVB6RzlZei1PVFZCWEZjbGhsYjFXT3hKRUhpcDdkV0xYX3IzbDA3QTBrLW1ycUJIU0NMdXhOUlV1WjBDeVlaTC1oQXowUjhTV01GdDhZczNYbjhTejdQQWFTaDBlNXBobjVGbTRsMA?oc=5",
@@ -16,6 +65,13 @@
    "medio": "El Universo",
    "fecha": "2026-11-05T03:47:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/PSHZV6UUYFC3ZGQRBKCJXPQ4EU.jpg?auth=5ea80f88049b927a81302cb0cb7a7cb7708eca24f14a5eab0e4882d83b4f6576&width=1047&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Detienen a Jacobo Bucaram en Guayaquil y anuncian su traslado a Estados Unidos",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHZXWmI4aGt4YW91c2taTlY5VEtPMkg5T2ZpYW9kUF9iWUJlLXd1TnJqcUxVbVFRLVA3cklhUHN4MWZ6ZVhvYlQ5ZWpPcTZPbW55U0haNU80RE5RMDVmOXpTeG5fNm5ObzRremVHSENGSVk1Tk5VSG9BTEJfYktRTmo5cUdtX3VtQzEwM0pzOU5ZTUtkUHMwTjQ1QVg4cGpVUkxkWGhlcFN3c3dscERObW9DdVXSAboBQVVfeXFMUEV1NVFvdHNaZlFBRFlKeUV2clg4dlpubDl1TXZ6S2Y3VkpwSVljT0huSkNUZEF0UUJlNDNwWHBYWGtiSnBpSV9rczlTdUdjMno1MVA4X3JqWWV0eWpYMElTTl9tSUc1ejZQYUNOMDRZSFZKZlBRY1Y1SUd3M0lJS2Q2Ujc2S0RNUnN4UWduU3ZsY2NnRjQ4WVBxaXNicWdUQnZ3MnhoVUN1VWJwdHdZLVBVVlJGbkVKMUJ3?oc=5",
+   "medio": "Vistazo",
+   "fecha": "2026-11-05T03:36:00+00:00",
+   "imagen": "https://www.vistazo.com/binrepository/500x490/0c0/600d600/none/12727/SKCA/portadas-web-cuadrado-45_2766669_20261104185328.jpg"
   },
   {
    "titulo": "Jacobo Bucaram Pulley y cuatro personas más fueron detenidos en Guayaquil y Panamá",
@@ -36,14 +92,7 @@
    "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVlsTmE4UVREQWtVUmhEUmFrc2JjSVV3eXJkUXBJQUJCQXVtei1uYnQ5SmxEQmJnUmQwSm4xTkZIZ2VMMVVHWC1SWFo2X3p5OXBoVm5MNzBRSDRhenFkQ2FudVB5NDNwaEdZSXpaT2kyX29uMzczNV9hZjlIQzR2dTR4U2l6aVRqdi1TNElrMkJIeUNoVFlmaA?oc=5",
    "medio": "Diario AS",
    "fecha": "2026-11-05T02:58:32+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Cuatro cantones de Guayas seguirán con clases virtuales por las lluvias",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPckZJZDJyLXdiLVd2UU8tZWZnNjdDRFQ5MTVLN2x3TURPbzhfY09STnBxRU9Jd3Q4ZjZzc2ZvUmlEaDdkTjlxc002YVZiX1lkNzdFbzVyLWlWX1NRczg2MlJPdDdrb1Zycy1KTmZuOW9GbTBZdms2OXZLMURSSVlpaGMtRlNhUzdIODkxeEN6NU9lbWpFX09Rc0lpWTlIenBxUTd2aktuejRySEVUN2hJ0gG0AUFVX3lxTE8zLUVjVDdGVUhGOWpJMU44bnBhMUdUX0VCMTF2emJYSzFuamVpUFRYVU1nUi1zNWtKRmdfNTNjUUpiRWtLQUdBOE53MGF4RmwweWVYbU54b3dnQ3U3NzROWHNUaER2ZHFDMXFSVkVZU2lWODZwb3pIbVFoNE52YUVsN0FpUjBrOWJ5MXBHWDdxNFVndEs3U0tHUFByM2lrYXVtYVpuZXVnaHZTLUJoUlMwQjJCTA?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-11-05T02:16:14+00:00",
-   "imagen": null
+   "imagen": "https://as.com/apuestas/wp-content/uploads/sites/35/2026/04/as-stadium-template-tip.jpg"
   },
   {
    "titulo": "Clases virtuales en Guayaquil, Durán, Daule y Samborondón este jueves 5 de noviembre por fuertes lluvias",
@@ -65,13 +114,6 @@
    "medio": "Diario Extra",
    "fecha": "2026-11-05T01:58:40+00:00",
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/11/04/6aeb2c9a0f998.jpeg"
-  },
-  {
-   "titulo": "La Unidad Educativa San Ignacio de Loyola cumple 30 años de labor educativa en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnJwNldmNzZDTjlOT18yNTQ4akFrbG4tb3owc0JPTWlrRFBUSmhyX1hVLUFWYnFGT0lEbUN0Q3FIaHZKaHhLSWt4YU5ZUnBBU1hSMzhYN0R5ZmFDS3JyNWlWTUh0QmM3UlkyVmhFU3NMc3RFU25xU1BlLXJudkU4WFp2SjF5RHRzbUVrT254eFdQV2pveFZyVEs2ZUo3Q3NnY2gxQUduLVhvRnFlTWRNTkNtc9IBuAFBVV95cUxQNEZKSl9vdU9KUml0aGRjSW9tVk05ZGNIbWR0Tm90b0hqTUU5a09rMEdtMjJIMHZoamlrYXZGNkItenFaX2tuX3B1bWMyRnBfa1ZGVFpUeDg3VGN3U0lCcUw0REtvVXA5WWFpVDZHVDB4bVhJOFJwQWZiMTBCZVhwcUVoWWNhLWVmV0dibThqNlBEa3owcUh5NjRwWFc0cEpBa3JBcjgtNVlUZXJhNm5kQ2xMRTNaOHdX?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-11-05T01:57:50+00:00",
-   "imagen": null
   },
   {
    "titulo": "Lluvias llegan a Guayaquil y Daule durante la noche y dejan las calzadas mojadas",
@@ -116,20 +158,6 @@
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/11/04/6aeb922d1ed7a.png"
   },
   {
-   "titulo": "Detienen a Jacobo Bucaram en Guayaquil y anuncian su traslado a Estados Unidos",
-   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHZXWmI4aGt4YW91c2taTlY5VEtPMkg5T2ZpYW9kUF9iWUJlLXd1TnJqcUxVbVFRLVA3cklhUHN4MWZ6ZVhvYlQ5ZWpPcTZPbW55U0haNU80RE5RMDVmOXpTeG5fNm5ObzRremVHSENGSVk1Tk5VSG9BTEJfYktRTmo5cUdtX3VtQzEwM0pzOU5ZTUtkUHMwTjQ1QVg4cGpVUkxkWGhlcFN3c3dscERObW9DdVXSAboBQVVfeXFMUEV1NVFvdHNaZlFBRFlKeUV2clg4dlpubDl1TXZ6S2Y3VkpwSVljT0huSkNUZEF0UUJlNDNwWHBYWGtiSnBpSV9rczlTdUdjMno1MVA4X3JqWWV0eWpYMElTTl9tSUc1ejZQYUNOMDRZSFZKZlBRY1Y1SUd3M0lJS2Q2Ujc2S0RNUnN4UWduU3ZsY2NnRjQ4WVBxaXNicWdUQnZ3MnhoVUN1VWJwdHdZLVBVVlJGbkVKMUJ3?oc=5",
-   "medio": "Vistazo",
-   "fecha": "2026-11-04T23:53:00+00:00",
-   "imagen": "https://www.vistazo.com/binrepository/500x490/0c0/600d600/none/12727/SKCA/portadas-web-cuadrado-45_2766669_20261104185328.jpg"
-  },
-  {
-   "titulo": "El periodismo deportivo de Guayaquil despide a Raúl Vilar tras una extensa trayectoria",
-   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT01zcG5zNUM5QnJuWnJtQnlsZmJNUHBIbzJoNDM3Vm9acXM1bEp0U1c5cVJ5QWJDM3hCNmRjeVRlUW4tTy1IUWg5RW8zMWczbVNLZFZNQS1WTlhPUEJzcXRYbmhYSlR4d3FTeU1NeUluTi1EZlRxdXNPelhLNkd2alV1T2R6M3hQZ3VFM0Q0MjUyQQ?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-11-04T23:47:43+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/cnt.png"
-  },
-  {
    "titulo": "¿Quién es Jacobo Bucaram? El hijo de Abdalá Bucaram detenido en Guayaquil",
    "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1dBY0EzSEx3NFU0NUlhdWcySXVvc0poSHZkbDg1ZFZybGNUR0swcW5ZSzlpSHlXSjRqb0Q5cF9LVW1TZ0xSaDYwM1NzVDJfN1pMRUx6Y2RHbEZ3bEZJRXVCUUhXTUg0cTVFLUwzdkg3QWFBRWRWUUs5c3doNWw3cVE1a3pzOUpmVFVJbjN3UnBmdnkxNGVTS3Z2S20tMkhRX196VFB30gGrAUFVX3lxTE1sajB3aTFaWFBETk5uTUt2ME1wa2NKNzRUTm9YdVJGNEJadGFOWV9xbXBxbkNrRTZ5Y3NGUWl4UUt0OTZfY2JlUmhrSWRWT3B0bVJLV254eXMyNDJYLS1pZlRGel9PNndJTkxYQnpKUkVRdVFhbWllaFFtZzNTbHdYbG52SUF5ZXo0UGJnMzVDVE55Q2h4VVVTY0VveGx3aUJIYm11N2V4WWppcw?oc=5",
    "medio": "Diario Extra",
@@ -158,13 +186,6 @@
    "imagen": "https://statics.fmmundo.com/2026/11/6aeba921f1d86.jpg"
   },
   {
-   "titulo": "Jacobo Bucaram, hijo del expresidente Abdalá Bucaram, es detenido en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGR6dWtnMGY4ZENwbEJ6Q0Z5d0xlREw4alM2NHlTd0k3SF9vVUhOUnN5azExdzY5VjhqdHdNWE9DV2NIb3BHU3JiY3dieVNxRzg4MGxrVl9LcUw5SW12Z2huU1c5c1FuU3ZBc245OExqT2RfYnhtODFfSFVza1N3cDg2LWd4cVN4ZGpjTHd4em9rdG5VNG9nN2VjWdIBoAFBVV95cUxQRVo4cHZ2RENHbWo2aFBVRVFmcmRzdHVqZF96cVhodlV0dGNBaHNFN0U4M3NaVThkd3RsMDdVenR0YXVGU0NuUlBwSEgxRjZ1OHAteWw2cFJ2OUdodmYtNTczMzBucGtXVnZ5V2ZmcU0taUFkZ0szZ1hYOS1vREE1ZEZRVnRnTWZOZmJfTks1blg5dUp2ZjBKNkVLNEdxS0ZC?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-11-04T21:34:46+00:00",
-   "imagen": null
-  },
-  {
    "titulo": "Jacobo Bucaram Pulley fue detenido en Guayaquil, ministro Reimberg dice que será enviado a Estados Unidos",
    "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZkVkSklKOEJFQlg3WlR3ZW5WNGVmUGxPS1MwcUowZ0gtTTY5Y04yTmY5dEJvREpRWmFqVnJwU1dhYW1GSmZza2REYkU1VEFpajZ0dGF4WnVjbmU2Qjd2THdyMEp5cWVYSnV0dEc0WVNwaGdrc2hZWFpuMlFXVGlxcGN2TzZGSkI0TkNOWlhCZ214SXpDLWFIS040RThnbmVEWFZqM3J5N08ySEE?oc=5",
    "medio": "Primicias",
@@ -179,13 +200,6 @@
    "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/HWT2qq4WkAArgp1.jpg"
   },
   {
-   "titulo": "Detienen a Jacobo Bucaram en Guayaquil: es requerido por Estados Unidos y tiene notificación roja de Interpol",
-   "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcFZ4cGlXTnlTRTRod2EwWGhXcEp5UURMeFQwZlZETTlGN051YndhRWpKN2ZIVkVnUk5zUGZlOGVOdS04dmFOVmZ1YVI2bUZISTJmN0ttMHhvRlFaZWxTa3MtV3l0RWx0cHNsd25uTk9rdmxST0ZJOEhBbTdHNDVySzNSWHQ2bTdGV2pPdXRDY19rWXo0WWM0ajZPaWFGSVVQQlcxODVrZUJoVGJweTJOcERBSkp1b3R5TFlrb1lOdlQySkZpbjhYcjh3VE9KRDhzV1BwVXNmNG53dnlUMHhCS2xpdG4tdHpTaV9Qbl81M1pIWDQ?oc=5",
-   "medio": "Metro Ecuador",
-   "fecha": "2026-11-04T21:26:13+00:00",
-   "imagen": "https://www.metroecuador.com.ec/resizer/v2/HYGI6JCINVGFDGREMVR75PAONU.jpeg?smart=true&auth=07e4faeac681340277e5733c3bd5469d88d225bcdfcbd22c1f71c382db5c27de&width=1200&height=630"
-  },
-  {
    "titulo": "Jacobo Bucaram es detenido en Guayaquil tras alerta roja de Interpol y será extraditado a EE.UU.",
    "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNVFTaXlBM1REX2xRT081b2dIcno1cU1wYW5LWmxRZnJ1cTNsN0l4X1pyUkhfOVZLYl9YakJ4ZWxFRjhIeUFxaEZLM25Pd09YSVZWRFhJQWVVb05DYWVkb1FCajVScjNyQWZfeDdHVHlHWjJrNFctbGlhUUlvY1VYdXIxQk9lWVBVSHRuOG5NVUxmVkxhY1ZMVnQ3My1VS2lhb2VFclNucm5aM0hURHZ1ZGhoUmE2alN2VElfUllkRXlNTURmQnRaNDI5a0lxSDAzTzNaRA?oc=5",
    "medio": "Teleamazonas",
@@ -198,13 +212,6 @@
    "medio": "Primicias",
    "fecha": "2026-11-04T21:18:47+00:00",
    "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/04/6aeb9cd935a9d.jpeg"
-  },
-  {
-   "titulo": "Las Orquídeas: retiran más de 350 toneladas de desechos tras las lluvias",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHMtbVBHRkpUOUtkT0dOajVHQVg0N051WHJFQnpiME1QSjVXa05wS2ZQZi1WTk5UWXpHVVlDNk15WUdjNmFMY2xGZVl1STBoNnBsdHl1Z1F4dWhDMDN5TGZYSmxqRjRvMlpnUllvMEI2a3BJQ3UxR3hudFJ0NU0tNzZIRE9MUzUyVDFxRU9ZYkRTdEQ5Rk9VRjZFcFhDOGs20gGmAUFVX3lxTFBXM3RRZF9qb0dUMDVlZGluNWkwRm8xMlBmQWRxQ0JTemRIeWRPdnM0QV9pWnBwc3FjM3pCTlJSemhOUkd0aDU5N2tEZGk2dzN6YnRWQ0FuaUVzd2FZSTZvbkt1VnNqczF3c0FhVkl0a2RoU0p5cUxDN3FkTDVwZHNxYWFfYzNHS2NhMzd6RU1XazFmbXV2TEM3eHFxVzJVSnlBWXp6WWc?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-11-04T21:13:24+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/11/04/6aeb9cc701dd5.jpeg"
   },
   {
    "titulo": "Noticias, miércoles 04 de noviembre del 2026| 24 Horas | Guayaquil |Central",
@@ -235,6 +242,13 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/YKGVSDPOFVASFORRZ7EUSA5XHM.jpg?auth=d3c125e99d5053c2dfc5f37423825aa1f5a615b132c326d058225219c14de0c9&width=1191&height=670&quality=75&smart=true"
   },
   {
+   "titulo": "“En horas pico van repletas”: residentes de Chongón piden más buses o una nueva línea para movilizarse hacia el centro de Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPSmhKYW55Tk5sQXpydndMYVM2N1RrMVVNSVMtb1RqaDJ2UHZtQlowaWtLekV0MjhsZVNVbDVNZFlVQWxySHZqamw4bXh5eFdRbnE4YjFNaHZjZlpxNGw1SVdHLWpBcDlFbjhtdVBwSWdRRTFrN1o0MXJ5WE9yRGhMSkxqM2lSaWNwNWc4WVJwUHEwS2J4eXpHS0IxWkJQbjJNblExOGsxS1htazgwLVlsRWx2aWFpT3FoTmQtWHpTUUZRN2JveGdfOVdxUEkwQVJJUXlYVHgzemk0SWVBdlBUbE8zMlgxR1lMLXg2N2lRNk5IYmZBMGJ3QktxbVc1bmN6bTdrdF9ETTlldW1QYmtKdUxrY0YwRFZiSVdNeVNhRUtkdzTSAbcCQVVfeXFMUGNqU01IS3h1WnRBYWhfTGtNMXo0S1hlTFQtejBUUEJ6emFXeVY1SW9GQ2dDR2NJazh3Tmtya0dWLVU3Qks4RV94cHRqNW5rYThwcy1rclgyTC13cjhaV3VSRXhiMGh4MGZpNkc0UTZpNW1FaEViVWhURXpwMzdRbG1xXzBKakNZck5vdUV3MmEzTFVLRnRQQm1CN0o0VlJJUEFCYnkxMFMwQWc4T2NQQm9xeGVCQlBBaEUyUXZmeUdfYldYRHRoc2ctUk5ZNXlTUUw5Q2x2b1hURUhmMXh1SlJfZkVqdDNXSXl3VkZIVVpONzMxb2VXcVFWamdXTkV2a1B6TnlJc1JkXzdkMDNJc1ZwZnZUV0tXM09LVk14ay1yUUtMU2J6YV9BWnJOaFEtVWppekFiNFE?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-04T19:36:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/6A56UVLMVBFAZMNPA6KYGE5SWY.jpg?auth=982c39c4159b23ed8f3bbf532e3ae3e73d6d1d5f5eac1617fd2d80679daac769&width=1005&height=670&quality=75&smart=true"
+  },
+  {
    "titulo": "Guayaquil activa plan de contingencia por lluvias con albergues y ayuda humanitaria para damnificados",
    "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFdQOWJMbENRMlZNT2Q1MHQybkNhZ1RIX2VoQjFQOHJmN0ZMZnEyR0EyTFd0WVJxa0p2X2FFalRseGJ4akR0TzQ0TUNka0hHQjJjLWVIQmFET1U4cHVYbGVUX0VoMHRTekxmblVfV08tQjRPTmszY0tONm4zamQzNlVseV9XWGNsTGdKTjJIRUxhV3MyaVJGWWRCZ2M0dTJIX2VvRldFRTRrUkE?oc=5",
    "medio": "El Comercio",
@@ -242,39 +256,11 @@
    "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/image.jpeg"
   },
   {
-   "titulo": "Guayaquil vivirá la emoción de la Fórmula 1 con un festival inspirado en el Gran Premio de São Paulo",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcm5admlkUExOTFozS184bUNPc2FibGlKdkxHeHRmNTNocHdFVGNTNWw5bmtKTFRTNzdyZGluam1ULUM4NGlFRWxfUmJkWVpLNHAtYkFJWkhMM25CMlBLODNCMFFsS2lmQ2R5cndwaC1NUmkzNGtYcUg1UmFmaXk2VWY4NjBXcjZBdzZQYlBIVnFVeHhsSVNNZmRxN2NZMlFlSDJCRk1WUXc2RjJBMHV0bFE4NENIdw?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-11-04T18:20:13+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/PHOTO-2026-11-04-12-59-32.jpg"
-  },
-  {
    "titulo": "Guayaquil arranca noviembre con conciertos y un festival dedicado al K-pop",
    "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjk5UjEtaU5zc1VFTzc1bTdfaXprQ2J0NkkyNklGYlExd2tEcHlkbnlMYk9oOVB2NzlOUXRMSjR6VjhQd2tGQW1JWmVWeWlkcFZWeU92b1M0UnJ2WUNTeUIxM3l2WWVXWV94cE5VakdqZ3BVZFlMYzJFUWxNeEJFWS1ONUplMGdxLTk5WXdGcVNnbU1TTFlWWVVadExBZVNyeF9VWEUxX1ZBejBPZTQzVC1ZMNIBuAFBVV95cUxQWmhwclVlcW1lWXRTUUFNakVENVZNNjI4bHo1M2lkWV9lR19tRDkzY05TMlJ1YmdLYlVMMHRrWlFLY0dOZmhldG5zT0tteXNzQVJQWWw2ai02bkNXNEJxOW5FWkI5a1FwbXlmbDJWRXZhay03WTFXM3NIeWpHNHJwbVBhU0JEY0R6d2JYSnl2YzlYd1pWMjlKRFB4MlFPZ09QOUVhWER6LTcwWFBiaEpQWVcwQXJLUmsz?oc=5",
    "medio": "Diario Extra",
    "fecha": "2026-11-04T18:07:30+00:00",
    "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/11/04/6aeb604edfb76.png"
-  },
-  {
-   "titulo": "Habitantes de Guayaquil, Daule y Durán esperan asistencia a dos días de la tormenta eléctrica",
-   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU1E0SnFlSzB2SUF6SUs2Qy1BSW50MHJBT1JQOXg3azV5dVp1azJDek5QdzZWTjdQem10M24tdXBmaE42dWdqcTdLek4tSDlMelp4OFAwN1ZDNV9lbzNYNFYyUnJEQ0ZERHVMVUFKUlpXMk5EMHhjYjhCcTd5cml6dDlVQU1JaFc0NFVPdjcwM3dCSHFpRW1sRjBnTGdNNWtLRFUtcjRwSWhoR1dZemJZbFpfdXpRZjEwYVpNQWU1MEVacEF5NzFfcllNQ0lxcF9VZjY2cEpUcEowbHk0d0VB?oc=5",
-   "medio": "Teleamazonas",
-   "fecha": "2026-11-04T17:37:41+00:00",
-   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/04/6aeb6d4814747.jpeg"
-  },
-  {
-   "titulo": "Capturan a tres sospechosos de robar viviendas con máscaras de payaso y prendas policiales en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2J4TkV0d1pnZ0txU2s2RXdVZHV4eDh5dHFoWms1VXc3ZE90N1dzdlhvYlpKUTdJQWw0ZnBPTmxkRVNJbzFTUVdFZkdNMnJsbVAzQ05EVFc1SzFnMVhBZS1SSzU5VnVMX09oa2J5d3BzOWFELVBULXRDUG9yY1FPdG9ySjVXTmt1aHhUc0sxZjVtOXdGQ0g5RU9YYXBHUkZ1c1B4Nms5TTZ2TlZzRFpkc9IBtgFBVV95cUxPS096LWlMb3BjWHRyUEhkS3FOeTVGWU1ES2NhQl9oVkNzZ2hsT1llaEdHaEY0ZzRTNy04SWxNYlNBSG92dU1VZnZLYWx3T2oxOGpTRUZZeDFrZzBJQk5LWnpDZVN6OUF2MDhVNkJaTnNrZllBMzJMeHRpS1hYTDhoSjJtWS1TeC14S2RWZnJJRkFtTXV0bnFpU00xRE5CZnNrbGp2TnplakdKcjdfT09wczZSbzdmdw?oc=5",
-   "medio": "Vistazo",
-   "fecha": "2026-11-04T17:11:00+00:00",
-   "imagen": "https://www.vistazo.com/binrepository/720x433/60c0/600d433/none/12727/WTKC/policia_2766427_20261104135901.jpg"
-  },
-  {
-   "titulo": "Ecuador: exportaciones de banano crecen 9,6% a septiembre y terminales de Guayaquil concentran el 51,5% de los embarques",
-   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQak1zNTJXM3dQaFdNbkRGLTQ1emxBU25pQ0Z6a0o4TGdQQXNvb0lNQy15RzYzdEJBWEdxRHpUbzdWQVMwY3p1SkxiX3VLdWoxNUZfZlJ3N1dHbUl6a0VjVExULVkwSTBTQ0tJWGJlVHYtZGM1MURyaThjSm4zVlRqVG4yM1dxeGFIdTNpT0NJdEZEUl9QcmdMaW5uRlFNbmt3M0s5bUpCQmhBcWtrVkI0UjEwQ2YtN0syQVpvQ09NcTVVc21YOTlRaVBXYXFja29MWHM1bVoxdEFiRzJ2Rl9YWXFPRUh6TFg0?oc=5",
-   "medio": "Mundo Marítimo",
-   "fecha": "2026-11-04T16:29:20+00:00",
-   "imagen": "http://www.mundomaritimo.cl/noticias/get_image/66652/600"
   },
   {
    "titulo": "Un hombre fue asesinado a balazos en Sauces, norte de Guayaquil",
@@ -291,32 +277,11 @@
    "imagen": "https://ecuagol.com/uploads/2026/NOVIEMBRE/LIGAPRO/Emelec_Ayuda.jpeg"
   },
   {
-   "titulo": "Quito y Guayaquil habilitan centros de acopio por las fuertes lluvias",
-   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTN3ZkZmTU05RVgtWjc0amJKRC1NdWFHWHJ2SWpIQUVBci1Ea3BmdG8wUXFLR2N2d0R0clI1SkRsbWdhT3dDZ1hoSHlzZ0w0RG9CYmpBbTRDWVVNMXl5cE9YdnZ2WUNRUlp6SHdYNVdEODRpSHpDMExySVZCZ19HbGp6N1lacHZKbWgycHRacVc1RXY5eDh0aVFLNVBrQTM2SEljZkZB?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-11-04T14:41:42+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/Lluvias-Ecuador.jpg"
-  },
-  {
-   "titulo": "¿Se inundó tu casa o carro en Guayaquil? Piden rebajas de impuestos y alivio en multas",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa2JIX08zbkZOdm9aZDRaNTM5SWI5WDEzb2NqR2xZMFNweWJYclJna2QxTHRZTlpYWmhQN3pTYU9qUDUwb2t4VE93SklTRFJqX3V6aHJrWnQ5OFZ1RzY3YUhaMG9UblFkLXVjZG9XM0hNclpLZDFRZ0lwWkZKYkpnemFib0F6ZXctMVIwOXQ0eHJzeVhDRkxHWDhCdk1USENQa3hTZFUyRTlXUVJJ0gGyAUFVX3lxTE54cWNXY1NwZlZDU2FNTmNTMkxtOURtWG81VV85NlRnTjVaVk9TOWk2dnZoRkJCMlg3QzBKSW5oY2ZxMFBQbnRPOWJqMVQ1VlIxSlQ3bmVvcFJINEZUV0ZETEtiUFVjRHNDQ0tKLWdFY0ZSSUVYWk5tTDZ4ejZMc05LZnJab3dmNS1ZSG41LWtybGRBcENiVXFfX1RzenVCd0R4RFEyX0pObFhtOTZ6SjRVVWc?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-11-04T14:36:02+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/11/04/6aeb415dee80a.jpeg"
-  },
-  {
    "titulo": "Guayaquil amaneció con lluvias este 4 de noviembre: ¿lloverá más tarde?",
    "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTTZmSUR4YzJTWG52OWQwTHVNdjBUYmhPdHhtWkgyeGlidEJ0R2V1cGJyOW5ZLXV4T3N1UnI3NkdPZUR0MGNsU1JONk5Pb0J1M25iakNpT2VpWnhkY1JVV3FNcFBBZE9WVnAyYkZaeTlTNXN0ejhYWVFkVmdnS0J3TFZoRDNMd3hDbW5QQWQ2LXZaWEdMU2V3bGo4VUJXNnNrMG0tYlVFMWJ4N1FoejFrSmhFbnFEZE05bC1sRVlsRdIBxAFBVV95cUxPVkM1MEZadXk5alh1QnpxdS10cWZuS3NNNFEyUEhmc1ZhVENkQ2FBemJVNHU0a052TzdSemg2c1hqZUh0aHJUbE1VYW5pUzRGUVBtMVVfcjh6QVdFZU9xRWJIM2R5SThrSkEtYjJnb1NSVWVjYjhwUnkzSHJZTjVHV1UwTEliUDdoTk11Nm44MDZNVm1QTVFRbGlSbTM3U205a2wwMTdkQlNKN0VWTVV1aGdTcUxFckVDRlFjUHJhZnBJSFJK?oc=5",
    "medio": "Vistazo",
    "fecha": "2026-11-04T14:32:05+00:00",
    "imagen": "https://www.vistazo.com/binrepository/900x600/178c1/600d600/none/12727/XCTQ/lluvias-guayaquil-2766241-2766241_2766241_20261104092212.jpg"
-  },
-  {
-   "titulo": "En el norte de Guayaquil, hombre fue sorprendido por sujetos armados y no sobrevivió",
-   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeXZ6aHJRdG9ST1VybVh4MUxKTEFuSnFmTHkwYktwVUF1MWtTeXJ1aDlGQTdDRkhiMWJISFJ1TGxaaTJHblpmaE9waGNTVkpIXzdjZUtKUXdyUVhnbnpVS003dlJuQUdsWUNTX2t0MkQ4MGtxV3FtZzVKM3JrRWVPYVVzeUtLakhuNlY2UTJHdWpNMjZXWFJaZFRPbUZlVENURGpHUDFMbUl0LWRPYXJwa3NoRFjSAboBQVVfeXFMTTZJeW1ENFM2Zi01SGtIQ3ZqdWRTR2tWay1ROTRJX0hrUGx2UndDSjRVTXNJam92a1hQRF92Mlo4ZzR5YWw2RWVBYUlCV3BDWm5TazNEeVJQZXRrdEQwSVFCSmVlVDZ1c1ZfaHRDbXYzb3lFczA5blUwUzU2QWZSZm0tRFlnMHNLYTFKRmN5RWZmOUxyNkZZcnlvdDBqTFJkUzZ0MUx2VDRSd2ppN1BBTTNQQnVZRUJIQmF3?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-11-04T14:16:20+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/11/04/6aeb3d2cac4dc.png"
   },
   {
    "titulo": "Guayaquil: ciudad rutinariamente amenazada por las inundaciones",
@@ -326,11 +291,11 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/HDSBO76RGBFTRGNY47HQXJQZOE.jpg?auth=d69e751dc49ee02dd84187e686b99971bfdd4da9b7f5238bf6ba6472effca7fa&width=893&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Lluvias dejan calles anegadas en Guayaquil; conozca el pronóstico para este 4 de noviembre",
-   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGp0YUh4ZDJiUWJLUEpjOUNsckVqaDctTXIzNHdBblJnVWFWSVU2enZoUDR5T3Nubmh3TEliSmh1U0NyQ01IM3FnUXZFM2dmWTYzQng0N3k5dU5jOGttLThzWC1NMHI1aXRrYTJpemV5Y0RtZzlfdjA5NW9mamtXd04zTk1Oc1FmejVOWHl1bDhWbDN4bnZIMExMSW9qV0ZSdHc?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-11-04T13:44:21+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/HWR-3-nXMAAO1Di.jpg"
+   "titulo": "Pronóstico del clima en Guayaquil hoy, 4 de noviembre: siga en vivo cómo avanza para la tarde y noche",
+   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZ0RVVDBuLUhCS2hJLVZscXJ4eXNxMHJUQXVGeVJ1SFhkOVQ5R1NMd0plNkxhdEhQZWlMX1pRTkY3QVRWUGItdHNRa19GLUFZWUdPZko2R1dSSDRXOUxicVFvODRQd0lNZko2VGJZMjVCMUZSMWJsR3lGemlfYXhCRTFZYzc1UkpHSVRLNXNtZGZaZkVaUUJsWlhMeHJDa09Cd3VqT3B3emdFQnYycGRxS05KN1ppZGtqc0ozZG00LXdZSklzNGtXMEdXdFdZcEpsS3g5TUVhTHE5dTB4OVNXaThDUW91V2vSAfsBQVVfeXFMUFBacjlfVG9xVGRCVXJsQTZaUllYYlFVSFB4aHVvOE9jcFp2SFIxRllsLTdjQW9Ual8yZERNamhpcndobUNpaVE2Q0hPclhWNWJrTEZzMlMtVmNqWlBIbDllbkwzR09DWXRWR2psLW1qZVNDd0JTNHV1NHJiYlRXUWNOYi14Tnp5cmFRWF95SDUtV19PUndtWnJZSnhjdllnQVZXQk0wY29jTVhZRm1YRE1yTE9QMVNUM2VzQTlySVc4MFF0WmFpZU5IdjFfZjR0SHRzTHZuNGNjUGplaUtuYUt5SG5UaHFBekhWU2tWdjBidG81Z20xNEQ3aXM?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-04T12:36:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/E4UGZA4WBRCMDHLMIANW4XCZUM.jpeg?auth=1f792b15e8ba58cec12f5d64ce41ce66e096f81c81a88dd948b8b1f32e46cf59&width=893&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Guayaquil prevé lluvias durante el día y tormenta eléctrica para la noche de este miércoles 4 de noviembre",
@@ -338,34 +303,6 @@
    "medio": "El Universo",
    "fecha": "2026-11-04T12:26:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/FCP2WGEX7ZE5FAW2KTVE7JUIZY.jpeg?auth=cc909f51a0503ba8bad88cbdb606e7210203991685561ea3aca48ab492de9121&width=893&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Guayaquil y otros cantones de Guayas amanecen con lluvias: los sectores afectados",
-   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNallvUFExMVVvMXBtQnJDYVFPeVQwVTRWQW1KOTAyMXJwME5wejViZld2RzBZUnd5YndRTHNrNkpITHZMRWl2Vk8tQWNRZlVSZGhtNDlqdUhGbk9jUm94T1ZseEllZHVEZEZVajJwMmFxbk1zVUdDWWVqUGtkRmkzUzN1dUNiVUd4M0JWTnNGQ3lvNWFHQURYaURuSVdodVJKQlZXcjNrSk5EaEItYVRzX3hkdk9xY1lkaFHSAb8BQVVfeXFMT2E2SEQ4X0VvRjBCdml2ZklsZWR0VkxhXzdjMnhSZXZTYWQwZUM2ck9ETHVlZWt6WjdXQ1JoOTMwSzh5bUNNSnlTSURqN1R2Mmpwdm1HeVZEOTlOSk5WQmNMS1lnUmZOYkhZbWtQT3VGUXZIaFA2Z3g4eHFPYlV6cnUwVGItSHRnWHdLYThBSEhIYmFuVEhpSzExaTJ2d3NOZWw1RWItMDI3bkYyNnZwWGJ1OFBJdG5YbjZ0czZpMTQ?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-11-04T11:47:05+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/11/04/6aeb1a26a809a.jpeg"
-  },
-  {
-   "titulo": "Guayaquil registró más de 160 emergencias en primeros tres días de noviembre debido a lluvias intensas",
-   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMTNtTUhXWHdTLWZaNTZ3MWlIMUNpV1RCR29XeXdwdVdhQV9YSUVYZms3Y0k4RFFyS1k0UlUxa0MyN3JrTFdpTy1YUGwzZlBvcHVmcDhNd1hFeVRuMDVHdk1PSEdWTXpmOGhNYWdKZmdTQTZVdEo0YWc0bU1yNi1EcXZTVV9HVjJsb3kzYnhMVm15RndFTVh3N1M1clRLS2E1ejBvNzNoM25iaGFkZHRBTlBqTGRyd01VU194SWpUaUJ5WXlGeFRLdg?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-11-04T11:45:58+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/04/6aeb15f9c2b64.jpeg"
-  },
-  {
-   "titulo": "Guayaquil tendrá lluvias y tormentas este miércoles 4 de noviembre: este es el pronóstico del clima",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2MyRmJ4OUxSbnkweGNSOG9BVWE2dzh5MzhkVzk0ODFSUnRnQlRJVWpBQlREc2NKTDNTLUhGa2t2Y2ZBR3FIcGVRMHhhU3p3a0pncHE4VHZkdWpKcDV4bDhfN0pjbmwtVGl2U2FWNUhkanBjbGtVLTFibTNOaTN3UEN2SWs5bElLQmtYbHZxaDFjeDZNVzZLczBsVkxBaUZ1aHlWeFlORERWcHBqcDNPNkd1SXc3cmYtdHozU0hFZmdqZ9IBxwFBVV95cUxQRVJnVHRYSjlOUWFZMFJPLTRpY3oycTVrXzN3dkdUdWFENUlSZFk0VUJ6SXY3Uzc2RnJhbjR6MzZjMW41QXV3UHNGYkh6cjh5RHdVZl8tNjF6bS1ab0JyakhxOVBteEVrSUFhMEVKTm5BRm1SMUotdUxFN3ZiYk1mSEtFY1Z2akRQUzhfNE14VlprVklRQ1ZoYUlES01IM2lDTzBFak9MU085Um5rWmt5VG9HVDVaeFVRenVaeVlaRkZ6MU5xWndJ?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-11-04T11:42:27+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/files/fp/uploads/2026/10/20/6ad7a9ae293df.r_d.640-426-0.jpeg"
-  },
-  {
-   "titulo": "“Es improvisación”: basura y tramos cortados marcan la ciclovía de la Narcisa de Jesús en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTExNOFZobk9tckxMZ0x1UDZQZGx0QzVxampzYTh0OXdpbzZkOFNiUFhCWEFlVkwyaFZ1eDR3bVIwTkJuenhBeWpXZnFGbm82eWxLTjdUdUdIY19MdGNYSmdRaFlROHZKVzVLYzBVcjRidlV1dFJVZEVpcG9MTGlKWC1aOEY4TjRSWDNQbzluQnh5YW91ZE1PR0czWV9MWTB6UlFZSUphX0F3NmZ4bHRxS2Q2bWk3b1RnSmxodUdVYTlMUXlfQW9meTJUU01MTEhicHhhRzQ3R0lHeEYxOURxVUpqUdIB9wFBVV95cUxQbE5xVXQtQTF0ZkhfeXNGYV9JbEM2Q0lRc1VCYmI3bnlKS0ctQXMxTGJlQzI2RTZ6WWVpR1VUc3J0azlibjZvYzFxTHRQZ3pBYkdVQ0MtU2RDMWNlTWV0V1NZbDJiTlhjX1hmS01ZeFVZbndHQlcxRU5VNEZPd1FqRFZBNDYxOG9TRkFSdXNENW1YWU0xaTYwenBxODBTX0xTbVpWbGR6dkRjYXFJczNoaDFBd0xsMDFQRTJra0ZCdjF1czkxSHpPd204R0NfS3lrNHhFLTBxcmdmUFExNFA0ZEdSbi1rUVFueU91Z01ISXdIY2xNN0xz?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-04T11:10:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/H3R2MRH3QFFSNALXA3ML5GCSZI.jpg?auth=298ad1943e6b6e6067116c05450ef3b034264b9d025707f792f3f3924a7ccbbc&width=893&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Así amanecen las calles de Guayaquil tras las lluvias de la madrugada en varios sectores",
@@ -422,6 +359,69 @@
    "medio": "El Universo",
    "fecha": "2026-11-03T16:29:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/MY2TQRU5MZCIZC3DTCOCJHPF5E.jpg?auth=f4fa8a7bd608d538894487298456c3e262cc29fa0861884d42c117784940f8bd&width=1009&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "¿Qué fue el fuerte estruendo que despertó a guayaquileños durante la madrugada?",
+   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHVDWUFoOU50NV83NVJCNzRMMVdST3NScGlEZjBwQUpRS3Y4NzlLOE5mQVFzQXFVQnpkS3BuMlVfcF9oWVk3NkdzWUVkMHRBUFJnbjMtYXhrc04yYlZxa3J5ekc3djNDQXd5RjVvTi0xRFJPeTNNWmhydmFyU3o2WUhEemZNYmVuNnlmV0FqLWhWSGpmUGtSckJEOW5UaTNmQzVhR2RoV3l1TVpvSlI4QUdkb0ItMHlHckRnY2xiczQ5QldONnh0NUhn0gHeAUFVX3lxTE1fcXNoTUxSdS1IbzFSN0JJMlk5Q190d1JqV0VWMjMxYlNyUzZsb19JeVZEQTNWd0NpLTVuaUVOWDVuVW44MTNuLWZpTWhkXzRjMGNlZHpYSWo3eFQ5aU84YlYwM1ZRaXUzcGdyb1JmSlAzNk9TbGEtbkJEMFFSeTQxRDFoOF8tb1JoSnVVYzNTMnhsbFkwa05ZSE1Ob3ZoODU1OHdlTTctR1BKbk1kc3VqMXBOeEQ3R3NfVE1MOThVc3pyZnhMZng0bTdYU0VkeXhOWWlSRWtMaVhGbURrQQ?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-03T13:51:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/QBJSZRQ7YFFPBJ4ECZEKZGBXEE.jpg?auth=74c50e9d9fb3fe4731ec41faf2bd205acc2a7340bf040a0a253624529adeceeb&width=1241&height=647&quality=75&smart=true"
+  },
+  {
+   "titulo": "¿Guayaquil tendrá tormentas la noche de este lunes? Esto dice el Inamhi",
+   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTGJXZ3R0bUNpWDhNQkdiM01jRzcwdktMTHJ3OFVxVDhuek85TFFBM3hnMExOb1JHdjRWQ09NMDF3SVo0VGtXamtHWVRObzVCQnFDa1p3bWY4aVJCUGU3d3RyRVB0WEFTMWt2bDhLWWVaUDRMRUsyTkd4SEFuTmJSMk43QUZENWtGRGZ0UTkycm5fUWJsZUM5c3JiV293TXZKVjYzdmJxMmZQNUpnOGI4UUtB0gHGAUFVX3lxTFBrQW5GbFFaRFluWFJMaUpQUlQtcV94X1hOWEhXbE4zQUxuQ2w2bmdKZmxuMHFSWnRrNkhrOUxNbEFBd24zOXMtVFZnQkpnQjJiRjRkbGxLN2FHUXFaZDg1b2dDMGU1UGFfTnNHZGRid2JVUU9zZmU0cmNKbDUtdlVYNzdyakZ3aTFsbklwNjRMbThKT2NuWFBXOWpEU3BxdEVsZTQ3YmZCeHhOeGhTVTNQdHVsTXlSWXgxdDZlZ2FFS0NNVTdoZw?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-02T23:51:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/K7MJFAIIDBAOXKJVUS3YFKRKUA.jpg?auth=a23bce6742467c78c557c5c4aa12f9d1358edd8981f7b0a9c4647c87f0e3cf7e&width=893&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Lluvias en Guayaquil: así se encuentra Las Orquídeas, un día después de la tormenta e inundaciones del 1 de noviembre",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXFIX0JHblRoMFZ4MFk3bC1QRU0xdUZ5bWVPbXh4V1JwX2p5OW5vMmNWcUlGbW16U2lpZnFCdTh2SUZKd0daS3VMSnhPY3RNRkJEdV9ZSGQ3NnEzSGpqUEJScklObTBWNkVtWjZWMUhhdkYwTktEaDlKaVlseW9PdmxlOWtRQnNQT3gtdmRfcnI2UjVkY3BlVmYzalJLMTVKVVgwanR3?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-02T22:04:59+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae8e839bfc14.r_d.805-522-7425.jpeg"
+  },
+  {
+   "titulo": "Guayaquil recibió en un día 27 veces más lluvia que en todo noviembre de 2025",
+   "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM0VkTXBnaHVUa08yaU5IaEZWNEtmSXlMQ1ZSQzBwUjFpdko4aTNTTVlpRFNhWFpoaWZfb1JFSmhpTGdjVUx0N3cyTWhTSmhWU0xyb24teE5xYThtc3MtNHZUZ2JhbGxON3UwUUphQmZYNE56NFdKRFl2bEt0a2h5U3Q2X09iS2VHNnVvc3d6MW4yZVNqeHE0aE9rUjhWNFRVLXd3ZjFwb1AtaXF5X1puSXZCd0ZsYmUxZmRjTWNUNzJQMkZrU0RTSkRianpidHF1eUpGeW9NTE9rTTVPZFhLdmktWkdNcGJXU3lnZElCcnBLd9IBhgJBVV95cUxPY04ycGlVU3UwT0tubjRHUVh5emdLN2x5cG1SVURxNndYMzZ0b0pPVkZhRlpEdEtvajIwTWM3NXRmcVlwcXZrZmdvY1d1NHlHOVR4OTJMV2JZMFlUVFdvby1kQmZpc25XbVBLWEphbVlxT0Y2NnFUcDVfazFOTXNPb044cy1QZ1FYS215RVFNRVk5ODlEYWNsd2pVUDlDcFJXSDR0Y1g2ZlE4Nmtvb2hPSS1kcU5RY1JQdVBFWjRJTDdFU3FJalF3THVfNXJQU2pvYW9PTHF2TG9KaFNLN2VDSVhETnZQb3ppcXJkVEd6R1BQVjJ2Y1RxNTIyMWZNUnZaSG1rd2l3?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-02T21:31:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/77AIIPWF6VCJ3HC5TQ6OXVMFKM.jpg?auth=c118c3457ac7abe72582e91e67c52db05b6a519e356e7975e5427194989c3afa&width=1005&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Calles mojadas, aceras resbalosas y obras con lodo en el norte de Guayaquil tras la tormenta",
+   "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQjlZRnVfcUpFT1Y2bFJ1OGFVY3F6NTNDYk95UDNycjdPSDM2UUhteklzeUhYWGZHWGZLVDBXeUpCVkcxdllZVGNwSXVqS1ZDbWZPQ21SVGQta3dyLV9LS3RrVnhhTW0yMnNlZDZKSjVOa0pUVDNNNnRDQTFlbkJ5QXYzTnRzS2pLWXVDeDE3MzhGcmhkTV85NHgyeHRzdmV1NG0xN1ZyZm92V3dyQWJqcG5UZW9EZHU1MEg5TkFWT0tfUDBzMDBoMGVIdGgtYlhVZ3l3bDhzRWNheVNT0gHwAUFVX3lxTE9qUkY2VTBuMXZiekpMeS1qWk4yYlNkMnJGSjk1ZDNkdm12T052TDh2NEx2TEdZNERqX3l5cVpsaTlRX0hGeFc1ZmJ5aU52OC1LYVhVM0dPc1dDS05iUGZwU0VBbkgwTkNxb3JIanhSTVJZaXNSQ054UnczUENTS0trX3liblBOdFRCdVN2eUoxV1I1Y29QajZic0prWTZ0VjBfVlUtTDRjaXEwSmVfM25MMUlKMHRhLUFwWlFZaFVFbTRNRkp0QWllMFo2MThPM0tPNDRRaUJEMENLZkFCbVg4RURmZFFFZ0owbldad0V5Tg?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-02T21:02:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/TCTYOGCP2BGYRGALNJZZZOOT4A.jpg?auth=500f558bf075c26b11576dbd850dfb3eb356127dca67600ee62baa0e6b1d2114&width=893&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Guayaquil tendrá un “descanso” de tormentas y lluvias fuertes de diez días, según experto de la Espol",
+   "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeVpUOUVZYWtuaW1UMHpKTnFTNXQxWVVRS3huTXcyci0xUXppSnR4ZFIxUm9vSkJhc3A2dkVjVWRlZkNJQUlCQ3VnUVJsc2ZvMFZ2Mk43R2ZKRjlVV2FjaDR6dmdPY0hMcXpCS21OLW85R0dNMDFpWTRNVlF2VlRwcmRZTndBdV9FZV9INk43Vi1tSW44YXV3cm15VnlDZ0d3X0dlOFN5cmdBdVVKTWdjbFFYaXZidVNsd19DbWJCWnBGN29qcm92ME9HQWVaRlozNDF1SlBHclhPV3h1RjZ0SEx0UXozd9IB-gFBVV95cUxOSmJvNDU0cGpjMWUzcjhDY1VIRzJWUGU1cVgyVUN4X2U4Z2hFZl9DdUhqNDhrWWh5OEtQUU9tR2gxTW1FcGhYT3FSWExsVHpDVnJEb0FJSXJoOWlkVHo3UnNVRUhBa3JkbEFuOFhfS2VTV044Skl2anFCRFlMTFdZMmxLOUd5dkRZdzE0bEQyRUNKSGhEejJjMVgwNUpBRlBjOVZkUzhJQkstS0tqaURNU0UzTVBfMi1EMlNEcWF1ZGc3bUZRZXNnMEdUTWM4VkZHTmhQdF9mOUJjZEZ2NVdFVlBUZ0ppSmRnTF9yaDhpa2l5MGhlNi01WGxB?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-02T20:03:09+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/77AIIPWF6VCJ3HC5TQ6OXVMFKM.jpg?auth=c118c3457ac7abe72582e91e67c52db05b6a519e356e7975e5427194989c3afa&width=1005&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Hugo Dellien es campeón en el Challenger de Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3c5aE5TU0Fnb3V0WVNnM0VaOFdPTjF6RHJRQ1dJTWxnNFk1dm9RQ1NjVHdUeUVuQzE0X2ROcWJhdWxhd25OejhlbXhmWl9oU2NvQkhoMFp6Y0VrS1JQUVBreXZMdUg3N3EyalpwY1BGeldQZ2pUbndYdFgyal9vdGxubGhZN01qYnJINVFCLVZLbUxjemc?oc=5",
+   "medio": "La Razón Digital Bolivia",
+   "fecha": "2026-11-02T19:46:12+00:00",
+   "imagen": "https://larazon.bo/wp-content/uploads/2026/11/Dellien-Guayaquil.webp"
+  },
+  {
+   "titulo": "Hugo Dellien es campeón del Challenger de Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1RneTllSF9jazVCZzdmMkRZbE1GdUdIRjRkamM3WmVCdG1iQVU1clBSZENCYVpOQWM2WG00YV9ZdkpYdU9GVUo2b0RjQjBtN3pFRXZvSDFKdEZ6ZTFlRloybzNzX0tQMnhfTXZydW5yM0pKRENhQVdEdWk4RzB0b1VONkpHVWVmSlIxSQ?oc=5",
+   "medio": "diez.bo",
+   "fecha": "2026-11-02T19:28:12+00:00",
+   "imagen": "https://cdn.diez.bo/diez/112026/1793646952957.jpg?cw=1200&ch=630"
+  },
+  {
+   "titulo": "Tormenta deja un muerto y más de 90 inundaciones en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYTE3TmFVclVheTVBMng0VTNBbzE5R0NQWHVHXzVTV0xRbHJSeWd4WmZzQUlVZ2ZlNksxbTRVbnY2Rko5ZGlxMVEwR1JNYW9JcFpJaDc3OE1xeWxtaERZNHVndktzOFFHTFM3UlJfUklKOTFCZ0RuYUl1WmpDVFZrSkVjVnJydXR1cTI5T3hKNHlOQVZYYmZHTjNWcU5kY2NSbktCV0JXQjNqeGVYNy1xNy15THlHLXU2WksxOTU1Ni1MZWJhZGU2dVFWWDFKS0dtc0hCUGFINWU0OTJXZUl1NS1fcm5aNEVRQkp4VQ?oc=5",
+   "medio": "La República EC",
+   "fecha": "2026-11-02T18:24:53+00:00",
+   "imagen": "https://www.larepublica.ec/wp-content/uploads/2026/11/orquideas-salvataje.jpg"
   }
  ]
 }
