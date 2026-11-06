@@ -1,8 +1,50 @@
 {
  "zona": "samborondon",
  "nombre": "Samborondón",
- "actualizado": "2026-11-05T20:51:06+00:00",
+ "actualizado": "2026-11-06T01:12:34+00:00",
  "noticias": [
+  {
+   "titulo": "Clases presenciales se retoman en Guayaquil, Samborondón, Durán y Daule este 6 de noviembre",
+   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmxLX1czNEFaQ2RUc1QwZzZVcW9ydWozZWMzS3o2dVpPZ3NycGRmZGJRSnJoMnVENWdOZldyTzZUcWpOVUYzRHVra3BEZEF2WTc4cXVHbVV3dnlHc1JKbThJVWlVUzIxWE1mZTl3elhNMWwwelN4aEx1MXZoMEVzdXFHRENlcUI2SGhBS2JLblpuZHZ2MmpLYW8wRjVnNkFNeWpiMDZtMmVzbHhWNk4tbUxNTS1NVWptUFB1OA?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-11-06T00:40:46+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/lluvias-El-Nino.jpg"
+  },
+  {
+   "titulo": "Se retoman clases presenciales este viernes 6 de noviembre en Guayaquil, Durán, Daule y Samborondón",
+   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWDcxbGdzaVpqZGZhZWpLNDRzZzZaRC1qaGd1VVpKcURhLVctVzhORFBqSjRzM1d6di1ld0M3TUROX1dWaGdWX0dLMkVqdWVyMDh0eUdKZFRoUklIdnZkcDQxa2pUYk9iRVA0X2U1WjViQlRQUURXQjVuS1V2QXh2NkVON2lqajBPWHUtVVpyZUJzMzc5bjVpaXRVV2h0azlxMXhKcW1CUzhKVVF5cU5INFAyNW9JamI0a3JqTDN3YmlnakYtblZRVHlWTlNnWmZWelJ6dUdCelVCc19xblBnZ3pVR0g?oc=5",
+   "medio": "Metro Ecuador",
+   "fecha": "2026-11-06T00:37:00+00:00",
+   "imagen": "https://www.metroecuador.com.ec/resizer/v2/C55M5RNNBZBJVMJKZZY6URO35Y.jpg?smart=true&auth=64d5324b979c94b51a4fcdbe7cbca39e1ff7b66ae33e4641035de959ca5adb42&width=1200&height=630"
+  },
+  {
+   "titulo": "Clases presenciales se retoman este viernes 6 de noviembre en Guayaquil, Durán, Samborondón y Daule",
+   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVm1SWlJia1F2TXhSWlF1dkY0ek1vUlMtbkhGVVp6S1lXang2Z1RJZ1lKLUlhZFFUeTkycEd5ODlUXzItd1d1RTV3ajJXT0plUWdNa01zTEVTMVBKcjNVQkI1MmZ2LWF6YzFvRU9lWTQ2UU9hajRtWFhhdGFwR0VNd0Y0MmpzVmI3c2ZJSE1fb0o0VFJBUWdlQnRuSmVhUC11QlBTZ0hOV1VXN0tNUVRmOG05dlJBaHJDQ2NoZW45a0c0T1o0Sm80aUdmaVpqdUl2MTgzQ3RjUUpJOGVzaU1N?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-06T00:17:05+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/05/6aed1c7759332.jpeg"
+  },
+  {
+   "titulo": "Estudiantes de Guayaquil, Samborondón, Durán y Daule retornarán a clases presenciales el 6 de noviembre",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlRweUM3UGp1OThybElBUlZqQW1KS3BkUU5PWmMzOFktcGE4QkFxSlpXY1poUVBhSkJHTXJyeFpLZDhvdEQtRDU1Qlc3VWYzdTJTVDU5MGQ1NXE1SUhyT3JDR3Qtdy1ibTJIdGpmbXp2SkxxeDNpUURRcjhQTWd6S05wR2VKZVFhZkduTTRQaE9ycUhlb3FaVjUzTktWc1I0S2lWU2k2M2c3VzdiX3BOZ3dpN0k?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-06T00:15:23+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/05/6aed1b39df9e3.jpeg"
+  },
+  {
+   "titulo": "Inundaciones en Samborondón: fundaciones de animales buscan hogares temporales para perros y gatos",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFF2aVJNMkM5YjhIX0p6QTZJVkVTRzF0OHEySGhsS2ZwLWdRYUxJUmNPenBsSGhya0ZUMXVKRGdNbDhOMGxhWGxVM2VKRWNQNUtZYkk5cVJWWkg2OW16NEV6d1puWGlLcDQ0Ync4UExJWC1lczNGVkE3bzR6U1ZQbjBUS0FwNGhyN2dWNFJBelZOUHdiNlVXSXRCY3doY2w2?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-06T00:10:04+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/05/6aed1a9fa9b7c.jpeg"
+  },
+  {
+   "titulo": "Clases virtuales en Guayaquil, Durán, Daule y Samborondón este jueves 5 de noviembre",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1JtN3ByckFMU0ctSFRrT2Z0MHFrREx1c3RudnpySjZCbE1KVTFiMzVGMEhPRThsY05mUFo2RzhQbW0tcVdUcl9pMkk0R3oyektMd3pWNTF6WEc1WXd4VVNsYXVvckY3Mm1lWk1icl9hX3pXS05FSUJhOWJIdlZlLThYX1loaDVkZHlhQjlfQjRUUDZZQWw2OHRSQWJ3U0xxRG1jV0NDWHZQUFRuaGc?oc=5",
+   "medio": "Ecuador 221",
+   "fecha": "2026-11-05T12:32:00+00:00",
+   "imagen": null
+  },
   {
    "titulo": "Clases virtuales en Guayaquil, Durán, Daule y Samborondón este jueves 5 de noviembre por fuertes lluvias",
    "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVmxVZm1YMDV6STJyY09feUZTdGFOUGtZV3hhS2xCVGJ4VHZEbVNpMzFiYm9OdXdSNWRuaTBpMmgtUW5WZ3pFemZXU3owZjQtYWZ1WWZhZGt3NXNpS0tMaERGaWdYSGUxcWtBWnVIY05lR1FjMnoxNTFNck5MOWxfYlk2ZUVMTWVPTDJIUl9Gc3hhdU9FNzVNcktmcnZlazZ1ZU1GaUQ4VW92MkZFUkV0YlB4dXBob1ZiX0doZm5hQ0Z3T2JIck45VlNMUUtabzNuNjdN0gHYAUFVX3lxTE9fYUY3Z0U3X1R4TnRwT2FvSVp3cVZnSUdtbGRyZHZlWHFFNUFqYmhtZTZvYTU0dHNabVhNWmR5eWxFR1I1eHcwRGVOOTFvWUhUWnlUSzZjVW16MXpoZ3lrM2Q5aml3eDF0bmZyc2cyOGRzNkF5aFVXa253S0dyblluVzRCSGlXVTk5TjdRUUFsVVNnZGRjQUV2czhXcEhNUk9ZMjhyQnhuSHF0MHl6ajJjakZMcmZ0NzNtdVBTdmZKNDZzRF9xR2lBWG1EQ2ZrazlOblJYdnB0bQ?oc=5",
@@ -44,6 +86,13 @@
    "medio": "Ecuavisa",
    "fecha": "2026-11-04T13:45:42+00:00",
    "imagen": null
+  },
+  {
+   "titulo": "Ministra de Educación decreta clases no presenciales en Guayaquil, Durán, Samborondón y Daule este 4 de noviembre",
+   "enlace": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPOXBRT2FNaksxejBFNE5IbGFtT3hLa0N0YVFJc3p4cERSdXhEWEtvUzBZOTgzWnZLQXBycEhUeG9OejVXVFRfaGRIYk1FZkp3UzNneTN0T1lSYXhZSER1UVJUdkxKczVfRUZhbDc3SDZxd2l1RXRob0lZNmxTTlpON3lJcHZuRUYydTBOMVJZZ0M1ZHE4MmhTc21ERlpQU3ZPOTVoUXd2SUJfQ3l1M21qVVVydUF1M0w0dEpfT2RqczBIQ2dZRUdoWG5uOTNfOU5UWnlub3pTYmJjb3gtMnlxTXNyWXVTSDVoNnVhYndNOTFEYTlqc2FHQU00Y1VINlR1QTlkZWM0Zy1LbGFvX0w5eE5aZVNhNW02MTd1T0locHZXQdIBpwJBVV95cUxPN1ltRjRYNU9qMlFodHZ3dVotdTV0cEFhcFdKZGM0MmxqUy15d2phX0lhOHNlTy1rdWp5SFE4MXlpOEFfSWJwbE5FLUtwTFVzczlXSDVmVXNhNXNVY25GcTVKMHI3dUFGMWxYZTVoT3JCZzBTS2lQX21oeXFsdi03ZDlyR3hwVEFsQUM4Z0lEaERRV2pEUVhiUWdueWQ3aEtjMFFGY25FbTdvR1Q5eHRSbElJNEowUXJwT3MzVlJpQ2tLc0tpSmNBSGJHYWZQODhyMFVDckhpV1pieXdBYVlwblQtVDF5a1NCVUU0NzVkQ0xtbzdaNklxRmdURzhpdC0wUVUwQ2hlZEc2bkxNYmZBR1Q3V1JHbk1mWktOOHVkOU8xcjduQl9V?oc=5",
+   "medio": "Vistazo",
+   "fecha": "2026-11-03T18:57:47+00:00",
+   "imagen": "https://www.vistazo.com/binrepository/1147x600/274c0/600d600/none/12727/GKPF/clases-online_2766112_20261103135245.jpg"
   },
   {
    "titulo": "Clases presenciales suspendidas en cuatro ciudades de Guayas por las fuertes lluvias",
@@ -93,6 +142,13 @@
    "medio": "El Universo",
    "fecha": "2026-11-03T16:29:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/MY2TQRU5MZCIZC3DTCOCJHPF5E.jpg?auth=f4fa8a7bd608d538894487298456c3e262cc29fa0861884d42c117784940f8bd&width=1009&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Fundación ALMA ANIMAL busca hogares temporales para animales rescatados tras inundaciones en Samborondón",
+   "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNmZqRFBFbDlJd2VydnIxQmRPejBvajZUVVRVS2Ixa3hBbXc3TTlOb1lHMXhGTkZEYXZ6ajFpVFJRSERDdXA3RkNuXzRpbkxONHJsdW9ITkxVd3Q3UlpNbV9nWEpLZUxCQWRwVm03RGlvNXBfQ2l6SFRQckM0VXBxamNPbDl1X3ExX1M3ZGxUUVBUTGxkWUtCbzE1N1NsendwZ01VRXZNckQwQmw2Z2dvS3lZcXM4VHdaSFVPSS1xS1NmTURIOXhPZmF1a2VzLWtyRTVhaFlqcENvN2w3VkRXRE5nVmplbGtaLVRrVDl3?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-03T15:59:40+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/03/6aea048ce53ee.jpeg"
   },
   {
    "titulo": "Inundaciones en Guayaquil: Las lluvias vuelven al norte de la ciudad y Samborondón este 2 de noviembre",
@@ -210,7 +266,7 @@
    "titulo": "¿Será feriado en Samborondón este 30 de octubre?",
    "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWVZFemhxU2hpVlNDR3U0LTlpcmM2MFp1MVFXMEtTOW50MS1abGIteWtwOFZNaDN6ZUFwXzk0ZFc2ekVGWWQxOVpsdDduLXNZUFhYV01xcWtVcDZEWll3SGxFSmExVWROaG0xWS1HaFUzWTl5cWhNQjRuQnluOWhvU1QyaVppN0hCcXV1dFZ2d2dRZFhNdkt6RTl3ZUdWVExHMVFvQWROYllaSTNhYW96SGktRVh5cTQ5NDltTVhxX3JkQdIB1gFBVV95cUxQVE9uam9OOWNyN3JpQjNsSnZvM19wRHdHY2tsRjVacTNzUThKRllmVDc1UkJ5ZldwQkx6dUJyN284Sk90cVJxcjN4SWM1OUVzOGJmQTcySk1uUjEyTTFpNWUwajlwTWJfNkZqNGRtTDZ0WVFqN3dKbEVVamZzdHFYYmVLUnc0OXZzNjZKVkhCUWRqMEFULWlsLVJLYWRUX3pDaTE5ZWc2VVJ6bXV3dlR3Nkt3QjdBTldUSk1NNVRjb3NRSjhrVkxvRHB4aWpZT3dvMzBIdGdn?oc=5",
    "medio": "El Universo",
-   "fecha": "2026-10-28T14:00:00+00:00",
+   "fecha": "2026-10-28T07:00:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/WGFCA5UKA5ESLFDMMOLZH7YGV4.jpg?auth=f0886d6a11b663a19fdd219d4eafe529df557d3b2e67cbb4cf0b086619640abb&width=893&height=670&quality=75&smart=true"
   },
   {
@@ -366,62 +422,6 @@
    "medio": "Ministerio de Desarrollo Humano",
    "fecha": "2025-10-29T11:11:15+00:00",
    "imagen": null
-  },
-  {
-   "titulo": "MIES evalúa unidades de atención en Guayaquil, Durán y Samborondón",
-   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjQ4VjRFcXFNLXhZVXk1Z2Jmak01ZzNEd0FhOFFCR2hwR2dkcU9yRkplbmtsckdsMU9wQXlyQTlJOG1lVXZmMnpWMU5QMTRSR01JQlMtTzBfZVdlNmRJQ0ltMmVlWTVkbW03MEV1N2FiTktlWlZyT0pobnV2UTA2dWgxX3RvakpSa3JKMTlvT1ktU24xdmRvdVcyMFpnS0QzT0RpYw?oc=5",
-   "medio": "Ministerio de Desarrollo Humano",
-   "fecha": "2025-10-27T05:09:40+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Emprendedores de Durán y Samborondón exponen sus productos en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTF6XzhqRFpiVUNTajJOeDcwc0dBN3NnNGRYZ1FyRHpWTzg2eXFJeWx2cVI2VzVtcFBENmhMdGExNU90dUZ1OXREcWVfQXFNOFhtWnVqZnRXVVpHaUFkTDdESFNfbGZ1aFAzTHJtNkRqM2lWanRVQmhzQmtpdElBOGZpR0l4YjZsTVdoV2pqYl9pTnBRdXFHMTVGZlNaTGRqc3RnTUoxbFZXb2xW?oc=5",
-   "medio": "Ministerio de Desarrollo Humano",
-   "fecha": "2025-10-27T05:03:38+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Madres y padres de familia de Guayaquil, Durán y Samborondón se integran a la Escuela de Familias",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZFRsa2ZiWVBUSUVGaXJoRmtjQ202V2piQ1haQndMMWEySkk0SVQ1LWxRd0ZHeWVxa01rTnloWmhFTXVDNGVyV2lCTUhZRTdWZ0VTUWxLZGhxSVd1TU10MURJWXFVc1FBcTFlVjNwaTRKamJTNm1rQUdyUm9oSmVQMWVOdF9HN2RicXJ6eDhxR2xtQWpqSjV4M3NXN1VfV05IY25ub2N5UXMxQVhLU1haOUxnRks0UGRrOHZ6YjhKN0NzWklDZDl6RDA1NC05Zw?oc=5",
-   "medio": "Ministerio de Desarrollo Humano",
-   "fecha": "2025-10-26T04:29:36+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Emprendedoras de Guayaquil, Durán y Samborondón acceden a capacitación en la Escuela de Chefs",
-   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2ZTRG5yWkNTaF8tdVZ3cVFtLTBTREJfUDEwenlQakZYNUI1OW9MWjI4U055RC1IUTZZT21RNEt3UHphSUlodXRCRnNwenRkaG9keFlLZzBReXZtZ2lIeTRaeGZIR3hjbkdCSEpZTW42dGRLYTZVTjZEb0NLYlN1MG02QXZERVdUVGJxcldOeXdQZ0JzVzFiRG4yUkQtVHhTeVk2NWV4Vlh6YWFEUnc1TEdmeW41bFB0a0tNekRNdHhwc0xFR2NUcQ?oc=5",
-   "medio": "Ministerio de Desarrollo Humano",
-   "fecha": "2025-10-25T21:31:06+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "MIES evaluará servicios de catering en Guayaquil, Durán y Samborondón",
-   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWxOTDhocnZYMUVTRi0yV2FKYXlCaVFtMENydURCbkNNSElnamF6a2E1SVB0blVva2JqbG5SN0hrTmwyLXE1bWxFanFLZnNXSW9GRVpjcnFUaXNMblh4LVY3M2prLWJ2a3U3WmhqekhBUUlZRk1iUVVhUzd6dzVoN3lxQ0hDUUx6d2FSbnY2bGZqZ0pGRHUyUV9BN0Z0VmhBNHQ4akJVRmI?oc=5",
-   "medio": "Ministerio de Desarrollo Humano",
-   "fecha": "2025-10-25T19:27:13+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Club de adultos mayores de Samborondón tiene 16 años promoviendo salud y bienestar",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHNRYlBTUTcyalV0Nzk5T3N0aTJsY1UtVTFXVWNUcEE1LWdxTldaYmZBVHBCWjZleldhR1lldl9nVGRuN2YxNVJyMFRmbGVMaFljVW8yWWdZRjIwNUZFQlgtZ0tUdVpUS3paMDEyY05kSUVPT2VjbkhDNHlCamhsS2RQZlhIOE5wYjBkREJISTJhR1c3Rms1a3A5LUFSTjBKN2JXWVdhdW4tallF?oc=5",
-   "medio": "Ministerio de Salud Pública",
-   "fecha": "2025-03-10T07:00:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Qué se sabe del ataque armado en urbanización de Samborondón",
-   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdG04Zkh4b1FFT0pyWDJKWUJmMXhHOXZaUkhIVTlwbWxaMWl1dWdoeWFmbmJPbVIwVnRFUVJfekdpSXI3N1pSMDUtVVVaeENpeGhxRlB1MXFqeE9GNWpSdDlqREljQlJFMlo2WU1wcE42QXoxZldibUxFUTc4bGlhU3FpdDdtcUVyZkw4Z1FNWXVucDRuWHN6TVlwZkN4cHo2SDlNRWdUeVhlQTZQcms3Q1h30gHGAUFVX3lxTE5lX2Qtakk0RmpDVjJsaVRoVGk1Qmh3OXFBY1NqM3ZpZEVYWTh6T2J3Q0NHa2tPRkF2czBxQVVldXpsUHh6N0dwcm9zU05oYWNHa0E2VkdUeXRyeXFIcXV4RTl5MG43YVZ2aDJsMUgwRDNzOGI0eUY1bHRRYmdxdV9Rd1RsZl8zOGxfM0FIbExtRXVLR2lTeE5WLWI3ZDNqYXlkcUd2ZUdVVjhkZS0xLXBtSjlnQ21oVXQwNXNOdGJHVGpaekNNZw?oc=5",
-   "medio": "El Universo",
-   "fecha": "2025-02-15T08:00:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/JF77IP46RRCWRJCVYU77QAGJWE.jpg?auth=43aa989a73a74d8698aabc47a8ddb2cba076c531ea4cc3b4640d058bb9246764&width=670&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Incógnito, el nuevo gastrobar por descubrir en la vía a Samborondón",
-   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcV9iZmZ5TlgwX3RXMTFnWlIzZFUxV1dFV0ZLRGcydUNxRkZaTG0zcDJxc2t3c29SbVRud3RtS0NGU3N3Q083Q1pxTkdFTjR2WDZiQnQyWUtsSTM5TVJuckhPQnlOeUJqdzFwcnJXVUdKVFFvQzhSVWNtSEljTUtiQUkxY0pMaXRDRklBdDlraHJLUGtIVmpFX2E1d1RLdlNxUVZFdXlORnBlT0JWbXN1bmxSY0ZkRjUweTJ3YlZXZ29tNFVwdUHSAdoBQVVfeXFMTXVuZ0hvX1lyamZwcV9rbVhIdnRrS3JZWDB6a05MTzJtbXhwVjRtZ1h2UGMtcXYtSm00eVB2S21zMlRrZXlncmNHUTczWW5YUXp2Y0FyMm1lQnVvRUZrdFg2ZW1LRTZjcVpUQlI1RGYtcjZjUHRfQVE3cVJkQ2dkelFTdFM0Mk5Belp5dVBpbVVjZjB0WTVxbmp1QUFBeXZ4ZUs3Q29YdXRzNlFmLV9vcVF3TFhNbE9YUVdjYi1SdmJLVEY2Q2hTMVd4NGIzSF9wbEpMUzNZMHlqUHc?oc=5",
-   "medio": "El Universo",
-   "fecha": "2025-01-11T08:00:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/DB5KNUXTQFEBHJPCRV2YDGZVVE.jpg?auth=657d73af5142df6cd340b6e3181a61fb966b80093fed23ecfcb17958f934b2ef&width=1005&height=670&quality=75&smart=true"
   }
  ]
 }
