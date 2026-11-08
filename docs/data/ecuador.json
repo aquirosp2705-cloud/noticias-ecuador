@@ -1,21 +1,245 @@
 {
  "zona": "ecuador",
  "nombre": "Ecuador",
- "actualizado": "2026-11-08T09:38:04+00:00",
+ "actualizado": "2026-11-08T16:24:48+00:00",
  "noticias": [
   {
-   "titulo": "En Ecuador hasta lo básico se vuelve una batalla",
-   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbk4tdlZxdGRSU09SWmJZN1M5NHJTdDFGbEgwb1pLN084M3k5SUNTMkZNZlVFeFVXYmlteW5xclV1OFBQdTc3VTQtbnlIX3VUTVd2VGJiUEtQTC1JSVhLaUtwZHl1T2FQZWFHcDJVRS1LcWdCbmJwVlBXZF9wNVMwbWkyM0R4OE5IdzhLRjRYSzU4WGhvMWfSAaoBQVVfeXFMTWhPSEFfOUFoTWJZOGJYNklDbmpTTC1WMW1YVDg4STNYS2E3SEQyZEhFZ19OQzBQb3pYdVNWUTN0WndnZGd0WTJjejFrWTFkX0tEMTMtQjZ1dW92VGcySlo3VXdPSVdOdkZnSU00clZsX3N5cnFIR0FLM1BjclFoOVFzLUl6amNnbHhRZGJ4bGZ2Y3NOSjRNajJYWmRrdFBsd2RucFlzU0tXTkE?oc=5",
-   "medio": "EL PAÍS",
-   "fecha": "2026-11-08T09:00:00+00:00",
+   "titulo": "¡Oro para Ecuador! Patry Valdez se consagra campeón olímpico juvenil en Dakar 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNnJqMTVPc1U2eFpPQTN1LWExdncyUldxNS1fbHgwYzEtSEwxNXZpOXVZOXRab2xyQnhlRnBuNDdRYmwzUUJVV1dUUkhrbVY3R28yNDRJeXRTb2hFc1JSZlhST3lnZm43aGZYaS1DWTJ3UFdkWXlqVXh1YngwakI2b1U0Z2FKS3ZRNGkzUmZwVUdrNVZyc055TC1DVWtmS1ZfMExqV2JfTmxJdlJXQVF6azFWazlsU3NQ?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-08T16:10:23+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/files/fp/uploads/2026/11/08/6af09d369c0f1.r_d.599-370-11111.jpeg"
+  },
+  {
+   "titulo": "Nueve premios de USD 15.000 para proyectos de cine en Ecuador, ofrece concurso del ICCA | ¿Cómo postular?",
+   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0JhcWRYSk1JenRjTVVJS2p0bVh5WTctdXRHN0hkeGQ5NS10NVVaUTF2VTF1ZWQ5dHJtbk5uVkQwZzFYWG9kbmlPUU54c2Rya0RUTklHQVc2MUtqOXFnZHFxMWVhMkFjQzBvNVU0UVpIUEFUbnBocHpxR19OWXUzMlduTHJiR2kwQkphQ3pfWlNmeEFIZzRmNTVzaFUyX2M5c1BjY2VodFdYclJoNmZr?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-08T16:01:18+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/08/6af09bf3b416d.jpeg"
+  },
+  {
+   "titulo": "Ecuador será sede del II Encuentro Iberoamericano de Salud Mental en 2027",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlkyZy1NNmlETEQwcmp1VlZkRVJoVXFSVlVvbWkxdkNVMzNIbVM2b196di1ORjFWdVlpNlV6T1F1Y1NvTnhXb1pIajZzRlJjdml4eXRodjNNZVJRX0dfd3NHaHF2SWVKbW1OZGNfZTRpbnJlOTRPNC13QzFJUTFGNHRtUVQ2QTk1dXdJWVBjR0lDYXNocG1sSnNSM290SUVhNGc?oc=5",
+   "medio": "Ecuador 221",
+   "fecha": "2026-11-08T15:40:00+00:00",
+   "imagen": "https://ecuador221.com.ec/wp-content/uploads/2026/11/ecuador-sera-sede-del-ii-encuentro-iberoamericano-de-salud-mental-en-2027-ecuador221.com_.ec_.jpg"
+  },
+  {
+   "titulo": "Ecuador vs. Costa Rica: ¿qué esperar del regreso de la Tri al estadio Olímpico Atahualpa y de la estrategia de Marcelo Gallardo?",
+   "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYi1JZlF2dzdITmFZcTctSXFYVmEzcVZBcHczRk5SN2ZnOVZjb1pfcG1qRndzenpNMDQzSk9XUFRsZWRGVnhiVlBxdFV4M2RKaUR1MFU5ZWg1ekNUNGhPOG9oNXItSHlUMTNmbWZZOVVIZTdBQktnTkdyWG9rQmdIQlZLcTQxMzNZamNvM0RONVRMdjMyYjZvTEVLRXhld29Gd0p4Yko0ZWxvcUh4a0NKR3FjY2h5djI2bTc5NlZWdVJtelZ6VllBbm1odzRwQ2ZXb1QybVA4enJQeDFDckVZUTBsYkhyNEJtTFNvMUt1LWZCX0E0bmpONEVIcXdzY3RaaG03MFhWY3U?oc=5",
+   "medio": "Metro Ecuador",
+   "fecha": "2026-11-08T15:38:53+00:00",
+   "imagen": "https://www.metroecuador.com.ec/resizer/v2/EUMQZ7EI5BHGLGLCL7DJF5G66Y.png?smart=true&auth=d957f863c041b9ab342bdd88a541486b6f25529bf11b9331996800d8883b5464&width=1200&height=630"
+  },
+  {
+   "titulo": "15 ríos y esteros desbordados en Guayas, Los Ríos y Santa Elena",
+   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdHBYUVI1c3UyLTl4X3RVSHZFRWxOWFJlWDVhNEJOa093VnlxRzNKOWdpSU1zZk52Y2gwUm5EaEt4Y01ndTAtMmZCMUhpZWtSUkF1d1hMRzZlSXhLT2twMUtFNnZsSUxwQk1GN1Yzc1JXRXptR1NlY0p4QTQ2eW1CRU1xN2FGQ2NBbnZuVElnWTNMSDMwUWdnVEtWY0Y4U2RnWHNn?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-11-08T15:37:39+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/10/rios-lluvias-ecuador-1024x683-1.jpg"
+  },
+  {
+   "titulo": "En tres provincias hay cuerpos hídricos desbordados este domingo, según la Secretaría de Riesgos",
+   "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNHNNNkc3WWZOOHB3Tm5KUHJzYVZpZmlOVERiWndDa1pBak56aDVBY0N0RTkzTE0zclVWbUd1TmpFd3M4YmFneFZDcjJtQzFvbTkxNjRETmpQbFFMV0ZQQXI0U0pTd1RtME8taVcwNEtmVjdCa1h2N2owcXdqUjlCSURmQnVJS1o5eWI2Zm55VlEyVTFXTDdGeFhlTjM2RVF0SWdUR0lFdkwzTkZ0d0Q5WmJ6RUpvYkV3bnpfNVFWVHVUMzVURHl4MzVvRnBqZ2t0ell5SXFxT05JSXBET0NBc1BvYw?oc=5",
+   "medio": "Diario La Hora",
+   "fecha": "2026-11-08T15:25:40+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Las leyendas de Ecuador y Colombia empataron 2-2 en un partido benéfico",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUW81U2hEc0tPaWUzcnkwUnZuQ3p5amJiSlJBQkQ0dTI4aGFIWTNkVVFYRDhEZGNaQnNPSXdrbEZWamxyNzdPaFZlX2VtX29LaGVKZ0ZSTmZzeGczOEdEbG54MGRuTGVuSUdqQ2dYdVRMQ3RKTHFTQjNHTEdQLUhFd2ZOLXFKdXc0cmtHb2p1d2RIdm5NQlFwMEVyc2FWOVE?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-08T15:18:18+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/08/6af0921ddcdee.jpeg"
+  },
+  {
+   "titulo": "Alex Ponce habla sobre cómo los famosos ecuatorianos como él se dividieron ante las tensión del partido México vs Ecuador en el Mundial 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOVXBsYXZqVG96R3JkWWYydUhxY0xnTmlhZzRXV3lLYnRKcTJmeXU4WG1PS0JBLWNGX0tmSFBEOXladFVYRlA0RUpKUm5kOWZPRFBUZTlYRm5vclZ2NjBvc2ItWE9pMXc5R1ZYSXZxMmRpVVpfay1TRGRJWUtLYVZLWFNjeVNFUE5WTFpMLU1JYWRuSTRaenlXOU12bVdyUV9ScHRHTU1xRmtvVlFaVEczTFhBMzRaQ0d0WW1rTzlseEhjQW0zZFJUOXhnOHk0UjFYakVQcnZ4VW9RMWUwWndqa05rNXpJRWJmUVBHeHVBNHpoZ0pmamhJUzdhdm1PYUdscVNCajVnRlJHTTI3Z1BzWHB5SmFzalVvZGc4ZUthQm5QUQ?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-11-08T15:14:07+00:00",
+   "imagen": "https://cdn.jwplayer.com/v2/media/bbh5Nn0s/poster.jpg?width=1280"
+  },
+  {
+   "titulo": "Hernán Galíndez pone en duda su continuidad en Huracán: “Siempre mi intención fue volver a Ecuador”",
+   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTXdwNUhZV2swTlllRXhVWTY2MmFGS2I5NUZkOGlVSE5kVGpNX3lTRnJmMjVmQWtQeHlDZGR2Y3hXV21OUjdpX0M5VnhDbm5HT0ZsNVF6ZFZJU2tFVl9EV1J1NFdNZ0d6MFVpUnVYRlRXWkxJbmZJVDZsdTJld01qaFVQMHVoUGJKTExPSzliaVh1VnoyY081SEtzeWZDNjlFNGN5UGZFQ2dlLVRyZnB3Zy1YYWVMVDMwUmllT1pvejY1RjI2OFpoRkZqUU5QZzNTalpyMHRYVHQyWUlXYmfSAfIBQVVfeXFMTWwtSXZlR29RYVdEZW5aNWlKZzBpSmV1TlpLWjRfVUM1SnRUay1FMXVRMnBpZGhHSWpqa0hIeVVvcDBJSTdTcUdyazI5QlV6Z0Vma0hmSEhLYlEtSWdVNHA0REdyZ3hnV0VJYW8zd0ZXWmxBQjFaMnVWNFRCc1dnMTBhVWFNdWhzV2J5Y1dSNlI3djhlMXhyQm82NnVMMWtIM01DSVNZaXdlSTZvbzJmaWVKQ204VURMczlCWUxEV2pFV21YWVhuTGpFZ0FGbzZaYjRLQ09zSDdRTTRWNHh4UnBRZDBLRzdmWEdzZUxHUjFIUmc?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-08T15:10:14+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/BT5QFNCN3RFTTNPUGAMWD6OK3Q.jpg?auth=38ed027a837c22466df7f9b15766a242ad58f85b5fe53b18e4240051c41b4a90&width=1004&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "¡Final de infarto! Ibarra Norteños eliminó al campeón y enfrentará a Cuenca Sacros por el título de la Liga Nacional de Ecuavóley",
+   "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTlp2cGNhSHhEUkxLSnItNmdwYkhGM2FrbW9LVXR0NkVfbHQzcUQ5anNJaEREeFdpSU11SFpGck9ab292RDFYR1U2SlB6SkJjMkl0WTVIb3dLcTJEUzBfQWt2cU96clpTS0hiUFFxNV9QV3hBdWo3dkc3MnozRDRoc183c2xDM0xzVDI5R1lDLXJ2YjFVRU5oVnNZdUJGcEtBNklsQzJXSjE0WkFRTE45RFl4QThIdkFBUEtKdFlpMEVJQkY4eE12UGExYlEyamJJY3VCT0VOWjl0ZDQ4dkIyQUlDT0Y3N0VaZUhIRzhBRG5GYVVpdWVwU0l3aUhVMi1JdTk4aERFMThjbnRR?oc=5",
+   "medio": "Metro Ecuador",
+   "fecha": "2026-11-08T14:55:20+00:00",
+   "imagen": "https://www.metroecuador.com.ec/resizer/v2/56364GEAGBFQZMUYZHTNY2RR7U.jpg?smart=true&auth=6134b95695db801b38d2522fb6320e63ccbcad85a20fb4639da2d5e09da8d70e&width=1200&height=630"
+  },
+  {
+   "titulo": "Pronóstico del tiempo en Ecuador: Inamhi advierte lluvias este domingo 8 de noviembre",
+   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPamg4OWVHS2dBS0FJQ2NyTm5kMGpCeDRwM2VMVHpyTFBJWERNZzhpaTQtNEt1MWFsZ0o2VG1sUjA3czVtMW41OUJEUkthbmFleXNzNW94a1RWSU13SU5KdDJ3dFRXLVFKWGU4V1k4UFJ5cGEzd1pWZGdFaVdYcEEyRFZkZ2JYYUs1RE5Id2YwNEVSUFpfM3M5N2d6dDQyOUhyS01iS2YyWjVxUkpjTWN6Qm5LUURveXNqUURobzhxNVc0cDBwcWc?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-08T14:52:47+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/08/6af08be56682e.jpeg"
+  },
+  {
+   "titulo": "Militares rescatan a un secuestrado en El Carmen",
+   "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcE1xZFRzSW03YWs3SHhhZ2lkRjhudkh1X2lLRGV2NVNoTE9EZFVDRktKcnN0S3RPUmZwQXZWR0FxU0psS0ZBX0c5S2Y1SjhIbGRTYnk2U0ZUeF82U0ktN1VnRHpPT29nTzV1M1pCTHQ5eDBWWkdPMnlvdFpqQkpOMg?oc=5",
+   "medio": "Ecuador 221",
+   "fecha": "2026-11-08T14:52:00+00:00",
+   "imagen": "https://ecuador221.com.ec/wp-content/uploads/2026/11/militares-rescatan-a-un-secuestrado-en-el-carmen-ecuador221.com_.ec_.jpg"
+  },
+  {
+   "titulo": "Feria Nacional Vivienda para Ecuador reunió a más de 5.000 familias en diez provincias",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMEdaMGxCRlc4Z2xHS3M1SXBDVFZkdXFLNFZYZUVoLXpRVV9PVmFESy1Zd3ZBc2NTZEd6UE1sMnNid0VoTXViS3V2c3NPMlZGWFl0eXVFSlNuMVZRVkdod3BscWtzbTEtZmVpeG1LeUtfLVhXbFdvWGw2QTNsbWF1QW11TXZmbW5kYXBQdFRZbkFZb1pwcHpLYXRMZTVNNG05VG1maUN0dDA0YWRaeUdXYi12bmN4WF8zNE00UmswTWs1eFdQSS1Vb3lfTGUxOF9KTEHSAeYBQVVfeXFMTlVGdjB5bVFGN1pDR3VuUTd5ZGRTdDc2djlEbVRkVHEzeXY2QUJRV1V1ekFQc05KdUF6aWQxVlBwTllHU3ZLN01pc1RyNEFQU0h2aXNDNUJIZkY5NDgyRW9OUzY2U2M0eElLNV82SUpwZ0QwOHVoclZrWHpDa0hHQUJVYmlKR3JHdnhJWkFrb3I4bjc5Ql9kVGxVUDZ1cTNmSFpUeDQ0VVFmb05FRkIyMjM3MzVfWjN4Z0JPek02VXZKMXZ4elhySnhpT1ptdFBnUmRjTVZJZzBtTGZmb2dxRWhsVFJoX0E?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-08T14:40:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/U62IIVJKXVHSHE7ZUOQFRG455M.jpeg?auth=400e84b1dd35e5f8a8a524e7bd132e6ddd2a2fc58a2590cba3bc129777d59179&width=1004&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Lluvias en Ecuador este domingo 8 de noviembre: revise las zonas con pronóstico de precipitaciones",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjVTWjJEdTBHR0NlSGhHaDRrd20tRzhKejI1dUFIdGE2UWllYmM3bXJQYTI2Zl9vcW9OWV9RX0lPWGtSMWR6SmMtV2xOZTZKeGVTVGdVcmZmNzJWS05QcHV1ZnJFN0dqa2NMYnhiYndMRkdHWGpUbC1aaTFES0pLYjV3bHZjaFh5dmx1b1RVbVBNVEtPYmFxdGZFLW10M03SAaQBQVVfeXFMUF9sTnI5M0NjZ1NXYVlTUzFDaWZMay05cWRiZUJzeFBFYjNDS0ZsOFJNY2I0Y1ZaQU5Dek43TTVCWUxuRHJ2UWFEZ0ZJckt3bkk0cnZDREhTMjhpcm16cnJtaUtNYktFUDhSQXhaQXQ4aFFWdXNtZzA0QWlwaWphSWVoZjg3ZE56MS1CSGNobFpKOVRQRFBtUEJidzN5RmJOMHlyZnE?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-11-08T14:32:30+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "(VIDEO) Galíndez confirma que podría volver a Ecuador: \"Mi representante está hablando con varios equipos\"",
+   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQmZNc1hmOUVnbnZJMFpLUFFJMElRM3N1czFkYVg5Z05MeWJLekJoMk1Ic0dlQ3duYV9SS2xNYUVsZVFLaDhsQkZxbldLdmI3aEZXMFBwQmwyWUVjNmN2VkVPdUhOLU9QMVdYaXRTYzhlSHJfMlRDVXFEak9haVBNN0NCMjdtTXVha0ltNEJwMFJsWTB0X09udzlKV0NFMzdZN0Raa3A1ZzRlRFUzQU9QbnlzS01tWTNiTTc1djNzRjdkdnRHWGUwelF3QV9KRm5JZTJOM0N3Y2M?oc=5",
+   "medio": "Studiofutbol",
+   "fecha": "2026-11-08T14:24:44+00:00",
+   "imagen": "https://studiofutbol.com.ec/wp-content/uploads/2026/11/licensed-image-3-1024x701.jpg"
+  },
+  {
+   "titulo": "Lloviznas marcarán el clima en Ecuador este domingo, según el Inamhi",
+   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmE2RjhVMUlobm5XM1VHdjg5RVUtMnc1bVY4QktRRmJPdEVKeWg4QUo3eVJ0X3BVMEZCeEFvX1g3MFhMc1kzLXR2WjJweFlUTHNQQ25Hc08ybFFOMlJfVEdkUFdzQXgzVzc4d0VjdTZfcUhYeXNJbW1wMGZ2WFRHdld3NmxDNFZDbzVMLWhDSkJyTnVjcTdUYjNYYTl4OHQ4TEdkR3NBMGE3M0l6OHBZNzRKcnFObG9lSFVjeGVB?oc=5",
+   "medio": "Diario La Hora",
+   "fecha": "2026-11-08T14:22:41+00:00",
    "imagen": null
   },
   {
    "titulo": "Darío Benedetto celebró el título de Boca Juniors desde Ecuador",
    "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSW9zNzJ2bTE3TXdzN3d1WnZ2QXJSZnNKUnp1VmpsbUZhd29rY3JSdXJNWFhIakRBX0VSYU1uTGtXM2dNNXIzMFVLeXJsTnIyc3ZMSGRlakJDM1k4N0pVNG9PM2J6cl9MZDU3VFB2ZmRBM093XzNfUzRTcUx1b0ZXTTRsZ1k3VjRIZ204NGhPNlBiMEtNb1FjejN3OHpyMmE4RFNsSzVtNzVlcGc5XzNiRVJn?oc=5",
    "medio": "Ecuagol",
-   "fecha": "2026-11-08T08:22:40+00:00",
+   "fecha": "2026-11-08T14:22:40+00:00",
+   "imagen": "https://ecuagol.com/uploads/2026/AGOSTO/SEGUNDA%20CATEGOR%C3%8DA/Benedetto_boca.jpeg"
+  },
+  {
+   "titulo": "Ecuador suma 192 masacres en 2026 tras el asesinato de cinco hombres en Manta",
+   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWhWY1Njci1xaVhvdHJLVk8wZjlVUlZqemZnNjlEQVFSbjJJbzVxeGlEV1R4THhpVmpwNGVfd3VoX252ekp5bkE1NTF3YmRhMXVKMjJTX0tfNjk5WG5Zdnd0UUtsbnA1RWZXOVZveTBLcHJjZjNjbnIyaVJncUk2eVNDenlHS1VLVjlqdzF0N3BVazNfQzBaSUEtamzSAaIBQVVfeXFMTm5vMk9QS2xMd05QN3pibzdnaDk0UGRsb0hZam9UaUotTE5HakdoX2EweDRyYS0yenI1ci1UMHU3YnlySUZ5QXJWa3FHcURJT1hkU1h1RVFPRU5PdURpTmJYaDdPNlJBaHhMVjd2N2l3VVEzZjR5YTd3dkJvLVU0VVhfbEQtdVlsaHh1ZWRtNWlZOUc5enJqQmwwMzJGc3RlNDBR?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-11-08T14:16:47+00:00",
    "imagen": null
+  },
+  {
+   "titulo": "Cinco cambios para las tarjetas de crédito y débito en Ecuador: desde recargos hasta nuevas medidas de seguridad",
+   "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMkdZSHVVQ0FDZmRvSFJfM3NyV0hiczBZOEs0bE5rUVg5cU9HTWJTOFVOTmFvSW9hV2hFOUppYktfYkhoa0ZHQXFLT0RqaFhjVlVZTlhFRGJLVEc3cTRHcTZWcjFkYThoWmRFV04wYWRsVm95WjRvdnZhSnNHMlZNcEJaYU1vZUpXUl9adGxLUkVPd2l3OUZkVldfWXhudHpMdDNiaGVadWVjZWpaS1ZDcENwa19SQnRNaWNnLXgtbFVGOGc5ejVhVjF2RTJuNGdmSUtFVUd1SzhBYlF4bm0zcDZNbzg3M0NjRXVIanJZeC1PTVBrUHBj?oc=5",
+   "medio": "Metro Ecuador",
+   "fecha": "2026-11-08T13:58:24+00:00",
+   "imagen": "https://www.metroecuador.com.ec/resizer/v2/3GXD4BU7HBC5NF2LPHNBVKCI2I.jpg?smart=true&auth=3c10203f4e011555ab8fca1e7fb7e516ecf0e08b0ea287ed1fbb3e52bdb01fab&width=1200&height=630"
+  },
+  {
+   "titulo": "De los contenedores de banano a las entregas en alta mar: así evolucionaron los métodos del narcotráfico desde Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZjZlcVBlaUJBRnRxTFpRQlkxUDA5bDF3QXVyZ1FsYks5ZEJybzFwMDBxUzdoLTJDUDd6SlRreEtFOEloNWYyUUs0SWYxeTBxWF9FeTAtWUxrc1NYWnlTdTZTdEJXSzRRZE5jREFUbC0wZzFqTTdKSkdjNFc4anU5Qzk4d29RMm1mVzFfNVVkdjl2S2ZxNGRBa2VFMmFqTWEwRmw0S2pCYnNzRWVFbU9FcEZCMEZkUER3OEd6ckJsNXNSNmROTkRpLWpacHY1X0c2OElDaGpXeERlSWtGSm9EbW5MVlRfaExlTG11TklIQndmNHJZM21PZDFieGR5MGh0RFg2MEpINNIBogJBVV95cUxOMVFZT3FNNWxQbmx5VUJXUjZZZXJ3RTRZX09FUlk3MG9BYVF4Z2thaEpid01PcFlucTF4cG5qc0puTGVVeHVDaTYzS0xpN1JMWmphV2xQVkJCSW5rekpkNE0xM0cyT2JqYmFpaC1GTTdjczl6Zi13UWNjTzFXYmN5SnJnOEFMa3FQbDRsUkNvcUJqNEFMcDZxeXZ2SkIzSHFMZm9MaFktc0UzcnFXUzJQT2JqS1lFWm9CbW5pRDhUeEdzVXFFdFlVTjVhOWItLVFDZFdkZjJWNFVZODF3RnlrYUVwQUtJRmlqVnZXbG9sNXRZNkppSVFkaDVmd0FLR0FkRWxMTmVWY2RFdFgyaVVtOFktdkRtWGsxeEJqb1A0RmJNQQ?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-11-08T13:53:00+00:00",
+   "imagen": "https://www.infobae.com/resizer/v2/YYSSOAE47VHYZIRUG3F2SCE23I.png?auth=1c972b3d6b5b10bc0b69a977583cb8886d0e9e6d048c58d647cee343a082f6c5&smart=true&width=1024&height=512&quality=85"
+  },
+  {
+   "titulo": "El Niño podría alcanzar una intensidad extraordinaria en Ecuador, según informe del Erfen",
+   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcGkwNVY0R3NIdlFqUEticmN5eUhndVE3SWRPTFYxc284X21DNlY1UzRzWHpxcW5wR24zRGJPR083aW9jZHpWUy1Da1FvOTBpOTBsaWM4SkJJTWtCM2JfYlROM0lobm1jQV9WSHh2U0hwZERYN2VVRUl1ZkhqQUdManBDbEFCSXhuMS1BNzN3QXFoQkZxY281SjJjc3k0TWJGYW9LRUNOZldrYkUyX2JiU3FzR05KRWtaSEVvZXZUdlZRZ1JVcnd5ZE9yUXJpSzZuN1dUQnB6QUw?oc=5",
+   "medio": "Metro Ecuador",
+   "fecha": "2026-11-08T13:42:54+00:00",
+   "imagen": "https://www.metroecuador.com.ec/resizer/v2/EQA7SACI7RD2JOM6G5D5S2DIKM.jpg?smart=true&auth=7d4f6b26e8d869988823e12df9288560e0d3604e2f94aca5bc01238fd06a0f87&width=1200&height=630"
+  },
+  {
+   "titulo": "Nawat llega a Ecuador: ¿qué pasará con su recibimiento en Guayaquil?",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3hWak1DMVcyRVdoNUxia2M2ZFhtMXV2Ykx0azUtWk80SnJ1NDFsc2psdnZ5ZFFtRlNlOWRveWVzMnJHQU1rTVhZMEtacUtHRmlZVVVjM3BmZ3hmQWlpbjg0WGhfY3IzamNYcEJhMUVVZTZJM0NHZlMwRzlQSWkwbV9wRWxSdTVlU2lIQmpMNGtMRHhNVzdZQ0NQQzVGelRhTVHSAacBQVVfeXFMTUFvcXpiQWJFcWl2VV9BODd5d25Va0dVc2gxWnJfalgzbHpvQUt1R2gyNUZFaW1ndnpkdnZYcmRfX29PVTlWNG1ZTzlBVWtWVU5lN0tYZzduSWVMSFYyczJ4WkhhUzhfWGp4UTJoelVTUFNNdlNaVXBfZXY1NE4tQ2FvVkVpMi16NlNaNzJRZkowc3NMdHJ0ODVKMXdqeGIwbXNxb1BRYkU?oc=5",
+   "medio": "Diario Extra",
+   "fecha": "2026-11-08T13:42:41+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/10/23/6adb939eb7d4b.png"
+  },
+  {
+   "titulo": "Al menos 30 aprehendidos en operativos contra la extorsión y el secuestro en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeWR3NHVLUndXX3BJbGt0X0drRE5qUGY4NnZDTHlUc1Q3dmUzTUtycVZSekRLdWpoTUtmLXJST0FLV2tMOG9rMmx2WXVud3NCcXQ0Y1YzT2ZlVHdDNVRCRU1JSHpqRW1qQnFUU3Q5SkQ4TFg5T2ZyT2htOV9ReTM1NFlyR2hTLXFsVUZMcjY3X3dUeHVucVF2bnZFZXd2UXFLeU80UmFwVlNHWGdYdHVzZDRYOFZ6Mzh3TXdOOFNn0gHDAUFVX3lxTFBhTncxMmhfVms2RkRLOWpFRWRSdDdGMWZrQnFzcTNqQ21KRkRKM3NwVlVjcDFtekRiRzZxZEVueml0RV9UZmhSY2R2aGlWYU5xaUtwLUVsUXFxY0VkLWdpaFpldVZURnd2bnQydDdwcjRjV3BzaDI1ZW1VaUNhMEE5ZlU1TnBrdEVhekxELUlrN1RHN05lQ3Mtb2E3S1F3cTh1S2hZREU1ZFpydkRqZ0Z0QmxvT3dUWW4wSTlmMS1XUmNnTQ?oc=5",
+   "medio": "Diario Extra",
+   "fecha": "2026-11-08T13:38:57+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/11/08/6af0700e2eb3d.jpeg"
+  },
+  {
+   "titulo": "Zonas y horarios donde lloverá en Ecuador este domingo 8 de noviembre, según el Inamhi",
+   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb0dEYV9kdjFtOUowQTFUc0RoU1FWZzgwWFZHVFNfdDhJU2tfSXdWVUUxRlQxeG55bFVodkc4MEdscjB1UEVyV3FCM252clZNS2lfX0RHYjhRZDVDdW5iZHhWMVhVd1FMcUIyYV84WERncnFjUEJ4OVkyX3BKS3ZSU3NqZ1htc1hCQ2toZkpUeko0czFKVVRsZjI0S3hvTGlsUG1FOFFON1RDUURnYm5KaGMxdC1JU2hPenBmQjlhWTdLa3J3UnFrYzRBdXdsNmlFRUZJMA?oc=5",
+   "medio": "Metro Ecuador",
+   "fecha": "2026-11-08T13:34:32+00:00",
+   "imagen": "https://www.metroecuador.com.ec/resizer/v2/SC4O62W7CNC3ZMUWJLJRBUNHLY.jpg?smart=true&auth=be4fb20c6bbb55b6249789cdefb41ec6bd4f20b3fdaa5b1ea14a5a14a2b6f61d&width=1200&height=630"
+  },
+  {
+   "titulo": "Mismo precio con tarjeta que al contado, entre las nuevas reglas que se aplicarán en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWVpjT2lMdFRIWnF3SEdJTEVGdXFLSVNfOXZLQjU3SG00MHdOOVRuQUNSOGdfY1picjlSZ1NVTExRN0FnNGdaQkZSWks2MXpfa0FqWFVkcHlzQm4tNnF6ekY4Y3dHRzYzNlJibzQ5d0htZl9VQldwbV83T0liLWx0eU84cHZlNzFQYmZzVlJETF9iTFE?oc=5",
+   "medio": "El Mercurio",
+   "fecha": "2026-11-08T13:27:20+00:00",
+   "imagen": "https://elmercurio.com.ec/wp-content/uploads/2026/11/credit-card-payment-buy-sell-products-service-1-scaled.jpg"
+  },
+  {
+   "titulo": "Personas armadas y vestidas como militares irrumpen en la vivienda de una alcaldesa de Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaU9vR3l3RkFYdVR0Rnk5VTNfeXJGNFdJa3Z1aVhRWDY3REkwTU5NQ3VFU1FDRkZmSWdVY2hMdFJWNWFXTVVqbmxiOFI1TzgwZG1teWhKeDNyQ0Z5M2Ztb0laeE9NYjBERks3c3dlSG1hR0tnd3Nkd3lKTTZsdnR1M0lJTW4zQXY3cl9kQkl3VEUyeHVISmJmNWNFSXd0eTBuY3BzakQ4VEZUR0xGNmZiV0pSeWkzTlM5NDJvRk5adF9CeE9SYUVSNmJ2a3FzYWRyNWVtaw?oc=5",
+   "medio": "unitel.bo",
+   "fecha": "2026-11-08T13:14:48+00:00",
+   "imagen": "https://estaticos.unitel.bo/binrepository/499x281/74c0/420d280/none/246276540/OICN/c1_101-18423620_20261108132007.jpg"
+  },
+  {
+   "titulo": "Miles de personas protestaron en Ecuador contra las políticas del Gobierno de Noboa",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdGJNMXFvZTg5c3ROZkk2cTNwN0xsRnVPUFJvakVsNEhockRCRzc2MFViU3FrYUU2amFIejFTM0JxMlpLY25kc2lFYkVycFJTbjQ4eVBsTTlYN0N1dUVmTkxJVExWOXJjN3FJeWR3aHRsb0FxNnJyNGJueTRHaGU3bHZyU0Y4cWdKYTMxdWdUYS1xeHhwd1pJY1k5NHZDR0NYMFNCU1pnc2gyMEFvY2RMZ3JMUnM3b0lUTHVPUDQ3andxdUhHanJ1M2FEVFE0UQ?oc=5",
+   "medio": "El Informador Venezuela",
+   "fecha": "2026-11-08T13:08:47+00:00",
+   "imagen": "https://elinformadorve.com/wp-content/uploads/2026/11/protestas-ecuador-captura-de-video-en-YouTube-de-TeleSur.jpg"
+  },
+  {
+   "titulo": "Capibot, un \"robot capibara\" desarrollado para apoyar a niños con autismo",
+   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUxCX2U1X0E1THY0WThPQlBkNVNfMG45cWxJMGgxcUZuVG4yVVRFVm1hdGZuUGdpZUFpbW1xMWpSejVDY1ZnU1M5THdxWG9vaUhNTXlNWUloYjlFYURmZkh1RHMtZXBDdzlMNWNSRUhyZm41d3MzSVcxQTZJeGRNOVpucW5Fb0Fib2VTWlFpc2VNcklGdXhMZFpPYmpGeFVhQW9HMHN5eERaZGNUUThTdXBZT0VSTmZKdmdiQllvT0Fzd21JUFRNcdIBzgFBVV95cUxNcndEV2YzaHVGbUxldHBjbGxGYTU0WkxRRWtiVnpYNi02VTBYVlJ1N1ZMcjBhZXI0TnVMZFZpRUdER0VLVXN6VlQ2SDZJS3RNMVhPWlIwY2UyZlRPekJvUFBUazlRWENCbGs5VlJsRmdaOG11ZEozQWZ4NXdiUk1DcXRndkdWUUlOaDd4bDdRNVBCTmNiMks5QzEtMGJIWGE0Z2pLRmJNTEQ0WFZfUWJhYkpxREpWdXhTTVhjcHgwckk1Y29UcEl2d1BZRUwydw?oc=5",
+   "medio": "El Informador",
+   "fecha": "2026-11-08T13:05:01+00:00",
+   "imagen": "https://www.informador.mx/__export/1793290951791/sites/elinformador/img/2026/10/29/autismo_nixos_con_tea_serxn_apoyados_con_un_robot_desarrollado_en_ecuador_version1793290951152.jpg_573613936.jpg"
+  },
+  {
+   "titulo": "Multitudinaria marcha en Quito contra las políticas de Daniel Noboa",
+   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2g1T0dwbklKeS1lbFB5YjNRZUNTMnUxMVJKLW5lR2VNd0hiaVg2WHNpNjhuV25tM1N4dGNDUkVUTEFxYXNTOFpXZGJucHA0SFpXV21LZlZ6ZFp2MWRCakFjMWUyS0g0OXRfdXNaMGpZWHFNQjlkM1lWSFdQWGhvUUN0YjhwY2lDNUNQeEV1bHdoQVp3UW42NmQ0WmJWaUpUU3VhZi1VcHNvQUxCZTNUSFF0VdIBuAFBVV95cUxPWllzc2gzS21WSGsweFpldG9yYVJkTHNFaGNGMVdWME9pN2owdUdXMzdNa1FCWlRxWkNqb0FGbVF0d1B3ZFdJVGtBT1FsaVQzakdhQWt3Mkp3ZDI0RllyamtGMnpISDdaSFRaUm13Xy1kRXVpb3J2OE0xYk5BemdaRU9zTDBOaFBxU0I3UThYVEh2XzEyUTl5bnk0VW1RQ2hLY3hHMFY0OHE5M29BRkp2SUpYMlB5Qldh?oc=5",
+   "medio": "Cubadebate",
+   "fecha": "2026-11-08T12:48:59+00:00",
+   "imagen": "http://media.cubadebate.cu/wp-content/uploads/2026/11/Ecuador-Protestas.jpg"
+  },
+  {
+   "titulo": "Bomberos rescatan a tres personas durante un incendio en Miraflores",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHZPN3NaRFdKaGFJeUxjX0Ryc0VETWlmajQ0c0Y3dWdocVpXVF9KWnRrYm9nNHR1eHlLOWFDV3hRQTdFQ0VYQ2hfcEliRmpKbWFDQ3NuMkl1YzZKVFNJRHczalZVQUhTcXVNbmdHZktQRVFzVll3SW4tTkR4RnFhR3FMOHBMSHR3ZU5Lam5EakQ2Q3NPbTdaT2h3SW9BUzlXZzdYTXI1VHZCd2dBSDN2RFR4djJOVmFqbWfSAc4BQVVfeXFMTXhpWWNZTXFKWm9GQ2FRSjFkdXlNRUU0ZFVVc1RtbEV0Y0U4WW1XNk4wN2gyei1WR2x6UjF1Y0phZWRfOW5lY1lyTjNkdXROY2JUVEsxM3hzOWxlNXVRNkM5ZTBYZ3FHSmxPWGhZcV9qc3hBMmdOcnBhbU1XMHUxT3ZIRlRhOWNTdVBNQkNCaXEycE5xQzNYTlVOXzhwZ2pROF9qSlBRdDBjbVg2VTBDMHl3UWVoaXVaMVUwZFNRZ1NnTHJxVC1qZWM0YUQyWEE?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-08T11:22:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/FFG75GOFBNDHTOTYSFHTUCZJRU.jpg?auth=a2742378ad530ba7441430e0e10539e848657715f8e958a83d7d62c4b2ddd3d6&width=1177&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "El Niño impacta a Ecuador: ¿Qué hacer en caso de fuertes inundaciones y cuándo debe evacuar?",
+   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNamVDaFZxVUozaE1Sdi0zQ3NPUHUxOGxOdmpjQlFNWjg2Q2k3anc3WHNuWVF6MGl2OWpDbVRQemxBV3NBUjdNOS1Sa3RHVy03cUh0ckswd3JrcnB3WGJkX2VhelF0U3dkX0VPU1NiMVhuVmVyb0tHRFo4N0ZkanotUDBneENiZnA3WEdzYk8wYjBkbE5UNUZhalRDRXExYlE2NzVPT1ZXeUZ5cmxRSzFQeWdLZXNQaFVMUUFDTmczcUNPNko2M2c?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-08T10:55:00+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/04/6aeb6a8260868.jpeg"
+  },
+  {
+   "titulo": "Los carros de la Unión Europea están en el top 3 de los más vendidos en Ecuador, a casi 10 años del acuerdo comercial",
+   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOFVTOE0zcEhRa0Y4ZFFSS2FOR3Q2aFl2MDhVVzZaenQxYXpaeGQwcXJocFRILU9FMWx0dGEteUNMbnF6S1BHdlE3dEhoLXFIZF9KZmRIOXE1dXdFb0ZXbWZjcXg3M0ZGWG1jdHh0ZGxYaHZTMy1lbXd6c2loZmQ5S09JRm40V2NjbTRyNjJ5Y3VoaFpoRTU0M1VOSnNyajNWTE80ZjJzb3BGd3ItU294NVRiY1Q?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-08T10:50:00+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/06/6aee183664f45.jpeg"
+  },
+  {
+   "titulo": "Del Cenepa a Irak: desfile por el Día del Veterano reunió a Ecuador y Estados Unidos en Cuenca",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOU5hZHRwMHlSM2R0ZU9VWmpZanJWMjIzSzNXOGxDV1Y5cGJSOWpvWThfdWNFb01NWU5NdHJTdVhwa1ZTeFR4YlVKZDF1SVY4X0ZDOUxVcFlQMVFjVG55WlRFbTVJSTFGT2pDd2w5MC1IOFdMR1JVRDBwMFZYSlBRMzM3dzR4LTZoNmhfWFhkQ2JGaUF0blRLNFJQMnlvYUJBMjFRQV8yR0s?oc=5",
+   "medio": "El Mercurio",
+   "fecha": "2026-11-08T10:01:58+00:00",
+   "imagen": "https://elmercurio.com.ec/wp-content/uploads/2026/11/desfile-dia-veterano-cuenca-ecuador-estados-unidos-2026.jpg"
+  },
+  {
+   "titulo": "En Ecuador hasta lo básico se vuelve una batalla",
+   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbk4tdlZxdGRSU09SWmJZN1M5NHJTdDFGbEgwb1pLN084M3k5SUNTMkZNZlVFeFVXYmlteW5xclV1OFBQdTc3VTQtbnlIX3VUTVd2VGJiUEtQTC1JSVhLaUtwZHl1T2FQZWFHcDJVRS1LcWdCbmJwVlBXZF9wNVMwbWkyM0R4OE5IdzhLRjRYSzU4WGhvMWfSAaoBQVVfeXFMTWhPSEFfOUFoTWJZOGJYNklDbmpTTC1WMW1YVDg4STNYS2E3SEQyZEhFZ19OQzBQb3pYdVNWUTN0WndnZGd0WTJjejFrWTFkX0tEMTMtQjZ1dW92VGcySlo3VXdPSVdOdkZnSU00clZsX3N5cnFIR0FLM1BjclFoOVFzLUl6amNnbHhRZGJ4bGZ2Y3NOSjRNajJYWmRrdFBsd2RucFlzU0tXTkE?oc=5",
+   "medio": "EL PAÍS",
+   "fecha": "2026-11-08T09:00:00+00:00",
+   "imagen": "https://imagenes.elpais.com/resizer/v2/LEBIKZEBFADBM5G5PBQURDOFK4.jpg?auth=7a306786517807ed24d45a5b51e45c39f6b02fc045dba0357a7e14767453066b&width=1200"
   },
   {
    "titulo": "Miles salen a las calles en Ecuador contra las políticas de Noboa",
@@ -88,13 +312,6 @@
    "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/Ganadores-de-la-olimpiada-de-robotica-1.jpg"
   },
   {
-   "titulo": "Noticias Mundo",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnAtck5UUUxvUVZuZXBfYTVkYmRhSzE2Ym9EV0t6VGxIN1hXYXBXRjd0bC0xTEkwMXJVT1c4a3dDSV9PU1BGa183VjlvLVRPc3NkcVc2YlBTLUdQV3kxQ0prMl9ERGxtVFBGeG43SWU3OWR3ZGNOdGlrTkZHN2RQSlM1eVlsM0dpaFoxcS1wYzUtUFBOWF8yZEFDTEcxVEd3Y014SGRhNnd4RC1la0lnakg4SW1yQQ?oc=5",
-   "medio": "portadadigital.com.ar",
-   "fecha": "2026-11-08T01:39:09+00:00",
-   "imagen": null
-  },
-  {
    "titulo": "Un millar de personas protestan en Quito contra el Gobierno de Ecuador",
    "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTRNd21vc3dfalNZQ19xTWJ5ekNCcFZuVDJHcWtZVTNYOURlN1ZtWDJPWURPOGQtcHZjSENoV3VlRjNkeUxtMlp5VzBCWW5wVFc3RnRCWE1HUFU0V2JnZ0oyMVhLRE9EMTc2amEtMzhibkhycG9PNWNlQzJwMEVYc2FmcFp3TUxkeDUtNDFhZUxBZGRHbFc4?oc=5",
    "medio": "HolaNews",
@@ -137,13 +354,6 @@
    "imagen": "https://www.vanguardia.com/resizer/v2/Y2NW2E6FEJD3XOL6AL2N2NXAOQ.jpg?auth=4f9cc658db644d4c8d49cec404112f202debbbff9da001015a8ca497542459eb&smart=true&width=1200&height=630&quality=70"
   },
   {
-   "titulo": "Ecuador brilló en la clasificación del Motocross Latinoamericano, conoce cómo les fue a los tricolores",
-   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb2wxZ1YzOVlkM3N1RGlWeURUeUNVX3A3OWctaERGb2ZoTUpzR1BMdEZ6a1lNanlDU2YwTndwN1pWOXRoQkN6dTdDb043Yy1tQVpCdWxBY0dqUkJ2UkpRSHdmR2xqdTYzOGdJcWVtNWE2SFlhNWdUSTI1X1VJMDBEZTRPR09fV0ozRmdubkJOQ2dNRm1taE1ldHdWR0U?oc=5",
-   "medio": "El Mercurio",
-   "fecha": "2026-11-07T23:53:05+00:00",
-   "imagen": "https://elmercurio.com.ec/wp-content/uploads/2026/11/2-6B-3-coles-2.jpeg"
-  },
-  {
    "titulo": "“18h58, más allá del tiempo”: Ecuador TV convierte la memoria del terremoto en una nominación internacional",
    "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVkJTcHB1UXd3ZXBuZ3pHLVNBbnFLQVFYcGg0ZlBtWTVwS0ttRVlGc2FGNVY4NzhoT0RJS0NfcXVOYmZ1Y0FwaU1nWVNBMVloUXRKeHRvQW5UaUw1SExMN0RrWXhWTS1HMHRSdTRseVIxVlRveGNlTjl0NjNweU44amdYQjNWRnZjWHNNbWxJbE54UHV1Tl82YUJGd2l0dzAwY2lsUmZ0VjVMY2Z2NzhvVEFyV1hOTUtkcDAyN3NWZ2xEM3FYczIwNDFlTGRwTnVDSU5vdms5SHJSNlBFSWI4QVV0cmFuT0Z2RnJ0ZGVaRQ?oc=5",
    "medio": "El Telégrafo (por eliminar)",
@@ -172,20 +382,6 @@
    "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/a25ab797a6677a5850e0835ab4d979d8_L.jpg?t=c38bf47e0ff3"
   },
   {
-   "titulo": "Ecuador activa plan de emergencia para salvar de la extinción a los delfines de río",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ0ZpMkpkeTZ3R3VGZWEyVTNuWUtKZ1BtMzYxVnl4WkxFcTRHTmR1SVVxSG4yVnJNdGgzZFAzay1RT0JsMWFlR09CeGNSQy1iaVp3NmpoZlU2dDlJOHpMZWVJU2lNRDNSYTQ4aVNrT20xbVluWnNUY2RiazlkX2VxRmExUEt2aFIxV1JNZ2gwVXVWeExvVFMxSEY5M09oNlVa?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-11-07T21:23:52+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/07/6aef9694f3bbd.png"
-  },
-  {
-   "titulo": "Registran un sismo de magnitud 4,7 frente a las costas de Ecuador #7Nov",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaF9nTUh4aEQ5VVpFZlBKLUttcnlTQlpKalNJS1Z5MUMyUGhBd0NXLWs0Z0hzZktQbGtFSVBHX1FpSm1QUzRFOGhwOUt4VWdjMFlTX1JZdFNjb1RLa3h5V2pobDlHTUNoek5PUHRlcDdFQUhaYThNelZDaWl4S1NnWExSRUU5ZnYzQk5YTXBlMGMyeHZuNnd1dkg1bXVTNnc1QnFmLUhTUVJqaW8?oc=5",
-   "medio": "El Impulso",
-   "fecha": "2026-11-07T21:02:24+00:00",
-   "imagen": null
-  },
-  {
    "titulo": "Cinco cambios para los usuarios de tarjetas de crédito y de débito en Ecuador",
    "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWl9uR1N3NHNSQ0tCQkdiZ25CcExncHpSc0FUUWwzajhXMlduNjlWU2FyZHczZUVVaUlGSGxTRmxqTDhzZl95OWdZYlFzQ29yTVpyNXQ3eWppczFNUnU1VU9nc21SdEtiQWlxaVFXRlF2LVVrYVZDRWN4Y2RxcVVLYWJlMjUxUm9neXZFRWhJdlAzckV5Uk5wRw?oc=5",
    "medio": "El Comercio",
@@ -193,18 +389,11 @@
    "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/cambios-tarjetas-ecuador.jpg"
   },
   {
-   "titulo": "🔴 JEDPA 2026: escolares representarán al Perú en Juegos Sudamericanos de Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdUdVTVA4R2FmeEUwUUdCd3p2N24tQVdLclF5VVI3SXp4ZGxOdm9Menp3MXdMRHFqMUhZYzRqMXc3WmIzbVBwWDVPcjJoM1Y3UzBsb3JhX3FseFRvTEpHVlJQQTFZN2wtRk90S29Ic2N6NW1jUDdMcm5ZM2ZjeEhKREpOdXQzNmRtMHVpdUtUcmlPNkhmY3l3VVZ0TGJYY3R2Y0VYNXY2eF9Tc0hiM0h1czVKbk9GRGROTFJ6OWhUNDFMUnlyLXhJRkJBRkxNU1lwM0ItdFk4MXVtWDd5ZUZmbGs4Y3BOM3M?oc=5",
-   "medio": "Facebook",
-   "fecha": "2026-11-07T20:27:33+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "El Niño (Ecuador): graves inundaciones por el fenómeno que también preocupa a Uruguay.",
-   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOVpiY2doaTJjc0JFd2dEOVR2WnFBbnFoaS13dmNWWVVaT3F5Qk9rZi1FV24ybkExOHVnUWNNak44Z3ZIelV4ZDlpb296NTVMVEJPLWRuTGlac0QxSHV4aTMtUC1JMkYxUGR0aXoyNzJIdlBfVlRPQ0k3YllfR2pWTVl6WnF4cXJkNElVNUU1TDJkQnRWa1ZValpTN2tsTFB2eGtfMHNkLVJEcWdSYUxHSFVGUXYwRkJjdkNoQThQVVR4RHJX?oc=5",
-   "medio": "Cadena del Mar",
-   "fecha": "2026-11-07T20:02:35+00:00",
-   "imagen": "https://media.cadenadelmar.uy/adjuntos/galerias/000/065/0000065887.jpeg"
+   "titulo": "Se cumplen 25 años del día en que la selección de Ecuador clasificó por primera vez a una Copa del Mundo",
+   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLVpaWU9ONlU4V1hXcUJ1U0w2VnBYVHMxOXYxbzRHWk9OdmlMalcwMXAyUllNSVhXQ3NvMXVsR1c2TGF6a010U2UtWXVkRFpSWmdvdlBtQndXNGk5VTYteFVseHJTdmNBSHFzd2NYd0tHWnlHMFBick1hLThmdVk0RUhEU25xTUVRTDZsTEdUcXN3YjNkV0JhXzFvRWY4NVlCemFHYWtiYkRBQ2ZfaXI1T3VNOV85bE9VaTNESXRnSlVEZjRXZGppWDFOYzVKUWZjOGhCWW5PMWVqVGVBMGlHa2tlM25PbVFx0gH8AUFVX3lxTFBfLXlSem1sZXQ5a3VEMWZoMGk5Mm1iczNhN2NQODVHbm5leWw4d3FjQVZVdzhHLTd2aUM3QUFITzN1S1l1RDloYy03aVU4OEpNbTlqNFozclppZXFpeWV4U2g3bENHT1hkZmQtSncwNVBRakNlOTZNZC1IVzRHaHR5MVdqNW5HZ2RPOXROUmQzVzR2Qm5BR2JRMzU3REE3SVYwSnIyQjdUdGFSX0VsZFJCdVotd2dpTTBBOE5OQ0ZDeWtLSDVJMUVhSzZPQ2FVT3V4eGhoOU16T0Z5YjlZVV9TY0JaSkk3dThqRlJ0OThTdGhncmU5eEZza3Yxdg?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-07T19:41:47+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/LOXFTEXMSJC7FFSEYPLNWGAU7U.jpeg?auth=97c193b6ff2772eafb69d53a9c7fbbb366541878e915c7b176d074bc0f0e4bf6&width=832&height=468&quality=75&smart=true"
   },
   {
    "titulo": "Costa Rica anunció sus convocados para enfrentar a Ecuador y Argentina en la fecha FIFA de noviembre",
@@ -214,25 +403,18 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/5PCUQQ6P6ZDEFLQLNIBIVJO7KE.jpg?auth=5e8ad390e056d046f2d6c0dfa6f9ef8e92953dad01268f8d42f42892fe32315c&width=1001&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Lluvias en Ecuador: así será el clima este 7 y 8 de noviembre",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHYtUHVUOGY5OEloZU0tajVfN0huaXU0RXBBZnEtUTBtQmpVQ3RsaERBdGl5VXZ5Mlo1YmhFcm9UcWJnSFd4dU5tVXdHRHU4R1d4VmNNT256cHJkNnRQQUFRTU9EVmZEQjBqclJqWEV5ZUFVX1psUklzTHNNQ2VvMTk0NXFYQzB3RTZabnRaTmFvR3Nrc0dWLXJNdXMzWnpFLXNtam1WOUlqY3lQazZzbjM5QjZpQQ?oc=5",
-   "medio": "El Telégrafo (por eliminar)",
-   "fecha": "2026-11-07T19:41:16+00:00",
-   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/45457891537b492cee6bdcd6d6797cb2_L.jpg?t=288f03a27bfd"
-  },
-  {
-   "titulo": "Presupuesto Ecuador 2027: 50.213 millones y un ajuste que amenaza la inversión española",
-   "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0JKb05FdUI2S1BKeFZoR191d29FLVhFeHlqSnZidmc3MGRLQ3o0LW1Tc05XaUJOQjdERFU3anhsU3RNSDB1NS0ydExGRjE5YUNSMzJEcXE1MmtwbWVRSWxrX2NnMFRVN3FvMUtEM1M0cnFVUDBpLXJVUVowNXBBOTNfZHg5dnVjS3o2UDV3blM?oc=5",
-   "medio": "MONCLOA.COM",
-   "fecha": "2026-11-07T19:12:44+00:00",
-   "imagen": "https://static.moncloa.com/wp-content/uploads/2026/11/presupuesto-ecuador-2027-inversion-espan-portada-1024x683.webp"
-  },
-  {
-   "titulo": "Alerta de tsunami en Ecuador es descartada por el Inocar, tras sismo en Puerto López",
-   "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZXM2d25ZMFJZdWxuYjd5OFF0MGYycDR4bjhsWVVXdXdscjNSa2lWbnpBZ1NGVFJDbThrUGZPVDFqek4xRnRSNzEzNm85NEJBUzRMWVI4TkZMZWtxY19XUGZyVm5aY3JTRHNSZzExMjZVS203alZ4Um82WDFIVTZUZ2pjX3pPQVBTcWtFdmt2M3JYbnc?oc=5",
+   "titulo": "¿Qué es la 'palizada', fenómeno que invade Montañita, Ayampe, Olón y otras playas de Ecuador?",
+   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTkVJWnJLQ2h1U3B1SEZxdmQxNWN5c1dXeDhLUXA4MmVDT3BCeWhVVExyenVaWnRMblc4ZHlITDRJM2lFQlRMWS1teG9HZzRWa3hVNmloTGlKVUNUTi1yYlpDR05WVjU1UXpLN2M2R2tYY3FHVXg1d3VBVFd1RzNNUi1tNEdPODdoTWtqd0VVSHg2NWhVTDZWYTBhWFYxUnN4bVBZ?oc=5",
    "medio": "Primicias",
-   "fecha": "2026-11-07T18:38:13+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/07/6aef6c22c50c3.png"
+   "fecha": "2026-11-07T19:23:06+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/07/6aef774a2e7d0.jpeg"
+  },
+  {
+   "titulo": "Temblor hoy en Ecuador: reportan sismo frente a las costas de Manabí",
+   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnlMeW80OTdxR1lZanJUSE1sSzdzdm56Yi1ieXljSDVMLVVUS3ZzNFdhUU9oaF84eU1RQzdBUGRXU2p2RGZNSEduNy10X2h4cjVGNE9vRUh2aTFCWFZpTVpwVkdFci1Cc01kZXJNb0dqb0RBai1qSUZNZmd4cG5TWk5XTG8tVTFwWHN0bFBlbm5zRXZtMkh2SFVzcEdDNWlFR1dzNjVDVdIBrAFBVV95cUxQLTEtNzZ3WkFRMnY2X1hPLUdsb3dyV2NWanRkQjFyZTE0VTNwdDNyN0RtYmd0WkpnUlRlak9FVXJlbmdNNXFfckFwN0c1NzNUdmNfWGVUWDJIcjJ2QXB5VWJRd25WMzYxQlRPR3RfWTZTVWtDeHB1cHZCUU9MSFEtcWdnZWJqVXItMnJaU1lna3J5a2thZ2x5ZWluaUdsQnQ4X2lMeEw4cmR4cVlL?oc=5",
+   "medio": "Diario Extra",
+   "fecha": "2026-11-07T19:20:30+00:00",
+   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/11/07/6aef75e5ea3b4.jpeg"
   },
   {
    "titulo": "Las leyendas de Ecuador y Colombia se enfrentan hoy en un partido benéfico: a qué hora y dónde ver EN VIVO el encuentro",
@@ -240,188 +422,6 @@
    "medio": "El Universo",
    "fecha": "2026-11-07T18:34:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/DVWT6JPQHRC3HL33NOW5263EUA.jpeg?auth=5779dd15867316de4c8dc933a434f2cb753fdb93db558688fa96ac5d800b6e77&width=893&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Fuerte temblor sacudió Ecuador este sábado 7 de noviembre: ¿se sintió en Colombia?",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMzdKS3RPdEhWT1JxOXo3emFYWVItUE5jWGZFbHdnTGl5ZXpaOVozWkN2cWtlZzNINjlDT1RFTU1ib0JybUtMT3JYVjdTVkRDYWdKLWdFTFk3aW5FYU1oLUlXajNiQ1BSek9GS3dEa2gtRjZ2T1g3VjZVMW44QkZBQk1JNXdYMGo3VlJndUpILUNjcUZHQ043aGoxRkE3TVh5djBJaTBJTV9UZ3PSAasBQVVfeXFMT2pXUmx2ek0td001TENEbkV5bUt2dm95TkxRaVk2M3FQd0hHQzkwX29ZbGV3MlVNdkVPUUlqZF96eHZhZkZtWlBtNmtKSGpmTm1Mdkl4d2liWVFTYk5pa1FoMkViSE0xNGs0NFJLN3JBYktZd1J5ZllZYkJHeHN3d0h6WV82Y1h6MlV5amxHamFBTE8taXBCY2d1NHdkdDJDOEhZQTY3WEZubmdr?oc=5",
-   "medio": "Noticias RCN",
-   "fecha": "2026-11-07T18:33:11+00:00",
-   "imagen": "https://imagenes.noticiasrcn.com/cms/2026/11/07133204/temblor-ecuador.webp?w=1280"
-  },
-  {
-   "titulo": "Moisés Caicedo podría no jugar con la Selección de Ecuador por este motivo",
-   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQU9xTG96clc2cU5QU1gwVjQtUGxsTm1Xa1lpeGg3RVRETi02aXRJVVdoQlRaYml4LUU0REl3aTNQaDR0bTk2R2tGeS1LbWZhT1dLa0VkTVFMUEZnTFAteDEzVjliVW5VbDNyX2dIdWRNTmZjdUE5bEZlOWE0VFh3SHZaS05saUxER3dGTGp6TlpuNVZ6X1dDdndfTkJwWUpkNWNXTmN0Ulo1TW5FWmfSAbMBQVVfeXFMTW90OXQ2bmFFRzdEbjRYT0FtTEJwSk43RzBvaEJveU1CN3ZPY21LUUZpaVFJdXhCZHNXc1NFNHY3VTZUbzNFUEp0UmhDclBNbkkwb2g4dlVJaEw5Qm5tYllncFVFc1VTNTlFVmJxYmk0elN5SHBTdmYtdGFfZ0tZcDh4eGRlZ3ZXbDBxS2YwMWhqaXZLcGd1dTA4bnpDVF8tSm9FZU1HRS1aUHJucHd1NWVsYm8?oc=5",
-   "medio": "Bolavip",
-   "fecha": "2026-11-07T18:13:11+00:00",
-   "imagen": "https://media.bolavip.com/wp-content/uploads/sites/26/2026/11/07151228/BOLAVIP-GLOBAL-2026-11-07T131159.654-1200x740.webp"
-  },
-  {
-   "titulo": "Nuevas reglas para pagar con tarjeta en Ecuador: estos son los cambios para consumidores y comercios",
-   "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOFVlN1pVdDlTZF9SNGlUV2hJX2pManI0N2VtVDZGUl9FaVk0X2JBWHZQNkVCZHNKS0xPQ0E4NFlRRkItM3pWemNfbWFiR1l4YUJQeXFZZF9KSTlYY2UzYUNrcDdSOWN5NFR1VGFwb242eElmUHE4UzZmVlZIMGhhMHhWbzZJYXhzVXQ3QzJyVmlwMUxQaHNCcjBYbnZrWTBOOW9wMjFZcUZ4VGZhcjJ2Mk9hNFpFcGpJbVZLWTVMVXNCXzZrTnVkOXhLX2xkeFVDdk1PeTB2U3dqMWF3UFB1SDY3S042MmtUOTBlNklaOWRiV2cyYkHSAfsBQVVfeXFMTlZjOWY1QUJXLUM5cXRLS2JOTkhhR3ktQ082SFVKQnEycWJYa0tUZnozQnpZZ3dCM0tLN1dKZVAwcUlKY2hLTDhEQmhqVWw1YktxWlk5X0g3b3NPdXl2MVhsUzJWSldYeHo2NDJNQW1PRHhmOXFEX2RVb1hjOVUtNjdJY2VlOVYwYkhxOGhwVjFRYW1ZTnZ6YklJUzRKYWEyajhCZGtaSjBKMWNoQ0tUUFdvZWtXVVd2OUFUU1Fmd1NjZ2RDVm5MV0o5UURxRkx2ZkJPdDg5c1lJMzRSUTU5cjdNempmaXl1bXBPLWF2RlNCZUh5WVlsdndzcHc?oc=5",
-   "medio": "Vistazo",
-   "fecha": "2026-11-07T17:52:46+00:00",
-   "imagen": "https://www.vistazo.com/binrepository/1147x600/274c0/600d600/none/12727/JOGR/pago-con-tarjeta_2768347_20261107124716.jpg"
-  },
-  {
-   "titulo": "Lampe regresa al arco de Bolivia para amistosos ante Perú y Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0pkYnI2d1k3dGlKUW45cnhBcFc3U0p6SHVWM2dKTkNTaHJEbGdYejF0TFVOa1lCeHRkZ2VsLURGemdqWmNoRHRjbFFoTFd2cThtTVkyMmFhaTRTUUt5akl4SkN3VXRla2QtYWVuM2xBTkNfQ01iLUIxenVkcE1nYzVMZjFCUUc1MHFQUGJGb0pkUWo4clBVMGhJYmdnWVR6QW9yc1UwSmhrS1NQVF9HQ1NyNA?oc=5",
-   "medio": "VS Sports",
-   "fecha": "2026-11-07T17:51:18+00:00",
-   "imagen": "https://versuspy2.fra1.cdn.digitaloceanspaces.com/versus/wp-content/uploads/2026/11/07145059/C2LQCC4OMZCNBOA7QYVJ42VWWU-1024x576.jpg"
-  },
-  {
-   "titulo": "No viaja a Quito: Keylor Navas se pierde el amistoso ante Ecuador por molestias en la rodilla",
-   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd3VneThjR2xSRjhuQkRLTEZManBPTkVGOHNnaDhSY1A5TFUwNnZ5ZEFaSVlxR3lmdDJmMUVhaUFvQmhDemFjMHV2SnpseXl2bW9PVnBjXy0yRGswTjhQOWh4ZUxHdkhwQWxNNHJsS2VoZHd3a0VHUldrZjRVYVV1VTNjUG12NUVQTUU1SGlPR3ItQkFrbThlSERNRVZJQmNYN0JaSXl5VkFxOUduY25EUThHNTVTRmlOdlB4Ti1laTdFanpQdjAwY2tfRkRtMjctVXF5MWhOeGbSAewBQVVfeXFMTzQxek1kazNubHdYZVM4dVFneXVzakhuSFhXaTlxRjNyVWhRNzdZN1N4M3lJMFFSbXkyLTlDTVVlR3N5VW81TkZNdVVLSHlDRVNpSnBIcGFIN0RXSmRyNWNFUmxZYUZvekNoM2VCYkl5bWloU2VTVXBrWEMzaHBUWWZiWi1NM2o0N2szbURtQUw3VjRzdEhoVS11ZVkxRlhlRW1DSVNIUnRwVjY4al9ITk1JTGZISnRCclNuRXd3NVNoTkR5Mm1LZ2F3RTh4c09xd1cxNGNmQlV0c0J4SHB0elRra0JXWTQzVTJLTDU?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-07T17:22:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/MPAP3XBQ6SXPOPKMFLTP7T5HIA.jpg?auth=8be4448dd09a7c7148b7ae8c1b7ac1e473ee5136f916f89d49072150f592fb9c&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Lluvias en Ecuador: 19 cuerpos hídricos desbordados, la mayoría en Guayas",
-   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXB4N0R4VGU3S1BuRGJFblY5ZTZ6SGxiRmljQmtqMl9fTGp2Mkl0a3ZJWkc2a2lPMUg3TzZ0cjYwb2ROYUhRSUFYbzJfRk51bnAyTTFNUzdTTVJOMGsyVm5mM2J1NzBVbmRja3pGVmdMbFdFWm0zbWxkR3NLSXNHVkh6Z1BsRVhLd3dZODktZzl3NXlybXVaUTFOSWtfRVU3YlFjeDFyd1piNXZ6UVctaUxoWWt2NFlwdS1BeEwwR2hVTE0?oc=5",
-   "medio": "Diario La Hora",
-   "fecha": "2026-11-07T17:14:26+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "¿Por qué el Black Friday en Ecuador se adelantó al 20 de noviembre?",
-   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdFFfSE1vYzl1czlYMEp4MXIyMlA2b0JyREtjQjJNcG40YmgxelZ1ME9BSTV4Wm9oaE5nVFR2eXRPWjkyS2tvSlE1QUNQRG9lT2E5dFgzNUQwQ3VULUNWRGI4bnBYZ0xzRU5lREtPZ0FvOTlWQk9aUXo0UnJZVTc1czl4U0piMHlaRm9Pam9aQzZEVTFKeUFHN2Y4MXM2U0E4X2x2UDd6Z05XWFpPWGVQVE01S0dzRkw5b3RGWW1fN2RkaVN0VTRDMWF4d0ljRUYxUGxOVUV0R29MVEFzUi1COGVNQ294QXpoNl8zRtIBgAJBVV95cUxOZDhtd1RvSDBiM3drYnJtSm5pS253WVRfSEs2V0lGdTNPYXlfcGJoU3IwWnYwNGxncXQ0NHJtRVNsX3p5dGRqeWtEelhMQkc4LVVkVXNCZ2hkZ2Y0SG0yYnlNWi15dksyTk01RXNNb0gxbTAzdzIyeG5sV2VkeTJfRmdCajdEUFlkbG9rVHpRQk9CUjlsSjAzMzVfbHA0TklscF80aWlDb3pWM3BHMEgxbUREZm9adkhiR0h0THhUNEQ3Skx0dTZGX1VBZ1djTl9TZUdKSXRjWlVCMXJNMHdsX084OXY1UXd3MnNqZzJwNC02T3IzUXdpUk9aMXE1MUVI?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-07T17:00:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/WFWHUMVWQRARFDOXTBIU27BIZA.jpg?auth=a68b411a69cefd60771ee8d63047053325d4f034686ac561e0d8880e4127cdf4&width=1110&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Ecuador cambia las reglas de uso de tarjetas de débito y de crédito",
-   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1BId0xuTUkySHFTSEl5ZVE0ME55LXpZRnllb1lwdTVRYVg0TlBfNnFTelpsbVpWOEU0bHJ1N0JQZUxCUlJ6ekh3bjg1TkpyMUNCR1pSMGdWWlF3Xzd5cGljWC1SOUl4ZUlobkZSNFE2bWh2X2RDczktVjJ4d0dsVTc1dEJrUnFsV3c5NUU5V3lsVEUwTDJGaWpB?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-11-07T16:57:40+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/reglas-tarjetas-ecuador.jpg"
-  },
-  {
-   "titulo": "Pagos con tarjetas en Ecuador: comercios no podrán aplicar recargos y tarjetas físicas se emitirán sin datos sensibles",
-   "enlace": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNWkNKcHdaUTc5M3JKNWo1aEhVSW1rZWhQbzBmLVBrdVdMaXp3Z3M2bUV5MEMyR0ZPYnZEajNzT0JmV3o5SjI4WFBONmMwSms4d3JyQVFLc1NwRkREOE9yaExteGhYbnhlMmlOZEpDcE5MaXZvaEgySS1aQ1FWc3NJNlU0VmlCdy14dloyRXNHb0o0U21IZldxSTNwZHpveDRtTFMwUmp4ZTJNa3JlTzRZT2tCSnJyY3labEJVVVBtWDhWcHhVaHBGUUlSUEl3YjNKaEZHaXZ0NU1XVUFZTjE2bGxmbjE0Vm53OGt1WmFJZmY2VEpfNHdjX20xVUV1UlRXWGVLVVdQSUVyVmJyYkY0d1lQT2ZPYzc2ZXpyVWgxaEhWLTNfV0pyLVNueWhQNll2WFHSAcYCQVVfeXFMTVlodWVLaDdwdXlWZWNDLVp6SWJtcXNVZXdyamFkUTFtZjBrTXFVU3BoNlFudER3SmgwTUJUc3I1TFNVSHRWbWIxMWx6em1DTE1haUtEVjJLMGQyWkx6Q0hJY25EY3Y0Qi1NUmgtUTNQSUh5bnlUMGdPQ0taY3hSa3p0Vmoxc1dNY2xKQ1dwT3JYbXMtNnJtUEdneUFGdzFYMENSM1Z1aVZ6MmpnREVHTTR4WlIxM2tXUmE1ajhCTnlCNXY0SDBrSHUyeldwT0Y1eHllRHN0anMtQlZzSFMzV3pHTnItVmlfVV9mNURhWjFHdFZBSzRtY2g4bVc2NnZxS1NVOC1FRG0tWGtKeWtxbk5Tc2h0VHN5UHhwOElWVnZYblczVUF2T0dGUF9NOC1hZEw0X2dqVS0xR18xdjFlMHpWRy1LRXc?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-07T16:55:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/QXJCSTJA4FDEDMR3VQE3C2ZKKA.jpg?auth=2a84663ed1625a7fc6c3d0e4714d28dbc1e72dbf9e8a8cc367aec4ea160c3c38&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "¿Por qué Ecuador tendrá un día de descanso el 20 de noviembre si no es feriado?",
-   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPck85U0FRaF9QdTZId3JIeGMwUkp4UVBhVzQtSjZXTlRzUHk1amQ4ZGNCOE9wTnN0cHd1dzJob1lOdFhlR3JCbzI0bVh4MXN1aF9ISDBpNUp5MHdXNF9GanBnODhwNWJPUXd4M003NnlJMWs5WUxwTHpUeDdwZkh5aGhUTS12aWVNNkxodll5Y081REJmeEpBSjRMRk5tZmlPNV8xb3FXUFlSLVEtSG9lOUlkTmJHb3ZBb1NXcGN5Q0JqLWQ1a2VYQXZvUUF0VDF0bGM3SNIB2gFBVV95cUxNWVBPUEk2OWh1Y3Nicmk2Z2tVMXhiaE5NRHA4LWtIUzVublhid0c0MGdZY3VvVmkybGFzSDJZcmZETmVZUDljanJQMTM0U2h6OWxRRDR2d2dKTllKNEtWUm9yUWNLeGdaVE5VZzB2bS1PLXhleUdlUVk4MFp6VmVkcWVZNm96cjJYV2dYcmFQNHZSWWk1eHQ0a1RUbTlDVlpRTDZ2MF9aeG5oU0pGX1F2MnZSdHo3elVvQlMyWFhaQnJjSmlzTXlWY3ljZ1Rmb0oxeUZObzlvM1ZkZw?oc=5",
-   "medio": "Vistazo",
-   "fecha": "2026-11-07T16:39:45+00:00",
-   "imagen": "https://www.vistazo.com/binrepository/1147x600/274c0/600d600/none/12727/BSMO/feriado_2768281_20261107113731.jpg"
-  },
-  {
-   "titulo": "Las leyendas de Ecuador vs. leyendas de Colombia: fecha, hora y transmisión del partido amistoso benéfico",
-   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVJoX0hCMjNURERWUkFUZzdfd3FrMm1hT0pSdDRzNDNyOGs1UFlLXzI5Z2ZCd1hYWnlhVF9qVVU4QldDT1FiTVpNTFZMQ1FWZFpTTDVlMThEa05RTnRQSXBUMW1HcmQ1S1FTS3Q1MDdjMkFIZDN2ZEItQldZY0IwY1VmaENFZVh3VW5hTWJLa0M5NmlEbVpXc3NJQXpROTBNUkE?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-11-07T16:38:46+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/07/6aef4d19eea4e.jpeg"
-  },
-  {
-   "titulo": "Marcelo Gallardo no convocaría a estos jugadores para los amistosos de la Selección de Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFZ5bTB0NjRPNmk2YWxTcHJtOEZkcVUtUU0weC1Ec09nOXJtb1ZkbDMxSllNYjkyRF9EbUtneGdQdjFIRmpUQndCcTFwV0dZOTBSdG1MMjFYU3J1SmhPajcxejBmeURKT29Ba19WWm1oYW5sVi0xOUJSQW4xcEZuM1RkMk1IZU82NkRGdFp5SDVCWkJHQ2lSc295amFpaWRJeVhUdzh3QnZMMGVwaVZ6YWVFMU1acTZRSjRsNDdZU09nVXBwZ2xTadIBzgFBVV95cUxNdEZoVHg2TjVVbVVxR0lsak90blhhbWtNbVJFV1hDSEhES1FCQ3d4VHduVmpRTmZGLXhHU0dUYlEzMHhpeWtuQWYwWklrRUpSWFNSaTM4VkNzWFF6R0dUNFBKVFZoZHFNdWR5dFljSE1zWUoxT3d4bzNZMlNsSEZlUkJ4M0ktREgycHRfMXhqSHdOLUI2LTM4QW1BSENXajRsUFYwdXpNTDBWRDM3ZFBZVDZYRVVHOWRqQkZhY3BCZnUzRmYyaTlza1ZYZFh0QQ?oc=5",
-   "medio": "Bolavip",
-   "fecha": "2026-11-07T16:28:51+00:00",
-   "imagen": "https://media.bolavip.com/wp-content/uploads/sites/26/2026/11/07132811/BOLAVIP-GLOBAL-2026-11-07T112803.624-1200x740.webp"
-  },
-  {
-   "titulo": "Nuevas reglas para pagos con tarjetas de crédito y débito en Ecuador: comercios no podrán cobrar recargos, entre otros cambios",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1hzQkt4Q1V4emlNLXBITDRsVTNvbUFxY1dVQ2hGN3N2eU5ZaHgwUG1IOTAxUGlwMkp1RFBfUExOeUdLbXdVaERKSkNUakI3OFZScXc4QTFnQmpPbUl4UDNhZVh1VkpwcnhPOVgtRWVaY3J4eUxrYlJOMnA1T0ZRbDNPeUYwQzhrQVFrOTdwMWVpVnFnakdkRUo0cmdwRlky?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-11-07T16:28:37+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/07/6aef519795ece.jpeg"
-  },
-  {
-   "titulo": "Ecuador registra 19 ríos desbordados y 47 vías con dificultades este sábado 7 de noviembre",
-   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNDYyTmd2dkRNb0lBODZkbWZkZmFidHB1aExOSzN4Wm0ySXNiV3JKcFhFS0tOVmNuZUx1a0I5NVZLR3oxbFlEbFRkbDFPZFhOTTNkeUI5Tmx6NEhfNW1xT0hkOTJEWEozZFRHR2c5N3Q0LUdPMUxDMW1YZXJzXzFFQW1sb0xSQmFEOU5ESl9KR1lyYXRlSXFWLXNZVUNXNU03dXRqOHVn?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-11-07T16:28:31+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/rios-lluvia-ecuador.jpg"
-  },
-  {
-   "titulo": "BAJA CONFIRMADA: Costa Rica enfrentará a Ecuador sin Keylor Navas",
-   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSTZUMEFyYnpPeUJxS1A0bEVqRGp0OFdNZHVwODdoUG9zU002MTFVbUZMdTlOQ25rNVFjMTVvTGQtODAxNjEzbGs5Q2d2R1lvUjNpaktlNjFNbURoOVNHZmpOYTBaaGNfZkdWeUxDT3NKNUZjQ1phLWQ1akF5V3VFeERZMV9manFyd2NZbjhhUktELW5oeTZScFVscUpCLXNPUG9PTWEzaw?oc=5",
-   "medio": "Studiofutbol",
-   "fecha": "2026-11-07T15:41:47+00:00",
-   "imagen": "https://studiofutbol.com.ec/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-07-at-10.35.37-AM.jpeg"
-  },
-  {
-   "titulo": "La Selección de Ecuador celebra 25 años de su histórica clasificación al Mundial",
-   "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1U5U0xmOG1XNklyYlp3NmpWam1yVG41Q1ZMb2RUWWZ0VDFOZVpFd0hrV0IyaGFaT1RiX0NMbG9TaU9qUzRzYUQtbkNJM3dZNHJoVTl0SWVwc3VMakg3NU54T2ZOQ0wxenVkRnVNVFl0MTl5a19qTDBtWlFBN3BhT1pRTzIzajROM2F6b2EzNTc?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-11-07T15:09:47+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/kaviedes_gol-1.jpg"
-  },
-  {
-   "titulo": "Los feriados que quedan en Ecuador: cuánto falta para el próximo descanso obligatorio",
-   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc1ZSWFdNeElleTRwMTBzamlyZVBFVl9iczFxcG1nbzF2SnhmN2tBejNFNmFQbDBrV1hycmJSSmdjV2JCdk1VY2JkZEU5TG41R2I0ZDU1eTc0VnIta1VGYkliWms1ZUNqYno5X0I3b3NEV2szN2lfUkFIUXdhT2JTdk1yM0dwZHRabTR2TlNobWllRjZRQ3cxaEFUNk1kTlBFQWcxVGxJZURibzR4WnA1RVMxbmFYSFBiekU1UDQtRGJyZjhTQ2c0dDBzc2xCT0xS0gHkAUFVX3lxTFB3OExVN0tSdkNfWGtNYUY2R1dkVndscjhwS0Fyd1ZLd3ZrRmE3RUZJY2cwcmdWUkZzWE9fN2NQNEtpMjNEb05BY0dDa2Z5eWJfaFl4dE9QeFcyYWNSM24wS1poNy12bGVHcUtRSU1VYTVlaXN6b0pQdVBTclktNW5LTUFyUm81TVVrTjVnU3VSR3JaeUhsZlRPWGg0SUQxZHIwMHd2empGUUFDZ090UjZtbTMxR0d1YW91YlJuNnZ1ejFxc2Z3a0ViTlIzRFQwakhhOHBBdGd6UWJ2bVhybkx1d3czNQ?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-07T15:00:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/RGOSKJL7YZCPBHUOQ3VKO2JUF4.jpg?auth=68828666a36614f85ee58938493a6f020c430b45478e4c71c35721e820c7992f&width=670&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Ecuador consiguió dos medallas de oro, tres de plata y dos de bronce en el Sudamericano de Canotaje de Chile",
-   "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTVVZYWx0OEJNdlRCRXhwQTNEYlhnMVVoWnVUNEZ5TEF6VUNqV3pVbE5zYXFvSGhleXJwNUVoaGRHVFo0NjE2RkVrbWFxTWdHTVl2ZDdaSUFQa3o4ZlFSRjhOdTdOOTJaOXRtc04zV3NXZEhrMEFiQkRfdHZBRDhXT3F0NEFIVUNrbmhtSnVzbkxqZ254UDFMYXE1Q2lJb2I2M2QyMnQ1T3BmTzF6Vkt0ZHByZS1zNnltckdUNFdwYjBqN2dIV1lTeWhlZ1BPMzJqR2lmdXQzSlZxbzB6clRWc0otT0JTSHV0cTlLQnNVbTZJRHRtMFpz0gGLAkFVX3lxTE80WHJDTl93ajhhdFNUWUxSWG9JNXNLY0lIbkVJSW9xNW94Wk5wRjRrSmtHVE8zQmFRcG04N3p0VUR4OWE5Z1doYTl2OUk0ZmN3Q2dIVE5NVnRydnMyUjd3Wm1EWWpOSnQ2OGFLaV8tNjR3ckV0SWsxeUhzc2d0azJIa1JuNHM3U3haYlNlSFRDMEpvSnFBWjlHU2dBUWpSUW1Na2NoWUtXV25pUVExemhqeF84ejVORUNqeTFxQk0zT1dDNFE5eVdVUWFKT2JYSWxPbnp4RURnMXd0YlVsMFJMVUlvWFVaQVpJcTR6MHJYRWQ5NWdZbl9xTTNuOHFZQnh3R2RSQ1JPcDQ4QQ?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-07T14:57:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/GB2EG2NBNRBA3BJODZHW65LAMU.jpeg?auth=64aa1957a6d3c7da98e0aa2d94975fcaf50621f9fe53d776efc24b0a75fd40d6&width=893&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Ecuador mantendrá la base europea para recibir el 17 a Bolivia",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQi1CUkZUdkVHMHpuems1a2FaaUpINFo2b0JkZHAzM0lQNDJJb1FfU0dqaDZXQlJXUC11NUE4c29iaDhVZFlIMVFtaUYwT2ljZWxyVjBqRzgxVW81azU2V3BZZFdiRXVndnEySHl4ajlPcWNTZmppYjNDajRId1h3QVktWUV4RGpJSzJhVk1EYS1hUWg3ajFkNUM4YnQxOXd0WHhvZXk0MTZrd0s1YWlfWXRxNNIBuAFBVV95cUxOay0wMThOS0N1eVRCQmJFRzgyM2NGVXpxM0theFdXRm12dHVmd2k3cmJJbU5ONWdJaHRoN0o2QzBxYjd4UG15RWxDS2ZKUUEyMGlPbE9zZDkwNnd3czFlQW5keXZGVzZJT1NieUZ4YUw3dDBHQ0tuRWk0Zm9ROW1QY1dDc29PcFpTUUNrQThsb1dLTGtVcTl2dWtqbnZDTDZjN0RqS3VjNlYxTXR4SF9wdU5rTzBPVk03?oc=5",
-   "medio": "Visión 360",
-   "fecha": "2026-11-07T14:52:44+00:00",
-   "imagen": "https://vision360-s3.cdn.net.ar/s3i233/2026/11/vision360/images/02/84/97/2849772_d3ffea538bbdceea4ab97c87ab0cfe3c3f139754ab9de61afa67a38155def71a/lg.webp?_v=v3-74"
-  },
-  {
-   "titulo": "El Niño puede llegar a alcanzar una intensidad «extraordinaria» en Ecuador, según informe",
-   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUNxTXdKd25VOW1jdm5yN0NPcl80V3hXbWh5bjF1U2FGT21zSV9CSld6SEs3TFNpalZzU185LVQzem9RTUlQbVZtN1JXN3RYYkMydEdXTkg3Mk9mMWRIdFY1Y1lmTU9FdWNUTEU0UlZaTXdTVE1lQ1BHODdXZ0hzeUJ4bGc4MFFGQzRMX01YVm5rUEsyU2lLYmpxZUN6empzYjdEaVVfaTNxb1pybDA4YXNjM2tHOWlFekotUmZWS1RVSDFqV0FIN1FB?oc=5",
-   "medio": "La República EC",
-   "fecha": "2026-11-07T14:38:58+00:00",
-   "imagen": "https://www.larepublica.ec/wp-content/uploads/2026/11/orquideas-salvataje.jpg"
-  },
-  {
-   "titulo": "Don Omar en Ecuador 2027: cómo registrarse para la preventa de entradas de sus conciertos",
-   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRWRMZGJKN1pwYnNaR3I1QXlDTUtudEtHVlJoTkc2OFVENTA3aDhfR29nWVZRbHZqSDNxWm9oSDhOak1HWmpDTFlEOENYQ2RiYWdzV21VeGFNN05KYjM0a09rTUVTRzdpNW9LQ0ExTi14blZDVTB0QmI0RmVEM3lERmxORy1Iak5YSjZJRk1aWjgxQXJxSEI1bk1PMTBWaTU3TUhuRTlYV2hmNTJUMnRiUjFwbGhnY2NxX3NBV1ZnU3lxYTBidEEyNnltUWgydE1IUEFwOVFDVDU?oc=5",
-   "medio": "Metro Ecuador",
-   "fecha": "2026-11-07T14:33:28+00:00",
-   "imagen": "https://www.metroecuador.com.ec/resizer/v2/5EGISKH5LFA23DEPH7HSRKS3RU.png?smart=true&auth=f089c25b88eeb832a8dcd6cffbc088142dab3952be8d37aa93f5bb1dd28f0a37&width=1200&height=630"
-  },
-  {
-   "titulo": "Gallardo prepara la lista de convocados de la Selección de Ecuador para la fecha FIFA: cuándo saldrá",
-   "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ0Y1Qy0wTHJFV09GRzREYW8tWUpORWUycTM0RW42M0liNXZyNjhmNGxlYndubVAta3ZkZ25rcC1rRFdrT2VFcGlkU25HS3M2QUFaUW9TaUJuQ0dDcWowbW1Ud3lLYm50eGtqX2xrdi1mSmFUTXV4OEdydTcyUXhyX2hQa1pac3hMU1A5NUJVdmJhZk1LaFMwaXZHZm1VN2FYNUJtQklEeWNlbThIejREZXZPT2J0dlp1SHRDLVZpOFR4YXZ6SU93Z29MdUtiM1ZNcURPa1RVNjhOa2NCTm10MXhTenFhejJITWZr0gHwAUFVX3lxTFBqdzcxVENaN3FjN1ZJUGtPZ2ZNNTNVT2ZMRlFZWkI2U3pqY0ZzaEttZ0xFNnh2Xy0wTFdzWUctdTdzVC1uVkszeDNITGI1OUpzT3dJMW9ob01WYjZRc3V2TC1PZHYyTFJqNXpHcTIwN3k3Ylo2bklxWHBnMDd4V05jaFlGR1ljNmtQeHRNQ2pDUlZtRnpCXzNtTk9jcXRPZVRPUXhfR28ycjU2a2lEaDR1bEFWV2JUUGdKNi1MUEdfbHlLVXk2c21GX1F1ejE3emh5eWJhU1pKSVBoNjA5NjNEaFJkYlVsNkNhT0JwWmdSTg?oc=5",
-   "medio": "DSports",
-   "fecha": "2026-11-07T14:29:39+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "¿Cuándo será el próximo feriado en Ecuador? Estos son los descansos que quedan en 2026",
-   "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFMtQUNHNFlJNjRtbGRfSlNFOUxLNy11Si1BTUc4LWFNTEo3ZHpQeGZsdlBUenJZSTY3b3lfUTRpRU44clA3TDFSVGNhQVQwdjNSYkFNdWhxVFNhUkhyb3hmOHlGUHpSNElCVUtmS3NXWjdlUzNCSDlDUDF3NkVLQVozMHBnSy15bU4tTVQwWk8?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-11-07T14:27:30+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/feriado-ecuador-2026.jpg"
-  },
-  {
-   "titulo": "Se cumplen 25 años del día en que la selección de Ecuador clasificó por primera vez a una Copa del Mundo",
-   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLVpaWU9ONlU4V1hXcUJ1U0w2VnBYVHMxOXYxbzRHWk9OdmlMalcwMXAyUllNSVhXQ3NvMXVsR1c2TGF6a010U2UtWXVkRFpSWmdvdlBtQndXNGk5VTYteFVseHJTdmNBSHFzd2NYd0tHWnlHMFBick1hLThmdVk0RUhEU25xTUVRTDZsTEdUcXN3YjNkV0JhXzFvRWY4NVlCemFHYWtiYkRBQ2ZfaXI1T3VNOV85bE9VaTNESXRnSlVEZjRXZGppWDFOYzVKUWZjOGhCWW5PMWVqVGVBMGlHa2tlM25PbVFx0gH8AUFVX3lxTFBfLXlSem1sZXQ5a3VEMWZoMGk5Mm1iczNhN2NQODVHbm5leWw4d3FjQVZVdzhHLTd2aUM3QUFITzN1S1l1RDloYy03aVU4OEpNbTlqNFozclppZXFpeWV4U2g3bENHT1hkZmQtSncwNVBRakNlOTZNZC1IVzRHaHR5MVdqNW5HZ2RPOXROUmQzVzR2Qm5BR2JRMzU3REE3SVYwSnIyQjdUdGFSX0VsZFJCdVotd2dpTTBBOE5OQ0ZDeWtLSDVJMUVhSzZPQ2FVT3V4eGhoOU16T0Z5YjlZVV9TY0JaSkk3dThqRlJ0OThTdGhncmU5eEZza3Yxdg?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-07T13:47:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/LOXFTEXMSJC7FFSEYPLNWGAU7U.jpeg?auth=97c193b6ff2772eafb69d53a9c7fbbb366541878e915c7b176d074bc0f0e4bf6&width=832&height=468&quality=75&smart=true"
-  },
-  {
-   "titulo": "La Ley Antimafias de Ecuador llega al Pleno: penas más duras y el foco en la inversión española",
-   "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lQWVOZ2dQOXAyNEU1T0luNmJEd1hGc0ZwdXAyX2hmTGZqUURpZUNjQ3JaWnM2SXhpQXBSbXUxbG9DeTljdklWY2czb2NnVFBleU9acDVhakxibVVGa3RLVkM0ckZBQnQtNDN6S2FtWWhwNWNGT2NsVWpHYnc?oc=5",
-   "medio": "MONCLOA.COM",
-   "fecha": "2026-11-07T13:32:18+00:00",
-   "imagen": "https://static.moncloa.com/wp-content/uploads/2026/11/ley-antimafias-ecuador-pleno-portada-1024x768.webp"
-  },
-  {
-   "titulo": "CORPEI busca proveedores tech para seguridad de exportaciones en Ecuador | SERPAZ -",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc2pRa2tscXpsV1VRWVdLZUgzTFF0MUw5eC0tN2VrWmRlNUIxemFUTHlHVE9vX1BLQkhEdXgtQ0x1d2hNU1pKVHhCY3lJMURIY3Rwc3lRcWoteDROUHlCaWhCY3FRcGJTNGNTcVA0cVcyY0Fxb3NYdVNzMkdPNzUzaGpTdExTbzdlaF9vZUpOcTd5a2NiMks2bDlSbnB0UWprM3BzelBYQlJ0Y0NxYzZKS2F4ck1rVXlELUgyLTlCbV9MRFlNZ3R4ZEZWSDF3M25vaGlmYTF6WQ?oc=5",
-   "medio": "empresa Exterior",
-   "fecha": "2026-11-07T12:47:10+00:00",
-   "imagen": "https://empresaexterior.com/wp-content/uploads/2026/11/official_image_5068345a60f84b60ad4a2d0747f71155.jpg"
   }
  ]
 }
