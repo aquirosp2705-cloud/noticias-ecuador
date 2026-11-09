@@ -1,7 +1,7 @@
 {
  "zona": "samborondon",
  "nombre": "Samborondón",
- "actualizado": "2026-11-09T07:18:33+00:00",
+ "actualizado": "2026-11-09T17:53:07+00:00",
  "noticias": [
   {
    "titulo": "Aguaje en Guayaquil anega calles: Estos son los puntos afectados este 8 de noviembre",
@@ -16,13 +16,6 @@
    "medio": "Primicias",
    "fecha": "2026-11-06T16:12:44+00:00",
    "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/06/6aedc9ccd8cb1.jpeg"
-  },
-  {
-   "titulo": "ALTUM 2 calienta motores en Samborondón con peleas por dos títulos",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3FIY2FyUEh5VUVneTRDakhjdGQzZ0hWOHhJVDhRX0t5ZnVqN21IbTNSZU1sU05ZUkVtSXBHd3h3cEVQSTNweHktVHMwWTVRX3BIRkdaRlM5VkVHY0g3Z0hpNUlvTks5QzRvZDdqc2VGemhCY1pmSGxVYzdEY3FVTWh4RDRkaVFwUGxFbll4TFhJNmM2NkRJNVNpNm9fYkluSnljd1N2SGRPSjg5UDhGZU1xcUlNOXBkMHRv?oc=5",
-   "medio": "Metro Ecuador",
-   "fecha": "2026-11-06T15:40:12+00:00",
-   "imagen": "https://www.metroecuador.com.ec/resizer/v2/6NDNJ762XBELJIDJLCCLRS6344.jpeg?smart=true&auth=b1f2704fdf9c3b026d05ae435f8d9b57650371b0b3768b89b1e1d30115a1e531&width=1200&height=630"
   },
   {
    "titulo": "Clases presenciales se reanudan este viernes 6 de noviembre en Guayaquil, Durán, Daule y Samborondón",
@@ -221,25 +214,11 @@
    "imagen": null
   },
   {
-   "titulo": "Samborondón: el caos vial que evidencia la falta de planificación urbana",
-   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3lmdXJHcURtLUEtNDhCbFVKV2JCNFQzakVyODVUQnA0SmN4SmhLLVY2eDFvV21lb3FRVWRBcmUteXNQNUMzZUZQNk4xUzBGSjBzSUc5OTZXUzc0N19aOWVISnAzMTVQUExIOEliMUtfYlNidlUzdEp2eVF5YTV5MEtWYXJMZzRvbnZoNmtIbG9vQmFRdDVFS0ZQZGpfckJzTlhrd1pEZWV2VU41a1J2VnItZHR2QW5JTjlr?oc=5",
-   "medio": "expreso.ec",
-   "fecha": "2026-05-31T07:00:00+00:00",
-   "imagen": "https://imagenes.expreso.ec/files/og_thumbnail/uploads/2025/12/10/6939f202975e7.png"
-  },
-  {
    "titulo": "Más de 7.800 personas de Samborondón han recibido atención del Estado con las brigadas sociales",
    "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQjFfTGRRV2V4S3VlVHRGekhUb3AxVUowcXBMVzJnY2UtWHZCYThaNXAxM2w0TWo3Q0lYM1dsMVFiVTRPYWtIcktqM1NybVJVRVlHZzdfaDl6eWF1Q0VGc2NHSm44M1RHSW1Db19jdXVzakd0S3FTalFXSktzZjVQSmJBN3QxMUlIN0NmTkRsRUI0dHc5WnNNWWNFNlJQVXIzUHhDdm1vdVU0REVDbFM3cVd6cjZBdzlQNWhmUkpMYjk2TU40WmxDbXdrRTg?oc=5",
    "medio": "Ministerio de Desarrollo Humano",
    "fecha": "2026-05-29T07:00:00+00:00",
    "imagen": null
-  },
-  {
-   "titulo": "Ricardo Montaner en Samborondón saluda a sus fans antes de su concierto de este sábado 23 de mayo",
-   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbk5oenNIWThGNUNhMklpeXY5NUotOGVDWFNZR2NiYUxBUEF6QXhqYmhXb19CM3UyY2w1cjNZVlhKZnhTMkliUmQ4V3Z1RGpPOUZKNUNhNGZsSmNyT0RGT3VzRmdSSG9mYUJJWWpoUmN1R25BT1cyU0RUSUJNZnR3enc5eDZQTnBqeEFlN25MSVpKd3AtSVpVWFZCQVZadXl3aUIwMjZHZGlSaF9qVGZCakktOEtZQS1ocVlPMThfT3JFZUVuempNTmw0RXNqNEdBSmtNMzRySFh5LUNwX2tCX0c5bUlUNmdv0gH8AUFVX3lxTE5WaVB6MUdEU2RCVEhoWjB1NUxMSkE5blpyUTZhRW9SX0YxeGYtaVdIVGhRNGpGNHVkSGVsVDVwMjZsQzlJV3RpWFFPVldrcWpTUDcyOTJyNC1KUmh6UVlsc3ZKTVVXVEY1dmNpZzNiYzN3NXlqZnBzZHotWDZCTmpYNGhwS3J5cjVlRElyN3hBVHA1cGdMRmNlVU5JMkh5ZEtKNVp2OWVDSW5ieHJjbXBIUkcxSWJJY2xGTkJSLVg0d1dETlJ0Mkx2LWJDT0R3THQxVjVhcDl0YV9vczhRWXItYVRnTUV1dkFuenlER3ZneU1mRVZqbm9GWlFtWQ?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-05-23T07:00:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/4MPWZHOUUZCIRDR7Y4RJRIJNTM.png?auth=e49914c78e20575474e27f810ada910fb9f1b6f52257eb13a89124370e9ec7b4&width=908&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Samborondón: El Buijo, entre el auge urbano y el reto de preservar su identidad",
@@ -284,13 +263,6 @@
    "imagen": "https://cdn1.corresponsables.com/wp-content/uploads/2026/01/Diseno-sin-titulo-2026-01-25T013955.215.jpg"
   },
   {
-   "titulo": "Al menos tres personas asesinadas durante ataque sicarial en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tR045ZmZxZy1TTDZFX1drOXE1a1hlSzhPVlFBZkduM25YRkhaemFMS0FJLWt3bHNta2licEQwMzBsVVlQZlZzc241ZG94NjZJVGszalBYQXllcGtIcVJ2MjgwZWlHcTRDanFlRV9XWkUxNmx6VWp6enR3?oc=5",
-   "medio": "teleSUR",
-   "fecha": "2026-01-08T08:00:00+00:00",
-   "imagen": "https://ikona.telesurtv.net/content/uploads/2026/01/ecu.jpg.webp"
-  },
-  {
    "titulo": "Isla Mocolí, una exclusiva zona de Samborondón donde murió el cabecilla de Los Lagartos",
    "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTVBJbXJBVFlhNEllS0dDOFFTbUx1Zm9lNTZNWTJ2aVRtdUI4Q2lxYnVoQTFUZUhTXzVVT0ZoeVdpa1dsdlRvaGJvSWNyNzFKQkxTNDNaNTRJd05RZjQtYUF5RlFEejNhNWdvNTg1T2NFb2lDVURKamZKbUNuYnRZTG5YU2UwWlRRajA1c2h6ODljcmlhLW90ckdNRmF4bnB6ekZQVFZLRVZSczFTQUFDWEhaeUItQTNK?oc=5",
    "medio": "El Comercio",
@@ -323,6 +295,13 @@
    "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTF6XzhqRFpiVUNTajJOeDcwc0dBN3NnNGRYZ1FyRHpWTzg2eXFJeWx2cVI2VzVtcFBENmhMdGExNU90dUZ1OXREcWVfQXFNOFhtWnVqZnRXVVpHaUFkTDdESFNfbGZ1aFAzTHJtNkRqM2lWanRVQmhzQmtpdElBOGZpR0l4YjZsTVdoV2pqYl9pTnBRdXFHMTVGZlNaTGRqc3RnTUoxbFZXb2xW?oc=5",
    "medio": "Ministerio de Desarrollo Humano",
    "fecha": "2025-10-27T05:03:38+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Madres y padres de familia de Guayaquil, Durán y Samborondón, se organizan en Red",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdFdQWW5jYzZJQ1hpSXV0MUhyZUdhcHpWcHU3Y0RudFdIRnhsQXlBdTdfNU5ZaWVOZmtJT19KSE5lRFdQbkcwS08wcVkwR3o0dk0xX2daMTFuMDVkMVpHdHVjcXpMWTMtVUoyOWZzMjFjVzN5cXhlVjhsVC1mSC1xNTBXbjg5am1Vc25BR24tRnRfWVlvd3VLWE1IN19KM0pyc0xkUHV1SWRHbFRPdnJaZnVXeElsSXc?oc=5",
+   "medio": "Ministerio de Desarrollo Humano",
+   "fecha": "2025-10-26T06:28:59+00:00",
    "imagen": null
   },
   {
@@ -382,13 +361,6 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/DB5KNUXTQFEBHJPCRV2YDGZVVE.jpg?auth=657d73af5142df6cd340b6e3181a61fb966b80093fed23ecfcb17958f934b2ef&width=1005&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Máquina que ‘dispara’ pelotas en Samborondón, a distintas velocidades, ‘arma’ para intentar que renazca popularidad del béisbol en Guayas",
-   "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNTV5N3AtcnJ6QzZPMDV1RWlQT0NrYW9DT3AxZjF4bGlhZzhDS1ZWSU9JTFFSWkVhLTVKMGhRSDE5S2JkUEpFT29RZktFQnhtYlAzQ09HU1RjT2o1Z0E3Sy03ZEg3R0poRDhXNF9JUy05VHVUaHNnV3F0VlhQMjJ6Q3VaU2tXNVN4S3JCbklhU3N1Z1RGSFBtU0xDcHdtTTl1dll2TVBCU205RDM2MWNDckZKbkRIcWRtX2VkOWYtTDFzU051WnJuU205S19TOGM2VmMxajYyMkROVkFCUXBzdWtkYm84cDVtT3lQQUJFUC0tSWdzb2Zz0gGLAkFVX3lxTE8yVEZXNEJwWEFoV0N0bndqSnU0SGppbDJXZGNaaU1la21vdW96aXpwM0FCXzJ5ZS1LQUNxMmtDWHpkWFUxeHJPbmJwd0tpNEExMTI3cExHZHNvVDdaWDA4T1B5T25RVzlVTGZvZXluTE9UNGlVSWJTR2VjcVN5WDlkM0E0amFGNGRGS2ltZGttYTVsODViSnZTMi1jTU9oQmpMd0VQMWtReDR5NFBxN1R1cnk0UGxKMHpkeDNOdEFUTHcyMlZVNm9KYTFEY0Ewa0FUaW5WQkwxTmkwcUpCaTBaMjJnTXRMdzA1RkJjOW40ZHBZcUNhcDFsMGZKRERDeUREemZ0ajZWOTlLUQ?oc=5",
-   "medio": "El Universo",
-   "fecha": "2024-08-19T17:04:47+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/RABJSTFEIBGE7HSOVV5P33DFVI.JPG?auth=e046737c9e0335fbd75423021da11604177b2073ff49c12c2b85439522cd85bb&width=1005&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Pronóstico meteorológico de Samborondón, Guayas, Ecuador",
    "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jbzFIUjIwSmpaRGFYUVdYSFhnTFIwcVkwZUJjWmlienEwekFfSHh3ZVpPaFZIcWJfYUtYWFVjQ1A4WXdFcVZrU0FNaGZkSjcwMnZoMzRDSk0xbEhoc2JTaWg5Y1B6dzRRUVBURG5YQkxqcGdOTm9vMm9oeE5mUQ?oc=5",
    "medio": "MSN",
@@ -417,10 +389,24 @@
    "imagen": null
   },
   {
+   "titulo": "MSP firma dos convenios de cooperación interinstitucional con el municipio de Samborondón",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUlFUUN2SHAxdmdvWEhUYXQzcl9EalR5bUZDTG1Hei00aGI5TFljSUJlM2t2azB2STVGcEU4NkZtR0dtTHd5MlJ1Y3dRampXaVdvcWJaTnFjNUpaSTd3eTJUbDB2ZncxbC1ZMTRLckN6NFBJVWpEa0t0YWxDby1zdXZOZnZoaWJ0LTE3d21EZmtnZmhhamk1RnpHd1RfdXdNNjlPdGI2T1htUFZQZldicU1HWU1aUQ?oc=5",
+   "medio": "Ministerio de Salud Pública",
+   "fecha": "2020-02-17T08:00:00+00:00",
+   "imagen": null
+  },
+  {
    "titulo": "Atlético Samborondon",
    "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44UVRqNVdjbzZxOTAyZjl3ZmVmcnBzUXBEMmJIS2JHSE1FMTBhenA0UTloMXh6VV9fTkJ5d1laNW9ITnpVbDF0YWhEek9BOXFITm1vOTVpVmJ0b05yQnRLbVBqRTVjcFpTWmxZc3pZQjZUYWVKVkJ2dk1paEZUZw?oc=5",
    "medio": "Transfermarkt",
    "fecha": "2018-11-05T09:20:36+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Previsión meteorológica de tres días para Samborondón, Guayas, Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSG5vbVdXU3k2TWxXUVBidTNCMUVPcG9LbU5LU0FFWEt3eE9KZW4ySXBsMnY5RWlDMGtXUUdETUJNX3pZNzc0SGhWRmdFcC1pVGVZNnV0YXNyell2ejl3bXpWRTI0T0ZFVkN4QnpzWExWTHJ0YTF0TlJkejljTjdGbi13?oc=5",
+   "medio": "AccuWeather",
+   "fecha": "2017-03-13T11:32:51+00:00",
    "imagen": null
   }
  ]
