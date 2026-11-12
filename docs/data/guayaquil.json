@@ -1,8 +1,71 @@
 {
  "zona": "guayaquil",
  "nombre": "Guayaquil",
- "actualizado": "2026-11-12T04:31:15+00:00",
+ "actualizado": "2026-11-12T13:21:52+00:00",
  "noticias": [
+  {
+   "titulo": "Un detenido y dos heridos tras ataque armado en el Mercado Caraguay, sur de Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWDFhMS1mUjdNYW1pOVdkS3ZMWWJoT05UUmdsOTF2QmdQbjVobDJCSGVBMlVUeXNHV3RiQW42STdOVlJIb0dxaE4xbXZyOEFoVVFfOFhkRS0zc29iOXVadHVhcDhuU2xHa0xEZC1GYW1BbHRtTmRBbjJ4M1NZNFR3akhaSnhfNnMyekp5Y0h5bW5vUUtBVFdubnhB0gGfAUFVX3lxTE8zdTcyN0VYbzZnUFhBUlRHeEltRk9HR0VCamFKeG1OUlFkMUpZSFdDemE5akF2OTFOWVVnMk10V3BjR2JsTnVsVEtsUFpMTFRqSVlxbTFEeDg3Q2VURGJlSVc1R0dZeTkzaXRiVGdZOVBSM29PbWRBaTlYQWJaNmlOU2ZLbFNJMVFqS3NrRmVES3ZjaGx4LV95TnlRQ0dyTQ?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-11-12T13:08:21+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "La cultura repartida",
+   "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SdmlZZkVVRkVEdEMwZWxJcThrRzJDejBOOVdoVzQyVWVodUJTTWhKUGVSODdVaDg5VURFam83N19SRlVHMkxnekxOMFpJcUZoWmw2c2lDemx3NzJVcndYa2pKam1jV0ZxUnVxVmFCWEdEeTVfVU9kRUR6YllSZ9IBkgFBVV95cUxPcEY2MkN2THVISnB3bmtJajVZeTJDY3BhWENTei15UW4wbHhVbmppWXpUUU5RTmx2ZFhXOVhFZkpqc3JDVW9QbkpwVE1sRi1vODVZVDdaLXp6aHB3WGNmQW9zbjRLT2g5T0tmSFNqeWhDaVlCWmFqVC1zY2JlQktuWFlWUzRMZjE2Q0MzYmNGWGg2dw?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-12T13:00:00+00:00",
+   "imagen": "https://author-service-images-prod-us-east-1.publishing.aws.arc.pub/eluniverso/3bfc62a1-b22a-434c-bfb4-a5f2b161ed8f.png"
+  },
+  {
+   "titulo": "Un detenido tras ataque armado en el mercado Caraguay, en el sur de Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMTRjNXVMSVR3RjFFQ1ppb25rd0FQaXNlcjU5ZUc1QU1KUjVqdEhSbXlHSjVKc2tkRDUyMVhMMW5DUmpRektvYnNISDJhZkp3TDhLNGVKNU1oZVktMjNOYzhYS1FZbjZWLWw2cXFlaEtOWnVEaEt6ZlBPamwzd0RTZFBPVTFObExBbDh1UkxTRk0tUzJ4MHZPZjRvVTY2cXZCeTBJdUE5a1ZTZ3FwS1E?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-12T12:27:23+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/12/6af5af4f47845.jpeg"
+  },
+  {
+   "titulo": "Noticias jueves 12 de noviembre del 2026 | 24 Horas | Primera Emisión Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSDF2ajNRXzJST1UyUnRSU3NaSndMSHdCTHZwdkpqenBPUm9Cd0tNY2Z6c3l0U0EtcldKaHc1cXFubE1odTRBRG9sbkcydjlvY1YwNUhZT1dsZzNqVk1CU0NFSUsycTVkSU00UTJjdHktV29kX3ota3RYM2RJLVpqM3RsY2U0UGtfV1E2al9odENIY2FRMGZFYTNUeGgzTjh5MG5MMk5XRlZaWXhxSXZWYXVtb21lQS1EVU93RW5HWUZvRENGWjZMa3RrdVdxaGs?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-12T12:21:07+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/12/6af5aefc206c5.png"
+  },
+  {
+   "titulo": "Pronóstico del clima en Guayaquil hoy, 12 de noviembre: siga en vivo cómo avanza para la tarde y noche",
+   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcTlGQ2lXRXNlYml0Wnd6Q1dhNGlZRENkdDd5LVpWdmJHMWRIQkZTUDB5VDJ0Z1VlX1U3NTVFVXREYnowMWZGWFltT1RuWWdKRTI3TnRYUFVJRy1zdWFPRVhrTzk3T3FPbDdWcUlhWE1PTjJwOUhvcVBfSEstcHlYSkVNOTZlSjRBMVlKSHpnMDhOQWREMUZlZnRDOVNIUVNnTnlPb2loeDUyamxFckQtdEFfUWFCTy1IRm40dEs2aU5YdmlEeWlLdVk0UXYtWWttSHVMaGNLaWxTdHhwdC1jaTRwYmlxN0da0gH8AUFVX3lxTE9rQndQTUx2dnhhdDdEZ2Nlalp6aGhGSUdzcG50ZTFJVWFWOUxmaVNhMzl2T2lxT2czT1lxYjRRZ08tR2wwT014SXA5cW1QWVMyYlNpQ1Y1cVJ4SkpkZk5nTGlZVXFqVGQyQnlvZDRQMEFTSEtSN0UxNkw5WWhMcVhIdGxmb3VJdzlxMWhxbUNON1F6YmNkMTI4Vk1NSExOUnpDR2thbHJzTXJaOXByRVU5bjRJYlBoV3MyWmdHcjR2VmtIWHFVdGdDN0pHekNteXNlOFlmTVgwOUF4UVFfUjcxYXFUUXE4ZzRXQ3NhcVVodEpEblNQVVBlUGdJQw?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-12T12:11:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/TXOTBLWJRVFIRPUCMIWVO4QFMI.jpeg?auth=c6fc67e4e098c8290a0814ad97769f284ffc52066e480d388d25c1f4a35dbe40&width=893&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Un hombre fue asesinado por ladrones que le robaron su moto en el suroeste de Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbnNUOTdqd2xmcEEzRzVSYlZXUHB0d0JHTWF1bGZVUUVoci1xSWkzNkdZOHo2RUgyU21ZdEdvZHdHYUctXzdmamtnYk9ya2RybUlrOXRtaUVaRGc4NWxldUhpU2RGN0QwU2Rscjh6MERMYkR3aVJZUTlsX1c4RGxBM3p3UUdrVEVYMl9CeHE1dnhvS29hSDdwWTZMeEFveWhLY1pKOFlR0gGrAUFVX3lxTE5xVi15SjNuNDJmY0h2LWdha2drUXc3aGdCNzFWeFZNN0ltNDJFdGZLTFZOT0lVbzg0NXFYUVpFQ2h0c3FpOUdjWWFHc0JVcmIyRWEtdVRTVUtOQXMwOEVvV09ESlowUXZXUWxhNXNocWRFbHg3Y3MyYUFvLUhweUYtdy1NVDA2clZ2YnFpQl93cXpMTWVEV1lUcE5mcjlXZlpFU3hjT1hmel9OUQ?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-11-12T11:45:29+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Balacera en el mercado Caraguay dejó heridos y un detenido en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWE3eEhTS0piVElSQmlpVWtuYWNPbUNkZklUT1dWdDgxUTRXeE52eUs1MVo2TURscTVIZjZidGtMczhpdFdXaWdseDFsRzdPZ2VudV9selZnWFUtbDg3dHhoYkpWMFZiMUQtR2VXWHNpMTJMQVpuTVFIVElWdE9rSGhaR0U5X0xlb3JSekIzdEhaVzVQUUJ0c24xVlVjR1JZbDM0UGsxRURFRkZhN0RIWA?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-12T11:32:12+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/12/6af5a3892574e.jpeg"
+  },
+  {
+   "titulo": "Las lluvias complican la elaboración de monigotes en Guayaquil: artesanos trabajan contra el tiempo para diciembre",
+   "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeVpDb0JIYnROaTFrUE4yRm1xbk5IbnBsRGhVSlp1MFhXZ2M3X3VoRmswamV6ZDc0d0V5ZDUySV9tWExTRV9RZHhJNTgwVmVCZE5kd3dJbnFKb0pBTkRKMTN0LXpFUHZ4czBJcmdsMld4UVVCWGFRTmZVNmVwdDZHdzV4Y3RzLXJTV210cVBnUG5VazFtaGo0RHdpQV9MVFV1N0JhQnVTSkw4blJxb3JjYTVqd2pBUW03SW1YeDY5czdrbGo1SDd0OFQyOGxqS0FfR0FNUUFTbDFoRTJyY255b1dUVDNuVFE3NXJjVl9uT0MySVpGd0Fv0gGLAkFVX3lxTE40cTJ2VXVtWENvX3NPVHF2U0tBUl9KNy0zMUk2bzdLRXpfUnJaV2UyanQ5ZVN6Q3EtNDJjM3N1YnpFQlhFUHY5d0VDYi1La0lkMVBtMHR5NnhzbUx4UlFheUhpQVI3cFY2WXJTamg0ckFuTzdwanRZbmlSR2NzRWlId2hrY215OXJuTU9uMXVxNlBnM3p6aVJpVS1XMkIzM0o0U2dyNGYzZmcwLUdxMmYxS2JDOHRsdlcybW50aUk2QnhSSlZ6T3dxWEREalVCNnB4RXc4cHVtMGdMNmM5bVNySDVZWTVMVUtfbk42WTZ4Y1NZOUF4QXlpVWFRSHVhTTBGRURDZHlBSFFLaw?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-12T11:06:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/3OW6OB46HBDBDLXJNGK5C2BCBA.jpg?auth=c25bad42cea36c77d425c8c0c5c7bf5259b373318a16c48f0fb37094880c8c4a&width=893&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Guayaquil: ¿Cuáles son las ofertas de los ocho aspirantes a dirigir la Alcaldía?",
+   "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZGFSZTU0bVRMTHQ0b3F6bWptSmZLNHJiT0VzRUJ0dnJHVURZSmNoekNmbVN2NTVkbFJkZGJLczBEX3FTUVdfSml4YzIzV0ZQNUtJTm5qY0JYYTVJdl9tQ240Vll2SzhlN2VJNjh3Z2RyZTNtTGYtYmFzc1JNSEY5eWNoRXQ5SDdBT0ozbkdkNWNfa0t5aHJudjBiQXRMVkZPN0NHYlp6VmZLVHNVU1NsbTR4aDEtTWpWRFRBOXlJUUlBQm9HWEc0Y0Y3cTRsdTV4TnRwdkZwc3ZjUEhrUDdRYkN3Y0JLWUNHbVZpd1BxX2pPZHlpMW1fZ3BIamhBRW5K?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-12T10:55:00+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/11/6af47f05d9b1f.jpg"
+  },
   {
    "titulo": "Héctor Baldeón, el pastor evangélico que busca la Alcaldía de Guayaquil por Avanza",
    "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHBOQkNUbDlJdTAxM2k4YVV6N003Rk5sUFphRC0ta3pLdlE3cjVuOGg2eklIelJBSlNRWENQY3IzZk1WQnZ5U2p3bzVKX0taTkEtTHBtNHZCUU5JUXp5ZmdtTlg1dUkwOVVBcmNaUEZiQ3FHWEM2YVd2ZzVnSWNNNUphZlJuMm9Ib1FBQ2dUOEtnbTJtWjAzQjM3d9IBoAFBVV95cUxObVVCOG83RkExR1Vxb3JNLW1sMUxydlN0Vl9MU1FvMFF0YlpzNXJVallNVWZhQmpzTXl1NGxXWWpvbGxNMjBNX2NVZVFzaURuNHZ2aHhwV2tXeHphdlI1bnpvbkdHY21tNmhfcHFVWmliR0RpRkFKRVljMjhzNXl6cGhBaVRjZ19HWEtscFZUbVlneVozVmtXWGJyX2VBVHEy?oc=5",
@@ -16,6 +79,27 @@
    "medio": "El Diario Ecuador",
    "fecha": "2026-11-12T02:53:01+00:00",
    "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D14170F56504941721F15161852434C761C15-2000x1125.jpg"
+  },
+  {
+   "titulo": "“Salen por todos lados”: peatones cuestionan la circulación de motos, bicicletas y ‘scooters’ en veredas del centro de Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQVdLTm05ZnU5Z2YzLWZ0S3c0RE55X0xEOUxHbnctbjhYbC1aRlFhNHhHeHdWaDh4SEhBam1oaC1qdld4OXJZcm1rSnpzeXZQTmRQdFdxbVA3bnlZaFhBVjNZNEprOEl4dl9weGlWRkdmbUFRZTB4M1hGRTJ6TWdyMG1sUlQ5b252aGJFMHVqRWtTU0pFcnFOZnN4NU9MMUFrQ0U1XzBGcGNWZURVaEoxVDgyX2ZscGo1R0NPeDJxaEVHRlIzazYzWkliVmJtN3YydU9WSXR1ekE5WFoxWV9GVGdkS0l6U1dwVFlqVEFfZkd1WFl2bUJWRmZUNW5OVl9IUlVVWlFR0gGaAkFVX3lxTFA4MloxemRYelJpeGR3c1pSVEg5bm5jc091TldYeGtQWHhlMFZqdHRuX3dpSkFLSHd4VEtTVHlNOTNaUnhMeHd6TUR4S2lUd0RRS21YMndQR0VtcHdnLTZUUGVRMTM0bF9aZkdvZDV6ZWZ3SjY5emlYRmhDZ2JUMFJpeXBsaGI0eTNwT1FoNlc5aGZFZ2VhbGM4Qk41dWFoWV9TQnBvc2x4UkljUEJNUWdsTFNYRnMtd1gxZDdwN2N6MS0yencxNmlYT2ZCRl9VdU9VUEgtaFNBODR3aDI4WFJWdmFXZk8zc24zbGM3azlFZURCcGxHVDhYQlRoX0dRby1tbUFsbWxqdV9RVUFWR1ZhcnhiLWs3MmRHQQ?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-12T01:54:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/5YKIX367KJG53H6Y5RGGZVUYF4.JPG?auth=45e07f39ffbb500e9d641ae5b199c594ae18eabf37dbec78145ab0623e481d19&width=1005&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Padres compran y arreglan dispositivos electrónicos para que sus hijos asistan a clases virtuales cuando se suspenda la presencialidad por las lluvias",
+   "enlace": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOTVNXSS1uZ3B2bF9TTzFCbUFUOGc2TTVydENobk5JT1hrd1BWZS1pZTViQnJmU0YtTTV3UVpiZXg0VnVDNHZDb0VXNVZyaVowRHJOb0dXaE9aVjV1bWY1Sk9UTm5EMGlaWTJWdEo1ZWhLNTRVbkcxaXRqWmV5RU91Q2xwQ3pWVHFiTjJaMEhTTGNzbWlmeGRKM2hod0xwUFBlZ1Z0VEh5c2dTYnBiWC1MME9qRld4ZUZDN0JkS3o1VHp2TklzN05iUTlDckptNDlxdFl1UExpU0hvNlZrcy1sRjdrN2pjYXJucV9uN3dxWG1wQzBkcEU3UGtWdjZQMG1vZ3VsT1VKVnE0LVJEUUlCaFdsSjVFend6eTZ4dG1NWFVPY19tQUFQLUZaTdIBvwJBVV95cUxOS2RGNTRGd1dmQTVsN0tZRWF2XzBwaDRmdW02VlRmd2VmZGFLVTZHd1NQRzRBVXc5LVpHREdfNGhnaWZVN0ZGc2t0NG9nTHE2Qkd1RmtZMWh2bUFuTVVQNWpKMlFUaTFaRlF6amNKS2tHQXh3aDBZLWloS0Izb2lFVlh4dkFiaHZGNFloeGJqZXctZWJWb0dtNzliNUhDbHhWYWpEREJ4OFg2TE54Q0VqTkJNVDM4WXFIeWVpbHNkUkJuN2l1MmVpTVRsSzBTS0t1b3d6c3NzMkRhVjc1Zk5QUHk3dm1VNUVndGFGTFRvLTFwRlhkd1V2aURpTHlsUUl0b1dJRFhvTHlkVm13UDBjeUJFclR0VDFUdmExTXp6aVJFM05mcE9hOVQyUGhEUlBuaHQzTTMzMzZEeEk2Tjg0?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-12T01:54:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/XMU7JUGOBFDCLAWEEPSMNEJNXU.jpg?auth=2f19acc78c1b5284f671f5c0e9b1f8caa4c4a4a7d6186cd3a94a77683a38d978&width=893&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Calor en la Costa: médicos advierten sobre los riesgos para la salud y estas son sus recomendaciones",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUkzWlllc3ZudTFuTExZZXlMZ0dBcHhMZEZoZ2oyTkNGZERocDFCRks4NnBKUUwyRGV4eVZEU2J3b2c5UmZzeDVRMHJhcUQyR3RyVVgxOUhxLThBSTBRX0l3TmtkY0d1cF94TmFhRUhtcjhUUzJUcVZaeTdPaURnMnBfTUxfcmMxTVNvM2E2czJfS3U4MFpxLWpON05KV0ExLWfSAbYBQVVfeXFMT25COXhpczhVbnRYR3V1RFV1Wi1xSzFBWXgtcWVud3VZRHBBdEllT2dmRW8wZHN2ZTFpR3o5bGFrOUpCWVM4T3V1OFh1cGlZTXJDUzl0RXliZlFqMmlYcUNpdlJUTmFZOUM5SnFnYVRpeUZWbnp4ZjVRYXloR0VGTnJ2RVdUVlp1aGh2WVdfV3hNSG94SGdGcnRBN2p3NTRYTUloMzljLUJ5bk95Rkc5Z0xPNHFfanc?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-12T01:54:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/Z5EEQHNVDJH3ZHAQKUA5LQRK3I.jpg?auth=26ee92682ab2205ba5f971a163d5cf35fee97228599cb4ea9bb639e76d44e611&width=769&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Guayaquil refuerza controles y sanciones por mala disposición de basura",
@@ -32,18 +116,18 @@
    "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D14170F56514944781F121C1852434C761D16-2000x1125.jpg"
   },
   {
-   "titulo": "Padres compran y arreglan dispositivos electrónicos para que sus hijos asistan a clases virtuales cuando se suspenda la presencialidad por las lluvias",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOTVNXSS1uZ3B2bF9TTzFCbUFUOGc2TTVydENobk5JT1hrd1BWZS1pZTViQnJmU0YtTTV3UVpiZXg0VnVDNHZDb0VXNVZyaVowRHJOb0dXaE9aVjV1bWY1Sk9UTm5EMGlaWTJWdEo1ZWhLNTRVbkcxaXRqWmV5RU91Q2xwQ3pWVHFiTjJaMEhTTGNzbWlmeGRKM2hod0xwUFBlZ1Z0VEh5c2dTYnBiWC1MME9qRld4ZUZDN0JkS3o1VHp2TklzN05iUTlDckptNDlxdFl1UExpU0hvNlZrcy1sRjdrN2pjYXJucV9uN3dxWG1wQzBkcEU3UGtWdjZQMG1vZ3VsT1VKVnE0LVJEUUlCaFdsSjVFend6eTZ4dG1NWFVPY19tQUFQLUZaTdIBvwJBVV95cUxOS2RGNTRGd1dmQTVsN0tZRWF2XzBwaDRmdW02VlRmd2VmZGFLVTZHd1NQRzRBVXc5LVpHREdfNGhnaWZVN0ZGc2t0NG9nTHE2Qkd1RmtZMWh2bUFuTVVQNWpKMlFUaTFaRlF6amNKS2tHQXh3aDBZLWloS0Izb2lFVlh4dkFiaHZGNFloeGJqZXctZWJWb0dtNzliNUhDbHhWYWpEREJ4OFg2TE54Q0VqTkJNVDM4WXFIeWVpbHNkUkJuN2l1MmVpTVRsSzBTS0t1b3d6c3NzMkRhVjc1Zk5QUHk3dm1VNUVndGFGTFRvLTFwRlhkd1V2aURpTHlsUUl0b1dJRFhvTHlkVm13UDBjeUJFclR0VDFUdmExTXp6aVJFM05mcE9hOVQyUGhEUlBuaHQzTTMzMzZEeEk2Tjg0?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-12T00:59:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/XMU7JUGOBFDCLAWEEPSMNEJNXU.jpg?auth=2f19acc78c1b5284f671f5c0e9b1f8caa4c4a4a7d6186cd3a94a77683a38d978&width=893&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Chifa Asia cierra sus dos locales en la Alborada, en el norte de Guayaquil",
    "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQME5KQmtIakpvaWswb0RVRmRSMGdfdkJCdVAteWNZQmo1SjhTUEhyUTJRb0oxaWxmSnhqaTg2blNRQWN3eXdtdV9yZlRkR2VvMmxPdjlLRW4zMmYxV2lCVTRhZ3U4SUxqZkkwMDVxdmJBb1J6LU42b2NIdkxkYzctbTRwdjdHNEtrMHBQX3I4ZWdKSzJVUFdqRlp0aXI2Z2tjU2Jla0xhVllsRUFsWDI0N19BSXQzeERjVmV4dmZWSDR0Nmth0gHYAUFVX3lxTE5yYnNxOVF1NzJyWkc2RHdGcUxnVWdBRHEzQmdvU2ZTVThzSDlrblNWMWplbVNDUHdMUWlIY2pycXlfY3NqQTBqTHlmZzFjWHlnM1dQallhaDhLNzRDcHJSQmhBdGg2OEUzTVh5b3MxZDZVbUJlSnp6YnpZWjFQbS1La0xaVzRpd1J3Ukd5bWZ6U2d4SlpDTUNpdGh3M3BsU0pUYjBkSi1TQ3FhNGc0UFR3T1pjYWFtR2R5SjNtd19oMGYyUkF3QkVDRkZhbXc2TFNkZm5udFAyNw?oc=5",
    "medio": "El Universo",
-   "fecha": "2026-11-12T00:59:00+00:00",
+   "fecha": "2026-11-12T01:03:02+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/FL2F7QF5TJEWDBSJULFF63D6HA.jpeg?auth=d4df066593e34cfd02f74fb3f14f77d126118326eadddf45ca17af8ee82b9e13&width=1005&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Inicia el montaje del tradicional árbol de Navidad en el Malecón 2000 en Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODJINHRKa2NPeE5yQ251QjRid18wa3QyU0h5R2pmWklFU09Qclg4N3l3X3ZqQTlZQ1FqZ0ZTMmlCMEhSQmlmY1JoTkdpcW0zSTZVSVBWMTJOYVlQaVpxQzBpeUFkdEhJRk5jaUZtM0RHMVdGdnFER3NBU08zRkZ3WU1pc2FNTkxCVWtFNDRvM3dTQWk2b0tLMDNzX3ZDY01CdDNnbGJR?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-12T00:45:11+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/11/6af50bf082a3f.jpeg"
   },
   {
    "titulo": "Avianca dejará de operar vuelos directos entre Guayaquil y Miami desde diciembre",
@@ -109,13 +193,6 @@
    "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/1d5a73343ec0a21765136f11556a0288_L.jpg?t=ceaf4a4ff834"
   },
   {
-   "titulo": "La casa de Abdalá Bucaram está en venta: seis habitaciones, piscina y cancha de fútbol",
-   "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQlRXWHdRdV9QVmQ2ZlVwZ21sRHV5WFJObzJFLWxYMXMtdEt6UXZvOHNQV2ZpY1ExcUYxN3Bmd2pPM2VCR2ZnRDlhQUZKTU9jV1BoVWc2U2lLMC02NTF0TVFlcXdTVWt5Vm0wVklHV3lzQWN4amxFNTg1ckRWWkdlM2ZVMVBtRUxmRFdFeEQ2MVMxWEU5aDZuanVQZmktcDdDMHNnOXhMYUdnd0wzUHNVUHJabU5sZjJ3UHppbndxemlTdVBOWVpqdVBzbnI3bTNNTmw5ck53?oc=5",
-   "medio": "El Telégrafo (por eliminar)",
-   "fecha": "2026-11-11T21:02:12+00:00",
-   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/79c90cba9afffba5d6ed20e8c72b53e2_L.jpg?t=125bcba930fb"
-  },
-  {
    "titulo": "Botadero clandestino de basura almacenaba hasta 12 toneladas de desechos en Guayaquil",
    "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc0NwWk5rZjVobzVWVFhNZld3YjNnazBGV0JxbFZXSGF3dmxqQ1NRYjk1N1RmbmdWakRUMnM0NE02V3J5cG1mUU5abkR2RHR5b3ZwdWU3TUp3aC10cm1zUnpvV1M1cVZhY0dCNWtQNlVCTVR0aWxWQl93TmRaOEExUjZGbmRMQ0ZlN0JxNFFjTDZJZHFJT1QxYldvLXJHcDZxb3VHM1RIVGRZWnRhcXplbExhZklQNHB0Tzd2X3JGUjlSV1VjWi1tVm9ZX0RLX1o2Q1VJ?oc=5",
    "medio": "El Telégrafo (por eliminar)",
@@ -172,13 +249,6 @@
    "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/11/6af4c737895c6.jpeg"
   },
   {
-   "titulo": "Trasladan a Ecuador continental 750 colchones dañados por inundaciones en la isla Santa Cruz",
-   "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTVBnWW1PZ1gyZlBRYWI4ZVNZUkt5dkJCVlFHTjJaM0pRRV8xbTZXVmFBM0tSNlFlckZYR21vWE1mS09VdnRIZkJOR1hMZTFjcmJWSDBjc21YU3dveC1nbFRhX0QxQXZVNU1NVEVkZ2pvY3BJTlZzOXhpa3QzcGxIY0FlZExPelQyMmk3Q0VaOVRZczYySERNVzVUSENmV1hkTzJOUmZWSmJFdXgxdzh6cEdEREdqVDN1N3FPZG12bzZpbTdQazZ2akdsZ25qajQ1ZThad1psQlgtUUnSAe8BQVVfeXFMTV9hVGg5VGV6QnZMazR3WlBrei1MR3VlRlJYTlFzcGpkN21RX3dJV0tYOUFtWEtoNXUwQm45dFdCRHRGMjFzNFVuMTFsdVlqZWtEYXRVR09NMF9pQXd6YlZxVXlFZENRSXFzS3M3SmNnOThSenloSXVVQzJWZTBfVThiZFhEMW1CNmlvWmg2MWU5TUVTd0xVeGJGWEZqNWprRTFKWjV6UG1LbEZTS2RlVlpNNGhiQWVtLXdrblRxOWdVdFVlZG1xM21xbnk0YXd2SHJDcWZUcGVBRGYzX0JXVGxQbEp4UklfdXJISUFHbWc?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-11T19:25:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/AUD7D2YGHVAN3NUPOROQX5EV24.jpg?auth=631561caf1a43e1aa95d89fc2cc38a3fd9913372e29163a557ff963d023a050f&width=1037&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "¿Quiénes son los ocho candidatos a la Alcaldía de Guayaquil en las elecciones de 2026?",
    "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZEhSSW1XX2hua3RsVlRmRDA3b2tCRzRSeTcwVG1ieWZHSWZySktxRnljUTV3Um1XbmJyV2kxRmRzbEtIOWN6Nnk2ZjUwNExUOExyVjMtZGdCMlpvcHE4UThxTk0zb2FVSWg4YlEyNjluWU1MSm14TTNxNFkwNlhaa2V1bjVlcXd2YkYzZA?oc=5",
    "medio": "El Comercio",
@@ -193,25 +263,11 @@
    "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/dbff0e4078e8cd3e485650cefb6055df_L.jpg?t=1aa3a18d60de"
   },
   {
-   "titulo": "Cayó la estructura de alias 'La Patrona': 10 detenidos por presunta distribución de droga en Guayas",
-   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNajE5Y0ZqR2NPLVU3bVcxbXVMcFFxWlo1blU5aVE3LVp6a3ZDVGNZN0pYNWZfZTBaVGdmWktnWGdaVkxRd2NJc0hNNENOcWdsSks1ZGJzNVlHdHktNGtDeHhsdG5GRVItM0VTOHpFcjZMSmlnWDlJaHUzaGdzSGY1aXhpME5zR1p6bFVZODNXY1VkeFhQVWlyYTJLX0NSbEEyMll1Wjl5YVI0T2V6Vms2dHJ2NmpjbThFVmfSAb8BQVVfeXFMUFNGUUgzd0Z5S3JqSzc4SzdVZ3BvSTJfZm1nWjZHb3hzZkZ2UVE5Nk5LTHJKeE9pLXRmSHFfLXA0UnQyWlcybUlEc2VzVE4tX1pLVXJxZTJVLWlOMDJnZnJ1d0Y3bHV3bEFRX3hkOG03Rm9XMWF4bk9IQUJsdEFCaldPTDBGVG8wMDBYVWJpOFVGaUJ4ckZCa3RheWY3WjV5bWRxMXdpYjUtS1R3QWtTRnA2VGhJS3dZTnhKMnZVSGM?oc=5",
-   "medio": "Vistazo",
-   "fecha": "2026-11-11T18:29:27+00:00",
-   "imagen": "https://www.vistazo.com/binrepository/1148x601/547c0/600d0/none/12727/APUG/banda-de-la-patrona-2770212-2770212_2770212_20261111131824.jpg"
-  },
-  {
    "titulo": "Dengue deja siete muertos en Guayaquil y lluvias elevan el riesgo.",
    "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNXBiQTRVbnpCYVBzZzNaVE5rUkFHalVVRWcxOENUT1RWLUFlR2dKRXY3MkFVSHpUMTdlaGZPaEQwSW0wdEhoRTMtNHM3bE1LZGVqdDYyODg2ZUJjZC1JM3Y1SUQ3ZkJBMkNES1FmWG40ME0tNnRYbmtrSXV5MFFEOEs3MnBCUDdodkkwYTE2S1d2UlFLamc?oc=5",
    "medio": "Machala Móvil",
    "fecha": "2026-11-11T18:05:59+00:00",
    "imagen": "https://i0.wp.com/machalamovil.com/wp-content/uploads/2026/11/WEB-DESING-4-4.png?fit=1920%2C1080&#038;ssl=1"
-  },
-  {
-   "titulo": "VIDEO | ¡En medio del diluvio, fue por su hija! La historia de Francisco Borbor, el súper papá de Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanZqSTVGLTFzTE5nUl9nSEEzX0EtZHBtQnhEWjZudlZGQ2pyZ1oyVjlLQWxpdUVCc1dXbHBMSE13V1hpMXZ2Mkw3My0xVmJlaF83TkxORGRwLTFQN2pnS0s3MkhzZ3A4dENjT0pUdlYxeTdNS1A5RzFIWjRPdjBKTUhXSmZDeUhrTG5CeTY0UkwzcDBMazgxRkVQMFpSNDlGeV9GN2wtMnQ5T1dJT2JvbUp0MnkxQlFZbzR3WUZnNNIBxAFBVV95cUxNVXVpcE5YVW1mVlJjcGM5MUY1UTF6YmE2NGkzRVc3dWZ2VktZb3lGQVhuWjRvcTM5TmpnMnF2X01ZT3MwS3hJYmRaVnpZSmZ2R3hkVFNmOXJlWnUzbG4zYWpleFN6YTRGUk51VXJxU21XdUQydC02TUVxZkR6WWFXam4yUVNyLWdLVlp5dEVpS3VrQ2ZaLUd3LUdDRWZVMW1OSEo0ZzkzNldvWU5Mb2RsWVpGUXpFNDZMUlFrWW9PNEpXcXFm?oc=5",
-   "medio": "Vistazo",
-   "fecha": "2026-11-11T16:37:33+00:00",
-   "imagen": "https://www.vistazo.com/binrepository/1077x600/367c0/600d0/none/12727/WNIC/captura-de-pantalla-2026-11-11-a-la-s_2770151_20261111113519.png"
   },
   {
    "titulo": "Una mujer murió luego de ser arrollada al norte de Guayaquil",
@@ -235,20 +291,6 @@
    "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/files/fp/uploads/2026/11/11/6af4927e0cd04.r_d.662-521-8888.jpeg"
   },
   {
-   "titulo": "Noticias, miércoles 11 de noviembre del 2026 | 24 Horas | Tercera Emisión Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWEVhbzB0cmZwTHQ0eE04Q1pnZzkwT2dLeXd2N1A3ZkQycEs4cDFmWGdaUXR0Z1lmd0dwbUozSi1ZSk94V09LRVQwU1ZzS2VhdUFIaG1STWsydjVBVjFlQS1ZOVllMjhCVlBQTFBnd1ZGWUN1N2V6Z2tVSUhITHdiTmpHemh5MUJLbmgwUGdpNzZwbFZhMWxZR3B3djl5SVdkMTF4ZUdQblh2ek5VNGh1UUhsQTNURXpwalhsb0htMXB5QUxrNkhZN1RrQWdSeGdwRVZZ?oc=5",
-   "medio": "Teleamazonas",
-   "fecha": "2026-11-11T15:29:50+00:00",
-   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/11/6af489b379bfe.png"
-  },
-  {
-   "titulo": "Noticias, miércoles 11 de noviembre del 2026 | 24 Horas | Segunda Emisión Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbl9kWmliSHd3WE9zNDM1S2dTTWVuaUtNbGxsOHVnazJZUU1pZDVPT0xwOGtVRjh5OE1KOURlUlJWajQ0a2xFR05ISksyaE1ncnd3dFpCSmVtSnZLVFVRTG1EbEpYWkxQMkdoS3c0MFJYR25STUU1Ynlidm5tT05ibldKcjdicldsV2VBWHR0WFRwOG1ZMGRRdUZTcEdmUExNV0ZGd1BIUTVRSXdOLWkyc3dORVAyVTc3TlhldVk3V3A2a2ZzUjhhTWc2ajZMSFRMR3FZ?oc=5",
-   "medio": "Teleamazonas",
-   "fecha": "2026-11-11T15:27:36+00:00",
-   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/11/6af4893c1ad67.png"
-  },
-  {
    "titulo": "Nueve de los 15 concejales de Guayaquil obtienen licencia para participar en las elecciones de noviembre",
    "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMVJ2Z1dkYTZMYVMzbkhmaHRPTzJYV0JHcjJYWDE3U215eFZxUzQyOHlsRkdOdU52SUxXekNZS1JjN3oxS3hvTXhELUl6eTJta0VyY3YxRnd1c0VsbFgtRVhmTDNudmF5QVZ0d0pWMDJOcUo2c1EtZHhfR0F0clpRRTlTeUpsa0piUDlnZEdTSm5sZ3pDMVRtYTZpWmg4bEV4dkdIUnVzSlVRWW5jMUVWVXBrYzBaeUxJbjdJV29acWxEaGp1TUNKaHRIQ3g?oc=5",
    "medio": "Primicias",
@@ -257,7 +299,7 @@
   },
   {
    "titulo": "Tarqui y Ximena suman más de la mitad de los electores de Guayaquil: así se reparte el voto por parroquias",
-   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV3JMUVhDVEMwRWxhMVRCNWM1U3JqRlp4U1ZzVjVva1gtczJnT2ctZjhYeTJkUmVweFdiN25OOTBGRzlja3luNUdFcDNrcTExckplUkhSOEhRaFFuc0NINDFaUnFGSTVXYmw0U1NUWHdzWUh6RDNCcGlCLTMzQkFJeG5ZcG5jOVczM3dVa0NQQ3hNVGZHeThRbVhKbzR6OU51OFBrczBsdTM0SGRDNnA0U2NoS3d5LXNkQnQzUmk2aGVLS3RMUnkzMWFkQlRLZkJlbS1xNGZGU1hZdUhXZXBEWUNfRTVoTlowZGx3RnBKQdIBgwJBVV95cUxQU0duMnI5T2RSeGF6QTd0TldScnpiMjYzcWVIdjBCRjlPSnlCMlZ1b1FkR3Q5S0p3enllLW5lWXJqaXNuZTRMNEU5M1d2NXUxVDFhVldNQlgtUEFtRWpkRnJYZ3BkSzQ2VjBCZjBFaW1JTjhhbmZzdVJhNE1iXzRqd2lfbE8xMmxzZEphRTlmNkxKNUZLQkhzeUkwVlV2dHVCSmNSUU5zTXowN2tZYlo0Y0ZITnFOb3lCTGU0Vkw0clZHMzlpVDZNQ2ItVk5DOEdVVTlGMnp4Vkx4SE14RFpmdDlaNEhzNFFqaTFGbjdueU1iUEJ5SVZXSVhyR3pEZUxqVUM4?oc=5",
+   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV3JMUVhDVEMwRWxhMVRCNWM1U3JqRlp4U1ZzVjVva1gtczJnT2ctZjhYeTJkUmVweFdiN25OOTBGRzlja3luNUdFcDNrcTExckplUkhSOEhRaFFuc0NINDFaUnFGSTVXYmw0U1NUWHdzWUh6RDNCcGlCLTMzQkFJeG5ZcG5jOVczM3dVa0NQQ3hNVGZHeThRbVhKbzR6OU51OFBrczBsdTM0SGRDNnA0U2NoS3d5LXNkQnQzUmk2aGVLS3RMUnkzMWFkQlRLZkJlbS1xNGZGU1hZdUhXZXBEWUNfRTVoTlowZGx3RnBKQQ?oc=5",
    "medio": "El Universo",
    "fecha": "2026-11-11T15:15:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/XDC3CNDFBFHXRL4K765DDYETM4.jpg?auth=0a46387fb80d0de6f32b8f44f026fc66b95e05bc76d79fcdf6af2b4f3c81980d&width=1023&height=670&quality=75&smart=true"
@@ -298,27 +340,6 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/JG33YSJA6NFPHEWIYHWZDUFYI4.jpeg?auth=1efd12e3d387e188414521dfe261dbf23fec994300a672640ca5aa213201a674&width=696&height=522&quality=75&smart=true"
   },
   {
-   "titulo": "Noticias miércoles 11 de noviembre del 2026 | 24 Horas | Primera Emisión Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUFJmS3VpRnhvcDBmRWtNRFNTcnB4ZHdjX096VklHelVXQ002SXdoT0tHaVY3MURWNVNTakRidngxZm1Tb1ZKblVaMFNNdXItRVNLZ1BJS2dyZi00bl8ydFNiWGt6cVVreDdsX05NbUJaMHdYSTltMDQtaHVhbFpBVS1KMTFUMDMtbTlvQlpTQ3BTbURsSldzZTc5VHd3XzNReExpSmxNZlkydjhzcVNqaTFHUGU0c0hsSXp1cnp5czY3aTZkTkJRT3g1cUhqcmU4cjZV?oc=5",
-   "medio": "Teleamazonas",
-   "fecha": "2026-11-11T12:21:46+00:00",
-   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/11/6af45d596539b.png"
-  },
-  {
-   "titulo": "Mujer murió atropellada por una moto en la avenida Francisco de Orellana, en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0VUeDJGT1hDVDlSMkVzSmFWcWpZRzhaYU5GZmt2MjdsTkFBdUZjaGxZZjM1Z0c5RERhWDlfOVZKMWMtLTAydFUyR1ZXRmtOUVdHdFh4ajJSamFVeE1mQndOYjlsOFFTN3Q0RzZEWndGd2FVTG95NmJqdy15YUlheklCYVJid3BOWmVRdTZHdERDZWZkOG5odDlubTFCaXNDanZj0gGoAUFVX3lxTE1jeUt1UlVtQlBLRkFjeVZYQlg1eXVLWWFsbHpFbzk1aGdXcm8wanpoVDA3MkNMX3NjMWR5eUNJbGQwdkVOM2lNaHZNaEdCSk1ZSVBRV2h4X19VZlU4dERMaWlKX0tBb25aNE4wQ0pjVm91UW1Kd0pKUlQ0REJkcXJ2ZzE1WjhoLWtka0JMcEUyTmtZMXFsSHNla09QZTBXRF9hckYwdXJlMA?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-11-11T11:56:22+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Clima del 11 de noviembre en Ecuador: Inamhi prevé tormentas en Guayaquil y altas temperaturas en Quito",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSW4tQUdFUkNVRkFKOE8xcjBLTmpveVRZMnlSZkdoV3dCbUk0bkU4cnE0M1hvYTh2QnQ5UEJOYXdlbXB3eFVQM1JpWjllaEdndG5aS3JGZVhYb2c0dndNNXZXQXVkTDF1UExIM1JVbHZ0ak5UZ3dwcS00aFZSd0dYOEJRSU9lbHpjMDk4NVFHSEtwV0VRT0NTUkZKQ0lITXNhZXROZDhrNzVzbzFRLU8zRF8zM0lNQdIBuwFBVV95cUxPbXlraWVFYXJSZEtwd1RyZXYwRzNmX1A5THdhdkctNU5mWEtOM2Y1eWowRk1mVDc0dTRxZ3N6UkRGZVdNeFdYRmplT0hCSzNrZTM3Z1RJRUdRQUU4dElfNXVhYWMxNUVaOC1jek5QLVRudVRwbXR1b2w1RzB3NDI0WUZuSGVGa0lQOUlscWYzZV9zb2pKSGZ5RlVLOVVlOEQ1bzdOdlM1V2JjalNENHE0bTJac2tMX2pydDI4?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-11-11T11:26:57+00:00",
-   "imagen": null
-  },
-  {
    "titulo": "Corredores navideños se abrirán en Guayaquil desde este domingo, 15 de noviembre",
    "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3dkVXB0NFE0RG55MzRUTWhUanUtZkRWRDZwS1lqS2dOck9BM0xfUlJyVVBXa3BYQVhlVHVIQm1fR09pcHA5RGlIQV9PYi1WQnltUk1zNkFsZ2JBVVZpdmJpS3pkc1ZlOUplZzBTNXE3cnFQSktMLTZQcGlXcE1sbG1YdFJLTWZJQ0Z2NUpaYzRoa0hIVWtZR05MYm9sdHVHZThsdkktbkxJN0V6UEh3Mzc2d1hCQm5zeldzaTNidEthMmFTLTl0bWhiQTDSAeABQVVfeXFMTmNZNUhld0ZPZXpaMlZiWkwtVU5ES0t4d1lvYTNUUE9HLU9yXzVXaFV3cWlVLTBXX1FoaVI2MkFhb0VNRm8xakpJNmFwWHhVTE03SXF4bzNLa2hvVE5TMHI2eWNOSzVlOXBlUDVyMmQ0Y056TkxkRkE0Tzl6WHIwVlZTa05SVFlhZC1nb1RuTWxNTEh4VW1RTzk0OHJNbE5KeGdDZEdxRkZidFRBUTduMUQwcVJHb2o5OGlMX3FtcEFYQ2xWSnpfd19mR25BWVJsaWtTU1JPWEtNaFR6NHlBejc?oc=5",
    "medio": "El Universo",
@@ -347,13 +368,6 @@
    "imagen": "https://www.larepublica.ec/wp-content/uploads/2026/11/Screenshot_20261110_191920_com_instagram_android_InstagramMainActivity_edit_406531825036324.jpg"
   },
   {
-   "titulo": "Exclusivo | Confidente destapa 'secretos' sobre allanamientos al Municipio de Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVl9USVpENl8zMHE1bXN6RFVoQTRseWotLWFCVWQyVnhmOFphZGRNUVpQbm1QdjNVbHZSOGNreVpzbDdzQVJOQnRyc21VMGltZ3h5NzZWSURVdWZMX2JtSldHZlUxUlJWQTBmUFpGY0dPazFXUmNvb25TWWdlSGVMdUF5aWZjcGlJXzBqTnZOZTlXQ0FoWHlv0gGcAUFVX3lxTFBFWk5qc2lxZEpRS21wSFV4WXl6Q05WRHpIUzBKUTFmaXJNOExnQjF1VUxydkVPUXV0UHdtRDFkUHhFVjVaSFM1Yk55d1d4eFRWdkFZdkx3SGh1MzB6SXR3NF9WQVdGUVdmekdNejRzUGYzY21HRktsMVF3SjZUUnl0b3RqWE1VU090OXRwbW9SX1ZDV0Y0S25na2lsbQ?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-11-10T23:58:03+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/11/10/6af3a2e7b70f2.webp"
-  },
-  {
    "titulo": "‘E-gates’ ya operan en el aeropuerto de Guayaquil: pasar por Migración tomará entre 20 y 25 segundos",
    "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbnRsN3l2Mmpvd0RLaFZzMjhXZUVRRXMtUjVsNE5yNXh5X1E2RTlQR3A5eFlRdVFBVUlzeGhDSGc4TlBWMnFtZTVyYThaREFWbkJXeEJXSzFuU0Frc2o0cVZkdng2bzFCSExSTzhNOVY5ekxkRWhpRmpnOWNWdGtkaWdtdG41cXJiRWVzSHJIM3BNWjJzdVZHZ2dhd094R19hU0dhVS1xbXpma3N0NVZxc2FEbkpzSTNnUnRSVjM0ZHNzYXRVaGRRbk5TS05uNmtHd1RiZEdLblZKZTVNQ3fSAfIBQVVfeXFMTWd1cTktUW5vSkQwLUVNVnA2UUtTdFFLQUd4QUxPQXVUWERHeU9ESnNVSlBsWXdjeExBYzhJV081ODJXZmJ6a3Jqb3R1cnkzbHM4UW9FSTNINWlSdGNDenlieEV1aHJCczVsQl91bHlSY1dCY2lPT29DaDItYThVanIwblRoV2l1dXRMaHNvc2ZtV1hZRDZubXlFR1N4aTNGN1NqMm1NTG94bUlxN1hLRmJIVENNVG5xbTVKMVBIOTRiWExNMWl1LVlaV1VCdFl1eDU3djE1clllWFZJdG9JbDhMTERZc3hHOUxGNE9QNU9RRlE?oc=5",
    "medio": "El Universo",
@@ -368,18 +382,11 @@
    "imagen": "https://www.elcomercio.com/wp-content/uploads/2022/06/IMG-20220629-WA0229.jpg"
   },
   {
-   "titulo": "Cynthia Viteri lidera intención de voto en Guayaquil y Andrés Roche crece, según MR Analytica",
-   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcXl5S2pqcFJYWHZudklGdjh6RzZMcnRLcTJpaDV0WnNwanBJQjdoeU5UV2ZBTzVkcTBFZXFoYWRhQ1ZLYy1UVXozQVM4Q01tWTF0Z1labll5N1ZUQmxHQ1c5bGJ4RHU3R084SmN6OU9DQS1MekRWNmhZblNLZXdGMENQcTlNTnBxZnFOZERiM0Rza05LVHJacXdERzA1a3BycllBUVpWNURZRGZXUmxyRWpPVlVJanFNOG9uS3Zic3FEd2VzVEN30gHMAUFVX3lxTE1rWERTbVlHeTRpUlVaN1k0OUFtdHBlQ0ZDYVJGdDN3QWdyc05oTjAzNDVGcGk1QUkyTmx4ZjlWNW9tVmVfSFdCeEVaSDYweUNkVF9obDlTRGNPcjdkbFhpNWg0YnZ2clhKQ2F4U1p3eHFVSU93WTR1VS1CQ0dOdFN1OGJ3ZnFFWWtOZnNyV19mRmtpaHByY3F4VEF6WVRTT0hQSnp5QUlwdm5qdG5zUUNLNzdnd1M3ckJIblFwYzJ3Yzl1LWFjbEY1YlNCNQ?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-11-10T22:41:25+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/11/10/6af39d793f925.png"
-  },
-  {
-   "titulo": "Terminales de Guayaquil retoman sus horarios tras el toque de queda: así atenderán",
-   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckdlYjFVb1pBMC1iVUlNT3ZfQy1zU2tXWHM0Q25Qa1JRdzRHUU5JaUJtT1RCeTJ5TkhLaS1sTDl1ZUhUZmlCZ3liSEtkdnV2ZjB1TUlhNXVZWnlIVFVPVENzZlF5Z2pfSXZkWnZtd1pzeWpNcUF3NXRpcHFKYldpcG01VVQxM3ZrcHpselRqQVhNTlBzVGZRU2pxM05fX0hIUHV3Z3dNNnc2M0ZjX0xYS2E5OWxvYmpKWG1mVdIBwgFBVV95cUxPRlBOb0hrQkUyVE5fSGRYQ2ozR3k4NXlaSHZIa2lBcXNvLWxaMndPcVJqbTJiUnFUU00zUjNQajVMZlVPMmx4T2dDY0ZGRGFHYVo1bjRSNWNnNnFUMlNQSW9Ubm4zMndxc3hiRXA4NHNoNHZkX3BYN3c1SjBJdnhkT3N2MW9QWllueFlsQmFaQlp3QTFQbnZIbDJDX2s1MDJqME90QXlvM2lneWRNMVU3OHN6OXVJRjVna1FyV2pYNVdfZw?oc=5",
-   "medio": "Diario Extra",
-   "fecha": "2026-11-10T22:01:47+00:00",
-   "imagen": "https://imagenes.extra.ec/files/og_thumbnail/uploads/2026/03/30/69caa9fe4cf47.jpeg"
+   "titulo": "15 contenedores de desechos salieron desde Galápagos hacia Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckQtM1ZxRW0xdEk1aHQ3b1lKSWdkNzZRd0JDV3Fjd2cyZk1VNjVTX3VPdld0elVzbnc5R0ZpZE1ObGNMUkIyWlNHTURmamRwOXN1eEY5VjdlVzlnclYzaUs0Ql9iSFpTRHJDQi1nalNxMmlSTkNnWGtEd1ZRMFpMRms0UlFmZVpsaGF1eXhYSFRydEJiUGRndV9fNDBCeVhacnU4RFJ3?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-11-10T21:24:37+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/HWxv4DfXwAAwlCy.jpeg"
   },
   {
    "titulo": "Buque traslada 15 contenedores de desechos de Galápagos a Guayaquil",
@@ -387,13 +394,6 @@
    "medio": "El Universo",
    "fecha": "2026-11-10T20:14:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/IXPXQPOABJGUZIC353ECGZT67U.jpg?auth=4b46b1ea3e8d7041b00f58364af3a29e2c5d6cd6dd673fc70156c96cf3a95593&width=719&height=539&quality=75&smart=true"
-  },
-  {
-   "titulo": "Terminales terrestres de Guayaquil retoman sus horarios tras finalizar el toque de queda",
-   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQajBoUm1zVy0zb2RSMkltUkJCTV9UUUk4Y09JUVNFeGNtWlF5OWFDSFoxM3BnbFV5WG1YS2hDNTY2UjZ4ZWxCdWdIa21Hb25oR3VDaWwzUWNHM0VQQm01bVk5LVRuOTNicHAtZG5IelVwY0FCWEtuN09Oa0ROWFJXUnhmd0NkNE9GRGU2Q2Jhb0x3MEl5blVhdmVQQ20xc2taOVJ1aVBBYnB4Zy1vbENPUEpkMXh1SHg4MnhBandDdDNwdjhpTmtLc3E1TXhJaE0wZzdaSWJTbGjSAewBQVVfeXFMT3FKODNRYWlCTl9JODlNWmxBd3FqdmFyZEk4R3N5UXlNNXc3UDY2TGdMSE5JYW5OOHNaQ2ZoZEhJc0pvcXZvR1B1cXZOUkdTZEo3YTVYZkFyMzB2TGs3UHhQNndJMVU2RmhJLU1UcEF2ekNlRDhpaWFLTWM0Y3NCVWNuRGNaeTZNTFUtYm9OME1TaG9acDhDV0YwQk04R3dHWmI5bEdFQmtOeTdXekkwQUdaWUZwQVozUkNIUTBaTG9BcElnLS04ZUU3V2xqUVJTaGtiNWRFNW1OVHc2UjhyQ213M2s1clJrSjlRVk8?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-10T18:12:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/WSK3I3GPIVDLLD5RSPZAG4QTPM.jpg?auth=144831a5b28c62d0d82dc6f200cdb96cf22da3d51771b5ee5a13c1cdc8724fc0&width=1005&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Ecuador vuelve a Quito y Guayaquil: fechas, horarios y dónde ver los amistosos de la Tri en noviembre",
