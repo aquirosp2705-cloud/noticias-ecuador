@@ -1,14 +1,140 @@
 {
  "zona": "ecuador",
  "nombre": "Ecuador",
- "actualizado": "2026-11-22T02:43:04+00:00",
+ "actualizado": "2026-11-22T10:25:25+00:00",
  "noticias": [
+  {
+   "titulo": "Paso del ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XTUI3X0lQZUNLM19lU3hMSlVFQWRENVZGM1l5Z2hfYXZfSkhzeVozQmlLaW9VV0gwV3A4SWNsZWt6RVRHczE4LWFJSnJ2Yms?oc=5",
+   "medio": "HolaNews",
+   "fecha": "2026-11-22T09:35:43+00:00",
+   "imagen": "https://d3k76ktnld9l0g.cloudfront.net/wp-content/uploads/2026/11/22093550/rss-efeffbc092e2e02c8a342f964c0d21b0fefcdd8681cw.jpg"
+  },
+  {
+   "titulo": "Ecuador Sub 17 vs. Uganda (22 Nov., 2026) Resultados en Vivo",
+   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDdaQTlPSnI0b2RPeF9sNGNoR3ktOXEzd3lCRF9wYjRSV1pmbVBjLVFwUzhjSGJHS1BScWh2UkJTbnc2TWQyemFJYkVBSEM4ZVYzVm5uT2k4Q0xwcWdHRFpxYzlfbW9KTnI3UnFaQ1hMdzlJbXZXZnIyUHFGZ05pam9fMGVhMWRqS1ZJ?oc=5",
+   "medio": "ESPN Costa Rica",
+   "fecha": "2026-11-22T08:51:18+00:00",
+   "imagen": "https://s.secure.espncdn.com/stitcher/sports/soccer/fifa.world.u17/events/401873540.png?templateId=espn.com.share.1"
+  },
+  {
+   "titulo": "Ecuador frente a un nuevo fenómeno de “El Niño”: qué cambió desde la catástrofe de 1997 y por qué el país sigue siendo vulnerable",
+   "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQMjk4NHhkOWplZW1XanZ3dkxpR2RodnA1cWtIbWN0T2pJYmdaaFptMjNVY1JnNUVpYVc2VlVjcjZPSTY1S0FFVFdRTUVxZDZtN1ZQT0FoOC1zc2YtREJWZWR0RzdrZkRCNThuZXhjaGE5cm9vTFpMd1ZWbE5oVTdLRDJFRGNVdUppMkx0dm5WaXV2c0tnTE1GYzFTbGtib1dXajVCRTFoWVRtMkZwel9pZFR1WHNienRLSThXa0lXbEZ5MWZYTnlIR1AxY1pZcThNSWl1S1JITVNZTTM3SjdjazlneTlqZXJSeEhBeDA1cHhMQjNfSFh0eGhON3A3SXFLMGlaOWZKRTZMdS01cGFlUlVvTdIBrgJBVV95cUxNajV1Zk1HRllBUGoyV24wYUdRREtoUWdsR18wVGt1d1ZyWks3RmlYU1lJM0pfYldOeEFlbjlxZHU0N0dWeF9Ob0c3TEFldE5tN1lJODB6azhHbmlJZlNjX3M5bzBFOG9uU1F4b0dVYnFmVWlJSHhaaVM1U0ZvWk5UYmRYdU1xRFNreVJ3SVFiNDlyU3UzTUFfV3NnZGdZUXRFcVBFN3p3RkRUemc0MGVfTlFVcUxEeVc3X0haRTk3bTR5eTNvOEdMM1F5R1Y5bloxTk5KSFZ5YzYwRDNlNzlfSmUyR2NtalZHRGhYamsza2NGOHQyWjdCZUZndHJsc2pZeGhCVkU0T29YaHJRVEl5V3B4VllRLUNzRG9WTmxKdjNsakZmdHh2N0gwMUNKZw?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-11-22T07:00:00+00:00",
+   "imagen": "https://www.infobae.com/resizer/v2/VTPTNNCXTBC3BDV7WNOADLFTVU.png?auth=b0b45a66d0a3f75207d8bd65f2793d8be97a8de88c4911dae5d2bf532011bb4a&smart=true&width=1024&height=512&quality=85"
+  },
+  {
+   "titulo": "Ecuador registra 22 ríos y esteros desbordados y otros 17 con tendencia a aumentar de nivel este sábado",
+   "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ0tTbDJRN1h2bXNHX3BXUEZENm42dXFNcjJKUXI0c3lTNnc1RFdhOUo3VG0zQXlCLV9WcFhEYkRsblVjVnMtYXFUMVlhaWVISGVxTndvdlYzQ0k1RktxY08tbUdjSHh6eHFvRWhVQjNjWVJwX29JcE9BNzUweHpoUktvZ2NFTE5KazNVc0dzX21taXBsc2JxU2dwYWdPNXBWRmhqc1lyM01BajAyamxsbmJwQWlBdkRIZ2U0d3RnV2thc1A3Zzk2NlQ4a2ZSTHhZUkhNZUk0WS11YzVf0gHwAUFVX3lxTE5XalNLRmttQ3VGdS1vLWpoRmVMVHVTb3lfcVlMM3BCX2s5c0ZmNnl3ajdGdi11cUxRblBWbnNHdDJPNkNIREdjNTJiNTBNQThvekozTklhOWNQbFFLSjZmYXhEdEt2V0tqLThvdmJTX0NqNllSWEFoWFFaaTZoVnExc0hKa3lJMTdyVWt6X1dDelJvVWtpTDhvQmkxLXlJRnVLUXF1RlFqV3VybXFYeFRzZGtOSlNxOUNndUVkMjU2NlFZZ3ZmS0lqSFJDWHpHWURxUEFaWHNfemhnc1dwZ3J2clBhWUpvQkc1Nmg5b2xUVg?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-22T05:27:56+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/FV27PG62RNCMLCW72IK33HAWPQ.jfif?auth=cecf5ea67396b359e1bc395c03dcf18f43d97f0873e76b4ece183a5eaa6130f9&width=893&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "(VIDEO) La selección de creadores de contenido de Ecuador sigue invicta tras empatar ante Colombia",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSlpCQ3BiS3RlMDUwbGt1RFZKTXE1dXVEQ1FnUUs5cHN2YV9vTXN4amhJRFdUbUhVd3dpNXVrcldETWxzU0ltLWc2Y1dqa0o0dTNZVHFmcXBhd25tUjBuQVZ4cFB5U1NaVjNRYTlwbFRjY2N5RzRHYmtZOXhRaXZGc09GTUtyb2dGdnNTQVdXZUN4RlF5TXhxLWlBR2NOR001U2pBVC1WREZad1BpcGhfZUZtVi1PR1RrdnlSTml0NUtIMnd4cWpVaWxPOGpPM2JIX1E?oc=5",
+   "medio": "Studiofutbol",
+   "fecha": "2026-11-22T04:33:01+00:00",
+   "imagen": "https://studiofutbol.com.ec/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-11.07.37-PM-1024x682.jpeg"
+  },
+  {
+   "titulo": "Inundaciones en Galápagos, Ecuador, Obligan a Evacuar a Más de 50 Familias",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZU5sempvWUNIb0t1T1ByZUVhNkJFektvekJ6LWJrVFpfZ3VLZXFoNF9FUXF5dEo5dXBzME1qUllrakZwZjBHWTFjTG1LeFBfdDlQak5vUlRMNmZRU2dQZTNSM3BXYUxYMTFzWjh0QVRGZEl4ZGJ0MENaREd5MkhlXzZxUWNaQmxrZE8zUlowMkxaRkpKT0hqZmJBQ2NpYVF1WlN3V3ZOX1VxZm01M1RkNWFrUzYtN3hPd0VDZDBfMGRHTmc?oc=5",
+   "medio": "N+",
+   "fecha": "2026-11-22T04:32:30+00:00",
+   "imagen": "https://static.nmas.com.mx/Nmas/cms/1795321627367-snapshot-1376x774.jpg"
+  },
+  {
+   "titulo": "Ecuador decomisa más de una tonelada de droga en una provincia andina y otra costera",
+   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV1FxU1F2ZTFxNjNpY1gwek56S3k0YXNXZXNQN0tiT1Q1OW5neXNRREdrV0NMa2tUOWktTUF1eG5fREpnNGlJT3R0anpZY2wtX0tJdDlfaGExemVUbjdXR2ZGUWNZRkU3anZuMEhoX2lJQkhNMk9JNjZaQV83a3czV0FxWVZvZWJIMDJfWWcxZTBQQzM5c3N3S0lZTW9pVFNQQWplckFQSTRhcktDVEVRT1JUOGZaRnVCd2hNQU9QYXBZeUJfZzAxdzhfbzhjUW0yVkE00gHuAUFVX3lxTFB4UFY4bE9OV3BfNTJ0SWpXQ2kxLW1GemxKS0FIbXBYVlgycVlnVHF5cmtwTkVtMTdVeHlkS3pwRUNGblBSdUJ4VEZCZDd4Q3Nma3EtZ004YzlsZDRsZjFmTVNNQi0tV3NYa3BIMmxDOXRyWXV3VW1iWTlmdFJydS1YeGI0RXB0c0ZPWVNvajdIb19FVUt2ZEFSa1dJaG5uSjMzM3pZLVFuc0FjeXBTcUh6WGhncGtUNi04VVNmdTEzam1xM1M3SVloSzdIUHEwXzFLTTMtb040RUdzdC1ZWDByb25tSExoczZfT256LXc?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-11-22T04:30:00+00:00",
+   "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
+  },
+  {
+   "titulo": "La lucha de las \"mujeres hormiga\" contra la minería ilegal en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmdBS25scmxteWNrVl9IYzlpb0dCbmNBbHA3Uy1IUnh1SURkeE9mZG5NSWZMQ3Z6SFlfdkxlSnppbXZMOXlvTW11dko3OTFsTnV4Vi1mSFdoRWJ6eExXQUwwQmtjU090YzlnekpDeXI5a3dhZHlkdjlrdTNib2lvcjRxVFdjbkpxYmhqYWh1OUVVM1pETmZxbjQ5LUxRV1BKTkNCdWN0Z9IBrAFBVV95cUxOcE1wYVhBWG52c0ZUUEZDSGhCYXhjRDViTmdmSTZuOUVGd2xXNzFIQTJpci04SDBERVlCUHo0ZlJxeUpFU1l3SkRodEhvUTN3RG5JeXpXdFJSWHZkNW02LU4wbkQ5YV8wT3ZVNEhPMEI2THRwbV9aWWRGbHdrYWxUYTNtUGpBWnI4Z2t5a3poNDJmSlZmNnFhVlNXdW4yQV9WeVFxVDM3OURscExo?oc=5",
+   "medio": "Listin Diario",
+   "fecha": "2026-11-22T04:00:00+00:00",
+   "imagen": "https://listindiario.com/files/main_image/uploads/2026/11/21/6b02464b47099.png"
+  },
+  {
+   "titulo": "Hieren en ataque armado a periodista en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbzY2My1peTNsMWJ2LVg3T1RzUThzMFVzclpFSFk2c2RpWFhkUVg5bkRfZDlKZmQ1R3U1V2pFZXJSTHRWVnh3WUhVZ24ybmZCRVZmMmI5OEFZUmpEdFpqTTBmYWJ5SzNzUG9kS2JTYndrRENKRjNnNDdnempJQjJ3TWtITXFkXzZ2UFJkVnN2WEctemNaQWlSY3JLZjZTZWF2?oc=5",
+   "medio": "El Horizonte",
+   "fecha": "2026-11-22T03:58:33+00:00",
+   "imagen": "https://d6isf1yxni2j5.cloudfront.net/cinta_cde43eb794.jpg"
+  },
+  {
+   "titulo": "Avión con 65 pasajeros se salió de la pista en pleno aterrizaje y terminó entre la maleza en Ecuador: cancelaron vuelos de esa ruta hasta diciembre",
+   "enlace": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbGxvMjdQQzJ1QzNJeGlVU19hWDE3VFFqcm1oSV9fVVMwTnVadVY1elNBQVhBTkZnS25YZlpxbWFSbFpVYXF2Sk1LUktXUDJpRkk2Q2tQcU1ZME9ib3M0OVlISjZIOEs5SmhRbDFOTUpSNHJqMGNub1dZOHFiMGd4SkN5amRUT3dqd1J2MkRxSGpDeUZGZjRXaWhVcHlUT1Zkb2VjSDRYeng4eW55a2tuMTNnWXV4NFZxTjlIY2hVU3FObTN0SEtXU0RQUHF4dVlvN0dETFBfM1lvWnNoWjhLTkVsZ2NsenVQeHc1T05aT0RZQ1ZtQkE4aGJTVlMyMVZDc0RfSklrX0ZZX2kxdUJwSFlfVU1hWURtdzRLenJhVm8yWmhBNHfSAasCQVVfeXFMTnYyaDY3YUdKMXdUd3dLLUZCZGJldkJsYTFPVVJkYmNCak1ha0NFYVJDM0kyQ2FkQXZkWDNTeFpaMUhhUUtDVUE4NnY2TU1KUFgwYXBjTFhFZlpWbS1TUW40NnVaczhaMmVzT0pqV2plUHJESUxCbmFrRmVZcHhLSjg3ZmdzRkc3cjJOaXd6QzRVSlk2S0FTaWlHYlJkX21EOUFiaWRBOGFDQzYxVzdza2xSLUFVTWZYMEI4cTZKQ21uaVZ5ckNfUDhTRFgxRm1zUHg4VldjVl8wbWZleGNFR0h4ZjVRV1Y4MGFJdE8xc0N5eFFXaV90NTFDSVZqZzNvOGhZOGNzRkhFa2Q2cWpqdHg5eDRfcGIzZF91Ykh0UEIzYWNHalBmc1dRb00?oc=5",
+   "medio": "El Tiempo",
+   "fecha": "2026-11-22T03:46:55+00:00",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/21/6b02637ccb319.png"
+  },
+  {
+   "titulo": "El Niño deja 20 muertos y más de 100,000 afectados por lluvias e inundaciones en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMS14a2Y4VGwwa1J5c2VWNFZCbmZMeHdoSjUzSVFnMFJmLUNWVDd6OVJGVW10R1pUdnROaHNwRzlFRDFWdVUzR2ZHN0haNEw2MlItbm1EMW5fS2g2czlxMDMtYVVwei1aX1ZONDJlaEhqR1hkcWFvY3ViTVlBc2k3OWR6UjRoQ2pEejhPd2JuWlRfLUlNY1pWTFZMUjlvR2h5cHR4TEpYRWJXZjVTWGNYdkZiU1Njc254QVdBX1JiZ29zTzZVcEdPTk5rNXZib2d4SW1QZ2hiUQ?oc=5",
+   "medio": "Prensa Libre",
+   "fecha": "2026-11-22T03:41:00+00:00",
+   "imagen": "https://www.prensalibre.com/wp-content/themes/ux_prensalibre/client/build/images/ahora/ahora.jpeg"
+  },
+  {
+   "titulo": "El Niño en Ecuador deja 20 muertos y más de 100.000 afectados desde agosto",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcS0tOUM1RjFfSmhWN19iazE2Y2EyYVJnQnFBRENEa1diTl9OWGczRGppbDFubWJjV2RqSW9YSHl1TGNreG4wX29XeU5rSTI0cVdhMXhENm9KN21GeXpHUzZEWWFlRlJPWVlDdkZnb2lBa05CQlNMSmE0Yzc2MUJ3dVFBZjcxWWNzWU95dDdfejRPUldpNzA0ZVBvS2lsT1nSAaQBQVVfeXFMT2RSVWIzSXVaRDZHNkFsSTdQX3dWSHFYZm9Cb1hXXzY4YThaRjQySkh2czQ2cHo5YkVQNWJUZTZCNUJxaVFDdmxRcktWS3pKMVJwM1FxVm1kTkVPQy0tWUpoN1NxeThxektnR3ZGc1l5bHZvQWJXTWJOWmV4TU1tRzU3TnhvOWhrMDBQalVZd2ZRaDBGSFdhTmdNdEt2cUpQUUEtZVQ?oc=5",
+   "medio": "ABC",
+   "fecha": "2026-11-22T03:39:16+00:00",
+   "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/22/VIDEO-ecuador-deja-muertos-100000.jpg"
+  },
+  {
+   "titulo": "“Esto es Boca”, Enner Valencia agradeció por todo el apoyo que recibió desde Ecuador para salir campeón (VIDEO)",
+   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV05oTXdKTHZLUVIwQmVZMUNsR1NNYy1Sa25QUkJmcWVNLUhCSHh1aGpwQ25YN05YYUw3LUN6Q294eHR5cGFUa2ZzZUM4YjB2Vmp2WENXbld0S3BBdEZ2VjlUbV96WFdzYlVCNnRvTWQxWXFLcXphVWRpa3VBQVRLMHZwak1WVTlKY0NuWktxbVFCR2pMRnNXeGlLbUZMQQ?oc=5",
+   "medio": "Yahoo",
+   "fecha": "2026-11-22T03:29:00+00:00",
+   "imagen": "https://s.yimg.com/lo/mysterio/api/8bcd82d1a543848bf9bb9e567e171fbd3fbc481b1dda022386ea00d20b9f107e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Ffutbolecuador_316%2Fe0c301e33ecedbb33daad6c33fe73d70.jpg_up.jpg"
+  },
+  {
+   "titulo": "Dejan inundaciones más de 7 mil afectados en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMjZGeHBFam9rM1dNMXFFVGNxYjhocEg1LWZMNURqeUFMYWVIbXBmYVpUQS0xYVdYbTk5WkRrbURHLUk5TzJNd2pZNVY3ZXBYUDBYYUxIMmYtN0dnOUFCOFJudHAyQXJYUl96WHRRUHRYTDc4Q3J2RW1abEszSGI5S1l5N2ZJVl9QbjROdDdvVQ?oc=5",
+   "medio": "Reforma",
+   "fecha": "2026-11-22T03:18:24+00:00",
+   "imagen": "https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/328/6327276.jpg&maxwidth=960&maxheight=640&imgWatermark=https://www.reforma.com/libre/imgdiseno/mailsharing/marca_agua.png&transparencia=0.9&centerWM=0"
+  },
+  {
+   "titulo": "Clima hoy en Quito, Ecuador: el pronóstico del tiempo para este domingo 22 noviembre de 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmxlMGwyX0ljT3FaWElvclFpRnVXUFUzdU1LbmpTS1VmYUFwV2NWRmtXdHRHRm9hWkVUc2twSFNva3FDNnRCRE5iQ19yRUtVUnJUUG1mUXFYakhGYUNWeWswMTZ5VjdiZkVMY1lndWRnUHZpdEwyaGNiLTBDLUFpLTlZWEpGcHRFcEk5R1plVXczSG9ZX0dhZkZpYUxNaTZSQkNDVGNkaFJaNWZQeng1WFRZMHhYZFhnZGJ6VHNMa1JVMXdNM0530gHMAUFVX3lxTE5RRzJTT3ppeF9jak9DMHhuaVNEZ3gxZEF0cGhhVVBLMFc2cVVIWGlSX0x5MGMwZ01yZmsyUHZGMU9vWW5OU2lzN0VWRHZGbm9iWU9KSDZkaEl0SlhIV1I1UlRXZWJiTEtuMU5sZkhYNnhwV1pDM2x2a1JaY0wycnJYYkQ5cm9NVmczcUl5RHBycERqQWhzeUotdmN1M21NaFd2UTFZcEhYbW8zVVlPQXhNSDhUamliSnRpZ1U2OW5RNTd5STRjUWZlNWRlZQ?oc=5",
+   "medio": "Clarín",
+   "fecha": "2026-11-22T03:08:45+00:00",
+   "imagen": "https://www.clarin.com/img/2025/04/30/jvRgQTPhm_2000x1500__1.jpg"
+  },
+  {
+   "titulo": "Enner Valencia celebró con la bandera de Ecuador y le dio ánimos a Angelo Preciado, tras lograr el título de la Copa Sudamericana con Boca Juniors",
+   "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaHJhanVFaDdaMnJxaFY1YTdnQmFsVzE3dUdjNUxKM2l2SEMtVXN1SlM2cXdvZDhiUGN1OUp5Yk5fNmg2akdQVjRJTnJkM3RocGE3QklXajUtV3kzSVN6OGwyYWlXWmRiTWRwOFZ0blZSQm1OdWoxVmpQM0FpQXpGamt1cnRURDZLMV8xN01XTzdfekFiTWVJT1pBUUxNRWQxNzdEeFJERjM4ZUFtZy04WE9jYlFlTHJHSWJ6cFJiOEFNckhVcnN4YnBLdmZmOFJ2TWw3N1dPaUZ3cG14Wk5zZU04ZUhuZw?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-22T03:05:26+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/21/6b02539f905c5.jpeg"
+  },
+  {
+   "titulo": "El Niño golpea a Ecuador: 20 muertos y más de 104 mil afectados por las lluvias",
+   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOEVQQzNKaWUtUEE2aktDa0hpOEZPZHJGOXFvU255V3YwQ2NUWkVLUnpUZ05NV1g5NnRkVEVwcVZBNlQ5cTB0UXoyQ3RVR3pHZzhQbHJUblFlZHNtWGg3VUFPeWY3WjZjWWRabGo4ZzFWaDRPdzdjSTVubVJHQmN1cktaT2M2R0tBVnE4LWdHb09VS3hjRm1LaE4wRklFdXZ1bU96emR3Z2NVaS1KM2JaOVlDQWYwbmhKUXBEUg?oc=5",
+   "medio": "El Diario Ecuador",
+   "fecha": "2026-11-22T03:00:00+00:00",
+   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D14150F54584941711F12171852434C781112-2000x1125.jpg"
+  },
   {
    "titulo": "Militares Custodian Material Electoral en Bodegas del CNE",
    "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFVTdV8zN1I3M1hfRG42em1LQjNwUFdSa1pCdmgwU1IwS19zcnA1QU1EdTNpc1VBRkVuMDJPNnh6R0tZalltd1p3bEdsaHhFMUJoREp1QTNMWERRSHZLWEh4Rk5BZWtXb3U5Qi1LRHZvdlc4VXRFbHUtTFRtRWhvUS00Y3NmRDl3M3lJRnItbkdvZEZZeEt3WGJJcU1xZXJY?oc=5",
-   "medio": "www.eldiario.ec",
+   "medio": "El Diario Ecuador",
    "fecha": "2026-11-22T02:19:17+00:00",
    "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17170F56504945781F151B1852434D761013-2000x1125.jpg"
+  },
+  {
+   "titulo": "Noticias, sábado 21 de noviembre del 2026| 24 Horas | Ecuador | Estelar",
+   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGZ3NndidmIzMDdSeURjSXJXX0Jpdjd6dWctQnNPRDlMTVNjNF9LMjB4aWloeGVVMGdINjgybWVWeHZadHhDNVUtQ0NsXzdKUXk1Z29TalFtUThaOUlMUXl2V2dnbUFESDcyMkhIdUVwZWRUel9yUk42bDN3ejE3bzg1U204dU1JMFBqbXVtRnAwZ0RGdzJTN1JCZzBEVXNqa3RFdGZhcFBmOTQ?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-22T02:16:50+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/21/6b025067a7ab3.png"
   },
   {
    "titulo": "La joven atleta Moiselys Vargas llevará el nombre de Venezuela en Ecuador",
@@ -53,13 +179,6 @@
    "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/lluvias-.jpg"
   },
   {
-   "titulo": "Veinte muertos y más de 100.000 afectados por estragos de El Niño en Ecuador desde agosto",
-   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGVIODh2YXFQNnBWNnpWcC1PeTlpTGR2VTN3LVdIUFpNN1RHZUJKMGRJWkRzVVpCcXNqSGd2VXF1WlVhZlczWFFQMHlUTmNabUFiX3d6dzdTVFRpMEtydjVzR1BqdWpTT3NwWUhTTkpBbTdUZDhWQ3FjT3J2UUZUa2lhaEVXTXVTc2N3NVdSdnVTUlM2R0tNazVoUjZBSVBxZ1VBatIBqgFBVV95cUxOSGp3bFhFVzNieTdId3gyVXc4U1o1Slo1UUVyTmtRbEo3WldYTzZuanVqTFNhTzlGVlVnaDhfS2NXbDMwMkUtaTB5TjlocnF5R2V1SEpFT2Fkd0g0dHB5TUlFSGV4VzZCZElWdk9BVWJObWwzWThDQ1loZW5UeEtsU09HNVp6ZHQ0MGI0WW03SmNjeEhwdGVoTHdiSE1nZmhkc25SU2V5VGtnQQ?oc=5",
-   "medio": "ABC",
-   "fecha": "2026-11-22T00:39:15+00:00",
-   "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/22/VIDEO-veinte-muertos-100000-afectados.jpg"
-  },
-  {
    "titulo": "El Niño deja 20 fallecidos y más de 100 mil afectados en Ecuador",
    "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNckxIWGxURzNuM1hvOFphZjY1c2xjV1FvTVJJQVNIQnVMbXh6dlNTN2twMkw5QWRXTV82eWtXcXQ2OFRTT29nakJud0pQTUNfZ1NvU1VGNHhzbWpxZEZVcWJFa0hqMGlEZUtySl9RQUdONHQ2U19nbk01Zmlfa0JPbTFJeGxVYmJ0X0VjS0tiazlJczNlUnRraXFMRmRyZEp4WEJlamdWZXp4VlNNRGNZZy0yMWM2NEZVV3fSAb8BQVVfeXFMUFEtZjZoOVJFZm1SN3U2THNPM0V2a05HNTRXQm01OHhQcGJPTGtUSHNDMTRkNl9nZ2pzOTlIY0tmT3RWNnljMnFna1ljd3BwUWVEUjlzZzFhazk5Ump3dnJWVVl3d1dydUlwb0o3c3Nyb212RFlIc1BmdjhMelhhUUluRXVzQU1pbGZ4RUMza00xVzVBMTZfS0tVNmM4Tm9RMWoxZjJSNGhFSEsxOW94NDZMU3VBdWlzaDNQWi0zS2c?oc=5",
    "medio": "Vistazo",
@@ -81,17 +200,10 @@
    "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/21/6b02272d68950.jpeg"
   },
   {
-   "titulo": "Galápagos cierra temporalmente dos sitios turísticos tras las fuertes lluvias de este sábado",
-   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3JSQVZzanI2M0V4REFpQW5zVzNRODF2NXFzUGtraTFzRzVLcUNyNHBGUkhyQ01nLVE2bEYzdUxMNWpvX0hlcEZJTjhZU2ZRdVFzUmRHcmtTWUh2QlcxeXczTGVDQkh6eEI2dkZSLWlEMTRKSUU0cEJVMEQ5UW1jcTFBbjdhOFVteTR3MnJFTTNNblVZY1VuV0JFTm5OYlFJUmtUTtIBuAFBVV95cUxObjl4eUduTFJDSUtMcWE4blZDek9tdmxuLUtoVDBJLWdrOE5qVDFmR3dmajJvajFEeGlicDZKdzlxelNSdnRKYkJYaGI1UFc5QmpXNzQ1blJYckJ5SlBPWmFmUWtndVlFZ2k2bGcwaVdHYWloemlMb1B0R29La21BeWJIS1FaeDY2Y1pkRV9lRGdIX1hGc2VmYV9NWlV4ZmNtd3ZUamlVNklrTUhuLXZ6dzZWVU5DYmJB?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-21T23:13:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/5XHFQ2TG3VGJBNFYGEKFDXZB74.jpg?auth=10f368ec33b7e5cfb35a917993e01dab3ddfc8bc3c16e858f738336e050f0802&width=1008&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Mara Topic se alista para viajar a Tailandia: así será su despedida en Ecuador",
    "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMFlVdzQzajM1NEh1eFlpd0JSc09vZ1hzWTJJZ0Z4MmJ1V3k5MThMdFhrak9OcHpJWUJtc3lpUmV1cEtKR3gtejNLR3JwVmIyQkI5NVJ4NzgtZ1VlS2J2U0c0Rnl1QjhPaThpbzVFcnhjSm16V0lFRlNPVjZ2RGZLWUtBN05kdkhoTmxMYkRpZVNkVGotNVhNNDJmb1RUMXMyb2w3UHBMXzRCR2M5dWVWcUpOYmhIYkwwdTdITnR2UXlzZw?oc=5",
    "medio": "El Diario Ecuador",
-   "fecha": "2026-11-21T23:12:05+00:00",
+   "fecha": "2026-11-21T23:12:00+00:00",
    "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17170F55594945701F131D1852434D761113-2000x1125.jpg"
   },
   {
@@ -100,13 +212,6 @@
    "medio": "Hoy Tamaulipas",
    "fecha": "2026-11-21T23:07:59+00:00",
    "imagen": "https://www.hoytamaulipas.net/fbfoto/370752/Fuertes-lluvias-dejan-221-evacuados-en-las-islas-Galapagos-de-Ecuador.jpg"
-  },
-  {
-   "titulo": "Ministerio de Salud habilita tres puntos médicos para atender a afectados por las inundaciones en Galápagos",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmFnV2FjTE5QY25mWUZzU29UTFVHblBHaDNVV1UyOUNwUmN0cGpKdkNuN2tSb296b3V3dEt0eUtaclI4Mm1xMFljaXlSdGhndnhHa1ZYeXgxNzMzY3pHOFVnaWxDSFg4YWh2X1JkNlgwbFh2bWJnNmxTTmd1MzZDYXFtOUpYRkpiQy0xS2RWMmRoYVhZT2dIc0xiRkpzX2ZyYUwwTXZIYk1CQdIBvgFBVV95cUxOR3UwZVdScC04SU5BSFJKTXlBLWxGTkI2UV80LXNPLWJEZUNJYWRHZTJkeHlvT0NzNThwWnRKSjBiX3IwLXQyNzg1bXRONTN3M1UyNTNYRU1ra1l0R1B6YlhvUVV0d2lvRlNxZnAwb2I1MXNuOXBzNF82S1gyQUpwQ2FvdFF5ekZjYUtSSVpnNGp1ZnBpd3BCWGtqVkpnMXpmbHZySm9NTnhlTEZ5RVp0d2dlQVlGdlNtajlFdzFB?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-21T22:51:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/5WXFSYKS2BB63IEGHF4SVP7LV4.jpg?auth=0e9293378d960e57aa966a07737b1b45cb1132e9957a301e3327ec492c1d556f&width=1005&height=670&quality=75&smart=true"
   },
   {
    "titulo": "“Ecuador no será refugio del crimen organizado”: Noboa tras operación conjunta que permitió la captura de uno de los delincuentes más buscados",
@@ -144,25 +249,11 @@
    "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/7e368b42dd5a714c4282a251cda00feb_L.webp?t=8a16e64efc0d"
   },
   {
-   "titulo": "Avión sale de pista al aterrizar en Santa Rosa, Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZFFicXJxOTc2R2J2MGk0aS1JVThUMXVUX1lrWWtTT2pYdFhydEtxOGNwLU1ESkZuZ3N3eG42N1NhN2MxMEVXTHlKQTc0WmVjSmhtQVNhUEZ5TGYtc0hVYlFxcGl5bjJZQTBCcVhNaVh2ekVJeEVSVUF1X0RCendxYVBXSVp4ZmM3OVJnR05OREkyQTZvZHBsbWxyaVh2OE9XcWl6bUpkdTktZw?oc=5",
-   "medio": "El Horizonte",
-   "fecha": "2026-11-21T20:08:10+00:00",
-   "imagen": "https://d6isf1yxni2j5.cloudfront.net/EH_CONTEXTO_1_3777f22007.jpg"
-  },
-  {
    "titulo": "Ecuador quiere sumar ante Uganda en el segundo partido del Mundial Sub-17 de Qatar",
    "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnZfQVVneXpCX1ZuNEFiOXB6d3N1RkpadUx4TUo1X0Jyc21NNnFnandOSnNpWERkNG12VDZvR1lnVkRIdzJ4YjUyZ29XMUotSFduN09BMy10MDI0aXQ2ZHc1eE82RFlRNTFDLTA2QXFKMzZBdjJ2Zm9ibVV2MTRwMFVaN2xQWXlYZWU2NG9TZ2xYTk1HUVJOa1QxVFRCbU1tQkJuVFFEZFROZk80MjRXbEM4OHVrT2tnZXc?oc=5",
    "medio": "Teleamazonas",
    "fecha": "2026-11-21T20:03:19+00:00",
    "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/19/6aff67d015863.jpeg"
-  },
-  {
-   "titulo": "Ecuador registra 25 ríos desbordados tras las intensas precipitaciones",
-   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0U5TjRPR2xySEVwck82N1J4VjhsNlM1UVUteXpUbVMzWGdHcnhaT0lsZHJobWJmZ1NwX19CS09zc1pZS2dTcGZONEVIRk4ybDZON1AzVUgzRHVJc0FtQzJFSGdIRVdmYl9IOE01UDF1OHFGSEgwZjdWaFBLNEhZY1hoS0hYb0ZST2FwdlNrdFN5REpXNDJUUmlB?oc=5",
-   "medio": "Teleamazonas",
-   "fecha": "2026-11-21T19:54:13+00:00",
-   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/21/6b01f6a7ec091.jpeg"
   },
   {
    "titulo": "Detienen en Ecuador a cubano buscado por fraude en EUA",
@@ -179,13 +270,6 @@
    "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/21/6b01f28a2d912.jpeg"
   },
   {
-   "titulo": "Noboa dice que Ecuador no será refugio del crimen organizado tras entregar a Perú al capo de La Nueva Jauría",
-   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcUNRZVpRMkFhOGtTZHFOaHRLN3hpTmotZTFKOE85WE82eXFhYlQzbjRoZ19rZUlDRjl1MXRvTm4xMWpJVElrQTBDaHFVc1Nob0tOS3hOWHoyeUR1REpTWVRvTGgtV0ZmYXFBOFNRUnhSVm12aktyOVBpNHZWQlo0bnYtaF91R20yVFdXUDI5V0FPelZlMkVKM2hOMFQzMkdMbEFWTHd3d3Y5MFgyRjJXOXNlZHo2X3c1a3JpaFRTc0JJTVpFWEdUelhQb25ZN1Z6LUdSd0xTSFVOZGtKeTZwd1V5UnI5MDA?oc=5",
-   "medio": "unitel.bo",
-   "fecha": "2026-11-21T19:31:02+00:00",
-   "imagen": "https://estaticos.unitel.bo/binrepository/420x281/1c0/420d280/none/246276540/ARQE/a912937b8817a024c2f18e023239dbdacaa7_101-18673032_20261121185515.jpg"
-  },
-  {
    "titulo": "Propuestas de campaña de ADN en Ecuador contrastan con recortes del Presupuesto 2027",
    "enlace": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84bkxuLW1pYlJvRlFmUUxpMWdEWTVVZHhKTG9iUVUxUjZkNy02OXBGUVBWUF9yYnJhZ285X09YRWgyb1FCYWYzX3dQTEEzcExFS3dXOUZYd1JOZ3c5S214LVZYVUJiVHhBZ2x4bFdaVkFvRFNr?oc=5",
    "medio": "teleSUR",
@@ -198,6 +282,13 @@
    "medio": "CiberCuba",
    "fecha": "2026-11-21T18:50:29+00:00",
    "imagen": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1795286221-detienen-ecuador-cubano-profugo-buscado-estados-unidos-fraude-millonario.jpg"
+  },
+  {
+   "titulo": "Flash informativo: El Niño en Ecuador, sábado 21 de noviembre 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYWdRNTBkb1M2dk83cm5JRXhoby1UdnJxazRHOW5xcUpkNlZ2Q0djd2Z3TGNvTDZ1b294LUllM2I0dUE0dHZORTlTb0RCMVJVMEY2YW91VGVnVlRBbWR4aGFpT2d1aWFYZTRDRDhCNGZaeExKcmNJWl85WVlvR1FpRUFOeUtsY1loejFLN21kNmJQcWdYcV95Y3V3VGtsTUJXRmdsbWZIb2k?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-21T18:49:56+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/21/6b01e78c0e877.jpeg"
   },
   {
    "titulo": "Estas son las 23 convocadas de Ecuador para disputar el repechaje del Mundial Femenino 2027",
@@ -298,13 +389,6 @@
    "imagen": "https://adn.celam.org/web/image/72286-428fa380/Publicaci%C3%B3n%20de%20blog%20%27El%20Papa%20Le%C3%B3n%20XIV%20recibe%20la%20memoria%20de%20quienes%20dieron%20su%20vida%20por%20defender%20la%20Casa%20Com%C3%BAn%20en%20Ecuador%27%20cover%20image.webp"
   },
   {
-   "titulo": "Cayó en Ecuador el presunto asesino de Natalia Trujillo, joven patinadora de Cali",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYS1McHZrX09ZZHI4bnhlRWVfMmh5WklFRExZWXBTZXY5N25sRnlfdnQyS0tmNnlMdWNNakh0b2J0TGl4V0d1N3hyWVVDQW5JUTN3blVoMnpSakd5SEhjeFExRGMwQjZ4Q1huV2l3ZWNsRkQtY3dnNWltUHk2ampLbGZWR3VMdnFVOWJueG82SllVYnVJMU1LTXNMWExsaVJ2UFRqN1VuVWYtQUZwM3h2NVV0eUlfUdIBygFBVV95cUxQNVhKWWVMd1BkcmJubVlOR1VZTkpyYy01M1JudjhrZUVRRWxHTm1pSlV0eVB6bGlyU2hQOUZPUTNpemVRX1JxT3hTV0pzTlBvU0RmekRUUnhFemJubnA2UGZmNndFVXZFcWNWeFIxd2ZheHFzYmI5WlZuaVhfY25VYWRLSXVxdXBfMlpjSjZGTXpVWmdaRGZwM1FDRjBfbGNzUDBteHFNX01BdnVsbFBwOWF6VTV1Z0NRTTdKOEstR0dmZUg3UVM1ZmR3?oc=5",
-   "medio": "Caracol Radio",
-   "fecha": "2026-11-21T16:08:15+00:00",
-   "imagen": "https://caracol.com.co/resizer/v2/R2O634SB2NG37PH43O7E5DPTAA.jpg?auth=32b3742744912b2f1864452bb184eb790facd18ba8864c0ebd5d1ff33f258ad5&quality=70&width=1200&height=675&smart=true"
-  },
-  {
    "titulo": "Papa León XIV expresa su cercanía a Ecuador y contempla una futura visita al país",
    "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS2x3WXVQei1YTG54dmdQQ1B2NDNXc3ZYTTUwaXIzN1ljWDhuOFVjbkhmdzdTMEhyLVNwV2NOYmJfNTNvbVM0Xy1ZZVhiV2oyV2N6dkJrTmNWU1dlVXdiSkxMTjM3V0VyOTl0Vnc2M2xJNVBJSUVlUlNUMTFyZWEtcjBNSnRmY2FrS1dyV3B0UExKRnlRR204OFUxRnVBbWdPVlZBYWpmSmk1UFdDZVpnWDhBOG5KaGlfTHE0emNPb09qY1U?oc=5",
    "medio": "ADN Celam",
@@ -312,25 +396,11 @@
    "imagen": "https://adn.celam.org/web/image/72292-d456040b/Publicaci%C3%B3n%20de%20blog%20%27Papa%20Le%C3%B3n%20XIV%20expresa%20su%20cercan%C3%ADa%20a%20Ecuador%20y%20contempla%20una%20futura%20visita%20al%20pa%C3%ADs%27%20cover%20image.webp"
   },
   {
-   "titulo": "Gobierno despliega ayuda tras nuevas inundaciones en Santa Cruz, Galápagos",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTUw1MzZxQ2NJb2p2XzVfSDA5LXRBbXJmOFk4S3dKZ29DenMxSVItSzdWWDc2a0tHMGlRbzA3dWFJMFRveXlORmk3RHdwMzBHUUV1WG9QQ0tvQkZ3U0lPNGNnOWNGQkxkQ1pDTDJZV0xVYWhqclh3bkRkY2hoalBhUnctamtMUEEySWpORWdkVS0wemVKYXlxZmlqMzdKRmZYN2F2WjdzdzVNNWR1eVdZSVNCQ0FFM3YzM2RmNE5MQUsxZ9IB1gFBVV95cUxNamJOMUVCdDRoNGxmQ21waVNZQ20ta3k2R1FVTWdYXzFQcm45ZEdxWUFaNWE4SDdKUUVJclktaWpOcTQ3WkJ6RXUyUW5Cb05vRXNsUDN0WEoyQ2ZfNWpDT0F3cUxabkNKaEprdnY5WmlzdXRfSW1SWEtBT3RPbXdkMlpVa2VJX0U3dE5lMTBOMkQ1cGljLVlHLTBaVTJYQTV1c050QlBhb2Y1OWRZdS1RN05PZDJqbkNYQl9qMVZjTUZaMTdNalZ3WE9DZGpqZkZJSzJHVEJR?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-21T16:04:25+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/YL7SPNWNGJC5BA6YBHK2G5FYEY.jpg?auth=5cf92d6242008b99f8f548a4b61b3ab79393be485eb47caef57fa41291c90e91&width=503&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Más de 90.000 personas afectadas por lluvias asociadas a El Niño en Ecuador",
    "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcUlxazV4eXJnMlNZd3J6WUVZUVlMT2pNOEE1Q0s0MFk0QW5HNHhmR1IwdDVkMW1DWUNGWGt6TUNNNldsSjVKSVh6NWd3UFVGTWlzVlliTGtDSTNlNTJYRW9RUXFwRW5TX3hoNnVCNktDanBWalp2WldBNG9BTzZlei1wZGI0ajhodkVDcDN3LWd0STV4OHcwU041SkFGUzIyLU5B?oc=5",
    "medio": "RTS Medios",
    "fecha": "2026-11-21T16:00:00+00:00",
    "imagen": "https://rtsmedios.com.ar/wp-content/uploads/2026/11/Captura-de-Pantalla-2026-11-18-a-las-19.02.03.png"
-  },
-  {
-   "titulo": "Ecuador registra 22 ríos y esteros desbordados y otros 17 con tendencia a aumentar de nivel este sábado",
-   "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ0tTbDJRN1h2bXNHX3BXUEZENm42dXFNcjJKUXI0c3lTNnc1RFdhOUo3VG0zQXlCLV9WcFhEYkRsblVjVnMtYXFUMVlhaWVISGVxTndvdlYzQ0k1RktxY08tbUdjSHh6eHFvRWhVQjNjWVJwX29JcE9BNzUweHpoUktvZ2NFTE5KazNVc0dzX21taXBsc2JxU2dwYWdPNXBWRmhqc1lyM01BajAyamxsbmJwQWlBdkRIZ2U0d3RnV2thc1A3Zzk2NlQ4a2ZSTHhZUkhNZUk0WS11YzVf0gHwAUFVX3lxTE5XalNLRmttQ3VGdS1vLWpoRmVMVHVTb3lfcVlMM3BCX2s5c0ZmNnl3ajdGdi11cUxRblBWbnNHdDJPNkNIREdjNTJiNTBNQThvekozTklhOWNQbFFLSjZmYXhEdEt2V0tqLThvdmJTX0NqNllSWEFoWFFaaTZoVnExc0hKa3lJMTdyVWt6X1dDelJvVWtpTDhvQmkxLXlJRnVLUXF1RlFqV3VybXFYeFRzZGtOSlNxOUNndUVkMjU2NlFZZ3ZmS0lqSFJDWHpHWURxUEFaWHNfemhnc1dwZ3J2clBhWUpvQkc1Nmg5b2xUVg?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-21T15:57:31+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/FV27PG62RNCMLCW72IK33HAWPQ.jfif?auth=cecf5ea67396b359e1bc395c03dcf18f43d97f0873e76b4ece183a5eaa6130f9&width=893&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Deportan desde Ecuador a alias Alex, señalado coordinador de ‘Los Agredo’, banda vinculada a homicidios en Cali",
@@ -347,81 +417,11 @@
    "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/51993ab26251a0c103d8619f11ce909b_L.webp?t=11c7bc5e635e"
   },
   {
-   "titulo": "Policía de Ecuador entregó a Perú a Jolín Bazán Valderrama, presunto líder de la Nueva Jauría",
-   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTEg3MVFGaVd5dUJHM3QzanJ3S2g4UjlQeWpXYjI3LTFxT0pnN2VUczJHWEE4U2ZndFFzTVM4UUpvbUxNaE5jWTNkR0hUT0FybWcwY1ZvT2l0NjFMcGJvTUZ0U3F2dE0yaFBibGtEM09kMmVLeVhYZmZTMGgyVXhtb3FDSk9FQy1qVmp5OXBicjBoXzFHcEptNFJRUTRpSDNrWGJZM2xhVWtZWGkzRmNPckE0WXZpWkRsRXlEWEU1WDZPOU5Kd3RsS0VvWnZBOEpoYWp3VkV5Sm1tNzJONUVQVQ?oc=5",
-   "medio": "Diario La Hora",
-   "fecha": "2026-11-21T15:31:31+00:00",
-   "imagen": null
-  },
-  {
    "titulo": "Jolín Bazán pasa a manos de Perú y Noboa advierte que Ecuador no será refugio del crimen organizado",
    "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaC0zVE1OdnctSkdmOTdqZGc5TmJ6RTNxazl0WlZEek5qRnQtN0x3ZGtjX1RoNE95QnNfa1NlTGlNaEVOVUQyT05ZMV9mV2xXV1UwMVFLamN5Mnk1c0xZd0E4Y1JVdkxwc1JVbmFIZlFsSkk2NmVFOWVjaEg5RXFfcnFwS19scEV3SE41N1Rya00zMHRuTHJvcmRHa1dycGJfb1BuTm1sQWs3bHVfdUc5NHBQclVIWnRIanVvOHFuRUJuRklqUmc2N9IBzgFBVV95cUxNVV9YSk1hWkNEOHpZLWVjRXpOM0VMX1RMRXNUdlBHVVpzeXUyMm1DdW8tbDFJSG5zVi1Fdm9IWEZTOU5WSnhZQy14LVgzemlHSmlYc2Z3bGZJZW9mQjd2eHhlZUExYTJXOGxVZFhJb3piMkNBSmFsMzN1Y1J3ZFZ2ZnBsdDZLRVFJUVJFUk52dUZZVVJvZzNFOVM3Z3RqOVBzSTBYdE5nb29QdG5ueXhFQWkyTTB1LUNlM3lRQnNVUGZBVmN0VzJTa3lPSzJGUQ?oc=5",
    "medio": "Vistazo",
    "fecha": "2026-11-21T15:22:09+00:00",
    "imagen": "https://www.vistazo.com/binrepository/1147x600/274c0/600d600/none/12727/BRKJ/2026-11-21-jolin-bazan_2775320_20261121102214.png"
-  },
-  {
-   "titulo": "Placas “legales”, cámaras y funcionarios asesinados: cómo el crimen organizado se tomó las agencias de tránsito en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGhFR2pSVGNSbDNxZlN5Z1dfNk5TWFZaMDhMeVFTbTBCZm9fcmNLVGRiSk90SGt4WG1wWXdSZ3pEZ05uRC13Q0lTQ1dYSXdhYlBIZ0RCdzBiS0QyajNKaFU5Z1lDMDVjSXYwTGFheUJ1UE5RVjhWeVRtSTV5YzNQNDlyNERZbmpmQkpiRHR3b1Uyb1M1MHltM0k5MWZwa0xLSUIxeV9mVXlWRVFKMi1B?oc=5",
-   "medio": "Connectas",
-   "fecha": "2026-11-21T15:04:11+00:00",
-   "imagen": "https://www.connectas.org/especiales/captura-criminal-ecuador/img/transito_social.jpg"
-  },
-  {
-   "titulo": "Ecuador: fuertes lluvias provocan desbordamientos de ríos en cuatro provincias",
-   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYlF6Q2hpVzFySkhUTFVXeG5ZdVB5NWVUR2FDdXJDWVRwcDNpZTJucElrZHlmZzNKbHNrYmZNdGNIcHRxQ1ZZdUtTWEJwMzhlWG4yYm94SnhSU0I4RzJQMWNWVWppeVZrcnAxeVVKbFpwZGcwUnhPZ05Gd05ZWXBJNmExRnc3RjA3dFEtUVp6VVo3bFR6cWxtTEx3VDBOcHYzMGoxQV9MOWVJVUFZM2F3bFpjdnNLb1hDODlYV2Z0XzNWZklEOHJtMWl6b2M?oc=5",
-   "medio": "Diario La Hora",
-   "fecha": "2026-11-21T14:50:50+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Noboa afirma que Ecuador no será refugio del crimen organizado",
-   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbC1QR3lSeDJPX1MyQmliZWQ3MmVwcnRMNUE2T1dqX2tua183U2RaTGt1bEdpRk5JSms2MVFRWXpkRk1SQmVtQ3VWbnl4TlNJWjB6TWg3Nng5U1lyTFdGWWdjVWRaS2tJOWNkR0FMdFVpVEZxcWs4Y0tjQlNFOW9TRVloYUVBQUpHV3VsWnhLN0NUYzBhbWRKdUhMQjlGTEhWWENOUHFMZExsUzBLOTRZU1pXRkc?oc=5",
-   "medio": "El Horizonte",
-   "fecha": "2026-11-21T14:44:57+00:00",
-   "imagen": "https://d6isf1yxni2j5.cloudfront.net/noboa_desplegara_4000_efectivos_reforzar_seguridad_quito_4875c9b6bd.jpg"
-  },
-  {
-   "titulo": "Avión con más de 60 pasajeros se sale de pista en Ecuador; esto ocurrió",
-   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTG50ekVwMkNsektzcEkyY2RfMjJmVWlzbnREclo0Y29Ma0FlRFk3VmdHXzZaVVEtSzFwY0Y0WXY2aDN1TXlwSlJMaWMtMEVvTjFBc3JmOUhiMUw0RHVQV25IRzFOVmhTZlEwUEk3c20ycFdnbFpKTG1sX3NqUzFMbTVpRHlMZFdnSXpUbzIzU1MwUXd4Q25Cc24yX2pBakNNN3hjRkpOdmpEVFl0Z3pRTkNXeVltRkg0dndURk5MNVU2ek1S0gHKAUFVX3lxTE05OXotVl9LTDNnbXBNUzczbUNPN0szbHNIRlVUSG9oQkViOHJsUDZuVV9YV0xRWS02dnFNMFNEVXY5bk5vZEFWTDBWSnh6M2JlX2UyN0VJbXZnVnFIejBXYXdWZTJKeXpOQzY1MHNqVDZDSTNiTHZOX2E0RV9zLW1yUVpidV9rZVhXLUcyVmdhNG41RUZmTnhHMVI4R2RPZUozOFEtaU1iX1VKYldNRW9YUElrTkVXNkdlajJvRU9rRmpMWnpwRDdOUUE?oc=5",
-   "medio": "El Informador",
-   "fecha": "2026-11-21T14:27:57+00:00",
-   "imagen": "https://www.informador.mx/__export/1795270436839/sites/elinformador/img/2026/11/21/avion_ecuador_version1795270436095.jpg_1055760517.jpg"
-  },
-  {
-   "titulo": "Ecuador fortalece los entornos digitales",
-   "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aTnFiakl4RE1TczNaWDNRUFIwTGFmSVkzUnJ3cEhOZGJqYXN2NUplUVFwUmlTbFhkWWpacV9EX01qWjZERzdMdlM5Y2FmZ0g2ck1icDFZYWpQZkhpYXowc01mU0NvVWp6STU5LXNnbWRITEJuUGc?oc=5",
-   "medio": "Ecuador 221",
-   "fecha": "2026-11-21T14:26:00+00:00",
-   "imagen": "https://ecuador221.com.ec/wp-content/uploads/2026/11/ecuador-fortalece-los-entornos-digitales-ecuador221.com_.ec_.jpg"
-  },
-  {
-   "titulo": "¿Qué compra Perú a Ecuador?: ventas a ese país subieron 33,1 % y llegaron a $ 863,9 millones",
-   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYlU1dXVmclc5RjJoX21NRURfVU9Oa2s3eE10QWc5dEpOSy11dkZkSE9hZzZqaV9Xd1V3N2ozVW9hRWk4d0Q2TDZBdFphVmJrcEwzd2tKSndUdDU5eHNTVmxZaUJJZ0lCZ1E4TnVjRTZoSHJwUFF6ZTQyOU52QWZNVWkzeHREcmFmS000clY3Zm0wOEVfTU1VcmNRYUtwRVU1Mnd0N0JILUdTckMxdHhUNWZYMHR0SWhqeGw3YllKV0pzODFPQzhrWkhjVnjSAeABQVVfeXFMUEdEcUZqMm5vcUkxR3BkeEFzenBUOGNkR1FQWXNDRld1cUxzUjlXMWtWLWRmbDZUSFhFak5JT05LTTIwZXVjSlFuQXlmeXJKQmc0bGplSW9iQUY0eEVhLWRoMmtHbHQzV0NyRzRzcDFVOTRrM180QzFvdnVfQ0h0eHdlZVVoYk5fbUN5TWJnNHBHc3JHSEMxeFJrdGtjQTlZQnU2ZEUxbHhZWDY0dE9Vb3ZhRXpjNmYyeUJIQ01TR1RlYU5Zd2lNUFMzN1p1QVVKc3Vtc1JGcS1OY2RyYjdfZkg?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-21T14:00:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/LOPZRIMOAOKMICS6KVOL7VIYJ4.jpg?auth=971c987024592bc513cd715aeeb7a0d574ac9b0dad0951c8d30d4820bb521c83&width=1004&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Este será el último feriado nacional en el 2026",
-   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb25LNF9lNndaX1M4ZkhYcWk2S0oyX2R1Q0F1YXBncjZBYzN2cTlNNmJ4eFBCUlEwb2xmdC1YdFY1bXMyT3czYmprWVRNTUxEM2ZzUy1Ub0lPM3gyYUpfaTJJSVVydzZVMjBvQm1Ia2xnMWhzNlBMeFdZMVRSVVdEM1pIVC1GZnJjTFZlS2pHeHRDQ3VwUEN0a0xrWG1TNjTSAbMBQVVfeXFMTmpCcjVSMXhqZVJmNEhHNWdveVBIbXRHajd6UXJMcXNpRnhLbWVKeGFENkpXOUtMSWt5Q0Zsc0tKMkNXbmc0NHk0UXN0OHFycFA3MmNNWUZaekhfVC1tVGxtT2Job2NSUUhBaGM3UkJUcDdPVjl0VmFGN1d4MGhETC1HaHpUbXl6WnhUV0h3UHV3OV9ESXFzd2xkMTlMeHlUSWtUb18xTVMzendYQUsxZUpfejA?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-21T14:00:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/5SDUCQQ6CFEE3OQL7EOQMYVBZI.jpg?auth=fcaab3afe034f3d8998a1768c1ff16fbbec501ba7bcfe939a6005ab90c98e6a2&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Clases en Ecuador: ¿cambiará el cierre del año lectivo 2026-2027 por las lluvias de El Niño?",
-   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUS0tQ1Y1UlNDWFVnNkdObGRaOGVSb3E3cVJEUjE5REd0SHJPN1NMYTRyeVdvQnVhZWMyVlFwNThpWHBPdFRhNC1NbVk1Rl9FVFRfWnlnSmFXbHVRS29MRXVaTEpXUVdEY09NNzhfZUxyMWx5b0JvRWQyX3UtampWSHFqaUZmSWdpcDZUajNqT1dNZw?oc=5",
-   "medio": "El Diario Ecuador",
-   "fecha": "2026-11-21T13:57:42+00:00",
-   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17170F54594941731F14191852434D761411-2000x1125.jpg"
-  },
-  {
-   "titulo": "¿Cuándo es la final de Miss Universo 2026? Hora en Ecuador y cómo verla",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUM5UF8yZ0VvSlNIZ2FBM09PQ1NpNGRUcHJxcGtxVmJtQTI5WEJYa3N6NnNLdzVrV3cyTU5DaldtZWdNeFBVTUliSlhCclkxLTJkWDF4dzNSVjZFQklzeDVqQTFOeVFLZVVITndjellSNXYydjdjelNnUkVhT1FjbC1PbnJvck1xNG1rVDBkNkNaX013eXYwOG10ajd3eDFZckhkNnVHM2dfdDZOQ2diN2U3U2sxdDVyd2lUa0dtV29XQdIB1gFBVV95cUxQbHF2X2F5RFRCNVFRUWxyTDBaUU5Sc19TS1djMEtnaTRLNWVJdUxua3ZuTDNkWUQyZjl0a2YyQk9xaUhLQV84VHF1aHlVVTRIS0lRY2JaR08tRDZEMjQxTlg5dFNoNDV3bko5WVRxNDdLSElvSklHWlo4ZHdoMUR0cU5JOExmZTBIcmd5aGdmTU9GSnVXUENrVGxaM1d1RmhtMHBlQmFFT1k4ZEZ3cG1MUW9HbGFhWGpnWG8tRGFDWHBTLXQtLWd3VnVlTnItTWlqT1NrT3pn?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-21T13:06:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/FKUMEJO65VE7TB4X2SP3GJYB34.jpg?auth=d904cb5dc96b26f233ba469c4514861427d747fb7179f7e93bbae93cdff3d2ab&width=1005&height=670&quality=75&smart=true"
   }
  ]
 }
