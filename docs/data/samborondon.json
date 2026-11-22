@@ -1,8 +1,15 @@
 {
  "zona": "samborondon",
  "nombre": "Samborondón",
- "actualizado": "2026-11-21T22:29:28+00:00",
+ "actualizado": "2026-11-22T02:43:04+00:00",
  "noticias": [
+  {
+   "titulo": "861 rayos sobre Guayaquil, Durán y Samborondón entre las 00h00 y las 08h00 de este sábado",
+   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkhOVU5QODJWU0dEcDlJazBtenJ2Y3pLRkJ2dEhhUlQ2TkJDVXFJVEtNYk0xcmNiRzlxbkRUY3JvYktGdDBBbzVQMDgwQjFyQlM2SU1nV0NyWDkxVTN1UXpfdWwxOUd1S1V4UEFRQkpCMXlXay04MkVZQ3lXcHJIbnRqUEpFUUg1Q3U2YXVrVnpqdTgxRHpLdkF4QjJfLUJyYjJoMzJMX1RfbVlIamc5aEhNNmVjOUpXeXpWR190c0FpNXBuMWpDaHlZdWM?oc=5",
+   "medio": "La República EC",
+   "fecha": "2026-11-21T22:29:50+00:00",
+   "imagen": null
+  },
   {
    "titulo": "Dos primos desaparecieron en Salitre y fueron hallados sin vida en Samborondón",
    "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1VIN25tNmljN2VvaDNMM3BGV24zS09XdWt0VE1fVVdqUzVobUthdmtqUXNFNXBjVWJVUkJEVmlqa3h6RGMzek1xVjVoOE1GazVVN2ZhZV8zQU9tSzdIZS1sMUlIRUJhQ1JYam5JMDB4RkV0b0FDb2YxY1ZWaE1IeGxTd2t2dUJpSUZETk5UVVM2Y3JwblBIRnI4NGYtMUNNeUxyUU52dUFFOWFfUk9Z0gG0AUFVX3lxTFA4MHNUX1BiWVYtR0xYM2hWZnZ0RW1nck1NX1Vaa1E4Nm55WTU2aEdVQkJBSHYzdFp0U0ROaGE2bUVUVUJmNW1SWEpQeGgwQVFsS3ZKRENJT3EzQXJlTzl4QnpxZGdaaVBVUktXVTNTQm43Nmhsd0dIcXV0ZE5DYmpCSk5Qc2s0Nm9oYXZXRFNFZ1Rnem1jR0JsWjMwM2RKZWZCVmIta0huamxjTXVlVXRjRGpnRA?oc=5",
@@ -58,13 +65,6 @@
    "medio": "El Comercio",
    "fecha": "2026-11-19T13:35:07+00:00",
    "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/fiscalia-2.jpg"
-  },
-  {
-   "titulo": "Isla Creta: el enclave privado de USD 200 millones que redefine el lujo inmobiliario en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZW9xWTE1UTRKT2ZoSjQ1eE5MWUJBaTVFVTJWaDNJR2tBV2tQMDMtTHM4dFJPUmROcDVxV2lvelQ5UzBnZGl2OXNyM2NITzVsSGh6WkVXY2hpV0dEVmE4ZVU1VGJoZ2R3dWVwcG1DUVFJQ0UzakxocEVRY0JPUFNYZlQzWWdYY1N5bXBqdkJBc1lIajZsWWoxbXRvbGptUFBJUXIxOWRDQ2NDTi1YXzBFaU9SbEd6NjZjdmc?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-11-19T10:55:00+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/13/6af76f0e4c438.png"
   },
   {
    "titulo": "Lluvia provoca anegaciones y congestión vehicular en sectores de Guayaquil y Samborondón",
@@ -123,13 +123,6 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/Y3D6JR2ZLRCTTLUWJUN35MAYXU.jpg?auth=eef266cd5b90534ace5a80039f06023ce5dd0a51542c25d723ef9671b17c97e5&width=1005&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Fuertes lluvias y truenos se registran en el norte de Guayaquil, Daule y Samborondón",
-   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeW8tN2dYS1VCWmVoajJtTERFZHBFOU9JV0FhNzFId1ZpckJTemtMUnVybVVrLUwxZW8wTzBaTDZXQzdwTmllNVd2OTVKcS1NZ1pUTEVmWXNFLXRiMmxmaGJhNXV0SjUyczJvQ1QxZXByVUNiNFFnbGl5YkVWSUU4Tko5aHBIdVV5YnAyajZmeHZzcUpIa0JpcHZZWmwwUFJidnBJTDlOUVkxd0dUZGc5b21uMNIBxwFBVV95cUxQRzJGb1p4bDhzWGRCNnU0dmUyR0NCQm4wRk43RXRNXy1HS2I4SXY3X2tja1psMVZhUHZRcS1STjFPZW8yb2JCTk8tVWFMaVJVYTdqdEo2YUFINThKZnV5ZUZ4cTAxOEtYVE1vTjF4RVZ4S1JRTV9UcmlZT0paVkFNMTJaNFA1dlRpUC1kRnBYandzeXVWM040cWxXN1JobXNhVndVZmRZUDhKZ2tsaUYzOTc0UEJVM0FGMnRjTFlnQlN1eE5yeG0w?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-14T21:54:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/ARZ55KVUNNGYRGUWF646M4AX74.jpg?auth=1c5429db95215eaa41af47e841533de3d0b9e1eca20eeb70ce4606dbe6619e17&width=1005&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Más de 9.000 habitantes de zonas rurales de Samborondón han recibido atención a través de las Brigadas Sociales del Gobierno de Daniel Noboa – Ministerio de Desarrollo Humano",
    "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNalhuWEFFcXFPcUd4SG9lUG5sZHAtb0I1WUJvR1RCWUJKUk84WVFZTXRCTXkwa08tMHdsN2NGMkUtQWRnU01fZk5DVjNkZXpLU3RxQUhnY204ZldXN1BKNzdWS1pfY0FVcXNRMzRlWlZWWF9vY3p1UXNFMVFVbzNhS1REeXQ0VV9lV040eU5Jd1JtdHJQRHNUME1ybGNwQklMbGNWYU82X3llNmMwUDlYVXB0Y0V4VXJPbElzenNyTF9YNzhjU2VUYWc2QUFsUXoxckpIWDFxcmVqTHRleTJwOTBJQTlhT19vZDdlTDAxLUZKZEFiaXNET1hNU2VtWFVKdXVGY3BmSHI?oc=5",
    "medio": "Ministerio de Desarrollo Humano",
@@ -170,13 +163,6 @@
    "medio": "Ministerio de Desarrollo Humano",
    "fecha": "2026-02-23T20:39:24+00:00",
    "imagen": null
-  },
-  {
-   "titulo": "Minutocorp contribuye a fortalecer la labor humanitaria en Samborondón con la inauguración de la nueva sede de la Cruz Roja",
-   "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTkRlNDVwZUc5MjBBNmIwNURHdFdPbDA0WmpoOTl6SW9LV0dOLUZBVFVUWW5XQjNYa25oVXdhd0haVWlxWFdfdEQ5X0tGY1pMOWtBeFBORWpYYWtwYmR4M3NkUktSWk9sWi00SGJSTEdZQWpsWlAtTV9Hd2xUVklqYUl1WnJVUXRsV3ZkLWZZcWU5UFd0VU9MWGk1TzJmaGRfU3ZzaUFKRzE5WC1lMnVKY2x3WmpDY2h2Y3JGSE5HSDkxY0VHSnNXUUNqVlc3Z0s5cGQwN1hUQTVWNnRkeDdxYm00bEZsTkRLNGVianJrMFh6clpMZkJGV1ZMSElKVXpj?oc=5",
-   "medio": "Corresponsables",
-   "fecha": "2026-01-25T08:00:00+00:00",
-   "imagen": "https://cdn1.corresponsables.com/wp-content/uploads/2026/01/Diseno-sin-titulo-2026-01-25T013955.215.jpg"
   },
   {
    "titulo": "En Guayaquil, Durán y Samborondón aumenta cobertura en los Centros Infantiles del Buen Vivir",
