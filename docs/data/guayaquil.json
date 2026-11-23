@@ -1,21 +1,119 @@
 {
  "zona": "guayaquil",
  "nombre": "Guayaquil",
- "actualizado": "2026-11-23T04:19:19+00:00",
+ "actualizado": "2026-11-23T15:28:19+00:00",
  "noticias": [
+  {
+   "titulo": "Noticias, lunes 23 de noviembre del 2026 | 24 Horas | Tercera Emisión Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPalQxODZRLUp6UDhCbGgyLU1Pb3BqMmZVcDZqNlR6UzlPU1pSa0I1QVZka0g2RFU4NFQ1RWtDdl9LVFIwMk9VMUh3VHBqcVdWNFBTMERlQTZVQXZtREVJNnpKYVVFeTU0LTdjNkpnZUlDdEVUcWdOZ2c5VzZuQzdEZzdjMnI1VTVvV3l4S2c4SzY1Z0xlZnlSLW1WMmM3clk3TjZTU3dpNjU1SDJ3ODYwX3FJOUF0ZkZyTjlIbTZrTUF6RlMxcV9zaXpWajFhUQ?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-23T14:42:37+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/23/6b0450b2cefce.png"
+  },
+  {
+   "titulo": "Tránsito en Guayaquil: nuevo cierre vial provoca cambio en ruta de buses en el norte de la ciudad",
+   "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLVFsNlQ2NTI3WWd4Wk1Ybkw0TlI4R0J0NG1mS194MkxGMjY0a3UxSEFKcktrdFBCZy1JeXVRSXM2SnZLOERtM3l0OFRLMkRXbDRUVm80VFdyVXFvMjRjWFBYRG5sUTRweXRrRnhnUFhpaG44TE9lMTducDNwRFJGRkFqYUZpdnF2WUhpRlFSODRRcS1hc1NPOUNndDg0MDVhSWlhMDFUSHZWTFJkWXFYVGwxMDJFTUJGVEttU3VSOVRBY1hKQzhpaXdJTkg4TXhPQVdvOW5tb19uOTJUeFlHZV9R?oc=5",
+   "medio": "El Telégrafo (por eliminar)",
+   "fecha": "2026-11-23T14:41:32+00:00",
+   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/838b46058760d42cecd51d527d1be397_L.webp?t=f049262d1640"
+  },
+  {
+   "titulo": "Noticias, lunes 23 de noviembre del 2026 | 24 Horas | Segunda Emisión Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdG1UU2Fwb0xwVXE0VjdQVTNJTWR0ZkJ5OGVJMHRkVkNFVlR2ekphRG1kSjBqQUlpX0liY19tb0tPX0V2RFdwTm55d0M0aVdqU3drNG93UHBiSlhrQjJQV1BBTnRHdFM1NHg5N2QxaUxZb29uV2RwdncxdEIycXhta3NOUFdieHVqcWhWRVc4RGc2dnd1bVVyQzJWMUxhbkF1ZV9ONkxxUjN1dVJCa0ZJaXRVSmpaWnc3aTRWM0U1SzdOUjNPUXRGeEFRaGRSQQ?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-23T14:39:52+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/23/6b044fffb6045.png"
+  },
+  {
+   "titulo": "Guayaquil: lluvias y tormentas marcarán el clima este lunes 23 de noviembre; revise el pronóstico para la tarde y noche",
+   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV01WNlhGMGNfcENrQ3IyakNVNGtLeTdTeUV4MnFjS3FEYlNfZTE1VlpYcVpLR0tYN0pfTlB2N2dCYUNPczNSZldaVzE4WndHaXBZRnF5SGJoSjhqbjd1SG5hUW5qX2xxU3BmX0w0d3M3SDhCdnl4azFCWEN6QUFlaUtxUGxhZGxuRi1Ob1RZWDhzdDhSeWZKeDU2SFhnR2RTWUxTTGl5MUMyUG16UmY2eWQyRjhSbEV4cEY3WlZJUkFLSHI4aFRpYVViaDVpMzJLcVJ3S3pLbzE?oc=5",
+   "medio": "Confirmado.net",
+   "fecha": "2026-11-23T14:32:23+00:00",
+   "imagen": "https://confirmado.net/wp-content/uploads/2026/11/clima-ecuador-2.png"
+  },
+  {
+   "titulo": "Masacre en Guayaquil deja cuatro muertos durante una fiesta",
+   "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRDFaWFBwYmpRMi1vUWk2X2JwdlF3S0VXVzBMUVUyWVFfUng3azNKemhzUjludk51bUhxY1duYThVNFU4TEVwa0NFWkxOZUpGYnNqbDIwVGpEQzVNTjZqT3FvU0VHUWNaNTJiUjM4ZjdQQUF3WnpLQmF0c09vR2cxaE45T0RnQTlMME9ZMkNxZ1hRdw?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-11-23T14:22:36+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/image-32-6.png"
+  },
+  {
+   "titulo": "Alias 'Negro Willy', cabecilla de Los Tiguerones llegó a Ecuador tras ser expulsado de España",
+   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaFBMRkdheFpfU0Q0TVdpNjA5SGF1ZFl2SlNoQjJNUkk5NGxVR2N2ZzJqaHVmLVUxNGRQOF9kQTFGYkczOGYzUTl6QTlacTdaZUZxS1M0SkFIbkZLUVBtaDIwUmwxaUhXcEMxbjB6cXJVWEgzNlZPZW1FQl82bENlNWNjZGVoMWgwcDhreXNuRjUyb2o5aHF1aUJyUXYtQ1lXWm4tVkg0MjN5NHJXOC03ejJ0ZGRiNVhzbG9oMUZkaTRjRkVUZFJVd3g5V0hfSFQ0ZU1aSDY4RWJCNS1JN3c?oc=5",
+   "medio": "Diario La Hora",
+   "fecha": "2026-11-23T14:09:34+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Marea alta provoca acumulación de agua en varios sectores de Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN3FlWTBWcTJ0Vk9BZnN4VzFmQ1dzUktYaE5WVUVHQmdhNHJDa1ktcm5aNnhDUDhkSS1mZ25iZlFMMEs4enZveGt0Si1veF9lQ3ZDM2hMb1hpUTctVjNVcWJQZlRoUE5IRzVBRTNMT2VLVHM0RUIyNG1IWVc5OEFzaGlGQWlBODZ4aUxCcHpSd3Z2ZjlIQ01kUEdDUQ?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-11-23T13:34:58+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/image-32-5.png"
+  },
+  {
+   "titulo": "Masacre en una fiesta del suroeste de Guayaquil deja cuatro muertos y tres heridos",
+   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdDNYQkZ5X05Bd3YySERrWFdlSTVJTmNkS084MFQ3dnVYVVNQck9xSnRWdjRsMTVVcmhiVWVhRVRONTZ2bV82VVFUZ0c3amhDZHN3M0NJaFY2d0FFTjV1NUphRUtuQWhnQmZDb0NCOXJ2cFhqRUprb0lXbWcya1k4VWxBcjdVWk4zcWxrUHZOTTJHczl3MjVlTDk4UW1LRW9OZTNNMkt1Ti3SAa4BQVVfeXFMUF9FZGZfOUFxSXRjMmNiZkVWT3lLaF9FVHdKNmpFTktSLUkyUHNFczlyUzlGbDhVY1NfY0Vtb01wNW5VN0ZtLUQ5QmVJdHhkU29GNVF6SXNNZnFNVG1BZXZyQVNDcjE0X1Y3cnhiNzlwNWVObklSS0l3Q1ZYelRsQmZSQmNvQ3pTbmhXaUdmX1BZdTkzZjNzSXJNYloyNllHbzN5S0FBUXE1anVkVUpB?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-11-23T13:34:34+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Guayaquil tendrá lluvias muy fuertes entre martes y miércoles",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3p6TzlGWHRoS2x2SDJjVzVVaTRiRWtDX2NBRHJNaHJVYXd2Q3FFVmJocks1dXUzZXcxUTAxMVVHMWg1anFaeTRINGt6M3lqMUtfVWZmZDRYQkM3RVVTTnFPczRHdGVPazJhX19ENjFHTEJSdHdMYTc1RjRBZnU5SzRMOGRUR0xWdWdTWGtRLVYwV1NNT3JFQ25oNG1lbTc3NHAxMkRuNmZlQVhUdlpYZE1HSU1nQQ?oc=5",
+   "medio": "Diario La Hora",
+   "fecha": "2026-11-23T13:13:11+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Debate electoral por la Alcaldía de Guayaquil: propuestas y acusaciones",
+   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjNWVnVNTThSbnZYTjY2NWwtSmQ3c3RpNnl4QnJKZVM2XzY0dVE0cnNJVkplcXUtUFZZNERNZk1JV2RIYWl5RmdCYVpGQzlTbGpuRjRDbDZrQU5aQ0RVN2NqeXROaGhCSU11aUZCdUtrVng1VXJ1VGJ1V1Q2MEcyNjZSM0ZCTkt2WU1oR2hHWEFhSmxjVkdYNklJY29jZw?oc=5",
+   "medio": "Ecuador 221",
+   "fecha": "2026-11-23T12:39:48+00:00",
+   "imagen": "https://ecuador221.com.ec/wp-content/uploads/2026/11/debate-electoral-por-la-alcaldia-de-guayaquil-propuestas-y-acusaciones-ecuador221.com_.ec-.jpg"
+  },
+  {
+   "titulo": "Más de 40 sectores de Guayaquil registraron acumulación de agua durante este fin de semana",
+   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSEVaTWEwWmJSWVh3eVM5eC1PNWo2WTFPYXdRT3FKaFctOFY1ei1zbENpQk9RcUVxYUJOQjR6STZWYWpBRVFTWnRadDBOTFZLcmZNMVpWX1FmQlY0dmplUDZBbUlITVF1TWNXYTI3UUl6UVA3M3A1OF9Ub1B3RVJjUHNRR29xRXdDX21FME1UbjFTZWRDUjJoQQ?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-23T12:28:13+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/23/6b043132e28aa.jpeg"
+  },
+  {
+   "titulo": "Cruces, acusaciones y propuestas marcaron el debate por la Alcaldía de Guayaquil - Radio Rumba 107.3 FM",
+   "enlace": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5TSmxxZTZTWkFsQU1BTFdTRllnTERYeXNTQm04bjRKME5MZVRYR2xwbW0xWGFCNE1mV3I4?oc=5",
+   "medio": "Howl.Link",
+   "fecha": "2026-11-23T12:13:18+00:00",
+   "imagen": "https://radiorumba.fm/wp-content/uploads/2026/11/VY7DYR756RC7THO4ZP7EGOZS3Y.jpg"
+  },
+  {
+   "titulo": "Así fue el debate de los candidatos por la Alcaldía de Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDc2N19SVTFzU1I2Unl1T1kxaEZfR1pBb2FNQ1RGVGJDc3l5SE1RT0VrN3I3Q2ptNlN2MWFBYTdzUHVPQzEwbkxKcEdYVkFHOWZYTHA3V0xOS0kyVmJDVWhIMGFxLUt1R0VUTnUzelFOem4wOEplb3NyUFgyOWV4UlpSSXdhSzNyTnI2dVU2aU44Vy1yLWVmQ1lDcmRvbFQ1?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-11-23T11:16:29+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Debate por la Alcaldía de Guayaquil: tren elevado, distrito metropolitano y electricidad a partir de basura, entre las propuestas",
+   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcE16VkczSzRQMDRUVmlPREZBNzByUEdPRnZHYWxFWndvYjdiVmpZS2ZIOEZ3RzhUQmItVXIyX2swWElmRHJxallnZGVhOF9hUHd3SkUzN2tHc18taldRa21mMUp3dm5admFUS09TaTU4ZUFKcWtFWjNkOUkxSHV3b2tmcFc0UlVuQVUwLXZ2M0hTdDVKV2ZQNDFjaEVSdkJGcXZyWjFjSWRnQ25mWWxaX0d2QjNvYThvTWFqNGZ4N3Uwb0wtR3NXSHpLT0I4MGYyWnBQUUk0UzFtakJFWEE?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-23T03:50:06+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/22/6b03a8ff47935.jpeg"
+  },
+  {
+   "titulo": "Daniel Noboa compartió con sus candidatos de Guayaquil horas antes del debate electoral",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM1pmY0NoczJvQWF5b0VaQjN5UDV6V245X1c0dHRwdlBIdkRGem5XMURfV1lGWmtYY3B5UUE3VmduN1M1aEVzckZyQ01Wb3dnck41UXFqTVNBS2xHRGota01VcEtRdlRIMEwwWHpCalJ2Vld0SjZzT1R2MUZBZl9zT3BYN0dRRmJIYlJHaTYzZ0tYWWFtazlFelFvcE1BY0NKM0dad25pRl9xNHFqMk5aVEZwdTgyd0VuWjdZRFY3MnlDZkxhbGp1UWtVWEhGR25lYU5IT01BTdIB6wFBVV95cUxPRGx4RkYxMkw5Xzg5UmdQS3pFTXh0c19SVzJwUVdmSldvUFd2SHp2emY1b2dTLWVZSnVFMlVTbFMwNl9TdEJYV3YxazFyNTgxVXJJeGtYbEhQZlo0Y25qX2VVbGVCZ05BSGNCc0pnRlV6YTNSUFdUYURhc3I3OFFZZ1JFM3NwMEo1R0llaWx4aV93VUZ5YnFlWXlMWk9wMzZNNUxWUTExNm1fUG5xQmk5U1IyUEtSeXRNUE9NUnk3YVVmWkxUUHdzcVBxb0FkcXJLVEJmeHZUbE9MeW5UWTBTR0ZhMy1fZFM5eUxv?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-23T03:39:03+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/WYCGATAG4VEINBR2NNCXAATDQQ.jpeg?auth=acf79f8c4c8535827e39ee4ec6dc4da0829088d70751dc46b35dea594906e6f9&width=582&height=670&quality=75&smart=true"
+  },
   {
    "titulo": "Más ataques que propuestas: El debate por la alcaldía de Guayaquil estuvo marcado por el rifirrafe entre excoidearios del PSC",
    "enlace": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdlRGVnhraWdBSlFpRzdRYmFxMDBXNC1ZN3VXUS1yM3h5WFF2blM5ek9yblVWYzJHNmM0MGlURDRQSm4zaGRWMDBhd1lDRVZ0Z3h4LXVaRHlEUGx4SHBNRDdiUXFLbE9LMkdqcFBFVHlQY1E5anRoaEZGUVF3a0c2MjlRV1kzeEV4aExBUm9oRkNXU3JFTVFfc2V0MzlyYW15Z1dvTU5TT25kX1FjS1NxQVJtb0pvamNaU0JaaVFSU2tRRW5keVhId3RTQmpRWWNuRW1NamZocVdieHNxUlc4akJSYXVUVHpmMjhLa21BQVU4M21Xa2NrLVVLS1ZBVWNITGZKVEdBNzVpeVBVQW4ybW5SMnMxNjJNbmx2VzBB?oc=5",
    "medio": "Primicias",
    "fecha": "2026-11-23T03:23:09+00:00",
    "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/files/fp/uploads/2026/11/22/6b039497d1b58.r_d.1554-653-4737.jpeg"
-  },
-  {
-   "titulo": "Así fue el debate de los candidatos por la Alcaldía de Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDc2N19SVTFzU1I2Unl1T1kxaEZfR1pBb2FNQ1RGVGJDc3l5SE1RT0VrN3I3Q2ptNlN2MWFBYTdzUHVPQzEwbkxKcEdYVkFHOWZYTHA3V0xOS0kyVmJDVWhIMGFxLUt1R0VUTnUzelFOem4wOEplb3NyUFgyOWV4UlpSSXdhSzNyTnI2dVU2aU44Vy1yLWVmQ1lDcmRvbFQ1?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-11-23T03:21:27+00:00",
-   "imagen": null
   },
   {
    "titulo": "Debate por la Alcaldía de Guayaquil: así fueron los cruces y los mejores momentos",
@@ -25,13 +123,6 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/VY7DYR756RC7THO4ZP7EGOZS3Y.jpeg?auth=25b8371050b23ff58f8045fbab8a2efb19cc02b729861ddcbfd1637a5a9826c9&width=1005&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "EN VIVO: Debate Alcaldía de Guayaquil: tren elevado que funcionaría con basura y dragado de USD 100 millones, entre las propuestas",
-   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcE16VkczSzRQMDRUVmlPREZBNzByUEdPRnZHYWxFWndvYjdiVmpZS2ZIOEZ3RzhUQmItVXIyX2swWElmRHJxallnZGVhOF9hUHd3SkUzN2tHc18taldRa21mMUp3dm5admFUS09TaTU4ZUFKcWtFWjNkOUkxSHV3b2tmcFc0UlVuQVUwLXZ2M0hTdDVKV2ZQNDFjaEVSdkJGcXZyWjFjSWRnQ25mWWxaX0d2QjNvYThvTWFqNGZ4N3Uwb0wtR3NXSHpLT0I4MGYyWnBQUUk0UzFtakJFWEE?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-11-23T02:19:22+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/22/6b03a8ff47935.jpeg"
-  },
-  {
    "titulo": "Cruces, cuestionamientos y promesas marcaron el debate por la Alcaldía de Guayaquil",
    "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGJRNW1WVHVtVEN0MmZLbXN0MkpOTkVIM2owaVBZM1I2eUpIYllqcUIwZkRjel9mc01YZTd3UUNKT1BSQ19BY0RoY1hqMUxmQktHZE96c0M3ZXk1N0VjWXkyOXRCcDQydEN4TUZsZ0M5VGhnX2FOV2JfSmJES0wxWWVtVFJSSTFldE9GX0N0WjEzbTRRRnJPZEdHZlF5YzZvME5SQ0IwN0lLcExkWlNrXy1PZTVyOVpJaldROXFwRzF3RTdq?oc=5",
    "medio": "El Telégrafo (por eliminar)",
@@ -39,32 +130,18 @@
    "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/fe025c555aab4280df5f5fef978bc725_L.webp?t=75f13a8ef3f8"
   },
   {
-   "titulo": "EN VIVO | Debate por la Alcaldía de Guayaquil: ocho candidatos exponen sus propuestas",
+   "titulo": "Debate por la Alcaldía de Guayaquil: ocho candidatos expusieron sus propuestas",
    "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzFMSnNnOWV2dVc0NC1Sd1N4QlFoMllwVDNrVFY4WW5yd3Y5Rldoc2Z1MHo5ajdveUtsT2ppMHlJVG84cXNmR1BOcFRrU3d6N0syX09fYVVsZUw0WHJWelNsV1BkVFFCcGRycU1QdW9fUnFyX2w2anJOdU5hcXpTcVlnT2ZBNVJPa0h1QXNiM0Z6WEJnNzlnbHBQMGZCOXFEWHRUWE5Db1ZyQUZ0STdjY293?oc=5",
    "medio": "Teleamazonas",
    "fecha": "2026-11-23T00:24:16+00:00",
    "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/files/fp/uploads/2026/11/22/6b03ba91bdc91.r_d.2648-581-4000.jpeg"
   },
   {
-   "titulo": "EN VIVO: Ocho candidatos debaten por la Alcaldía de Guayaquil",
+   "titulo": "Cuestionamientos a la administración de Aquiles Alvarez, propuestas sociales y de seguridad marcaron el debate por la Alcaldía de Guayaquil",
    "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjRYTlcwQTlrWWloc2R1WEJzSkdMcGp0ZTMwcElnaVh0bXpUUkJxMnZjQWJjUjVCOHlhUzZYeUg4cjNKYmptbGhGT3N4RFJLWWxfbmZkbGxUNXdXMHJfaV9ZMEdobmFxNlRLV0paZW1kN1VIN0hVX25jc0lYNXJQb2JBM1lsaFRhRnpzWFhmX1ZyNDFzRkU5Y1A0c2w3cjRBNDJfMGJuLXNFZVcycThSMWlGWdIBxwFBVV95cUxQQW8temxQbmFhQnBYeWVBRXNVVDNMeG5ZNmdvbko4Wk92Y0JIUTk4OXJMN1N2ZVd0V1RWZ19MTnBvYnVoalpKcmN4cUpBYTE0UTNDaU92SjJQanpTbjgwTlJ1eGZZZDdjVWp2LTlJRlVsdXFDdHZYMDRBY3ROdGxuQkhJQmxHU25USzEzcWV5UTFweUtlai1IUkpaNVpyelpjbDF0VUxwRGt6M3FzVEMzcU5rTW03TDdmRVRlRWZZSDNKSWdyLUpr?oc=5",
    "medio": "El Universo",
    "fecha": "2026-11-23T00:04:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/KDZ7YEW4JVGPVPQKDWP6MIPZSE.jpg?auth=c63c20403b9ceae39a415c374d3b1fbc7727e72818e98018901218b11d028d21&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Daniel Noboa compartió con sus candidatos de Guayaquil horas antes del debate electoral",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM1pmY0NoczJvQWF5b0VaQjN5UDV6V245X1c0dHRwdlBIdkRGem5XMURfV1lGWmtYY3B5UUE3VmduN1M1aEVzckZyQ01Wb3dnck41UXFqTVNBS2xHRGota01VcEtRdlRIMEwwWHpCalJ2Vld0SjZzT1R2MUZBZl9zT3BYN0dRRmJIYlJHaTYzZ0tYWWFtazlFelFvcE1BY0NKM0dad25pRl9xNHFqMk5aVEZwdTgyd0VuWjdZRFY3MnlDZkxhbGp1UWtVWEhGR25lYU5IT01BTdIB6wFBVV95cUxPRGx4RkYxMkw5Xzg5UmdQS3pFTXh0c19SVzJwUVdmSldvUFd2SHp2emY1b2dTLWVZSnVFMlVTbFMwNl9TdEJYV3YxazFyNTgxVXJJeGtYbEhQZlo0Y25qX2VVbGVCZ05BSGNCc0pnRlV6YTNSUFdUYURhc3I3OFFZZ1JFM3NwMEo1R0llaWx4aV93VUZ5YnFlWXlMWk9wMzZNNUxWUTExNm1fUG5xQmk5U1IyUEtSeXRNUE9NUnk3YVVmWkxUUHdzcVBxb0FkcXJLVEJmeHZUbE9MeW5UWTBTR0ZhMy1fZFM5eUxv?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-22T23:25:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/WYCGATAG4VEINBR2NNCXAATDQQ.jpeg?auth=acf79f8c4c8535827e39ee4ec6dc4da0829088d70751dc46b35dea594906e6f9&width=582&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Daniel Noboa felicita a su padre, Álvaro Noboa, por sus 76 años: ‘Gracias a quien me enseñó a no darme por vencido’",
-   "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQUJsTkpCT05MV3I4NW5nVGVRTzdWRDMzUEVKQmFvMGlNSlhjNVI5SVU3TTZvUjBaak9VWnZSTDVSd0w4VXY3VGtDWnU0LWxnMDFnaVprbFZIaVhRdFdrSDlMdi1EeGlvVU16cEpLNWI1ZG5ETFUzYjRXcjd3ci0ydlRfWVUtWF9tTHdkVEE1Rk9pOTd6ejhSTVJ1dVNnanM0a1RYN2NwRkd4dzdQckhzaDFVRS10UGhCdldGV0RDeU1BdWVRTDZlRzFXbTRvOF9TQWU5R2tVSlpER2pjU3RKM2FzVElHaHJfNnF3WG0yQ3JIRk1ZWHfSAYoCQVVfeXFMT0RxYjRMTzcxdnJiTzl3VWlKLVBlUHpqSTJvSVMtNEdTSTE4eFd1eTk5S1JOUlJlNlMzaVlXZVZXSEgxY3VJU0h6X2FmNUtTRHozTkNmS0pTUVc4QnZidDAxV05pVlN6dWJjTjRyS3lDRUt1a3NiSFIwWGt2VVZvUWx3OHpna2sxRno0d2dFLU1meGhzWlRfajdfeUZKSW1LYXh0eDRlcUVvV0ZDc0k1clRQRVY1VDBkc2dsSkhiTGJFSXdiUndZbjlyS2VTdC1MWFpIcXdtdk1nOEVwbTZEVVNwSVBDenRRZkVzSk9ySmhVY0lGcHNCQXZnWnJzaExEM2NXbUpIazdXQmc?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-22T23:24:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/TMK3X7KCTZEZHH3O6QYPRUVX7E.png?auth=3b3077e52b1d9739af2dbc716670febee52716217cd297322ed7cc2bd9e59e0f&width=442&height=386&quality=75&smart=true"
   },
   {
    "titulo": "Debates electorales 2026: horarios, candidatos y dónde ver los encuentros de Quito y Guayaquil",
@@ -172,18 +249,18 @@
    "imagen": null
   },
   {
-   "titulo": "Interagua alerta sobre altos niveles de turbiedad en el río Daule",
-   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNUFjaEwzcE9rQWdmYTRxQlF0ZlNKaXVnSlc1V0RNWGR5UnNkckM4Y1R3QzdmUEVuYm1NaXg0TkFOYmF2ZGt4cUtvcmwzZ0duZUpwNVpSSTZrRkthTm9KMlQtRndvNl9tb2t2azlpZElPVUhQMm9UVVZBbHcwZXhzdW9lX2hPZVhSZU9HX2pJczM0dWhHUVU4?oc=5",
-   "medio": "Ecuador 221",
-   "fecha": "2026-11-22T13:00:00+00:00",
-   "imagen": "https://ecuador221.com.ec/wp-content/uploads/2026/11/interagua-alerta-sobre-altos-niveles-de-turbiedad-en-el-rio-daule-ecuador221.com_.ec-.jpg"
-  },
-  {
    "titulo": "Familias de Guayaquil aprovechan el asueto para reparar sus casas tras las fuertes lluvias",
    "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeFJkZmViZDdqTURzeXBKZkw1MEp2NTNnc2pLcUxVN2J3cDM4SzVnWG1lX3FTYWJCQzB5WV9JdlEtV3d3TnFiQXV2eHNRb2UweGNkLW9BSGlIdU03SEM0SWVNZkpQXzN1SUQ4STlyNHhvM3VtWUlyZk5INVl0Wm8xNVpCWUNvVHhUd0kyWUYyTWlMemM2RU1NVTI3akpsN2dlX0FVVzUzNU9HVmwzOEh1bGZRNDMwcXBucldpaGpUT1hvY0lHcWpiQzFpSUtYdEhzU2NVVzI0eVFtLTDSAe8BQVVfeXFMUEdNU2huMzl6bXpQMGY1VmRIbGhZYUtTbE5PRUgxZ01PbGZnd2JQTW11T1hPVjU2aEZmaXRpNkRIYmFJQVZocnB6Q2FTdXNTdV9USUlxdXd2TW54ZHlrdEltMFJrdzFPZHNFdmc2Tm5sZ2J3aTBvcldmVncwemxLS2czdm5TbHNkODU5MDRFeHFCWDFQU2tIcjdjQV9tMFBXYXpDNGhXZDRZakRQX3E3Yi04X0VoZlVhUVBjWG5IaG1NbTg0d2h5Vk1XdWZNYXNWanFqazV2QU8tUlB3d0hKeE5IU1dMUEE1WEdWd1ZPUlk?oc=5",
    "medio": "El Universo",
    "fecha": "2026-11-22T12:21:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/DVN6WFIVENC4NJRXLG72QJLRDA.jpg?auth=c4039a794424a58f619ee298157a9ea841c73ba2ee1445cbd7a1a13c4b1b23c4&width=1005&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "‘No queremos que muera la tradición’: los monigotes gigantes en Guayaquil enfrentan retrasos por lluvias y falta de recursos",
+   "enlace": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPOTAycU44cXQtX3pyWHFocm1tWU83d2YyN1JhTXVXLVJybXJ5am9CTUNzWHU3cmp1b01Ld2k2NHpnUHhfZ21wWS1ObHVwcWpTOGNVUU5LVUdiNmQxTWNRZHk3NWJEa1kydkxYWS1KQk5UaTM2RWxwX1NmYlZET1BPaWxTbDVhSERoWmF4NV9hNE92OWNQRnJ0c0ZQSDVNa05ycTdHVkVDYjVjYUpQWjVGVDJ0cTZCYUthN1gzTDFtSVExNUFHS0hRUmxwaDZHX29aSm1oWi1Ea090NUNUOVBRM2xCNmppRzJaVUxBck1jVEdwRXEySVlKWG1BZ2Z1NG80T00tWdIBmAJBVV95cUxQUEN6SEw2c2JpVk0xXzZ0SHVkd0h3M1ZJS0otMzFybVFIbkh3OEZVMy0yc0ZiT09vUUFENzNTM29TOWtjdXdtX1FQTl9qMVZqSTNvZHlKeDVOQWJXSEZ1bDdvNEFlbVNPektCakV2Tnh2Ymp4SVItRzU0azNvaE1maTNwV09FYVhraC1VNDdqSDZtamp6amtYMUNvR001aTJRZktUYXd5VlFwNnZOTEdRNHNBLTM5Q1F0R1k5M243S2ZhLVB0eFUzT040WTFaOXNmeDhxYjk0Q0MtRGV0alBIVHN5d013eTRpelRPMkV6Qlc3Q0FjSk5BUU5hV3JCZVFwQUp6c203dnN3UGFMbGpRQUF1QUFsX0VR?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-22T12:21:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/Z7IYJWYM4ZGS3FMBK53QNUX22Y.jpg?auth=752e6e728e75f7530f08659d34a4c910a0867791171b4ac8fa983a8536468c71&width=893&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Tormentas eléctricas, lluvias y vientos fuertes golpean Santa Elena y el Golfo de Guayaquil",
@@ -221,13 +298,6 @@
    "imagen": "https://imagenes.elpais.com/resizer/v2/IOHMTKFAOREEZPNZUHGIYUDL2Q.jpg?auth=b70267bd042b38d7ac28490bd6907379af7fce097ec28a4fcc7d3b1e6651c927&width=1200"
   },
   {
-   "titulo": "Una camioneta cae desde un puente colgante en Morona Santiago y su conductor desaparece",
-   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS1Q4WDZLX3FWOEt6VlQweFlTekJkN1B2XzJqekVMSmgybm14V0c0emZfUmtDek5uaXdkM25UNVRQUVE5TkJJT1RDdEhuX1NveGxQd2g1X0xGXzdCcnQzOERqWDM3b0V0YW1OLVZObmlDZTExZ2ZweU1la1ZvMERhRTB4aUhtenAxcE1FeVZVTkF2NXh6a0N6QmstQ2FuaF9sV0dVa0pVRGJkSXFHM0FiSXZTbzFjWDZjdVFMVnRxeG1WVXhXSXZublo5MWU3TWVCLWg0d9IB6AFBVV95cUxOeXRPc0pjUUVHRENDSFVZaHdkZ215cHU1UTNweGktMFB2TXkxZ09EUnBycFJ0Wmx3TFozZk1mNVU1TmtvWjh5cVBKckowQ3hpb21Wd3ZHT0RsaG5GckVBZ1AtQ3JIUG5Bbm94Qi1QYnc5T2lBVWkyY080bkMwejktbVVPT01DelNfcTIyQWhOVWdRNGhFNXJDRHRNUUlGSExvbUFmOFNLRGZhMF9fUmUweFI0MjI4MzBwWUU4aEp6cVhLdnlzSGw3LTl1VnRPTkV5dmpBS0M5UkRpZHBrRlNoMW9pNThNYWox?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-22T08:24:35+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/OE5OUVTFTNGIXFF4AM3U77D5VY.jpg?auth=ac5553327d86925c4fb4de5a6edec79647080fa1702bace74fbfd1b7a2745745&width=832&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Lluvias dejan desbordamientos en tres provincias y 44 sectores anegados en Guayaquil",
    "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTmJHYy1ZLWNmbTJIbTV3YkdQQzctajZ2VHk3N2dkdTF3c1RFWkN2Q01MU1B6WUdyVS1hNkNzTXF2c295T202QkwyaWZwbm82MEVDSlJsb3NjZHNfNk95dVBlMkpxN0RlQWozTlNLVFhiYnp5aVpTSTlwZUlMWlFvWmNGQVNrSVJXYUZFVk4yN2IwZGFDUzBEanhCSzdrZw?oc=5",
    "medio": "Teleamazonas",
@@ -242,18 +312,11 @@
    "imagen": null
   },
   {
-   "titulo": "Guayaquil bajo el agua: ¿qué proponen los ocho candidatos a alcalde para cambiar esta realidad?",
-   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHdoYTNMbWxCbEVyZ1JtMDV0MlpWNGl5cS1uWHNjMEVnZlBra0p5d3ZlcVdPbmJDbG9NS3V4Nk5zajBoN1FZVmVQWWhLc3p1OXpJTDBQWndPVWFXUUR5YTFWWGpMbTFFalMyd0dEVDhyOW1mOFBRSnhxQjh4enJoc2ZrcjMxTVRnSEh2ZzJqdGo1TDl6V2R3R3BfdHQwS1QzYzBpLVNR0gGrAUFVX3lxTE1UYS0xeWtaN1hCa1gtRjVMNl9zNldZRXNuaTFpQ2tqam45b0c4WTJZejdWTlRfdUEwZDVvY1ZSd3dyQlJDWV9naWtSd1ZkZVBaSWl6MnZ2NDc2TDJxYUNuZkpnUUdNaldwekRHcDVpZHROUWFPMmVqb1RoTFZwUEJSaS1oRHV1U0xtSkJzeFpPZHFtOVlBWjl2eXJUZ1k4UkF3RXBORzhQUWNUOA?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-11-22T01:09:44+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "¿Cuándo y a qué hora son los debates de los candidatos a las alcaldías de Quito y Guayaquil?",
-   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUmozT1lDcnhaV3VIOWJBcWFPRG0yeUVXZXFZcm11TEp5VHJEZjVzdExELTJXT1pZVmkzSUZOTHlzVFY0MWZPaVA2UDB5c1BGekdUTmhGbXYyeVVfaWt1QU54ZzN6Y25yaHFjVnVFOUVvaGV6N05mN0I1SWJFQmpId01NNzRzaGRJOVRUQ2g2TUVpcG8wYWJEcGZibV80QdIBsgFBVV95cUxOTzdwNS1LVENDUnV6dzVRVjd5VTl4MWpfSTA5dm5BUlBSakdibjg2bHRQcEpyUk5oalFyd0RUc3RYY290WmREV3l1QnBoWDFUNmpseGNRZll5em5nT1hXdGg0QWh6ajU0OWNub2dJc1dTS25ad3pXeElXajIzcTFhSmROdUM0TTFETW85c1RWaEhQMDNnY1NIQjFma1dyNVRGS1FzeWtKbmF3NWRqaTNvZnJn?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-22T01:00:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/E3LKH7INDRCHNL3BP6EUOAPOLM.jpg?auth=10eceb959eb883f2ed5149b7df139c428d0c3437f317de9f0be785af5f65d869&width=1005&height=670&quality=75&smart=true"
+   "titulo": "(VIDEO) VALIOSO TRIUNFO: BSC derrotó a la U. Católica en el Estadio Banco Guayaquil",
+   "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVExkMTNnMnpfUFlXbW9lcmpINHpaNW4ya3F0UTVvSFkwV1dBN05PQTFQTW9kd05ra1FkTXVSME5rWXZuZmVPc0t3NTdnLW55OXZ5SGo0YWhDeUlrS01fUHBUZGJRWGNISXdtUUtpbHpUUHdCNlVVek1BLXRaaWUzTUJNd2oxNWJLMXE3Y2dtVF9sTmp6OGZUVWVEZGxZM3VqMndGUTVHSkFiRTFLVVdqVFNZR0tjQ1BDczFn?oc=5",
+   "medio": "Studiofutbol",
+   "fecha": "2026-11-21T23:32:57+00:00",
+   "imagen": "https://studiofutbol.com.ec/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-6.20.13-PM-1-1024x768.jpeg"
   },
   {
    "titulo": "Fuerzas Armadas evacúan a dos pacientes de Galápagos hacia Guayaquil para recibir atención médica",
@@ -284,11 +347,11 @@
    "imagen": "https://www.el-carabobeno.com/wp-content/uploads/2026/11/atelta-carabobena.webp"
   },
   {
-   "titulo": "Cerro Santa Ana tendrá trabajos de mitigación para reducir el riesgo de nuevos deslizamientos",
-   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNjZKN2phdjE3blpaUWZKcE9IVlFyMGdGU056TnZPM1RMQzM2MWdnc21IWWs0ckZoeFBUb3NORlJ4VHZEMnZoNXVQRzdyNkt5bHJhZjl2RmtWdWZsekhkVnVsU1Z5NmpWeTc3d3FoSUt4Vkh4X3F1UVpuMkFlZ0tkaVhhWFRKRjl1SXVvbERMa1R0aG9udm1taW9YVUZZUHZwc0RmVmQ0UjFzTUVVeUxGZFJhVTVGVFJhbzlRUDJxOWdMdjBBcHZ3T1gwMHRFMkNvWnRmLXZjZjJqX1BLc25z0gHzAUFVX3lxTE52TnU3bkktdVNSTVN6MEVPUUN2cFRrZzJsTjQxNFRIZ0JWZEFrWV83NTRfRWxhYWQwVGV2UTZXcmE5Q2RnLW1OaTN5Qjg3ZnNLNEp1MWJoRUVxeVdMa0tMY05yWFNXbWxRcnVuNG5NbF9NdzlTeVlCUGRmQjNhdVZzNUdSZmJrd1dfMVhKV1EtYW8tbkNQRkJPRFczZkVGeFZHQ0w0TURTYmZ1ZjFaZGxLNWVPaTgwY2tlZjlCcXBJMmtFNGFxcXBYZ09CSFZJTmVPS2xkQzhlak5jbkhNbDZGZWJtZGFweHR0Q2FNcXVZTl96Zw?oc=5",
+   "titulo": "Barcelona SC vence a Universidad Católica y mantiene viva la pelea por el repechaje de la Copa Libertadores 2027",
+   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdVNRMm16YW5IYkp3by1xMDJyWi14ZW9yNEkyUlhPWElhaEVvcVBYR3BoMWRfTnZsREdqVkUzUDM3cnF6TjF0RDNYc1BpQ20wakl1UlU5UXBoWnU5RUp2NUtweElWMDMydVRtNVZfRHQ4bVZaWVJOaXMxc1EyNFp6Y0psTWRuR2F0YlBGaFZoTHBMTnVBY0xrcXRNR0djMmFzSW5pRXBQZ1pSNExnUHZtdnphdndtVHUzYlVhZWJ1WWZHZEtjNzFMaG1NcC1ETHZkTFZyZ01lQVBBV0JrVU1LbdIB9AFBVV95cUxOcEZOcFRaZElhbTRCQkQ3WlRWWlQ3S2xTQTFSS25Id3NCc1dZajA3SFJsRjJKaGF5a0tabGR1Y1dxbkstcjRIQklwZXcxU1RYYk9oenB5M0hlTE4tRHAwUG1yaWpIeVBlV2NKcFFCZ0JCUVhqamMyTmYzSFBKbXp4QVNkM2ItVGlhVGp5amc4QmdnZ2ZiR2lqakVHVkJ3aXZkeGo5Ukh6YUtIdE9TR1hlUzdtMkJqSGJtV18xblRoeW9LUTU1M3N5Zm1pSTNaNWM5VUdDeEtVTnBzczJUenE3d1pCMnNUQ05GWlN5RFkwX1QwUVd5?oc=5",
    "medio": "El Universo",
-   "fecha": "2026-11-21T18:03:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/R4G3OOLSFVBGDNKCFVIOLC72OY.jpeg?auth=ab533580912dd1c16a066d855633644c68a2575ebbe9132f00c805b187028610&width=893&height=670&quality=75&smart=true"
+   "fecha": "2026-11-21T20:00:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/4YIXFDOC7BH77AU46Z5GDXCLJI.jpg?auth=577163e07f523083a006575bbd96424adc9d01194a43f59132e131c0672d39d1&width=958&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Lluvias inundan Guayaquil y exponen deficiencias del alcantarillado, promesas y obras pendientes del Municipio de Aquiles Alvarez",
@@ -312,13 +375,6 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/KSVPFUXPO5FONGGR2JCIH33IS4.jpg?auth=c15e433fc3fba7fe23d2a97f0514ba68a5f7e925b51567dc1bd0e705a6c1fe3f&width=1005&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Un muro de contención colapsó debido a un deslizamiento de tierra en el Puerto Santa Ana en Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9xb1NLZU9CbTJGZHlZcXpQckZEZk9RUlB4elQwQ3pzZzFDcWpOdjM1RUp4NTBhSzhHTE5TVU16MzBOakZwVHktTVo5UWZ4SGJ6eXpKR0wtSGtUWEdMNjBGRHJWQlpjUGwxMzhkR0pqQjRHTk1uSktGRnpkV3pQTk5VZWNYRVFSZ0hrckhaU01ZRUJ4Qm9QQ9IBngFBVV95cUxNS29vT1Q1WWYwVUpmLWxBYmdfNXFhSGVNSGRwaU9EMEZDb1V6TTBvVWFNcHZDSVdpcjlZVmtscFZ3ZzZUY2pMZm1wZUl6emVRV3RCTTY2bkZNZmFVNEUzaGptb0pCbkNvMlQ0US1DSHBxS1hRNTFidkZ0R3hDa0RqZW4wa09McnZOZ2VVUFNLRXFJRWhHOWxpT2cxVldtdw?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-11-21T15:58:53+00:00",
-   "imagen": null
-  },
-  {
    "titulo": "Vuelos al aeropuerto de Baltra con demoras tras inundaciones en isla Santa Cruz, en Galápagos",
    "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObkNBUV9CUEZ6ZmRIRXhkZmdJLXozcTZTYS1XZnpJN1N0bnM2eVJlSkY5ZHNZeHBTUVFqTmRpX3ZoVDNVRXlfSXlYX3ZhOUxRbGJyX1ViUGJtN2JiWmFHcXpTRFBZNGhWRUhMVDdVTE1KdVB3eG5KTDdkOXBveDVJRGpKUUlnMGpuSmhGeV90UUlkNWhEMWRzMkR5VllYeUxuTGxTSWpsU09kejEtZVo4YnR6eFlDczI5V2hneF80SnYxU01LQ0hmcVFiTlpDaC1xTnM0aWxYNlJxQmfSAe8BQVVfeXFMUFRaZV9IVHBjUFRrNFNHOW8yUk9FZEE4S25pdm84bi0zc2t4a29LV21xWmpZUzFMS0dsNWNMZGhMbG5lZDFrX3NtRXBOTExUanlWUUFhM29UY3hlWDYtOTJUTHJHSzE1LWF0b1FmcFc5WF9UbkZ1LVBZTzVmN2Z3TzlqX0ZFaEFaTExpUDAzVGtRN0Z1SG5NYnJSbXhBNHZVREdxMGotYmxGVzhHak9DUlBFVHc2bmszTDVkTkhEU1lwU2lONFZTNVNacU5seDJsZElmdDhjYUt4SUNIcEs4VkM2SndQdWZPVnlfVlpzbDg?oc=5",
    "medio": "El Universo",
@@ -333,13 +389,6 @@
    "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/21/6b01aeac5c08d.jpeg"
   },
   {
-   "titulo": "Alerta en Puerto Santa Ana: cede un muro de contención tras un deslizamiento de tierra",
-   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMEFfLUZoNGVIN2VCUG10UHRyQUVyUHM1QXJBUmp5RGdfV2taeU56VlRvbFBRcFZjM3E1ZV9fVERkdS1NTG1uYWI3LWJVMXA4anhtaG1vSjJDUXRtd2xHRFM3TTNucnNkWWZIbkthUkNJU1VPNFFIb3U1NW5TUk9pRkwzQVlJeEx6MGU2YnJkNTY5djFMcEppSUE1bFNmZkxEdm9WdFc2QTN5VUxrYWFZemFvOHI4Q0NaTldLZHhB?oc=5",
-   "medio": "Teleamazonas",
-   "fecha": "2026-11-21T14:08:52+00:00",
-   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/21/6b01a5494a898.jpeg"
-  },
-  {
    "titulo": "Tormenta deja calles inundadas en Guayaquil",
    "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaaUgyTmx0Wjc1amZWbDlNemFUMVgyRk04QU96Q2xzZENUNHE2bGtYSlZVMEMyMjUzSzZBQUJzczJ0VEZveC16cFJOd0p4VW0wek45dkQ2RzRXbmdJaEdIdWRUTGFDMDBWSHAweDNXX3VkV2dXaEdaNm1R?oc=5",
    "medio": "Ecuador 221",
@@ -350,8 +399,15 @@
    "titulo": "Tormenta estuvo activa en Guayaquil durante la mañana: AMARU reportó lluvia fuerte, rayos y calles anegadas",
    "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN0Z3YnJuVTgyRW5rWDY1RldPQkQzdDdlYndQM1FIc2E2ZFA3c3lCYzNRbXlCOEt6LUxXSDJCbW40WmczZ1VTUExneS1sTjFWcFFKZVd6N3dsVGVSMXdvTHFES2w3VEx1VENtS2gyTVlkbUloWFhJOC0xSDllRG1uTURSal8zdXBCZ2RrYXRqSV9tcGRrYlhHRVNDRWgxVHRDSUJlTjh3OUxabWFEaG1tSlhCUjFnRVhBNG1qWVR1Y29PSmZNTDZPV2hST0xpTzEtLS0zOHk0Q05jMkdzSEE?oc=5",
    "medio": "Studiofutbol",
-   "fecha": "2026-11-21T12:52:52+00:00",
+   "fecha": "2026-11-21T12:51:35+00:00",
    "imagen": "https://studiofutbol.com.ec/wp-content/uploads/2026/11/Captura-de-pantalla-2026-11-21-074707.png"
+  },
+  {
+   "titulo": "Pronóstico del clima en Guayaquil hoy, 21 de noviembre: siga en vivo cómo avanza para la tarde y noche",
+   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcGlMNHdxODFkQm9xU0l0VFN0cG44WENLRGVvZVQyVGR1YjNvQ1JScVdnY3o2TGxZbXVGV2xGaW5iLUxRRko3WnkzOHkzeWNVZ0tHSktlREdFdS10N203aUN5dFFIRWcxX0dCTFBwU0o3YXdhbDJERW8waGpoc2E4WGY5RlE3T0NzbnRZQ1Q3UXRQbzBpVE5udVR0V3otY0Z3bkVnal90d0lEckpWTVctNFdKZ3dpZnVkZUNQLVczLTJoeXhYWjhYYkxadWNSekZ6MXhNR2dBcUFZVmFpN0xIZGNoX2RiNEZ60gH8AUFVX3lxTE9CcVdSSG9YRTlibXI2SHJDOFBhZHNoQzU0enl3X0RQeEhOOHFDT01jNGgwME9CYkp1OFZLcWdyaGVQZlNTbUJDTHVZdTgtMzgyRkpzTTA2TURQUUs1Y2pUZG1CZ3F6VExTUTZCVG9IY1JxNjEwMi1tanI4RTczSUI1V0FwSWM5UjFuQkFKYnd4MHJyckdYUkI5M3FGMHJueHZoME0tNi15RGdYOW5aT2haUWlHNUg1ZjBKWF84TjAyR0QtemRoQ0FTcnJHM2piQ0N0MVF0bVY0NnBJaUhvR1VWd1REaTBlUEg5UjhWdnJLNWdBaXJ4TzBYVzgteA?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-21T12:45:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/ERAIBNMU6ZEA5JYZGA7MRVVHFA.jpg?auth=fb1e3ebb0baf00a1898163cbcf76ce8c78354ffe06030f59076653f5dd69b71f&width=1202&height=670&quality=75&smart=true"
   },
   {
    "titulo": "Tormenta deja calles inundadas en Guayaquil: estas son las vías afectadas este sábado",
@@ -366,62 +422,6 @@
    "medio": "El Universo",
    "fecha": "2026-11-21T12:28:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/PH5HV55IXZCFLGHIDKEJAFMEUU.jpg?auth=34b884759f65f6bf486bdf80dfa00c3c9480600304f42963cf19a8a490e76f52&width=963&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Más de 40 sectores de Guayaquil con acumulación de agua por lluvias de esta madrugada",
-   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNzFpbEhjMTB6djFqd3RUYmxVbWpwNDNBMVlVVC1hV3EwdEJ4XzFfOEFTYTJkaHVTMTVlSE84bUs3a09nMzBERUJvbTVCeXJHbUpzZkhIVmV4Y2tBWFdJcFp6WnlVc21PWTdPNEV5REc3bEFlQXhxQU5jT3lnQVA3WE4xYjVLT0VWTGhncGs4Yi1md1pNaVJ4WmhjRi1WTURuaGQyT1pkeUY1RFZsNzBCeGNqUHpGMlE4ZlQzelhNZHZub0s3UHppNVMzSlZlV1dsWmgzcDlvYWpJeDQwWXJWSNIB9AFBVV95cUxNQzh4U2lueXlaUzgxa29IUWR4VVI0OUNqZXJ2ekNhdDJGRDh6UzNnUzY4MmpwM29wdmYwOWtQR0ZWMHh3MUlCVlFOR2JNZlNNOWVpQTZlV1p0MlNadVdnbGFERzhUQjFINzRuaVptcl92YTNEVmhwN3prVE5UMU5Ba1NkTW5sUnJaYzZFODFkTnY3Q3pHTGtWNFJXX0ZPeFktZHVTNC1rZWl2WVlXNGNuZVhFRWxjcXNOY08zUEt0enJ6TDlhcl94OGpWdXRKSXlaZFptczNPWWZNLVRnUmZ0dWpoZEFiZ0dJUTBubmt3Y0REbjJ5?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-21T11:33:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/R77ZKTDMNVHVPEUPQ6BIFDJ3KQ.jpg?auth=3cf36fdc0b6af5e0294abce9e9741ba3b9fd2b5e091e694322b4a83f40bdbbe1&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Juez suspende proceso contra candidata a la Alcaldía de Guayaquil",
-   "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWVhTXlmWXVhaGQ5VlhpTjVDXzlWLVg1c1hMSEhJcXljNElSNkN4b3VrbUowQkRrODVHYjVtcjYxWGlJTjFrN25DZWM2OWJsVFd1UHdJYjlkS0p5WUpfaTlpYU1SNk9acnJYX2dualR1YnllX0xnWG5BeDAxZ2t4Y3dmU1N6UmZ2RXlfOWlLVll5RFFiejdETFFFcDY?oc=5",
-   "medio": "Diario Los Andes",
-   "fecha": "2026-11-21T07:22:26+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Terminal terrestre de Guayaquil registra incremento en reservas hacia Loja por el nuevo asueto",
-   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYlBhOWVlQXVtbWwzbXd4c3VkckdISkxjdGNZUDRsSTlCSTBINzRZYXQyUUpYaVJZUUZGMTZHRTlNRzVpdHk4Z0pmdkgxUlg3T3dWaFZlU2gyMkZRUkxFU0FOTkZoUmRPa3ZNVzk0TTA0LWI2dnBZOThPemFsbUpoQlJWdTdyNTg1M0EweVNpRElaOXZhU3lzdnUyWGIwUW1Ma1lJckZRSm9CdkQzcklOQmNqXzk2WmxzNWpnei1vVmVYRExTdlU3amJhbENjVF9jWVBpdTdyOWktVFk1NlN1UNIB9AFBVV95cUxQSWJXQnoxSWh2SzBPdTk1bTRfMWJ6Q09rQi03amk1V09vby1ydUgxenFPSG1DRFJRWXV5elRMdGtTOVVOa1UzNUdNLXRDd0FHakRIV0s5dloxRHIwdmNaNXZOTm5lSHhjSUtwRGVLR2hwMVhZTDRIQ0NfWGJSaGNvQzFfOUFfdTlmOUZYMG44ZE9rejhrdXVyakRlalBWM0RxYnRKUXdsM2JfUzRCeHNYZ3I3MFROYWVZZDdOM0xKUVBGZDJubGVQMGhnaEN1dVhka2lhUUFOa3N5X0RfaHI2NGRQMzFtRnYtX0gwYmxJbUtPT2xo?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-21T01:35:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/M5AZJUWHYVBVPC63NQFEV4BGY4.jpg?auth=82b549bea821249e6c8e0a87568ec3ab4edda6ee0776d5e7245bde4e05138b59&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Tres días libres para volver a casa, visitar a la familia o ir a la playa: así disfrutarán los guayaquileños el feriado",
-   "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSnNoeGdrOExrUWpUVjV4SG1iUHZJbGVwRnhuTFVnRTBOZFlXU0RVa2dGT0xlS3luV2dOWjZLcG5rYXRYUEVHRVdldUZkWjNQZE1zb1lKTktNSFFwUGtULTRMaE1ZY2RCVUNKa211d2dtQThHLThkRXpEZWpiZlBFVHozOW5HMTNjOEJfd013LUxPaDQ3SU9pdTRxU0JLVkdOX2NTTDZKQVVLaFNNemZIdmhRTkxhdmhBWW5kNzdrU0s3RS1YcU1wazRqQ0dfU0NNNDlMeEVFWmNLUXlvX3hvbE5ILTVydWpCQThCNXlwRWNoQmJFVkhuX01MWGU5ZmfSAZMCQVVfeXFMUHNkZklvbFItcmg5aENLZzhrbEtKdHA0dHVaYXMyaGlnazdiamhNLWhkRU9VTU93b3dXM2pMWTZMc3NETHc2WlN4c19XekphUEZ2LTk1WjZvdXJZcldTdVQ3V1N0NEhlY1NjTjJPUWFuSjdyZE9HVy13a3lna054aXhvSFozVHZLZ29zZWRfZEhuelJiemxBbWNfck1CdGxYTmY3bmN5a19WLVZGYlNURzBONVlSRnpqTTI0UFdQV0s3ZmJJTmZUdURkaXkwckJ6STB1WDZXdVR6aEhXRllMWExGcXBMamNOTHBySmk2Q2thLVBsbWVuV0FYcjBkRl9Ma0xkWmxFMXlFUTNlb0dhNnJwcUE?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-21T01:35:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/5RESAU6RU5ATZBAKNWS57BTMKI.jpg?auth=5e9cccb4e134c16908e1437ed50d247308ce53e8ec33aed99090c237efd76d0f&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Extranjeros visitan atractivos turísticos de la ciudad en su paso hacia Loja y otras localidades del país",
-   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNczdLR1pXeVZaaWplTERrck1XMGNqYjEtVlhsR1g0RktFWGJIZUJmMTdIVmNJNUFlV0RCcXo3UVNHRElNcWVjMjlKQ2FDbFJVNUg0a0NJWVRkNGloY0pseTA1cWtia0dQUnliOG1QOUlQb1NHMXB4MkZKazkwMFlMdnJCZ0xOZEZrdHVSSThNM0wtbU5ycHc0a1NNZEVzNkhSY25WRXU4NkF2Vk9lLU1tM3FYY2VCRnhFdkJUbzhCaEczRnZLVGZyOHJxV2I3MVl2cjMzaURub0hVN21Udjgtc3NqMHN2TWFTVTlqY1M3SdIBgwJBVV95cUxQeGYyVVc3Y3JDV1ozZVhMdGR0WWtucWEtOGRqdEFJZlN0cm94ZHV6bDNZamh5cVFpU1otem01MG5pci0tYURjZjBfalRjalN1Y2ctb1lWWEM5N0RVQktZVkhlNWFhaDVlYm1peURGZ2JRRUdleGNlbkhJUDNtZTRoWjFBNzh0TzNxTXhIY2k3SDJ6eDV3QjFkcWplVFJzQVdicFhVZVJJRXVFbVU0RzhRZ05IcTJ2U0VacTc5UU5NYzJOUV9jYWVjVEcwQV8tc2FpUU1zbVF1Q3BIRTRnYm1SUFRWN012MFRSek43OGlYRnVna0RZRHRHYWNvakxjOVdybUhB?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-21T01:22:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/OBXD53I5GJEGBHRCBLUFGEJDWY.jpg?auth=be15b9ba7615412ddc1ab995539717363c992da65dc103303b7e685377aa3dab&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "La hinchada de Independiente del Valle responde: el estadio Banco Guayaquil luce casi lleno ante Macará",
-   "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYTNUOVlQTmVhS3dDZUljLW8xdkhFQ2t3ZUtOTG9hcDAtNGR6dDJoVGRUd1p3Ylkxb3VIMVgtN01UVXhCeExmbkVUNXJPTTVpaWEwVEYzUy04YmltRHdkQXRoTWM0SUtzaTRIdmdOeEpQODFBaThGdTF0N0FiR3dCM283bEUtN1JYTU5Rb3pHTzc1WEVZVFJQUWVjNDhETUVrQnpqTTd3TlMwUlJ4M0JpdnRyQzJJZnQwOGcybmZSTm9qYTB4ZnJ3bi1zU0hvTFhhazNyRHdPQXp6QnNsOW9ZZnRnTlRjU1NaTWNoYVpKc29laVdlVWZCU0tjTdIBjwJBVV95cUxNeXdnbzZWbEpwVHo4SE41bVBZYXZudkZUSVVWZzBqd044U215VzNpRDgxd0xhVkhTMmpiYTdxcUd1ZVNidHJNTFIwOFROQ2NSdFRwc1JTZFE0Vk1vdEtMTkJSamk1Q1d6dGF4UWFLNzEwakJaTXNpTV9fNVd2R2huT1BQcGNsLWJweW9Xa0pQSy1XcVljWi05SmtaTi1Da2dBQXhJajFyQXRSWURIazVGeWotTHdpUDJCWTYwdVRqUkl6eXBUaXV4WEEzMkhaeVNMaWpzN0k1b1RlVi1VYzcxemlrcjUwNjl5LUZGTE14Ni0wdkpOYkQwT1cxcEVtWlN5SjhST2ItOG1UM3BjcjZZ?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-20T18:27:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/UIXPPAOXTBFHPKSD74L2RHBALQ.jpeg?auth=ee267e2b6c414aa8d68f0ff75d98087eefb60f1f3759a265012b65dfe9601f5c&width=872&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Don Omar evalúa ofrecer nuevas fechas de sus shows en Latinoamérica: Agradeció a Quito y Guayaquil por el ‘sold out’",
-   "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQY0V2bFFlOUozNVNKaEFfMGRYQWpHdGJiNThTd1RZdXpXS05qcmlVVDBoOHBVWEJsOF9VMEFxRGdua2kzWXItWVFaSHlKNXpnaGZXZHFfemNBcl9fVVJsekhTcng1ZFlGUVFGbG40c2xvR2JBN2ZUakYxcnM5cFBKUHlEN3RXSHZtUExLNlNVT2tOWHp0cW5uMmw2dDJjNC0zc1BZb2kyOFRsSkNJU1c2MThWOVRFVUJ2b01FblJnWWZ3MjdwbUZHbzlVc0pTMjBpNkVUWlduelI0Y1FGbmlwMDYzRG00Mm1zWGZZNTZ3QmdqekV3MzBBcWg5dXFOQdIBkgJBVV95cUxOLTNzSWFxNFFRVEFCREdSWnRfcmRJS2UyTnZFbWtEeWVMbWxjZVZuWGV2ZkNDR2c5bFhRM291ZjB3eDB2amlNV2hFNmVrc2VLNkFtdDJna2VkTElaYVk0Qjg1WnVTQWFWM1hLV0pLb0Nuem8tZmVDLWxtSktEOW9VZ0pVbU9RNW1KWl9aMm1CbmpvTG1uM19HOXZ4bU9EMEZORjJVS00ybFVyZm40MWN4b0hjOUpJbmVZVXVkSmZ5d0NvM2tqejU2akxZVVZVc2E0eU8zejE4Wi1DOFRXWFByaWRNVHU0WEp2TnlOQVNtbkVDQmNQdUlVdXk4VEdpdWFja28xNmZycTE5dDdlNU1ad1J3?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-20T18:06:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/FP2YQTKTMVCT3KAUY6FHXJ4GEQ.png?auth=82a64767744c0db717354e30bc19dd0179a844fc68c2c948802129e9aac6bd6d&width=908&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Guayaquil : operativo deja 22 detenidos y más de 117.000 dosis de droga decomisadas",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSnlYVGNzNnVjWFl3VTFTQTdral9iSUJZNHdsNzVEV0FDZzFodTRnOHh5NjZ2Y2hvd2tkWHU2c0sxSU5nQjhmMWFNSlZCXzQzd1dRcnNUTXRnRUdqa3NRVDNNN3pJZlMxZDBFdDJjbG95b0hhelpYLVR5emlWZXBsMTNQQ3ppN3dkT0VlZEphV0JoUDFQQVEyam5vcVFMcFVLQS1MTHZHUEVfdjY4N0I2ZVJHSkNGbjRvV2ZYeUZ6R0ZCTVM4U096T29lTEFJMkc2OGFZ?oc=5",
-   "medio": "Diario La Hora",
-   "fecha": "2026-11-20T17:14:15+00:00",
-   "imagen": null
   }
  ]
 }

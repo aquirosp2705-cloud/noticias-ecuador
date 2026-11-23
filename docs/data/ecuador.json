@@ -1,21 +1,392 @@
 {
  "zona": "ecuador",
  "nombre": "Ecuador",
- "actualizado": "2026-11-23T04:19:19+00:00",
+ "actualizado": "2026-11-23T15:28:19+00:00",
  "noticias": [
+  {
+   "titulo": "Alias “Negro Willy” llegó a Ecuador expulsado de España",
+   "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOalZXdmRGTGdPckx3cHFFVDJnbGZoWnBXSzJHMXN0NkhaTTZhOFZ1UDhwQTVCQXBMZjVtN1hUUDJmbW9pV3c3bU43ZG1vWm90UlZ2Z3d2T0dLLXRpOHlZYUtneFR0Q2I2ZnExUHhOdVVTMjR6VEtObHk2b1dVM0JaQmFPZDQ1SG1hTVEwdUJLRnlnaExfNVVnZFp3bV9yYWJrT2c?oc=5",
+   "medio": "elmercurio.com.ec",
+   "fecha": "2026-11-23T15:26:22+00:00",
+   "imagen": "https://elmercurio.com.ec/wp-content/uploads/2026/01/Negro.jpeg"
+  },
+  {
+   "titulo": "Ecuador enfrenta tres riesgos económicos a nivel internacional: aranceles, petróleo y tasas de interés",
+   "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdEdKRWhfWHJabkJhVmd0eV9ucXN0VzE4VGs0eng1bndxMnliaDZuMVJuYUdNeVRPY1FBSVpBNGYyVTNJTjZIaHR6cUpjNGdMME05c1QyRU1ZWUNCRVpocmhxREFDcE9HQl9wTjQzMTQtUkVkS0JzaWFST05fSkhLZDBDbVFDMnJodUp1cEkyclVtYlN5M2NkcFl3U1g2alNqeHVQTGFYeEtDNlRQanhkdVRmYXpybmlJUnpyQnBSWWVZTWtkVEZhcW4tR2JacGFuVlNJbGM4NUJ2d3AxOEpwN2pQb3hxdkdLdHc?oc=5",
+   "medio": "Diario La Hora",
+   "fecha": "2026-11-23T15:15:00+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Daniel Noboa se pronuncia sobre la llegada de alias Negro Willy a Ecuador y lanza advertencia a cabecillas prófugos",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVExaZVU5SnFydnJiaVp2T0NRS3ItbTZ5SU91alFsMEVmdEZ5VU0yaWtzSjJNazNUQ2tyVWM2VzNYaE9OZWpFSjFmUlJyaXRONGphU0s4QjRrdTJDU0RBY1o5bHIySHFNNXN3ZHZ0SWd0dHVxaHFDbjViY014X255TUlBa3JsZUctWDAzeUlVbGNwMFpLSXpKOHV4QzQ2Ti1JelVzcXUzbVFyOFo5b3ViOUo1bmppVnpFREhfcmpZS3dRVFM10gHKAUFVX3lxTE9CNGM5M3owb1huak1QSWZDemhBSEl1TTdEOHAyRG5DMzdWRGJBLUZtckw0eFAzcmlIMXdteHMzOFVhWlpHZm5kY2VBT0REN0hJQ0ZNQndyS3ZETThBeV9RNUlwLVhnQjdCN1ZTQ25UQjZlZm9tX2VRV3V1VHdiWmF6enhtellFMjJyQ2xBUEFJbGNxeldPSEVJUXpHdm1OTm5QRlRPUEpWYVFnMFFSWm1HTjAtS0E2Qi1lRHZNN1NQdG16TXpqdzEta1E?oc=5",
+   "medio": "Vistazo",
+   "fecha": "2026-11-23T15:00:10+00:00",
+   "imagen": "https://www.vistazo.com/binrepository/600x1002/0c201/600d600/none/12727/XISG/captura-de-pantalla-2026-11-23-a-la-s_2776066_20261123101505.png"
+  },
+  {
+   "titulo": "Ecuador adjudica proyecto vial que fortalecerá la conexión con Perú",
+   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPemM0Nk0zRWhPUWQxQWhFVThtbjc2MUJYNlhGTTZ6enJaU21Xb0ZENmFFZVlnenB6OW8xYXJ0bkdmMWxlV0RTMHFjQVZkZER6MFo0R016SUhFNF93VzFaaTVvZlM4ZmUzOXZUVW9yZ1ZIbXhWNU5RNkphaW40YTFxdVJVanR0NkVxaU9tNjhmNngtTElGb09FU2JB?oc=5",
+   "medio": "Peru Construye",
+   "fecha": "2026-11-23T15:00:00+00:00",
+   "imagen": "https://peruconstruye.net/wp-content/uploads/2026/11/ecuador-infra.jpg"
+  },
+  {
+   "titulo": "Salario básico Ecuador 2027: USD 492, 494, 500 o 502, ¿en cuánto quedará?",
+   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXhtbno0SlROcEtJa2VNMlFPMkJxSW1SVFpYRzlLdVV6czF6Q2NhcVVyY1RGLURCMzd2WENmMGRCNlNGb041OVpXb2h3b0dRVnhkMG1qS2pOSUI0UThxdXpSNFJwYWJGdE81YTNLTGRfQy0tQkFpTXVPSHBOTkNpbG8xTGRXdDFxbFo3VlFscTJhcFdEcGRKSGtTdjRMQzF3aGpfOXRVQzA5UWpVcUE?oc=5",
+   "medio": "El Diario Ecuador",
+   "fecha": "2026-11-23T14:52:27+00:00",
+   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17150F54584940791F12191852434D771513-2000x1125.jpg"
+  },
+  {
+   "titulo": "Daniel Noboa lanza una advertencia tras la llegada de alias ‘Negro Willy’ a Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVRQZndMS1dlWWlZNnVJNmFZY2JtWnl6M05yaTlwWU5IMHlLemxPV2FRT0lCVFZ4ODl5bFkwdFl3ZjN0d085TEZCbmU3M1dJaVJWZzdUeDdNMlliYk9CUlBtMHV6aHlUSXlLNjZPY3ZIOWhyMTBORmp3YVJRWkZMeVBuWEh1RzJUbWdYcEZvSzRIaFpadXRrcnNiOXJOY0xvQXZic0ZHUDlBcm1XM2gxQjc5SnNrdE12N2c?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-11-23T14:50:59+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/daniel-noboa-2026-11-23T095002.086.jpg"
+  },
+  {
+   "titulo": "¿Quién es el cubano detenido en Ecuador por una orden de arresto de Estados Unidos?",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjlZMnVMRHZNVDN5V2U5cEQtX0pUWF9DeTdKbWlBRk5VenZDMEtCTHM5Nlc2YXVrRmF4Zjk0UkZsM19DN2lWT0RxRjlvUEpKLWhWTFdUTHhZRVFUVnVMNG44M2Z0dzE2MzgtMGlNTnpmWnVxT0NWbW1JWkw4RVJQaWk3QjNja240RXF0Mk83X09IVjZTaGJnOFdMMlRGV2IwbFEta2gyYlZfSVQ2d1ljVE1sQnhWdl9QY1ZsV0hQTGxmVGtz?oc=5",
+   "medio": "OnCubaNews",
+   "fecha": "2026-11-23T14:48:46+00:00",
+   "imagen": "https://oncubanews.com/wp-content/uploads/2026/11/cubano-detenido-Ecuador-1140x630.jpeg"
+  },
+  {
+   "titulo": "Inamhi pronostica lluvias fuertes y moderadas en varias ciudades de Ecuador este lunes 23 de noviembre",
+   "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRVJyS2tZdnhlXzdUV3RrYy1TamtBYW8yVGk2UlRKUUhESEU3SVhpUEVucG9iVlE5aFhsVjFwejNiQklQTi04andORHFXUGRKblBEMFd6UzBYcENKczlBVEtoSU9YR29pYkxRXzhNUVI1RGJFMDdzLXZJN2Jkb0dSazF2MFczNkZJUmxfZWlhTlRoZ09CaVFQUFFKeldBVmRJM3lxZVByUW95ZUZySEN3UzliY2tITGtTQmtWOEQwSHdGbFh4TzZYZDRFRkY4SnItYXFYYkZfWHBHclVDT2VpaDB30gHnAUFVX3lxTE9IaDU1ckl5eG1EZXc2R3RSbEVtaVFGT3k4LTBnOVJPYkIzQ2RXb3pVbndPc1VkYnQ0MmZ3XzUtcy0yc2NwUHR0Szdfb1JaY0VaUjRneWNCcWdsRTRkYU9IRDRERXFsNU5IWWI1OEdrcWR6VEJjU2YyZjZUV0d5OVVLSXI3MUUxOFBLVk1rTE9UWENMaFFQT1dDdEFpcEFaZHJ6NU9BRGZOOGtrWWp2bUhTM3E3eWlnN3hnZS1jeUJ2RzN5UmswOVdpUzJpdmEyaF9GSDk4YlhHQTdVUzhfWlkzR2x4QVFNaw?oc=5",
+   "medio": "Vistazo",
+   "fecha": "2026-11-23T14:48:31+00:00",
+   "imagen": "https://www.vistazo.com/binrepository/921x600/0c1/600d600/none/12727/HNFK/clima-ecuador-2776047-2776047_2776047_20261123094605.jpg"
+  },
+  {
+   "titulo": "La maquinaria del narco en los puertos de Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV1VKakNJcW52MWI0UFhhVkMxS05MWTdVazViWDhZNnBHLTlmck9YblVFOGhKa0d0ZVNaam1haGNKOXptU3VvVzNtV0Z2TlpaRWtqeXZrWEhDU0liU2d5SHQ5VE1paWRySmJBT3RXWHdkYkd6T0dRYWx6bldNSVlOVWh4Y2Y0TlJlcmNWelpiR2xRVVYwUGxqMkxoZENqaW9HV1R0d2FYNnA3NjdkY01aVS1GbE5hNkUz0gG-AUFVX3lxTE1qMkY2ZXNUX0w4STIwRnRacjZMdEQ2VnFHVGxlYkVfQzJYenlpM3dPN04wLU9RbzYtaTVBZU03bWVqdkgtWFRvaGMyeG9NcXROLXV0R2pGQ0swSVBscDhGQV9tRUo2cS1zejhOcDlneU1kQmtnRGd2Qmp5SmpCWU9ZZ0p5dEF2WVluUGxMbE96Y1BRRVhMVzVEemRkbmVKM1NrUk9pZFBPeWtPcUZqeUdISUFDc0hySHBSb0w5QXc?oc=5",
+   "medio": "Vistazo",
+   "fecha": "2026-11-23T14:46:34+00:00",
+   "imagen": "https://www.vistazo.com/binrepository/1065x600/233c0/600d600/none/12727/QSMA/imagen-puertos-social_2775937_20261122212422.jpg"
+  },
+  {
+   "titulo": "Detención de ‘Negro Willy’: el mensaje de Daniel Noboa a quienes tienen sus “escondites fuera del país”",
+   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSTd3Sm5TX1JQQUJXSU93UzZBQXF1cDFNVGV0VEwxVktNdlVkbGtyanYycmRtaDNUTDVRQkhjZGdGUXVxR1RZRy1nYlhzejM5SVdLV0ZHWXpDWlJyQzFJZ0NUQVdxcTJSNldnSEhnbG4ya1pScmdodlhpajhyQmFFdlFfNnFyR1VaczhYMzFLNGNmeFl0UGxGWFZKVzBmNUFVZkVwOXBMbzFEaUFtTEFJLTU4Vm1pRGZWNGVKVG90cFFxX0Zad3JPWlBtZnFNTEY2VklGOHM5a2FqY0ZCZXFnUExnX1NhSW5s?oc=5",
+   "medio": "El Telégrafo (por eliminar)",
+   "fecha": "2026-11-23T14:40:32+00:00",
+   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/374848033cc8b0a437f002eaac8b225c_L.webp?t=19e4e6d53cb2"
+  },
+  {
+   "titulo": "¿Se podrá votar si se inunda un recinto electoral en Ecuador? Esto responde el CNE",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ2MtTUhjRkVRbklwb1paWHQtS0daa1hTVkh5UW9waFRzZEVTaGV4YWtNWjFaNEtVS1RZLXZQUTFCOGtqTV9XZnZsX01aSmFNOE1JWTZ6MHJsWTc5UXlSNWlCX1I3LVhlMWRfcGlPZ3NjRHNqeFJzZDNyN3NEb0Q2SEJ5OVJZZ2NpVEF0Q3BOY0Z5MUhDUHROQ2ppa3V4NWx1b2d5enQzRHFlNUllbzlfRmNfUXdQM1VsOHlDTnN0MA?oc=5",
+   "medio": "El Diario Ecuador",
+   "fecha": "2026-11-23T14:36:26+00:00",
+   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17150F54584947751F17181852434D771515-2000x1125.jpg"
+  },
+  {
+   "titulo": "Lluvias generan inundaciones en cuatro provincias de Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdFdmSndtSU11M240THZsQlZ6dUZTQlpITEdmMlFiY05Gb1ZucDZleVRyeURWZVJBLW5Ya0FBMXV4TnBPN1Fya29ETkg2NExoWThIbkt5bnM2dHhqbWxFM29iZzlQNXJRbkEwNjNUTTlfbG9GVE9EVmV3S3hXOWtCdVlpcjlER1UwVTJPbnRZSTI3SWN0WVQwS3VJWldwT1lSZ0tCcm5n?oc=5",
+   "medio": "Últimas Noticias",
+   "fecha": "2026-11-23T14:32:57+00:00",
+   "imagen": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-10.05.04.jpeg"
+  },
+  {
+   "titulo": "Prisión preventiva en Ecuador para líder de la banda los Tiguerones expulsado de España",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT2I2b091Q01IdlBMVzZDVTEyMEtzbnlsLTFlVUs4YWJkMzl1VVNFTUZOR2RtSnJDdzI3Q3JlTHZQaUhOWVcxS2Jpa2VfZVA2VDBrMzBaZkk1SmJLV2daenJiWUVQaVU5VEswTHdxdmN3LUZmY3B0bVJOemZ0Y3RrdmdiZGM3S25FMU9iQkRnNkt3ZUlFLUoxLU5pS0llbU4xX3dYLW8yVTRUM05fRmhQdFZadlgyY0F5bDRlX2FUckw3VHVTWnptcVhzUzlBUTJIaHpQekVIRdIB8gFBVV95cUxQRThweFVtQjRlOWt1djQyVENES2lucU04b1MtTFducC03OENVcGc2QmU2Tkdkd21QMGlmOE4wUXJsRG5YMzFoVFAzMC1yaEh0RWJ5SDhmYkVpeFBpSmJBLXNjNDNMOGhEZjI4bjZBUXVTVjNzQTg4RVRsajhINkZTMWpGeG1jbXdVN0pwUzdxTWVZVXhxNnFGTi1uWWFRMXJmbmd3NWo4UnRlVUhlRFpTcGNkQU11ZnFNUlNqZHJzN0FpOXEybWRMUWRxeGlTa2VHZzAxNFYyQV9mY19ESmJwVG8ycjJfNDV3b3l2dUhPdjczQQ?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-11-23T14:31:00+00:00",
+   "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
+  },
+  {
+   "titulo": "Manos Unidas celebra el 11 de diciembre en Guadalajara una gala para apoyar un proyecto de agua potable en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVVBELVhWd0RXbkJtQmhZWG5pNjl5N2FqdDExNXdva0xDVUVISlBFa3hLMjJzVTZxQUNwbXFISC1uRzF6cEZVVGtIblM5SmM3cWlpVVFnWDdwa2N4eVJiVktYeDlraHFJWGJERTJUaUhTbnlfRDFxV2ZhdkJEa2R4UmhvejZ3X1RnRGZzZWhVSVNNdURsbG1kRnNGUXMwZEhscDhTSFNaaHAyQzBmVGw3SW5iVXVoemZ1WHNsUUNVaUVVX3hvMU02R2M5S1hzencwYnFMMTdUQjY2V3Q3MXBQTy1qb1ROX3UyOGxDZFdFNEItSVZoWDdOS1ByWdIBlgJBVV95cUxNUkU3dXYxRzZRa2dubEVFWktfVHdMV2NsZDM1RkQ1MDRzVlg0YXpULXk4UTVSLS10WnFBb1hqTXJUM05OS0dhMGc1dElYNUluNUoxN3I3bzNlQno5akNCSEpRQnZOZ1dqVm1NNkI3T0VoQldxSkZaLVdMbDFfUGMzajEyU19wT3NkTTFkejlrRWF6ZTlCZGNqMU8xZ0Q5RWdNNnVSUUlwUTM2ZWtaY2ZFTGRzN2w4cEN6ZnNRUmdiTU5Iem5sdm5xdWdlTy1XNFBQM2QzQk9ubi1DU0tBQWZlTmhkRjVaNjNtV1JheUJtaDdwcmRvUXBfUHYtYVFtTTZ5azBnOWE4NHZ6bzZDMEpmNHdIMU8wdw?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-11-23T14:31:00+00:00",
+   "imagen": "https://www.infobae.com/resizer/v2/LRS3GGER4ZBCZCVM6V2YBPUZ3A.jpg?auth=285899c8fa302869bbf906b65ad44d60e0d238a1757ffc80543374110538133a&smart=true&width=1024&height=512&quality=85"
+  },
+  {
+   "titulo": "Alias ‘Negro Willy’ recibe prisión preventiva por reclutamiento de menores en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUthVTk5UUNwUEdFMktuNWVNMTZKdFhDOTdXOTUydlFxT0ZpVk9fbGVCcEFjNFFlNW1XWFpYazF5SnJkUkxxMGVLTXBWQ1FLZkpuMjZfQlhvNWxSanJRWkRGR2VuckxMT25lZHNfX2pwbHBPUWZ5YXU4X0hKamlXRE8yNmVScUdwVlhlTUVTYjdnV1M5VG94OGU0SXVqSkZRUFl6RkZrajM0dWJfRVB3SDI0alVhNFFTbWVodTAxMA?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-11-23T14:29:30+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/Negro-Willy-1.jpg"
+  },
+  {
+   "titulo": "Presunto líder de peligrosa banda criminal Los Tiguerones llega a Ecuador expulsado desde España",
+   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWmNscndsVXZuOGhYY3czUjFtWXV5RnpLaXI2MEVSSVp3bWlrdVNmY2d1a2dGbUY4eUZSdW1fVmg0N05PSU1YMVd0WG9aVk8tdHNaSmN1NERNZ0JkY1g1aGlNMUlIa3FyMlZoX0JtNlBoY0U0a1RqWHl2amtYZzJpS2NLdXU4bnVmYUs5S1V2cElhelUxcUt2cmMwcFZ1SFZCYVMxQUVuS1gzTjZHNnFhTHROZ0hDWkYwdDdSZHBKR2JoZw?oc=5",
+   "medio": "AP News",
+   "fecha": "2026-11-23T14:27:00+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Aguaje y olas de hasta 4,50 metros: estas son las provincias de Ecuador con mayor riesgo",
+   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObXNUdTFuUTVjOE5vanIyTXk0X2pVb1ZVNTV2MFJNR21xNkw4bkhRQVlUa2pmYzUwOVl0NC16UW1HTmkxYVRJTWZzNk1mUzZraWhhM0Q2LXFyZUV3STBCdkJPa2RBbVZSdzlibDB5czlWbDZ1X2FGMFczakx6SDRsVnc5QUpOMkhQYWJCWHhuTUxxRkwyN2xBVS03cEpNbGVSYjBhOUpCQUYzZFZQbjhOdk12VmpZVVpVbTZSeg?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-23T14:26:27+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/23/6b044b1c71045.jpeg"
+  },
+  {
+   "titulo": "Líder de los Tiguerones llega a Ecuador tras ser expulsado de España",
+   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmTWxBV2E5TFJnMm5uVU9WRmRBSUtlNy1OdjB2bGdETnhLSFlmUXZpWkVibWxmV2ZHMHJLcDJJc09XbFZhR0lZYThJMExEVFE?oc=5",
+   "medio": "El Comentario",
+   "fecha": "2026-11-23T14:21:45+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Alias 'Negro Willy', cabecilla de Los Tiguerones llegó a Ecuador tras ser expulsado de España",
+   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaFBMRkdheFpfU0Q0TVdpNjA5SGF1ZFl2SlNoQjJNUkk5NGxVR2N2ZzJqaHVmLVUxNGRQOF9kQTFGYkczOGYzUTl6QTlacTdaZUZxS1M0SkFIbkZLUVBtaDIwUmwxaUhXcEMxbjB6cXJVWEgzNlZPZW1FQl82bENlNWNjZGVoMWgwcDhreXNuRjUyb2o5aHF1aUJyUXYtQ1lXWm4tVkg0MjN5NHJXOC03ejJ0ZGRiNVhzbG9oMUZkaTRjRkVUZFJVd3g5V0hfSFQ0ZU1aSDY4RWJCNS1JN3c?oc=5",
+   "medio": "Diario La Hora",
+   "fecha": "2026-11-23T14:09:34+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Alias ‘Negro Willy’ fue capturado en España y trasladado a Guayaquil junto al ministro John Reimberg",
+   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcVVneC0xZ3NjYzM2NVVtUWZSTUpTckg4eVh3TGVzRVFUOGo1V1ZGaEdXMVNSMFpaLWpid29XQnlld2ZLc0Z1czZsTWpFSnM1dHhBVnpzZ3RaMUtNUFJiSTgwTEIyS0Z4RUl6M2RFbEpkUFI5M1FzTVN1OXhBSV9uTDIwSEtYdjRPY0VWb1c5d1RmZmVnR1NSRWpESExQalRnazZ5aDFaQk9XTlhILVVhRktjR3BwbC1sOFczVWlRRmF5LXJvZ2h2MFdaRUVvb2V6b2owQlZCSHpqbVlVRUxYMFpxMzUzaE1C?oc=5",
+   "medio": "El Telégrafo (por eliminar)",
+   "fecha": "2026-11-23T14:00:25+00:00",
+   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/0ff5f65b8dff986e325b2604fca3bd58_L.webp?t=1b267e766ebb"
+  },
+  {
+   "titulo": "ECUADOR: ACORBANEC elige nueva directiva para 2026-2028",
+   "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRHBVNE5CWm5iXzRodjJlQkowbjdSa1JMSmZxbzU1MUtxNEFkbVFzakUxR0NQTERjQTNiMXR2SmZWaXZfcHliZDQ1TGVaWEszOWxJUmlDajFaMlU1SHppbU01Rjg2c2I1QUhnd1RWUUZCWkdsRWpEN2xyWGluQl9GbnNQN2JKOVlOM21hTllCampvTERIVmc?oc=5",
+   "medio": "El Productor (Ecuador)",
+   "fecha": "2026-11-23T14:00:00+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Ecuador detiene a alias Sayayín, líder de Los Lobos señalado como presunto asesino en serie",
+   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd1UtMzRoeElPLXdFaW4zQm9PR1VVU3Z3eGszb2cteGRIZTVTMXNybTY1RjY4STRGQ2twWjk1eDR1emw0NlMzd0JjNUZhdEJ4cVVURVhvcDJTcW56am5KWl9OQUpjMzdCLWRCTXZOOFMzRGVUS2RFUXIzSmVSYWVlM2tlLXFlemhVTGFSNnVMM0xlNmNzTEUxdHo0RFY4ZmY5NEVDOXF0cGpyNzhRTUlpdTZ5MjhjMlNQTWdEb1pNUm5MYW5CYno5QUJnNnQ4MGNtVFhXQVpUei1Kdw?oc=5",
+   "medio": "Canal 9 Bío Bío Televisión",
+   "fecha": "2026-11-23T13:45:13+00:00",
+   "imagen": "https://media.canal9.cl/__ipx/f_webp&w_768/2026/11/ecuador-captura-a-alias-sayayin-un-cabecilla-de-los-lobos-y-senalado-como-presun.jpg"
+  },
+  {
+   "titulo": "Clima en Ecuador: así serán las lluvias este lunes 23 de noviembre",
+   "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOUsyYUJ3bUxDZEZyaGVZV0twSW42MDNzV05Gb1dIR05JOTluVWlHS3NIWXUwTGlobW41bzNwRmJBYmFoUDBaMnpVQ2RhZTJQSHlSSU5vWlRVTEZfVGstYlRuTWxVclFNZE9sa25wazFicm9wejB6dDJBcGt5bjVRQ0l2VlRpbUJNNXJ6VjB1OThxNEVzb2RPR1ZWczJKMUtPcFFZUVphb0dxa3B5S0hnQkw3RU16ekp3M2dJag?oc=5",
+   "medio": "El Telégrafo (por eliminar)",
+   "fecha": "2026-11-23T13:35:24+00:00",
+   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/329b05000d89073f71fc1b4a861e0eb5_L.webp?t=3efae1540f6d"
+  },
+  {
+   "titulo": "Así operará la incautación de bienes con la ley antimafias que ya está vigente en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3ZXU3Q0eXVTQzdhUlBPUWxwdGZhWXl6M0FSaG8yVkdDVVRveTBQMU1DR2JIX2xWRlRGcERxSWNYQjFvMkgxRnRIRW0zaGYwU05lb2dDNENCdmhuVHdiYUJSOXdtb29JckRYb3NMRXp1S1d6RWRlQUVNMkxwLS1jMzNIdzhpTVdYY3lyTFViOVpwNE01emJ3VTc1c2tyNUN6Z0J1d0RSa9IBuwFBVV95cUxNWS1FS1VXbGZzcVpZVlUwUHdhc2NESm5SVHp4R3VfN1ZJdmcwUElRM3QtRTY4b1E3bDBXcVRQLVV3OWRtdG85LUZNTjZiSGpfaVFZc3dVejk0TVh2dzRWaHR3UTFRRWdQRnlVZl9ja1labVZyUnF3RWdxR1FXcTlPN1lLY1BoeUJxMmFCRVV4ckRubWhSLXdGMjZTQjI0a0FZUm5HRFBvT0dGSmpkMGk4R1ZtVXJmU1hTbEhr?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-23T13:30:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/EAL45K2GNND3ROOKUWYUQGTDD4.JPG?auth=2ed76bf129d3991638048f154474ef57e9a3491355e73008f8d409d2fac6768b&width=1005&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Capturan en Ecuador a alias ‘Jolín’, cabecilla de la organización criminal ‘La Nueva Jauría’",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUFmVk5icG1GTVJ1dGxtNVl3UHluQVNxTXhQUWVzOXh4d1ptZkViUjFDR2haWmhQR1YyVVR4MWpyeE0yV0ZkVVJsdU1qVDdRdjdLcmJfb3lCT1Y4dDhUYjJaVmVSUnprVnZvcmhaR25IYU1ma3Q0YjZFTWl1WEJSY0lDbjVjQi1qX0o0RWVCcHVxblJFMXJ1ZG5fSnR0N3pLVXVkZUNwb2xLb1pkZDlBd1ZmUGlNUXBPTHpLSFJtbWE?oc=5",
+   "medio": "DefOnline",
+   "fecha": "2026-11-23T13:23:09+00:00",
+   "imagen": "https://defonline.com.ar/wp-content/uploads/2026/11/detencion-jolin-bazan-1024x576.png"
+  },
+  {
+   "titulo": "28 cuerpos hídricos desbordados y 13 con aumento de nivel en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnZOSkFrb2FxYnhOMl9mTnM4eno5SmdfaHVOU3JJOGlsZ2ZsYUwwM3hiQ2dIZnRJakVxOGZPY0owaXU3N3Z5VTU5bEdCZ1BPLXZzU2ZhSTlfV0ZPUUN2UW9pWVBkY1AyRXJ1NEk1LW5IZlRYSjh2Qk5jbnVseVByZEdKWFVKM1I5bDBaQlJBbFAzMWQzbXV2ODRsN1BzT2NwLVZ5NDlWUdIBrAFBVV95cUxOS3BHam1NRm41cXhodXJteFZ3THp6VXFvMl9KWExURWlEZVd1dXktOWdnaW96TEo2X2VNRklrQWxIRDVIU2FrQ0FxU2pNTzFZSllDSGtBdVRwNXBFLUpad1lHd2RqalBsLUttVDNyZTVhSmFfSnZwTGFJWmp2SWtjNHQ1RXB6dkZDNEpEajNTVXZUek10Rk05OTJnSlJWSUU5NmVzM1RJT0ZaU1Aw?oc=5",
+   "medio": "FM Mundo",
+   "fecha": "2026-11-23T13:15:00+00:00",
+   "imagen": "https://statics.fmmundo.com/2026/11/6b043cbc4f157.jpg"
+  },
+  {
+   "titulo": "AMÉRICA/ECUADOR - Las inundaciones afectan a más de 106 mil personas; los obispos expresan su cercanía a la población",
+   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQajRSZlFEMW82dXloTTQ4YlprMkVSUGQ3Z25DTGJiQ1A3bnh4cmx0dVVob1dsSTR4LUZVS0pZc1F1cFNjRW1mQVRiSER1WEV6MnpkUllWMWUtbU5PTElBSnM4MjJHNVA2RVVaXzNEM3FBWXB3YzJPYjMtaENvTjNndWRIdUo2VzFCUTZDR0JSZDNkWTBBRFpZak9XV0RTdnVaNGpnVXN6QmhHS2ROR1gySE5zUHVDS2FoTFNKRGxKZkVRZ3ZrT1lQTDg5Z2U1S0FRTGduZEwza3NJdl9SNFhDby00NTI?oc=5",
+   "medio": "Agenzia Fides",
+   "fecha": "2026-11-23T13:06:23+00:00",
+   "imagen": "https://www.fides.org/app/webroot/files/appendeds/230/primopiano_23037.JPG"
+  },
+  {
+   "titulo": "¿Por qué era buscado alias 'Negro Willy'? Estos son los delitos por los que es investigado en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ1ZJTFdUWUlvUm1iMnF5TUhBUXpZVFlITlVNTU44Qkh4bzdael9HNHRJRVNtMVNCQ19zNXdZelI1blFYdlhtUmJwQWZ2S3M4Y1M0NWZKeFRGa0txdG9XNEtndTJDaFRmQ1c3NXBRYlZobW40ZFYxWGRaeWhTaHN4MGluSElDS2t3OU9yeXpEVjBaOExmVm14akdnUjlLcS1TMzRpblRuZUxKejhGZW5rR3NpTzR1NWk3YWd5RldidWw?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-23T13:03:18+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/05/16/6a08905bacadb.jpeg"
+  },
+  {
+   "titulo": "Ecuador anuncia un aeropuerto internacional en Taura, Guayas",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0FWWFZHMl9QekR5cHVQNklKcWdyZmtoX0o4dExzOUpTYko1LWhGcVdpbjNpMEZQUEZNNEVNYVEtektITHpvWkFNOHpqbWNMbXprdGItX1VlNmtscTdQY0owSzlLREdIUUJSaHdqTEQtNkJqamRkZWllSG5zQjZ5ejQxWHRSMXlJcUo4amsxRGJKTjFMTE5ZeTZRSEtSUUxkcHpybm5zc1NNLVRRMGg3UHV5Q29jRVlyRllMNEVITWpNWUE?oc=5",
+   "medio": "Airline92",
+   "fecha": "2026-11-23T12:44:00+00:00",
+   "imagen": "https://www.airline92.com/adjuntos/fbimage_34764_20261123.webp"
+  },
+  {
+   "titulo": "Fenómeno de El Niño: Ecuador supera los 104.000 afectados por las inundaciones",
+   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjJZYnV3YlkybzFQX3NEeU1RSnlPcUJYUUdsSDRZR1dmNjZZTkV0TDdQdEdFcGp2ZFFnR3E1QzdJZzRjUWdVWnQtaTFfMXNTSmxMRGQ1SUp3dFpEQ2RXaGFuN0xta2JqVVl4N3kxRTFQcTBOQ180SHM1bWNtXzQ0Z0VqbS05eFB3NU1iNkk2SEFRU1JXcG9EdU5VNllVTHMwLS1nZEcxMTUxQ1F3MTZ4bWt3MzhlNW9q?oc=5",
+   "medio": "ElOriente.com",
+   "fecha": "2026-11-23T12:36:45+00:00",
+   "imagen": "https://img.eloriente.com/pics/1280x960/4125331a6b005ee426a485cd2a527f85c092a307.jpg"
+  },
+  {
+   "titulo": "Alias Negro Willy llegó la madrugada de este lunes a Ecuador tras ser expulsado de España",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWRYaW1BRmdfSjFUT3ZSaldUSjhQUjVWdFJZbHlnMEgtZjdTcGFuS0JqaGJzX3VMQVRnWjluZnZlb1dnbUdrdDhtQTFDVERQeExfY19CZEdUYWhUYzItSmVmLTQtemxVcHlBX3lXY1A5LThZV3N2OFFoc3RGakV4b1IzUG1BQ1RTWkZTaDEtUzBFa1hpdXkwU3YyV2VLSko2d285NmktczBpX1gtOGpMWEw2b2RXTlM5X3FKWTNRZ3pBVWFrTHdDdmZTVVdqZw?oc=5",
+   "medio": "El Diario Ecuador",
+   "fecha": "2026-11-23T12:31:10+00:00",
+   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17150F54564946761F161E1852434D771516-2000x1125.jpg"
+  },
+  {
+   "titulo": "Alias ‘Negro Willy’, líder de Los Tiguerones, llegó a Ecuador tras ser expulsado de España",
+   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemVZOUdmSklROGRjZUFocXpuc1hmR0xocjZsY2pyUkJ0ZXJjV202a2I5YlN5ZnNEcWtuY1VRVVBORm5TdkZFMW9kVEtObmFFd1FEMnAwQzc1anQ0MjFHLVRrb2Y1bDBJTEVoeDZWR1M4emVreDNNalJXbTh3NFRKRGRJb2w4Q25JSnBxM0VrTjRWek8wU2NJQ3dZWVhIdnBhWmdjTkQxWHNVRlU2NGNOaDdlbUxpUmRrNkE?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-11-23T12:25:14+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/Negro-Willy.jpg"
+  },
+  {
+   "titulo": "España expulsa al cabecilla de Los Tiguerones que tenía amenazado al presidente de Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSW5WTlBVRm1oOFZMd3Jrclo3bHRGWXBvYjFvblhJXzl3VHRhSEhIb0NHU2s0WWNWeEszR2h4YVFQTmprQ0RzSWRYUGF2RTRhTWVIaFdFRUV3X1VSRHZtbGhkZ01MTmttd0dyVTV5dGFHbmxOenBIZUpDVWZhZFQ2QVlyOHBzNkFvVjVFQWszQ0NXRjBCRzlsb2hDZ3RvZ3lBNFVMcVQ2dU5oaVh1SGZRTjZzWm5GYWk3Ti1IVk9yRnhoZ0NmelVzRzgxa3LSAeABQVVfeXFMTWk3VW5zQmhmSmFhV08yMEFtaWFSS0Fka2Y0R1VncThUcS1RZk9IbW1OSVUzRVFWUVVOenlEMnJoNV80SjExV0RjUjZId2pvWWZhUWctd2J5TjdYdWd4MTlqdDZ3TWluUzB3NzhPQVgtY1pRbEJoMnJVdjZ0NWs3ZHBSVHZ2RGI5MlFJWWljWEVnaEpJYkZWZTdIckt2c2dBa3k1TUloNzZJOVRENmZaVzBYR2pBb0ptbUd0RGFiZlhuQVI5Tk1VbDJpQUJsU2hQOFNFakRpUld1QjZVQnFtOU4?oc=5",
+   "medio": "EL PAÍS",
+   "fecha": "2026-11-23T12:09:35+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Fuerzas Armadas de Ecuador capturan a alias «Sayayín», cabecilla de Los Lobos y presunto asesino en serie",
+   "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFNERTBXbTRpUXJHb2VzcFQzZktyYjJTdnRZUzd5RHZsaFB6bk1SQkl0Y0xKM2l6LW9Uay1zRFBHRFpSbnlPTjl2SmxQblJ3RnhicXJaV0luWWE4Sy1MRjBnLXFjU05veW01SlY1OHhTWV90b2Ytdk9lTWkyYklqTm5mTnRGVWxfTlVHSVdLYlotN0JWR2Rka29hTUVRcHhxbm1uWktmNWREUU9DTUl2eE5UeTA2QXZmZnQwQktaUDVLMHc?oc=5",
+   "medio": "laconexion.cl",
+   "fecha": "2026-11-23T12:09:14+00:00",
+   "imagen": "https://laconexion.cl/wp-content/uploads/2026/11/h_LbUaa-e1795435439983.webp"
+  },
+  {
+   "titulo": "El líder de la banda de los Tiguerones llega a Ecuador tras ser expulsado de España",
+   "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT3JZNUkxRGU4NklFOEVfWlN1Nk9ZVF9BS0F0YjFlUXQ2eDFTOE5DOUdiaDJfZW4tZndDeUxHLXZlWG9MYW1qZHVVNUVfLWxib1BmVnpfS2Y0OE54aThlNHVyQ3BxRXctTUI4TkVWNnBxLURPeTBHNGx0M3AxclUzalJ6dUcySVk?oc=5",
+   "medio": "EFE - Agencia de noticias",
+   "fecha": "2026-11-23T11:58:47+00:00",
+   "imagen": "https://efe.com/wp-content/uploads/2026/11/tiguerones.webp"
+  },
+  {
+   "titulo": "Alias “Comandante Willy”, presunto cabecilla de Los Tiguerones, llegó a Ecuador tras ser expulsado de España",
+   "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYV9iX29LNFFvLVpqeEVON05MQ3lUV2hJQ0Z0WlBBcEs4Mi1OcHdJXzdBQ01TVjVnc2h0YXdtTk44RjRqTGdTRlZJbXpkSnQtcGNpQ3lTV0FyMng1cTZiRlBoSmdpQ2NVVGt1YUplTzB3bUdCVFRpRXdDUkY0MnRudzQwbGNQUm5uNHZERWxXODdxRzhwQmlheFJCZHUybFlPSGJUN2kxSDlvNExvNktVUHBFU2l6bTQtMldRVjBtODVvNm1RTWZjTjFaT1dMb0l1LUcyNVpBVmJtbk1rWjRWbWp3?oc=5",
+   "medio": "La República EC",
+   "fecha": "2026-11-23T11:57:24+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Ecuador captura a alias Sayayín, un cabecilla de Los Lobos y señalado como presunto “asesino en serie”",
+   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT0l1eDBTQ182cDd5dzBIazVPSllZeWp3d2tuUlY1Z3lJRFBlc19ZanU4OWhJLWlLTUhmMS0tMEtuVzBwVW1KMnBpcjVKNE96THBMb1pLY3RhOUc3dVA2aUs2ZUNXNmJTV2M4LUwwUmRXRHdkYlNCUm41ODZDbGVXREVCSlE4QjBQRFQzY2g5Q0E1akRNbmIteDZ3M09QZXpseGlpcnJiRjNrXy0xRl93WElpQ19uNk9RWmppN015cmR4LWs4ZWhBcmszSy15YWxLMXQxQXJ1UF9qdw?oc=5",
+   "medio": "Atacama Noticias",
+   "fecha": "2026-11-23T11:45:50+00:00",
+   "imagen": "https://www.atacamanoticias.cl/wp-content/uploads/2026/11/ecuador-captura-a-alias-sayayin-un-cabecilla-de-los-lobos-y-senalado-como-presun.jpg"
+  },
+  {
+   "titulo": "Lluvias fuertes persisten en cuatro provincias de Ecuador este lunes 23 de noviembre",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONHF2VDFjNV9pdGx3X0hfV2RIdkhiMG1nMnpnWHkyRkxPcEFIdkdSM3ZOUC0yMlAxaDBSUTg5MUhXNjNibUZWazZIamFPZ2RjNlRSTXV1QWlXNkVnVHdzTmE2Yk9sWVJLZTJxMXJQRHhpN25nWUFMWXpna3lOMEEyQVh6X2pkd09Td2otUmh6eEVEVjlYa2czdUlMOGw3ZFNueVpSMmhvZ3F2M0owNjhpNkFJY3U4aU1vOGVwcDllRkRMQWtRbFhOUlNhQ3FBRFdKS3c?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-23T11:33:56+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/23/6b04241cb15db.jpeg"
+  },
+  {
+   "titulo": "Placas “legales”, cámaras y funcionariosasesinados: cómo el crimen organizadose tomó las agencias de tránsito en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdTJnQ2E0UWtDZ0lBY2lGQ1R4aXhqZG9Tb0puQlA3VklHRFFMYVRka3Brbk53YlpMcXBJYkhXVXg2cnJFcHFLWGRLMTItcnJqNXYwdkJoN0NrbDJETGx0SEtFVE5pUlktN180Z1FNcWRWR3JiN1lKZmloV2ZGbktwZXpuVTQ5VEZ2M1NzMExSVGVxNjVuTFRRNlNXM1BCa21qc0l3TWxSZnRSaU5ULVdkajQ1STltRXdab2w0OUU5QzNFRmpTdzczT0ktTE1rRC03d3VRVUhrVi1UdVJUQkdnRVItR0jSAeoBQVVfeXFMUDdRS2lYMjdfWmZ2andrRzJpRzhmcDdJN2VkNnhhWmNRZV9EcnZTeFZncjZSei1Gd0ZSZXgzRW0xMEwyTHY1UTFNQVFuQVVqUzZuejEwME0zVHR5RVVUcXlzR3R3elo3TFE4QUN4RnV4N1I4NHFRbXpackVNdTNsU3Q1RWJrOHlsa0dKdU1mU25SMzFNaUw4U2VLQVBDbkdUZG5YRmtIOGlHTk5SZ2NjSXd4SXA3RjNzNGdoejVsM0M1WHJJcDIzb2lpVkR2LU1lY1N1UjNnUHpxWTRIRkxOeWw1bTJ5Nk9CZUVn?oc=5",
+   "medio": "Vistazo",
+   "fecha": "2026-11-23T11:25:54+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Alias 'Negro Willy' llegó a Ecuador tras ser expulsado de España",
+   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUxEdk1NT1hIRWkxR1lkc2FZR2c0ejJCRDhLbFZPMjdkczVaTTlnRnVZZDBGZ0hGWGVpM0hVT25lMm5xZk56S3N5cTlkRE0tSHJZQnFiRWYtbDlNWU1iUVY4U21ISV9kVmlvVTN5RWV0MHhCc3c0a25GOHNUSUI5M3lIZkl3S1daVElBSUw0aUMwaXFMUUZpUU1Uc0RDMzhKc3Ayakg4S19SWEFmRGgyY1JhbEt2Zw?oc=5",
+   "medio": "Teleamazonas",
+   "fecha": "2026-11-23T11:22:44+00:00",
+   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2026/11/23/6b042150ef0fb.jpeg"
+  },
+  {
+   "titulo": "Elecciones en Ecuador: qué prevé el CNE si se inunda un recinto electoral",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZkVPclB1ZGJwMl9PRmpiWmp5c3pKUVVhd20yRGJuVS1mSTVnOUEweXNPSmZJOGVJZHdsY01oMEJ1ZS05Z2s0cFp1a3pvaGpaMXc4eEVINXphY1pCbmFiSjZjNHhBNmk0ZEJIS2Zpd1JrTEwwbEtBLUFJU0NjQWxuSnhGTUoxWU1pbUx6NWo0ZTZPOXd3VTIwdDdVVGVIRTRiWjRTYkVidG00UXR5NkZPTtIBtgFBVV95cUxPYkRmc2h5amZPM1I5MGpiY2VUdVM4LVhmZUM0VlJnLUd6U3BtWTFQTXVqazM0ZExKSllKYlh4MnpTVHdDcmpBLW9RcW5qbjVRVnRRLWNtUWtiNmVHdV9TVnRNWEc2azZMNjFic1JDejlYQVpFOEVXcGVFNG1SQkk1dHJKT2VHcE9pb211Sm5BTjZUUkFnLURCRnYwMHhOMkFaYkMwY0FiamdzYnZ4NHRxLW9HUGpOQQ?oc=5",
+   "medio": "Ecuavisa",
+   "fecha": "2026-11-23T11:15:45+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Un futbolista en Ecuador podría disputar hasta 85 partidos en 2027, ¿cómo afectaría esto a la salud del jugador?",
+   "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2dUVmZTVG1pYUlkdGhkc0hpY2Z4elg4RnRtRjBSXzdWemk3dWRuOHN4U1FCcW9RVUQtWVk1R2ZfOW94S3ZnY195cEtnQkhkbWVEcFg3VEdqT0VremdSSDlBbFMzSDZEMjFzZ3RBTFhLTTVFTEJOLVFRcUhyTWx1a1lfMkczNVZvMGNlSXEtSFVWUjQzNEN1Nl9XdmhxVWdhMGZJ?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-23T10:55:00+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/files/fp/uploads/2026/11/19/6aff4fb92017b.r_d.690-371-9310.png"
+  },
+  {
+   "titulo": "El aumento de empleos temporales en Estados Unidos en época navideña impulsa el envío de remesas hacia Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS1dmV3o3ZVRZdDZJb0t0cHpKa1diNGdQODVxZC1IREo1MkZURHNibW04dFR6cUdZMnc1ODhpUktCd09Rejg2am9nLVZPWmcwOTV6dmVOYkR1anpPUUU0b1BUc2RLeVJUM3RiWldQMS1CMDhZSnVqcExpSnRTemdzQllMVzdoMFFNTnNGWVlqQS1VcVpnZGZDRkNXbWc4UXdfb2daMDQwQjJsVHZQa3BPRUZMQ1VDbW1MV2gzek5DRGdiVUp6?oc=5",
+   "medio": "Primicias",
+   "fecha": "2026-11-23T10:50:00+00:00",
+   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/uploads/2026/11/19/6aff244a16ad0.jpeg"
+  },
+  {
+   "titulo": "Fuertes lluvias dejan 221 evacuados en y severos daños viales en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcXlNY3JLV0JmUk1GRDFMXzV0eXNoaUNGRlV2aXNoc2NBUEtRXy1LRTVsTUk5RnAyMEpaX0xSSGdndW5udk12MGJBZS1NZEhyak5sek9iR2E4SXA3U2ExZElKdC1fZWZRRmZhWnplV0xZN21lNHMxa0ozTVY5Q3ZVQWJsekxsdWM0UHJIUlFVME5BYWNuNmE0djNGY214RTFj?oc=5",
+   "medio": "teleSUR",
+   "fecha": "2026-11-23T10:46:05+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Solo 16 empresas solicitan licencia en Ecuador tras vencer el Decreto 422",
+   "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRkl5RGljbHlwV2Nocmo3MXppM20zdWwtQ0hNSDNDa1VCQ3QtT1RkUXV2alk3YmU4UGNoamltc0pLbXI0R3V4czN4TnR6X0VTdENyVkNCRWdxS09WckJnRFN4bGFvbjl3SS1nRmFJQ3RJdEhYS1VaQ3lGdHhNM3kyWmVR?oc=5",
+   "medio": "GI Español",
+   "fecha": "2026-11-23T10:17:54+00:00",
+   "imagen": "https://www.gamingintelligence.com/es/wp-content/uploads/sites/4/2023/01/ecuador.png"
+  },
+  {
+   "titulo": "Alias ‘Negro Willy’, cabecilla de Los Tiguerones, fue expulsado de España y permanecerá en El Encuentro",
+   "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWnE0NW43YmJpaDRZSjc1OE9KdEYxbzRITjhnY3lGQnVnQmswczhqcFRYaWFzS0hFZk80TW1aNGs5UjBWMlMxLVg4ak51aW5tRW5HbzhCU2FwZzAxRWhHWE9PWFBMTEhnZ1pRSmF4a0wyLU1wQ2hhSDZGSEFsVnExcG9oQ2tkZEdPLUtZV3VQLUhPQWZkVjZqRzdRQlRhRnZweFhYZ3ZjclNaaWZoRW50TDBxeVNGMXdPaHNLNHVhTWlLSWtjTVB2RG9tTURFNy14Smp2U0YtdWFzZTFLUUxVVkt5aXJpQdIB-gFBVV95cUxPYUNlaTFnREtTczhIQ0k3eXBnanBZUmRIdVdlOEpSMnh1bGRhLVc4U094Wjgwek9wSFUyTmNoVEpXRXZSTng5S1l0M2xmcWlXdmtCUVNtOEd4aUx1WjRra2w1LTlZUUowUW10dm9KWUZmZWJyM2ZTSnUzREVXWVZCOWpsS1cyaUxxb091dFFBdklZR2JBY3RUbUlOczk3Qmo4YjBNZDBEZHQ4aFliSl9tQV9nMFRlNlhMd2F0T3YxQnQxSEdpVEJsZFdJOHR6U3BZSXMzamZTQWxtQkYxZXY3Zno0YTNBbFpKVmF6LWwtQzRFOFVfTlVGVU53?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-23T09:50:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/SJCVQPRHIJCVHGW6ZID54VWE4Y.jpeg?auth=4ea633c535c50531a6d84c3436e42e914c5bc2c598dc8e9da29a70218ab47301&width=1191&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Así cayó el presunto cabecilla de La Nueva Jauría en un resort de Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuM0hXUkdCNzBBRkRGUDA2cUJWYU8zRGlKLUQ3QjZVX2FSS19yUGktZ1JiVXZGSFkzZDZUaS16aDAyZ0NKSUd6cmVzSExnTF8tMjB2clpjMDFLNTNaSGsxN1liakJ3TVN4dGpqVmNvVVR6NnJFTlE?oc=5",
+   "medio": "ATV.pe",
+   "fecha": "2026-11-23T09:40:05+00:00",
+   "imagen": "https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2026/11/caida-cabecilla-nueva-jauria-scaled.jpg"
+  },
+  {
+   "titulo": "Localizan con vida a mexicano desaparecido en el Cayambe, tercer volcán más alto de Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQUhNcGY3WTY3UHV3WmhtQUhxY3RXV1cxbzhwMDNtZmwzREJMUS1CYURpbUF1dzZ0OTFFOVRTVjRGYV9sU3RlWXJMR2J0Z3REWGh3WU1HU25VVkxoampHb002MXBRYzFxcE9rZlVxUTk3enRldGh4X3M0VTJhdGpWaUlyVzZjOWotdGo2MWpwb1EzZm5BVXNUaGludFVaeTdpbzVpekgtcVAtcFNnaWI2WGVSUGg4b010eEl0XzdoaEJONDNkcGZpdVRuU0xuY3A1NkZlZWs5SQ?oc=5",
+   "medio": "El Financiero",
+   "fecha": "2026-11-23T07:04:12+00:00",
+   "imagen": "https://www.elfinanciero.com.mx/resizer/v2/MZ4452YMJFGB5LISBLCITRHICI.jpeg?smart=true&auth=df7041175cfd32ea99a54a99b192bea62a760b3ed3e4c3980bf5aa6409f5025d&width=1200&height=630"
+  },
+  {
+   "titulo": "Falls in Ecuador alias Sayayín, alleged leader and “serial killer” of the criminal gang Los Lobos",
+   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFZVR1cxRVJrQm9hVmFBS2p2T3gyMDVVVGhuRU9HanNlZTczWTNvTjVBRXF3WVZZQmlRMlR6S0l1N1RlX0hnOGY4SkJLQmo3bnlMQms2QUlUaWE3eWx4bWVfN1JtR0d0ZUdZWmh3NmV4SjlRakpYR3VhT0xEOVlNaG10SHdyTFNzOXNmQ0I4VVU0MThUbmZfWUFjMG5XMFFtQXdhaUVJSHZEd2pFTTVpWGkzb2pRTUtPV2RtMEczQUV1LVdlbmQ1ZHdlR0dZal93ZmM00gHYAUFVX3lxTE5Dd01JNVI5Y3J5M0oxeGU4M2MtRjJsSXFBTmV4T2ZTcEh0aXNmOWU5LTc2NDNNTnFWTW5vX0xuTFJUX1hPeXk2eWxrcU92c0ZNRVh2Zl9SclRhM1BVRnA1UTByVjNqQjhHNW9ROVBBaDgyYktiTDJBNFNsNWZ1Zml5Zm5GbThFZEl1eUI4T1Jwb3YwaDJYSnliUE5tajJnVU9KTkJDSi1STXlhRUU1bUtwZ2RkOVl3dHlxX0VrdWdnMDI1ZFBfdm9DU1lnQ2R0bW15VkYyS200ZA?oc=5",
+   "medio": "Demócrata",
+   "fecha": "2026-11-23T06:44:25+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Detenido en Ecuador alias 'Sayayin', presunto cabecilla y \"asesino en serie\" de la banda criminal 'Los Lobos'",
+   "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQlR6TC1XaWNRanJJR0lFYzF0UHFscXktY2t1YjhCMHZJdzU1elUxYnRiaHdZLW1CQU9FMDk3N05hLU8teWZQcXFMbmZ5c01YaEtqYnF0UWRpR254aE5jOWd0cmtGMXJITW1pM3YteGMyUjhDNDBkM1UzQmxObVRlSWpDTEgzQ0NxVGl6TEMzaUNqQUVvcGZuUlhtcXlVRmZfbWxCOWFOREYwQmpVWFh2Z2FmZzN4WUxkWHRHTHFqdklnUG50THlTTWF3T29VQThSXzBxd1B4RUlCVHNhZ3NESFkycllqWHVR?oc=5",
+   "medio": "Europa Press",
+   "fecha": "2026-11-23T06:43:32+00:00",
+   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261123074332_1200.jpg"
+  },
+  {
+   "titulo": "Detenido en Ecuador alias 'Sayayin', presunto cabecilla y «asesino en serie» de la banda criminal 'Los Lobos'",
+   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2xJYnhKUEdOYW9ZOWQ1aDJxZWxDSngwZlFFYUxVV19OMU9WMGZ3UUxnbWQtLTI0NE1EVzRjYUdlODUyblhuTDY5dk5OaGdScXVPdjFzV3dkQzc4Mm9GeU5VNlA3eVg5dnpKQTRYVVFKS2JMUUJ3ZktoQ0FOSDJCZllhWGlvSURGTGJuSmpoXzQtVk56b09FWnRlYllOeGpCZmdwOW42eFJEaWVwaU1pSE9Lb1Q3bjdlZ0RpS1Jn?oc=5",
+   "medio": "https://tuperiodico.soy/",
+   "fecha": "2026-11-23T06:43:32+00:00",
+   "imagen": "https://media.tuperiodico.soy/2026/11/01M83KB80D61SSCQ6D7EE9X3TK.jpg"
+  },
+  {
+   "titulo": "Recta final de campaña para elecciones seccionales en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTZQb3FVZTRyODlPQ2psS3RJX19xcTlUY19lTEFpT2hWQjIzWFBxN1BVR0MzZElobVNVbV95ZjFYUkE2eVBPVHZDMUJuaDhJU1Z4U2IxOFZ1b2ZuQ3IybFJ0X1p3TVFsZWVDci1QbFNwVU9IZi05REN1SkZncnl6bG0xQkZCN19zbTBJRTVYNnZTZHd5QzE2ek5oVTJpdlhtczlWSQ?oc=5",
+   "medio": "Prensa Latina",
+   "fecha": "2026-11-23T06:27:00+00:00",
+   "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/08/Ecuador-elecciones-2023-662c7e5e03917-1-2-1.jpg"
+  },
+  {
+   "titulo": "Minería ilegal en Ecuador mueve US$ 1.000 millones al año",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRWZvNzg5SjVHUkZnVUxwSWxmTWNVVzRUY0QyLVBwdzQxai1aTlZ5bkhTYjFna3JNckxjLWM5S1J6d29IVXBOVUdyZ1RxX2ttOHU1WlZITmYxRzR4MjF5OUJrZkY4RzkyQXN6bjNCcjFIeUJkRjRSUXRUb2IxOEdBbENHcENKUXp2ajkwcjZXZ2ZPMTlvNDVBWlpzNW5LNTA?oc=5",
+   "medio": "Rumbo Minero",
+   "fecha": "2026-11-23T05:42:00+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Seguridad, movilidad y servicios destacan en debate previo a elecciones locales en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSEI0YXlpcWtDNUI5Mi1PQVhvYy1kaDEteWxwVzJwNi1UbnNYb3BmR3hGalprNHpLb3R1OUYyQTAyUXRncm4zUnM3dDFzTVR6NVQ3RlAzdVRhQ1dPbElHdWJhUGY2VWpBZUdMTDdCWVNhOVVLdE5lOWFjbDVVV1l1S2E0NHNTZmVUcVdFMnZXWEtmLTVsbGJtN3ZpUkltdklYUlpyck9PS2dDbEVycnptbFZVN01CSnlRZmtLcHdPOVFpVGxLTlNvQzIxaWV2V1ZwZDBVbWJ0anBHUdIB9AFBVV95cUxQQ1VXcVB6YXdsMFNYcnJ3eHQzRjJteGlYcmEwYnFiZ19aUVYwOEdyalVrcGFxRmRpdXlkcERJdkVjOUZRYU9WMVIxV3drU194VzdxNjVKbkROX1RWZ2p3NDN0N1JlOTFjNXNBamhSVWFKbFdQSF9maEJjdENDQWc5QlV5d1dwcVBERWhKTGhsWVhILWdFblg5aGpzRDVqTFBwZFdmcjRHMXFZaFUxaUJnbUZyOGZXTzV2SWJkck83NXlyMTMyeEkzcUlkcXVKOWxhQm5Cdi11c1B0akR6NFhVQXJFdEs5SS1IOUhXX3I3VlE3d2ZT?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-11-23T04:15:00+00:00",
+   "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
+  },
   {
    "titulo": "Localizan con Vida a Mexicano Desaparecido en el Nevado Cayambe, Ecuador",
    "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHlBNWJibUp3eUg0MDJ2X1ppYTJGdndjampobEtiRkR1NDNCdDJhXzdmbVlaZGI3dWc0czRQUXRVNkx3S3ItNW5ybmxTMnBOYWNpOHlSQnl3dVJWUHlMQzV0TWZQVlhMdzd5T0c0LTNvVjJnOGd5enlEQmJWeTZjWjE5SDdTdWRISV8ySkp5eUluVTNlSVlxa2htekE1LWRmaGJZVHkyMXk2WHNJN2o0NEpMQXJkZW9HUktjOQ?oc=5",
    "medio": "N+",
    "fecha": "2026-11-23T03:45:01+00:00",
    "imagen": "https://static.nmas.com.mx/Nmas/cms/1795405321228-snapshot-1376x774.jpg"
-  },
-  {
-   "titulo": "Localizan con vida a un mexicano reportado como desaparecido en un volcán de Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHRfYWFBUDdCSWRQbGRrMHNtd19pc2hRQ2JQNW02N09iR3hRaXlNcXJrbE1oQVBQZmpBV0RLZXZOcXVYdmg3VTYyUl9SYVEzel9EaExla04tRTg5dkxDQ21Zci1XaTliSTRQN2tCalZCY2d2aWhDbXRBUnA0NngxYlVsYWg0bnB4MGpqS2Rib3NORk1kWnJ2ZDFMdHAwMkxEaUs0OWd2c29URTc3bGNaQ05sLUw?oc=5",
-   "medio": "El Nuevo Diario",
-   "fecha": "2026-11-23T03:12:42+00:00",
-   "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/11/pkokokorkokroe.png?resize=1108%2C728&quality=100&ssl=1"
   },
   {
    "titulo": "Clima hoy en Quito, Ecuador: el pronóstico del tiempo para este lunes 23 noviembre de 2026",
@@ -25,46 +396,11 @@
    "imagen": "https://www.clarin.com/img/2025/04/30/acrMfVc6R_2000x1500__1.jpg"
   },
   {
-   "titulo": "Ecuador: inundaciones ya dejaron más de 100.000 afectados y 20 muertos",
-   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmFsT2V4djNISHlfSks1NDUzZzRmLUNfRWtKenp3NWtKWk90OXhTVXNaRzJTbGZodFpqalJLOE1hQ3BveTFiSVBCQ2pCWk5VTkhNXzQ2TUUtSHU2MUlGVk5saFVJRUpMNE9pbURKTjFPMlVzY3RjZWtmSGJTYXBsTnhPSnFKYmNkaWJJeXJFamNzblppM1lhX3RrR25UMG1vQnV5X3RRVk80TW1Db19aWtIBtgFBVV95cUxNbnoxbjlOa0FkNUVYeC1zTWN6dzhBekNHSF9tb2RIZzB0b3dmdHRTdVdodk85OUZ2UDFwdE5xMzU2bjJ5YnlMYVVoUFBuTEQ1WDJ2LTFaR1VwR3RZWjJRZTR1bUNEeVh3cjJEUEhhaU9tRUV4U0t1ekI5d3p6TWpTVFdkYlBfU205NkM0Q29sc0xVbGRiNlVJRW5xU3dqME84UWFzU01mSVhHTHhuZkYzLWRUa0Z4Zw?oc=5",
-   "medio": "Diario Hoy En la noticia",
-   "fecha": "2026-11-23T03:00:00+00:00",
-   "imagen": "https://diariohoynet.nyc3.cdn.digitaloceanspaces.com/adjuntos/galerias/000/692/0000692905.jpg"
-  },
-  {
-   "titulo": "¿Cómo ubicaron a Jolín Bazán en Ecuador? El papel de la inteligencia de EE. UU. en la caída del líder de La Jauría",
-   "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MUmt0YmM1X0FjOFNQdW90R3BNUUROd0M1LThoaVZpbVlLY0Y2RC1way1YRm96djVlM0Y3V01RVUhhU1AxaW9mOE4xVURYSnluRldxSXJjVmZUX0xKalJZaURwV3hPdF95ODB5X3U3ZFRVNFhtOVJHSDl1Rzg?oc=5",
-   "medio": "Buena Pepa",
-   "fecha": "2026-11-23T02:55:48+00:00",
-   "imagen": "https://buenapepa.pe/wp-content/uploads/2026/11/Copia-de-POST-WEB-52.png"
-  },
-  {
-   "titulo": "Un total de 183 personas permanecen en alojamientos temporales tras las lluvias en las islas Galápagos, en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWlFSenhXS25hTzNsNlJMZzBxOVJIN2k1WjQ2SDByOXNfQWlCRkNJOFdWSmx5X2FUelRFbHJJLUg3Y0VDNm9OaEdrTGNTVXFOM3RzME5zSXlPSVhQM0xpZU9LTGdlV1haNkU5Tm5VWkVfVVZQanMwcVpmQjdjaEF4ZFNmTVJLd0RUWlZHazhvMkc4MmZOS2FKaFhEUWFFWTFrSHJqMHk2TlR3bmJLa25kWS0teVdnb0thTnE5Q1VXZXJzaWtWbmp6ZDRnemJKa2ozRVlPeDJXck1LeVBPdzU3eGVnTQ?oc=5",
-   "medio": "Notimérica",
-   "fecha": "2026-11-23T02:19:38+00:00",
-   "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261123031938_1200.jpg"
-  },
-  {
-   "titulo": "Gobierno despliega ayuda humanitaria y maquinaria en Galápagos, Manabí y otras provincias afectadas por las lluvias",
-   "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGJVLTE4NVF5TDduMHJHclZZTlVkalJGZTF0amc2dldma2lGckhURHlpMHVLQ1NlSUhoODgxRWJsRFlFV2FpSWZWR3oxWjFxakFYVzZ4YjE2Mzd3c3BkLUxDdVdSMnFiNjR3eldFRVBvVWQ4TzlGVk1tYXNiVm41UHA5VmtXRFo2b3YyT2VaQkd1LVZaYWtGeFY4UnpGTVJtTl9tcnk5LVhwWXpuZFFaM2hHMHdTZmNSdXhBdmZFWHbSAdQBQVVfeXFMT0pRMHZMaTk5dVBsbDY0cGJSV3JjeHBqdUVGZkUtTHR1NlNtWk9DdlNEQm13M3NWLVBnTHc5ZHlmN19HSzF0R1puX1FxRmhVdGpod0htSVh3Y0F2eS03VmJkM0FyeDhzYkd0SHFic01UbDVCcFFkX1QxNjFLTHRFcjhjVW40SVJNMVNZeDdjbG1XTzlONGxGZG1LU0pPaUxiV2xoWm82enkyYnI2c253THF0R1ctei1NellMWWJRRG81bUt3dl8wLVhETlM5el96VnZQd1Q?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-23T01:55:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/DOLWOMKVSBCXZC2ST3A6Y2W7SM.jpg?auth=b5c4e3908e7a8c0322d4adac2e2be0c0b5f37258c653cd509be99bf4ba78bc34&width=1003&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Localizan con vida a mexicano desaparecido en el volcán Cayambe, en Ecuador; bomberos lo estabilizan",
    "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa0VEM2VJT3pRRnFHUUN2NktMREFIeG1KaVVCWVUwbGJuVnp6TGstX2VjYlU5OExvVzdkRFkwT0dkNUFMaVJFbHZudFZSeUpfbi1GV0JXOGg5RWdaU09iWVp1SFpHOUlzQU01eWo2ajRabk0zY1FMUHl1NG9yazNsTmV2QTZWbElFVFVlaVpSN19EaGRDbkdra0V3ZEh4RWRkazZkOUJiaGRhdVFhXy1fcmx4eGtCY195OXoxUkU2cHFNcFJOc1hEQ3dMLVVncXFhVmc?oc=5",
    "medio": "El Universal",
    "fecha": "2026-11-23T01:12:14+00:00",
    "imagen": "https://www.eluniversal.com.mx/resizer/v2/MVAWVLQ5EFBZLDXA6LMA7MBS4M.jpg?auth=d631ce83e50aba139a699b1e94d8ec66524a3c16a4bc2a01d712349fee0a00b9"
-  },
-  {
-   "titulo": "Capturan en Ecuador a alias Sayayín, señalado como cabecilla de Los Lobos",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaHV1bHdQWm9hbUxaTnF2QldCVFktdGtvWnIzNXAtYUwwRlRuMVo0YnFJRElyOGI3Z1hTb0xvdnlSR0NqS0phV0hWaGk1MkNLTWx3eXJiUm81RFN3Wk5tZ01RTUZSTlFCZlZKNVZNOGYyZkRLcV83YkQxUVY5UjM5RGdxR1VBMEJzM1pOVmh4LUZmNHp6eVRiM08yREpBdEdpMDhGZy10eDlrV0nSAbMBQVVfeXFMTlpJYm1tS3pwdVhRcExwN0JRLUd5VnZ5M3VINS1SV1I5WV9kamlpMGhUeHZMYmNnVVNueUFiRzJvMy1USGFPWGRxZHhJenR5dWJ0d29QaVFROFFLem9ybko3Mnlucm51ZWVBZncwajRpOVBzUS1wWFdRUTBETUlQMDN2alRNOXlGSC1xRlUtVkNlZkktLVNFWjVXZklIbkRFWW9mamZyU3prdFdlTm1aQVEzNHc?oc=5",
-   "medio": "CDN",
-   "fecha": "2026-11-23T00:56:13+00:00",
-   "imagen": "https://d2dm3b5jcmxir4.cloudfront.net/wp-content/uploads/2026/11/Captura-en-Ecuador-a-alias-Sayayin-senalado-como-cabecilla-de-Los-Lobos.webp"
   },
   {
    "titulo": "Localizan con vida a mexicano desaparecido en volcán de Ecuador",
@@ -74,20 +410,6 @@
    "imagen": "https://d6isf1yxni2j5.cloudfront.net/nacional_mexicano_desaparecido_volca_ecuador_c28d169897.jpg"
   },
   {
-   "titulo": "Localizan a mexicano desaparecido en un volcán de Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHF6d0ptRm9EeGMtZGQwbGlDbUMySXVDZGZfRWE4bFc3OFhJVmNtNDdtN014MEhnWTAxNkdfMXpTTVFmZFpSbURwaEhSdFNoc1ZiemV5TC1JS2NySkZPdnpNemJGYzRhRUtZdEdqZzlMUjVRX1otYjRHakpyckhneXV1WllCdDJHRXpiZ1p5VVBzUHk1TDc4TmNB?oc=5",
-   "medio": "INFO7",
-   "fecha": "2026-11-23T00:43:00+00:00",
-   "imagen": "https://d6isf1yxni2j5.cloudfront.net/large_nacional_mexicano_desaparecido_volca_ecuador_c28d169897.jpg"
-  },
-  {
-   "titulo": "Así reclutan en Ecuador a hombres para combatir en la guerra entre Rusia y Ucrania",
-   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUxoeXktYmsxU3o0YXo4eS1pbE03SWFONkQyODItNHhSR1NSamdScFU1OHh1VVVBbEI2N0p1M2FCVG94bFoyOERlbFlMQWs2NG9HbmJGVTJEU2FLNlFUUDBBVjFkMENYX3JSMl9CQ2wzM3NBSHlaOVNINHVmQkVsMlRETkNOYjNYV093RkJfTWhYcWpwSHRRUGxSTDZKSTRvSjlobnBIM3dzTGxhcGZDeVU5WkQzMDDSAbwBQVVfeXFMTTExMFlkQmRIaHZCZnFVY1Z1Tl90cEpkQTJFbjIwOHMwUU93Z1otZC1wcFd6d2FwaGdBQ05xVGtrUUtvRGF0a0w3bi1qa2wtOVBHTmRjajhoeWs5S0pIdHAtUnRhRkdkbUhGQTJ0NHpEaWxNdDRLTWUxTWh6bHZ5UTJ0U0RkbEFDYnhOV1R1VkJLX3dPS0ctanl1ZW1Nb29KNVNzQ3BUdnhJcVJaTTRreWpLaWM5S0hrVDlMeXU?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-11-23T00:42:06+00:00",
-   "imagen": null
-  },
-  {
    "titulo": "Ecuador: Más de 7.000 damnificados dejan las inundaciones en Galápagos por El Niño -",
    "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeE5SYmZPem5lRnJZcEItNEFEUFRtak9ObVFqb1NyeHZrZzl6NDFDazhLY3lNckxYR1FXdjBqUWFNWHZ5M0tveW5BeEpjZlo1VUFZazhEbnVZc2N2T2NEbzg1SEFTUTN0elNhX1BDNXR3VERCY0JSM1BVLVJKX2NDU3lTMURDeE9pYVBOdC1teGtueVVELXl4ODRZMmE3emhoZHhsdGllRnZIY3d0SE1B?oc=5",
    "medio": "Perú Informa",
@@ -95,332 +417,10 @@
    "imagen": "https://www.peruinforma.com/wp-content/uploads/2026/11/inundaciones-ecuador.jpg"
   },
   {
-   "titulo": "Capturan en Ecuador a alias Sayayín, líder de Los Lobos calificado de «asesino en serie»",
-   "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUhiMmNVZ3BxYmJLY1FvTEQ1SkxOdGNzQTBxakMtRFFZN0dMWFNZMHp4WDhPVTVtdmQzRlB6TWlrcUxvZVdFRGZ1eFJKX2ZIVXplNGt5SlVUcllIenJDLVRhZ3lxc2VILUJySXVmT2ktT19OdkFqa3k1LVF2UTJSbjNtdTlHcDZoempsZlpHOEJWT01lQW5FQ2hxZ2t2aVZhZHJuT09iZm9WVkh1VUlZV1JHMlF2NllSaFRyUDVoSldwVGJOeEJVRA?oc=5",
-   "medio": "La República EC",
-   "fecha": "2026-11-22T23:47:26+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "«Sembraba el terror en Ecuador»: capturan a alias «Sayayín», peligroso asesino en serie de la organización criminal Los Lobos",
-   "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUVFFLXJiRGdpS05yWkkzT2ZLX3c0MFduNEUxN2NJQTc0a3FOcDJQWHRYMW9MN2d4R3M2VjhEc3JsQktPZXRQazBVMUJpUWg1a21QZEJidTJaSkg0cFNIZFRMcGpucjhVY0ZjLWoyU2VfUlpqLThYOVM2ODBNYXpLRW5UeVFLdDBVQWZ1eUpRakZYS0xMUmp2V2dQMjctNW9IVl9VNWNvbHBTSjB0aDMwbm5zZDhoVXFPVnZEUTgyamlCNTVxeFlWY3BVTW5aSXBwRWhCaExYTmU4SUJ4cXJZTzZHZFlOZGdIS3Vzbk1WbC0tZw?oc=5",
-   "medio": "AlbertoNews",
-   "fecha": "2026-11-22T23:45:20+00:00",
-   "imagen": "https://albertonews.com/wp-content/uploads/2026/11/HXwTiRDWwAEKD-k.webp"
-  },
-  {
-   "titulo": "Cayó en Ecuador alias Sayayín, el asesino en serie y cabecilla de Los Lobos acusado de desmembrar a sus víctimas",
-   "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTFVIM0wxaWVxeGo2SHpwdzA2MVlYNGNjaE51R2FCREFBYml5NHhqNTlWREFrTXZ4Sm9mVmk4aTFwSWxBZmdaYkpKNk9LM09PY3NFeVFRVjkwUl9hWWt3UE5NRDhpdkdDZGdKTmtGemZQLU42VXdFa2szWW0tSUliVmtXTGlERFBUcVFGSXM1dkI1VndJU0JSNnRCOEpKdGt0YlI0ajVKSkVfMV9OM1JUTnJLR2k5ZDZ5djFEUEpxLUQtaDB0T3F4ejVGSTF0OXBramRMOEZJb1hJYW9VdUtnM3R1dWNiSkxVT0VMNGlYZzZXNW94aTZMNEZfN3BrbzjSAZoCQVVfeXFMUFZJQ1RlQ1h2eDZOaElPOWFWQjNtVkx2cnVpWXE2R1VvUXRWT1l4aEdGMVZNVzFfc2R6ZllGNEtSSDFZMVpqQ24tRGJiTWNkdUp6LWF1ZExOak02UFA0Z3BkZG5tQUYyY0tRVFNCRWJab3pUQXhFQ1FiOUo2eTNScmF3VDlNSy1GM2hmaEtGTzVaTW1pWF83SEdhM3haWTZqdkxzRmZEQXYyQmxtRDljSFo5aGZYdHJnZHZObFBKVUc2ajBUNWcwNnItNlp5bGotdXhzblJZcWdqSzJvWUlBb3AzMzMwZ1VHTzRkRDQ5TkEwdmh2a2xxYjlWUWRuLUNKeFNmYmJWV0VnemtKeUY3a2QxV3EySnZ0em1B?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-11-22T23:43:00+00:00",
-   "imagen": "https://www.infobae.com/resizer/v2/QGVM5VATWJFUJPD2AA6YPQRAQY.png?auth=a1d55d09841d49c700f5403addc48b7ecb11a09b0ac8c883f364bb99bdd57886&smart=true&width=1024&height=512&quality=85"
-  },
-  {
-   "titulo": "Ver EN VIVO Liga de Quito vs. Aucas: dónde seguirlo por TV y ONLINE",
-   "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmhqVWlYbzNDckw4SHVSblBjLWFwQW5SNVdJdEFjem0weFM2cjRlNXdOX080Zm5lVDgwZDBRSnhqcFRVcHc2OW1XQXF2VWh5UTBZaWpYZ3B1ckhjNU9DR3NfNGhaVWI0RlVUZ0FLeFRPUk9PX3NHcUFxZ0dINDU0ZXZJT1l5ckFNMkFxWEVEcUpfYVJOUE9qTW1UWkFtdWZBSmxVR1pwVzRFVjFSM3JnZl81M0VfSGk5SUdkQkhxZw?oc=5",
-   "medio": "TyC Sports",
-   "fecha": "2026-11-22T23:19:11+00:00",
-   "imagen": "https://media.tycsports.com/files/2025/09/30/888136/u-catolica-vs-liga-de-quito-en-vivo-donde-ver-por-tv-y-online_1440x810.webp"
-  },
-  {
-   "titulo": "INAMHI pronostica lluvias fuertes en varias provincias de Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmRyVDhUYW1VVkFsSVF0bkhid1ByTjVybmVjZ0p1WXk2a1hNaUk5VWF6c1Y5eVo4Y0RCOF84eUNVenRfc2NfNDJ4aHFnUC00cXhMeHUtaW1uRUhYOXZnMGhMcWFWeXlpV1FiemNOdHhjRUxJLWVQVVRaV3RsSEwyYnBVQVEyMEM2V3NUYjlqUmo0a0pYcmxENUYybWpYS2pybGNXbkJVajJ2RXc?oc=5",
-   "medio": "El Diario Ecuador",
-   "fecha": "2026-11-22T23:00:00+00:00",
-   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D141E0F55574947721F17191852434D74151E-2000x1125.jpg"
-  },
-  {
-   "titulo": "Capturan en Ecuador a alias Sayayín, líder de Los Lobos calificado de 'asesino en serie'",
-   "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNME0yNExzUms4Z242ZXJ5a2ZScU93OHNWWjhsRGtZVkFJOEJvVmVpTjA5bkRpckFtelpuZnBQRGpQNy1Nam5tME9mN1EzaGdiTzNVaHZHeU4wYjVkRkhzQU1QT0hsNlc4WHdwMVFrNE5GT0ZlSVJuRGhYOUxPeTNEVzdUTl9wWkJIOXI1QzBabVlJMTdZZEFNdTNYcWd4ZVBOWGthSVV1N1BtN0hjVkhsVVdSdy1LaUVRenNsV1FtdHVRU1lVdk8ydzFKa2M5VWfSAc8BQVVfeXFMTTBNMjRMc1JrOGduNmVyeWtmUnFPdzhzVlo4bERrWVZBSThCb1ZlaU4wOW5EaXJBbXpabmZwUERqUDctTWpubTBPZjdRM2hnYk8zVWh2R3lOMGI1ZEZIc0FNUE9IbDZXOFh3cDFRazRORk9GZUlSbkRoWDlMT3kzRFc3VE5fcFpCSDlyNUMwWm1ZSTE3WWRBTXUzWHFneGVQTlhrYUlVdTdQbTdIY1ZIbFVXUnctS2lFUXpzbFdRbXR1UVNZVXZPMncxSmtjOVVn?oc=5",
-   "medio": "Acento",
-   "fecha": "2026-11-22T22:45:32+00:00",
-   "imagen": "https://media.acento.com.do/media/storage02/uploads/2026/11/ECU-SECWAR-Interview-with-Minister-Loffredo-OG.jpg"
-  },
-  {
-   "titulo": "FRANCO POSSE FIGURA EN EL VICE CAMPEÓN DE ECUADOR, GOLES URUGUAYOS",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcnAxYlFpY05VQTNzWFkwOC0wNWlLRFdGZDBleURuOU9zcHFxbF9CZE03Rnk3Wks4eUxsSm5RM05NQ3hDM01nMmZ0WkttT0dfNkJlRnNkWkVaTVhiSjhCSm1PV3pIOEk3ZWhvTFlqS1dlQkZ3Vm15aUhoWmFRN2x6Sk9QdDVNc2lqWkZpTFpIckZ1Q2gxaUJ1Z0JnT09FSXFXUHNrTWhqa1Z2dnhh?oc=5",
-   "medio": "La oral deportiva -",
-   "fecha": "2026-11-22T22:24:52+00:00",
-   "imagen": "https://bunny-wp-pullzone-hyfabbzf1k.b-cdn.net/wp-content/uploads/2026/11/POSSE.jpg"
-  },
-  {
-   "titulo": "Ecuador en la recta final de campaña de comicios locales sin el correísmo en la papeleta",
-   "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNUgxS2Jtb3QtMU8yZnhEb2xveHJiQTJ0eVhkd0g1RFd2VXJmYWRUUC1teDRoN2d2bDdvdTVTRnVxZ1gtOV92WDQ2V1JJODkydnB1dXNpUXlJdVV4OHJhUlBWZnBiMmt6TmJsbHBZbHBEdzlnWG9vNFJMbzB2N1d5LVEzVmswdmUwdk5pUkFfX1hXRW12dG5jYS1uYVI0RkRTTnhvRmV0S2FBSC02RGlkOGZURV9XOXZZcDl5YUxFdnNMWnlud1BiaEVnTFdHN1A3UDBScEN3?oc=5",
-   "medio": "ABC Color",
-   "fecha": "2026-11-22T22:02:52+00:00",
-   "imagen": "https://www.abc.com.py/resizer/v2/TGOUPOQFIRGT7MR234725C4ZKU.jpg?auth=2cb32e6f301ca63226e02f136d3c95c312e5c78fb28016d59087ffb8e833a05d&width=770&smart=true"
-  },
-  {
-   "titulo": "Ecuador: 28 organizaciones recurren a la Justicia para impulsar la regulación integral del cannabis",
-   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaFlwMngxR25BaXNsVU9fTllBU3YtRENFaGt5SHpVQ1lIVkNrck9PNWgyelloWlptcEc3aGZlM2xMazlFQVFmbkNQeklTVnZlc1l2dDZsZXctNGRsNTVfVHJ0NG9WXzByUDlrbVVraDFtOUV0RXFYVERMUGYtdURJWHJjSS1zN2c2QUdLOUtLY3MwcjJkVVYwVHlMX2tTbDZtWllBTmFESS1aVVdhQjI0Q3Z0NExKWXpwZ25TdE5zdXE3SUhkR2R0VlBRUzBCblJpQzYybDR3Y0p4QXlhNHNmeQ?oc=5",
-   "medio": "uy press",
-   "fecha": "2026-11-22T21:50:52+00:00",
-   "imagen": "https://www.uypress.net/imgnoticias/202611/W900_H520/147171.png"
-  },
-  {
-   "titulo": "SNGR identifica a 85 GAD que entregaron tarde sus planes ante el fenómeno de El Niño en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbDR1U01Ta3p4YkJoTVJ2cm1YVHo4ZHlEMlMtRHdWdC1SaThHNVhWZml4SEJXVXVSVHZyY0hZQllQNDgtVVJ5TUVWaWE2Znhkdm9QaVA5bmt1a0lXWDRaUFBOUWNFS01ZbXB0QXdXNkpqSVJRZFZYQVMyZXBXSHNEUmVWdzNQQTE4VTBPVi1HaW5nbld6MVcyLW1DZjE1UQ?oc=5",
-   "medio": "El Diario Ecuador",
-   "fecha": "2026-11-22T21:16:08+00:00",
-   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17140F55574945711F15161852434D761210-2000x1125.jpg"
-  },
-  {
-   "titulo": "Ecuador en alerta por las lluvias",
-   "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xU1piRm5aLWVlQkk0djctdjU5bENyN1RsallLNzNDVVJVemJPVGx1REVFS05GT3BFTVBmVVkwcVIwSjFXNG9VV091dUxfRGY3OUxRRjNEVlBnN0d0MEhQeS1KTURfTHFHRVlv?oc=5",
-   "medio": "Diario Avance",
-   "fecha": "2026-11-22T20:07:43+00:00",
-   "imagen": "https://diarioavance.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-22-at-2.13.43-PM.jpeg"
-  },
-  {
-   "titulo": "Ley seca en Ecuador: cuándo empieza y cuál es la multa por consumir alcohol",
-   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeklPTEl6Vld6QjFRU3lWLUFvbGlZYmdQeXRYanZKbFVDYWNaZUxfMUxtOTBCUF9iTE9leGIteUVpVElRcjVqeVdUbnJOWmJIVWlfdHBwYWkyS3lWdE1zOWw5ZHViQ3ZSOUhTYVExWVNxMnJhNGJ3SkFVQW9oeTVQMUJHWGwtanNZQ1Y4TFF2b21Vbm9LNWtUdl8tUHlWemhKempjZXRzTWowVFVVNTk5Qzl3?oc=5",
-   "medio": "Teleamazonas",
-   "fecha": "2026-11-22T20:00:00+00:00",
-   "imagen": "https://imagenes.teleamazonas.com/files/og_thumbnail/uploads/2025/11/13/6915691a8b63f.jpeg"
-  },
-  {
-   "titulo": "Atacames celebró su aniversario con visitantes que llegaron por asueto | Ecuador | Comunidad",
-   "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNejVBaUNmQnFJNzJRYXRFbUZlU09XN0t4Ukl3LUMzUm1LMmpMS3ZyM1BxQmExeFR1ZW50TTVROHFwejBpRzN0RHZOZF9tOEszbmxNUlUyMXR4a0pIaXNYOGtBZVlPdS1LM2lmTXhPNWFLYnVSaDN2OU5lWUJ2VmdSUVI1TTQ1WnNVa0RVWVpQa2VCMkxKeEN6S2xJVTc4bmFCeTFXeEN3MXVLTjl5NDc4MnIzZEdUTDRfTDR6NmRn?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-22T19:52:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/REYO3YNMIFFJNHYLXXIU6MTGGA.jpg?auth=d029d59ca991f90136c5d4dc95ca7bc81288fd3a7f0c8ea8d2a67d909f8765a2&width=1190&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Fuertes lluvias provocadas por El Niño dejan 221 evacuados por inundaciones en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5Q3hlem1BNl81U2Q3SGVLdFEtdEVuTkxaemxBUERDdjdQX1dIV0ZaVFQzMGRUSkU1Tk5uSFZqMUhhTHE1OTBBZWFvMXh3Q1ZybHdfbk8yWGdOci1QU211WWM3eXZKdzROUjZLYlZNbkhOUQ?oc=5",
-   "medio": "teleSUR",
-   "fecha": "2026-11-22T19:00:51+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Mundial sub-17: en una insólita situación, Ecuador pidió VAR y se perjudicó a sí mismo",
-   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR3cyQk9xYnNNWmhqdkhYRkdGQ0hDVFpaY2VGNGZYN1hRUGNkMW02SlFaZnYzV3hub0U5WGlwUjdNaFljcnFBeC1ZTURkXzVmNGNVUGoyNTVWVF9lckZKRk9HSXdVcFlYbC1PTmc0VlZCaXg0QWF6bHg0d0FNemQ3c1ViSTF6Z3VCREExVF9WQ0E2cTc5d2ZCMlhkc193RE1MXzZxUldjTWNDZ1FwVFZmUW5WVXdpbGNDcWhjVkdzN2JoTkxyOFlsTWZHTmHSAfABQVVfeXFMUDVWODlMODRwQkFPb3oyNEZYdnNnOGdJYUhxektSWDVBSEtOQjVId0NMZVpxSlF2SElRWUI5aWhnaHlUVjBmOXdDSFpvYmJDcXk5cGk3enNteEdJYzdOdXhUMmJWaXFZb0UzemVYa1dtNjY1UzdUc2xnaDNESDlIWFVSZk11M0xrM296QWp2XzN5OWZ2MlV6VnQzZ3dZeFdNai1CNGtEQWhVbWlFMXpKSGxtOFhuMmd0Z0VlUHZnMjhqWmpSTzR4QVI3bkttOXhVcC1ZN0c5elM4ejhoSTFvMXAyM3Y5ZmNfZHQwMjFteUtX?oc=5",
-   "medio": "Montevideo Portal",
-   "fecha": "2026-11-22T19:00:00+00:00",
-   "imagen": "https://imagenes.montevideo.com.uy/imgnoticias/202611/_W1200/980034.jpg"
-  },
-  {
-   "titulo": "Milagro (Ecuador): el epicentro de lluvias catastróficas provocadas por El Superniño",
-   "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSjZRUEt2a3hIRE5Jd3R1clFYUDRHZ2lxdFlwV1dweHVuZnlQbmkzY3lxcjZqWGc0S0xQWkg5azZJRjJYOHd3dzJxNXdLbDRBU2dCSC1BT2pXWXJnUlVRMTVHd0h2aGd4Y1VwaldwbjhKMVFhNWlwOUtwWkZBNWpvdmhrZDNKYWhvUHEw0gGLAUFVX3lxTE5Lcm94c1cwTjIzbFEyNzdXNWFPdms4LVVRQ2VNbUlTRENVVUVRWkdrUUR1cXNJMHpudVJLT0lrTDlXVUhkNGFaU1FLajBXVXV5WFY3M05fMDdHNWdCa0VVbTZwN0JVaDRuSjRmQWJRS01kSUZpMEExRHRUZ1AyX3JqbUJXb2llRnhSV1E?oc=5",
-   "medio": "El Mundo",
-   "fecha": "2026-11-22T18:59:10+00:00",
-   "imagen": "https://e01-phantom-elmundo.uecdn.es/4fabda4d91e69a80bbd051be38c9fb28/provider/dm/crop/150x0/1770x1080/resize/1200/f/webp/v/h92TQ1h0pli7PV5z5/x1080"
-  },
-  {
-   "titulo": "Ecuador crece o se recupera",
-   "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kOU02Vm56VU9FSGdubWZwZV82WXlndjhRbWt6cG5uTkFJaWNTd0kwLW5pY1VSSVlQQThxNm1BWVJUUnppZ1lhLUpNTFQ4cEtJRDZUWDhYMlAyaHBRdmlDMUtEYWhTendOVjdEaA?oc=5",
-   "medio": "El Diario Ecuador",
-   "fecha": "2026-11-22T18:57:00+00:00",
-   "imagen": "https://img.eldiario.ec/upload/2025/04/17161D514C43406D15120F55564946781F141A18564B4D7617-2000x1125.jpg"
-  },
-  {
-   "titulo": "Ecuador: ‘El Niño’ ha dejado más de 7 mil afectados por inundaciones en las islas Galápagos",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUTdOZHZaU0doT2I4Xy1paEdnSFAzQzBuZlhpMzVMT3NNRzFLR2lnNHJ5M0pCRkVjT2I2ek9OUzJHTkhfRHVHMnNmMjRGTDdBSVduTXhiNW9ubE0xd2xjN2RnU3NxQ0FNbFZmZnFxX0tzazBZbXR6T0tVcE1ObkdPbU04VlpZM29DUUR1RVJiQ054emtBMHRiWDNxanhySXlIejh2TVo2eUFZUmlwWmxuaUlZOWhkSVA0cmFUdlFIZlo3STFCZEZROGtIcGxOV3VHS25WMDR1UQ?oc=5",
-   "medio": "La Jornada",
-   "fecha": "2026-11-22T18:54:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Cayó en Ecuador hombre implicado en la muerte de patinadora en Cali. Fue deportado",
-   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYVhCU3BIa21UaUZRRkNNTjVSaV8zbHEtZlJPNW1jQ0tGQ3Q2OHdmckVBdnBmaXFVcFhnQ0M1cTNkOHl5d3FIZTN0M2NFUkliY1lBZld4TGFIS1BPY05KeEhpRjVOMTByU2s4M3VEeWZxR0d4azF0QTltQUV2a2JrWjZkMTdPdVdoNzFrWm5qNHlPajBjdlg2bkg5ZU9jRFZhZEp2Q1FJb2Q1dVFhQ0t4ZjhDdmktZGsxX3ZHMUt2NmFMZjVhTHRZ?oc=5",
-   "medio": "Revista Semana",
-   "fecha": "2026-11-22T18:30:12+00:00",
-   "imagen": "https://www.semana.com/resizer/v2/BQVFGX2ZPZDKFHOUC3GBNGRC5E.jpeg?auth=d11d6e494400d26ca521c57f56b620f6e69ba9291460a55e51172a25cf769b9d&smart=true&quality=75&width=1280&height=720"
-  },
-  {
-   "titulo": "Fenómeno de El Niño: ¿qué afectaciones hay hasta este 22 de noviembre en Ecuador?",
-   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTHdXZFpmQmVObmpRY09SZDMwVmxNSkZJRl81aU8ydl92TEFwZkZmT0RNRHBGZUpBM3I3blUyLXR2WG1nVjVxYlhONG0wZnRzWk5TN0lqSGQ4UldQbHNMcUU5Z3A2NFdOLUdNT2ltYzdhRll5cno3ck9URUZtYnFqaXctVHhTTUg0LUszRUx4TzBUS2o3N1YzLVZrRVAtLTdDQXNwMnNkSGlWM1BHVXNVR1Z4TWJVbnJKcHdmME8yampfVzhxeXc?oc=5",
-   "medio": "Diario La Hora",
-   "fecha": "2026-11-22T18:29:18+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Deportaron desde Ecuador a alias Alex, señalado por el asesinato de la patinadora Natalia Trujillo en Cali",
-   "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORUU4Wm05S0pYUUYwMjgySEN5RnowUkVPZWRnS3lxM2RxM1VUMWxiMXJHMHYtVU02VjNqbmpxNWQyd2RpTjFPdC1IT0ZFd3M4V24xTjdIWUlKRWJMbjV1VVBTRndtQmFqUU5leUFlV25FUnJJbjhiLXdOTHBPVFdDZDcyTFNRZWRwNk8xOXUyZk5XM1lTRmt3RWxOTXlNZGpRSy1tXzFTZDBsM29Uc2lYRDhpQTYxQUJvTUVDTmFZS2Z3cFlCOWs2TnZWcWJZRHFfNnN4M0pjRy1DclhydTJhLUR1Yk7SAf8BQVVfeXFMTUx6ZXRBZEpCRjZHblB0Z0ZsTkE3TXpRcjBxM09KWXZRSEdsVTZCUlNoTU9FYmtkNzJCelVyRjlzMUVkWl93LTlKY29hbVd6c0pEU0E5SWtFcW5Cck1qNVloLWRXZlZ3bmJOS3hKY21pMXNfbnduQWxBcl83UEpQc0lOY0hwdS1yNmgwMmhLWVpRU3lHV2VaMlYwbXJseG9BeDUzQk9MX0FmbGdfZ3ExTGR0S3dyTkxLZ2lldWx2SEk4NzEwQW9QckNaZDgxSUQ4TzI2RXdHNDdhSTFzMEpDN1RiVXdmdHFybDJGSFFya1lQRDlsakJDQ1llNUVEb3ow?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-11-22T18:14:00+00:00",
-   "imagen": "https://www.infobae.com/resizer/v2/MXMCD5253VGXPGPL6M2EUSRYYI.png?auth=ffb7a5cb2bdaf5c1b0ecf67530f6150bb9d47a51478e68541f3b0150b6481260&smart=true&width=1024&height=512&quality=85"
-  },
-  {
-   "titulo": "Así puedes consultar tu lugar de votación para las elecciones seccionales 2026 en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXhKNzJpb0dVV2t4ajdfTG5IUU9CaUVlXzRFd21yTE1veWprTXh5WEZqYlpLSEtneWVGX2RIN2RfLXQ4THRsS1JlVld0aWhEX3g1UDgxdXE4QTFJQy1kcS1GNW1qQ2JPdWRBTUpuZEhvS1VRdmdNaFkwN21sanhEekk2aDRjYzZfckpWVlRfVWk2YW55SVlIRnNyMldNcV9zbHlEeEd0VDQ5VjFFZ29F?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-11-22T17:56:27+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/votaciones.jpg"
-  },
-  {
-   "titulo": "Ecuador empató contra Uganda y quedó a un paso de la clasificación en el Mundial Sub-17 de Qatar",
-   "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmxfdHE3UHlGdE95My16cHd5VGlsS2FzenkzMUY3S3Q1QU1aV1VhQ0NzcVk3NGUxSE9JaVVFOGNrSkpfQ0ltaDVWbEoyM2l5V254YVBwRDZqRUxRd1BlNEpLSnZKZXBrNU9vT2RMR25XelhsN09JTDlLel8ySjNSWWhWZDdSUVJkTmZ5SHJmeDRtdDJFYjk3VEMzZ253UFdnaThKMElTeC1MakhJVFJOY2wzekU?oc=5",
-   "medio": "ESPN Deportes",
-   "fecha": "2026-11-22T17:50:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Ríos y esteros desbordados en Ecuador: 36 cuerpos hídricos registran desbordamientos",
-   "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYkRKMnd2NXZEeFV6MFFybWtBSTJfVHZzLWFJTktwbUk4b2R1aXVlTUFUMjhjcWFDTGRBY05ELUVDeC1VODFxUGc4SlpDYmV6YXlydm95b0t0NW9PSDNpeTVaZFVzNDdRdW5yTUxFWnl4RU9fRWVsb2tyVmJmclc5OGRvMW5SemVOTGpKMlBKZEpfTWtiVGtMYmhzakYtdw?oc=5",
-   "medio": "El Diario Ecuador",
-   "fecha": "2026-11-22T17:41:02+00:00",
-   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17140F55534947791F131D1852434D76131F-2000x1125.jpg"
-  },
-  {
-   "titulo": "Mundial sub 17: Ecuador empató sin goles con Uganda",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLU9iR1ZVS3N1QjJvM2RGTWMzeFN1endRWTBqMmZNM013S090Wng2dUtPQmRDZ2sySV8zU2ZEMVBWczhmWTgtUHc2V0Npa2V1TFJrT3N3cDloQ2NrZjFRSUpnX1RJYkN2azE0MDhZQ3RnVHg2bDZNTDBYSWc1b0NnenBoeEFzXzFzYmE2SUFIZmdEeXpXVkxMN1BNQ2VHRmRUZzJPYlBTZGhESlpmQWRSS0ZUNC1MZ9IBuwFBVV95cUxNMG5WUWZhYkFLUHpjbkxHN0FlcUF2elV5RlI3dXNYWGJTVXdJR3FGSWhXeGhrelNTYjg0TXpGTDZ5SHFVS1VtT3pyM0xPb2FmTkdOdDMyR3J3NU9pSllFUVljSGtza0xNXzBEOVkySEwyeDJzNU5wbzM3MnJpNG9BUEQyeUpXcXBQZ2MyLTlEQ0FMLVBYNGFqSThmNFY5dHpXRG5RZ2toQUtPa1NDTnNYd2NBRFUxLWh3aXNF?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-11-22T17:39:12+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "UNSA autoriza viaje de docentes investigadores para participar en eventos en Ecuador y Colombia",
-   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWpXX3V1ZUR2UlkxMVhpNk9oOGFabEVRMmo5RWpqcE1uYWVjUGstLU5OTms2b2lsLWlJbTlGQ3pqcGUyMmt2aHBjVWlvdkFPVXlYa3RsNGdaOTNjNTJnbG50dUNybEVTZTN5M1V0STNYcmU4M202YVVyVVVxb2hvY2NzNERKVjNkRlYtTGVtczlZOFBnTlEwX2R2SU5HWGNIUDdrTTRBX2lnSElxNXhKQUJxaE1PeWh2cjRPbXBxbWVRaGlGTi1vSWlmRTZwRkljTXY2bQ?oc=5",
-   "medio": "Arequipa Misti Press",
-   "fecha": "2026-11-22T17:35:57+00:00",
-   "imagen": "https://arequipamistipress.com/wp-content/uploads/2026/11/la-unsa-idear-7.jpg"
-  },
-  {
-   "titulo": "Video: así fue la captura en Ecuador de alias Alex, señalado por el crimen de Natalia Trujillo",
-   "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWUZfMW90YzZLSXVFOVBoMWZkM1N5QnZJVFB1dG94aUVXWUdTV3FuM1o5WHZDSmRtMGZBR0phVTB6SnNfTlV4c2ZLOGQ0ZG9sSmp6cmg2eDVfUnVaaTZPMVJTVzNqTTN4TjdRRnpXVHpSc0RKelBrMlhQb09BczdLSFZnTVYwRFFPYnhUYU0zOUtmWWpZS2tlVlEyaHJGWDdRR0N3SmU4ZFo4aVVXeDBLTFd1SGZNWHpsOUotYjRURnJoYldMdVkxMGRVdXNuWU81d0Y5aE9tX08?oc=5",
-   "medio": "Infobae",
-   "fecha": "2026-11-22T17:24:47+00:00",
-   "imagen": "https://cdn.jwplayer.com/v2/media/HjseU2yf/poster.jpg?width=1280"
-  },
-  {
-   "titulo": "Una polémica decisión dejó a Ecuador con más dudas que respuestas ante Uganda -",
-   "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNUM2MDVBUF9EZkVPWG9HMThwMFlQSWVsS3hzdDFWTmNpNW5nSUJHLWFnQkhfY0ZhYUZSRVZncGl6Y0M4dnV6eURmdzBHWEw1eVU4VkxlZ3dSZGRJUlNacEFmRVh3SHlyRFB1QXBkbmxBYWV4ZTNic0hidHJhemdfS0VTTUtlckhxZE0yZw?oc=5",
-   "medio": "Bendito Fútbol",
-   "fecha": "2026-11-22T16:59:05+00:00",
-   "imagen": "https://www.benditofutbol.com/wp-content/uploads/2026/11/La-tri-sub-17-mundial-qatar-WP.jpg"
-  },
-  {
-   "titulo": "Ecuador. La denuncia de la diputada Patricia Núñez: «Quieren borrarnos de la escena política",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU2RqcUpiV3hkY2ZZVkFPTTJvMVNtOWItRlk5WDJobFVxdTlSTWp3ZGZZdmVEVVVOZG5mZkJEbkQyb09yT3NaOXRsY29Ta2JDN1Y5Nng4RGkxSHVmUmFTbWhZU0RZc1pOOTE2S0xSWUZTSHNaV1RmenZ2cUxzakdVLVlHODZTNkcxejU5emlEQ1hFbFdrTUQ4VERBZGhBNDNoT1p2ZjFuYXJIRmlfb05tVDc3REEzckg1V3RaaWctbVFrX25iUE1rVlZJU0poS2xNQXpEa1B3TQ?oc=5",
-   "medio": "Resumen Latinoamericano -",
-   "fecha": "2026-11-22T16:47:19+00:00",
-   "imagen": "https://www.resumenlatinoamericano.org/wp-content/uploads/2026/11/ab8ae508-c410-4b32-af49-76201ef3882c-e1795365928686.jpg"
-  },
-  {
-   "titulo": "Cayó en Ecuador alias Alex, presunto asesino de la patinadora Natalia Velásquez Trujillo en Cali: claves de captura del señalado cabecilla de banda",
-   "enlace": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPN3FzZVpGc0NvaVVyckxsa1FucU5ObjhmTGx0M1pOOHlsRkktenQ3SUdSYktSTERuejBMTUZlUEtKNzgtWEw0N1NYZzM1eGtJcVZVMFBrVUJUTmczNzNSZHg1S1dlYnpRa011UTdETVZUem9tTVFZMnFWNGtjOTd0cWRxWTBTenZmTGQtMENQRm1uS1dUQ2NYOTVzVFVjM09peEF2ZHoyTDNPRmtNVG5oZ2hZb2VMZGdFZDVKdDJURm85MTVGVVFYWXFURlhCLWN4MmNKM3JxVW5jaHRpSkNqX3VJdEJTQjZWb0Y0dkxlekItSXZMbUxYVDNGVWVlOVV1YXM2aFlHTlFOYzlNWDNIRTZtaHZ0Uzd6djFhN9IBogJBVV95cUxPYmNsdU90RGd2OUdsZmlGZTRsWDkwTjlGaWU5alNBVWtmeEJ3RzZrR1hCVjJVeVVuWG1oc2ZzaUlHa2hmblRMVlpDSy0ycFdPcmdVM0RyQjBGMzdmUU1iUmNwRXNqQVFvbmV1UDFBQWFGSWVJaU9aa2IzUVZsMUs2VEs5eVNYV0hSV2Z2eERBYkFFalRZa3M1NmtraFZReEMxcFVPUGNVTkQ3d3RwUFhVQ08wZks4QlZIQThhamN2X3RoS1NQSHZSbEhuQ0NhNFJkbDZjVmx6RkZHQWR1YjNRMHB5cktHMW1UblFZb29Nd3JEbFFWWHhaNjluUVdMZ1hLaFJEMVdJSWpCSW9VaHVOc1hkWmQxdzUyOC0yX1JJVWZUUQ?oc=5",
-   "medio": "El Tiempo",
-   "fecha": "2026-11-22T16:38:51+00:00",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/22/6b03177d00daa.r_d.981-386-0.png"
-  },
-  {
-   "titulo": "Un hombre presume de votar al PSOE desde Ecuador para las elecciones generales: \"Los derechos no tienen frontera\"",
-   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbXRGZ0F4dDkxYzlqSHJDbnN2WlROY09mNXhDZlhRaURLcFEzMzZqWm1CVEl5NTh0Ui1wcFVnd2wzNUZDdVBKeXhaaEdvTl9RWFhCUzNWZVZGQWZpb3RUMWJKMHQ0ckYtdmdnaGxkUlN3RV9vcXJMMnh4cFpqS0FHNDJRT0VqQk5WNmxGaEMwSG5iM2lEdVh3Xzh5aGRqcEt1aGdqU09INmhJVkoxZ01tQnBERko1V1hSWGVQVjhwODJfbmJzamVVX0tSTWFfOXBjRzhqWjE3eVZ1VDFlM3pZZdIB9AFBVV95cUxPQjVkQUhqaVRqSTFDcjRhM2VjZzdWQ0pzY0d6NkN2bl8tM2pzMWlOV1lTc2t1SDdSNkFSUkJDQ21wdkc4OVh1QXdwNmdDVzNHWmJ3RVd5Rjg5bFc5aWxiVkJjaGtsenBUQlp3TGJHdi1jZU9qWkJCVUJSWTNKaC13QkRtNFA2SWxSTGxIWUtvOUhlOEFaTU1EWk5OWlRuTlhESFdKelkxdFRIZmxadUNYbjVLRzRrVnQxaWVsLVA4VXNCSExVelZrOHpSbnQ2Y0hGMExmYVlFQzJaNUJkdlduYUIxRU4xRElaUDV2RGlKVUlRQmVm?oc=5",
-   "medio": "La Razón",
-   "fecha": "2026-11-22T16:20:08+00:00",
-   "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/06/23/9D31A67A-D18B-4DD2-826C-8C71CDA199DE/98.jpg?crop=1920,1080,x0,y70&width=1900&height=1069&optimize=low&format=webply"
-  },
-  {
-   "titulo": "Ecuador empata sin goles ante Uganda y definirá su clasificación ante Corea del Sur en el Mundial Sub-17",
-   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdDFwRUtPT2pzbzBLS2dlLTBST0VYNUlabVhyMUpWU1hVZnlsMnh4SXZGMUNHSEVDRVBsNXNWTWs1cGc3MzlRMjRtUmJZSW8tc19fLWc2ampGd2dGUmJRaGVpNG5jUDg4eWEwNFlWak1vd0paUnhLbGxRQUtNa0NZcnlNMGx6ZmkxQVhWUmtEMnlCbUk4RWozVWRacTJfZEVERjkzemVvWHdfczBWcXFQT21MVzlDc0dBWjdGb3A1VUZRYmtqSmlaZTZpd29URXZOWGhQREs2WDdpbkJvZjdKMg?oc=5",
-   "medio": "El Diario Ecuador",
-   "fecha": "2026-11-22T16:06:00+00:00",
-   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17140F55504944751F121B1852434D761315-2000x1125.jpg"
-  },
-  {
-   "titulo": "Mundial Sub-17: Ecuador deja escapar la victoria ante Uganda y se jugará la clasificación frente a Corea del Sur",
-   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZlFJQS1uRHJ4Qjd1Wk1fZVNZYTZKdEZDNDBqckt6eGp2M1p4eE5VZmFCTDVCQjJ4bHFGR3QwUnB2ejJuZXpQU1hnOXNtZVRTeTJ6RHFva1VQb1RtT3hWSzdPZk9VWVdMX3hseG40QjFwZ0F2VExtMjZHdWpMa2ZMU3U1ajktci01dFJVV1poSE1yRnN6ZzBFeEVYMVRjcjdiNTZkc012dE1QSTh5cTd3WkVrNy1uUUQwZHVONzR6UlFBSGsteDY0MW9RX25PcVNLbzZwWGFaUzdGRkl1bDBadHN3UXhma1HSAfsBQVVfeXFMTndNU2l5b1lxbE12OWV2WXJVbVhXYUFXOTlRazVWM3FVUU9RR25TWTF4dUN0WnVDdU9vbkt3Rk5INzRCV0lBMU1lSU1TN1BRc3ZvZlVZUXBFVll2WTVkbHJjY2hobnpQUjlGdlo1czdDRXVZN1FXZ0dKUWUxM0JVbW9TRnRyT3pIeFV1TmEydnRJdlRUWW1sbW5ZdGZYTUd1VVd0cVk4M3BtQzluaGpGSGM1WHVNcWVhNWVfUHhVZXdMVWRmei1TRmJkX2ZWbHZLX0lVdDJOeTJnVDVZc2hGTWxDTFNDcmhxOWNoTWpSazE0V2NoRjF1VzJrbzg?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-22T15:52:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/NJOAR5CWS5GYXNCZ4GGTXJXAGU.jpeg?auth=46d439c4b5da3c2817c3348082545f8bc3436725630dfbdc2d8d7b6a63ed599c&width=894&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "El insólito pedido de penal que salió mal para Ecuador en el Mundial sub-17",
-   "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWF5TFFUUjYtOUVYb1hsSmlid3pGRXdZblJxU2ZGS3kzSjh1ZUZ2eFZ4REZ3TFRpNnUybVJ3X2g1QXhrWDMwVEdiZ0JGOVgxUzdZWGNfd2VNMzFKazRrMWJ6UGtzRWkyMXc2bzNWc1FpYWRYYVQwOXBoOS03X2pyT0ZFdHZWay1SMlNXeXFDVkVOQVp2UjFCcV93?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-11-22T15:43:25+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/Seleccion-de-Ecuador-Sub-17-Uganda.jpg"
-  },
-  {
-   "titulo": "Elecciones Ecuador: ciudadanos plantean voto nulo como rechazo al Cpccs",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ3Jha1VhTHdNYnNnaWJKMEVIZ2dERkVzeFlOMy1Zb0tNUjVEOUN1T25IZnNFdk5pVlBHcG80TURJUk0wSmJmcDEwQXYycDJrd0p0TGdscFpJZVZ6dGIzejgzMUcxeVVrenNrVnJJcVRSNmRKb1VHWlNpSDUtQnNiRGV3QVlqOWI1VkJhZzdSRXpyc0dFUVlNM04yUUZaeTdsT3JLdFUtRERqZUlFVzk3UzNNWGFqR0NrN3ctQ2I1MWEwZw?oc=5",
-   "medio": "Diario La Hora",
-   "fecha": "2026-11-22T15:30:08+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Deportan a alias ‘Alex’, de Los Agredo, banda que vinculan a homicidios en Cali",
-   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbDhockdVeUx5RGNKT1htZ2F4UHlnWFJUVWJBenFpak05NjBuZXFDSWVjQjdvVVQzY2c3YVVlYXdxUmJaUmdpMlZNVlhGckZud2tzd0t0S1VPRUozU1dVSjQ5TVhHUWptN3d6Vk9iRjIxXzR0OTBoelgwMnhtMG1NZGNSVDdTSEVSbmc?oc=5",
-   "medio": "CW+ Noticias",
-   "fecha": "2026-11-22T15:11:46+00:00",
-   "imagen": "https://cwmas.com.co/wp-content/uploads/2026/11/los-agredo-alias-alex-deportado-ecuador.webp"
-  },
-  {
-   "titulo": "Cómo queda la lucha por el descenso en Ecuador antes de Manta vs Delfín",
-   "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BeE4tLXZGSi1JRUV0VDB5eVlkZ0tDSVF2dGVybzNtbjJRUU11YmZzNHo5NkNVTUhwV0NSRGFBX1gwbUNHNmVGYXdsQVVzYUNpcVNzczhFZGtfYmFyTVI4OFVrdW1sZE1udFhBTENKb25vaWVZZmRYYmFR?oc=5",
-   "medio": "365Scores",
-   "fecha": "2026-11-22T15:05:00+00:00",
-   "imagen": "https://www.365scores.com/es/news/wp-content/uploads/2026/11/GettyImages-2154570416-1024x683.jpg"
-  },
-  {
-   "titulo": "Faltó ajustar la puntería y solo por eso, Ecuador tuvo que repartir honores con Uganda en el Mundial Sub17",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWxNaWdheEJ5ems3NHkzQWJISVRHSHlZUzBHUFM1a1hKUHBGbVN1T2tQNlROb0RpOVNqdERBeTZBVWdhLVFsNlNXS2FELURJa3Ywam1pLWVfS3lIY1RRcWlEQlFEWTdidHpDb0JtbXNJdV9EMHRzcVFyc2JxdHhXQXg4cS01RTk5YjhQSjZONXY2dGtUdHB6WUpfRjVKbVVPWV9GSXg3aFRFZw?oc=5",
-   "medio": "Yahoo",
-   "fecha": "2026-11-22T15:00:00+00:00",
-   "imagen": "https://s.yimg.com/lo/mysterio/api/597b0c175bf713871811b34985b9b9a6f59b2559c9ae8fc79f83ee318cc49ccc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Ffutbolecuador_316%2F2b7b6c430d2b7b697c704d2a9731f083.jpg_up.jpg"
-  },
-  {
-   "titulo": "Ecuador: recorte policial dispara inseguridad y delincuencia en Quito",
-   "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RaWFQa1JDLVM5Um5oSmNBQVVoc2o3eDNXRjhlN3JUQzI1NTlGMDBLTlhWVGMyTWlkZEFBbWpuRGZQczRrVGUxU2xEMDZRSWRQdENjSmlQVGhDVDlhOE1YZEgtU3l2aXJYMFJNUU9CWjVJUEd6eTJr?oc=5",
-   "medio": "teleSUR",
-   "fecha": "2026-11-22T14:59:00+00:00",
-   "imagen": "https://ikona.telesurtv.net/content/uploads/2026/11/ecuador2-2-3.webp"
-  },
-  {
-   "titulo": "En Ecuador, las pandillas de las cárceles envían la cuenta a las familias de afuera",
-   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0ozWFBPS0VydVpvUklPY2lmNmNrWDhCWW5PTk5aR2R3VWowZnJYS1l5Q09NVXk5b2tPQVBqU2pHTGtxY3lkLUR6UnNrSkZoV0ROY3Fhc1JadWVHempLX0s0d2lIMDFnUWhxRHB5WW1DRkdmTFZqTXptaldDdHM5c05kR3B5LVdRZDNEdnhMMm5KSFpsc2IyQWt3bThBM3JpTkU3Zmtmb3VYM2xramhQQ0VEcGhIMlhEZkppT29xNzlvV3lZT1Z3?oc=5",
-   "medio": "LatinAmerican Post",
-   "fecha": "2026-11-22T14:27:43+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Jubilados en Ecuador: ¿cuándo les pagan la decimotercera pensión o bono navideño 2026?",
-   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb19LeDBVSHRhbVl5VUQ2TTVMU2J2QnFvd3BuV1psdFdXcmhjSnhIanJveXZXUGgxeFRncF9mcU9OMDQwWWMxTHRpYnAxdTdNeTlmQXduM1I3ZUU5WUZZNmdHNHBZUUdvRmxEVWdjbGNRdGkyTzFqRlZiZEhSdEtOX1NfWF9kT2d4VFh4eG55Mk03ejBxT2dQaDdPeVBKYWVORnZ0M09n?oc=5",
-   "medio": "El Diario Ecuador",
-   "fecha": "2026-11-22T14:24:46+00:00",
-   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17140F54584946701F131C1852434D76101F-2000x1125.jpg"
-  },
-  {
-   "titulo": "Capturan en Ecuador a cubanoamericano acusado hace 14 años en Florida por red de choques fingidos",
-   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1dHOGhmUXJRUEhha0U2QWQwNXU4Tm8zc2g5M0trelJfQ0UwcE5GRFpyODBmczlVMklPNUZ0Q3FkSElzbGM0VHZUTlRXaHk2ZHJZQkJqRG16Ui1CRGo0cDlweHRORW5NLXk1bHh5SzRpQy14TVAxb3J0WlNvcVlZNFJhcTM2MnBMWnNrY0R4My01cE1FYzBBenVJdHBmMm5EbGYyOWFiUUozQ1gxbzJHSDRpUmJKQU1JVC1pdDlxSVVTSmwzZC0zbmhjR1o5QQ?oc=5",
-   "medio": "Cuballama",
-   "fecha": "2026-11-22T14:04:19+00:00",
-   "imagen": "https://cdn1.mediawpaccore.net/wp-content/uploads/2026/11/21225842/921776799_2706379026481918_7824815066408632636_n1.jpg"
-  },
-  {
-   "titulo": "Ecuador: se registran 36 desbordamientos de agua en ocho provincias por las lluvias",
-   "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSjRUNW4yQ0s4c0lUU2haQ2ZWT2ptMnRJN2xzdWVSNEdDdmx6U2NvUVVDeEpMNm9hcVc2Rm9ScjAzMnhEcDk3SGF4YmhOd2I3REdWelgzNUJjOVVHTzVFc1dRMDhacWdJX1R0TzhqZWFrTUhrSGYtYTAzaXVQNmFEdjRad3J2VF9IUVhxTkh4MjJlY2M3MXhuTnppVExQRk1xZXF0UXFmZTlYMFpmTjN1dUFNVEcwWGxUVUtta205bjhBWWk4S1hXU1M0RWRoU21McklV?oc=5",
-   "medio": "Diario La Hora",
-   "fecha": "2026-11-22T13:52:00+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "El Niño deja 20 fallecidos y 104 mil afectados en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXloSWRTeThQekhiRWN4d192WlNfYTkweW1LZGFLQ1VMRzBCV05LQjdORl9DUDBRTmlvUk55X3k1YmhraC1GQVBZc01tWnQ5TjhaSmEtdFZMaU5GTmx4ZGIzSzZyYk55OHJHU1FuMHpDOC1UaUNxN2NSc3VUYi1WY2tWM2hTbW9wRTZKYg?oc=5",
-   "medio": "Ecuador 221",
-   "fecha": "2026-11-22T13:45:00+00:00",
-   "imagen": "https://ecuador221.com.ec/wp-content/uploads/2026/11/el-nino-deja-20-fallecidos-y-104-mil-afectados-en-ecuador-ecuador221.com_.ec_-1.jpg"
-  },
-  {
-   "titulo": "Alcaraz vs. Zverev: a qué hora y dónde ver la final de las Finales ATP en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaENnYjVjbDQ5Y1dkZjB5dGEtblV0S1RmRWJoQkRXMWVQVXJOMjBSRGdoTWZobHRxWjNIWmFHQXVlV1I2Zy1SZmN2aXdTcFFibTFQRGJNeVk2T3ljbXYtRG1FeS1aWk9VTmJ4MDItVFE5cy1qTG11NXQ0VER3OUEtRm5nRGswMzlaVGJuVFVPc2RUVW5fSmNhVk5tNUFTWlFvaGdUSWpTZHZhVGhIekRXdFlUQWlpZkJUb1V6X0lwSGlEZDltUnV6MUNaaUdQNGdO0gHkAUFVX3lxTFBiLTJST0Znank4WWdXQ2JuWFhvMFlReWNCdXEwNVlLY0VHNTFLY19oWXFLek9jVWRDdV9keUM3LXdrZjAwNUhIWGh0R1dHeHc4RHFUZEV5LW5aWm1HS2tRV1I3WFcyTnZHM2lDN3ZROGtoVkdYU1A1Y0ZxTElROVNqRlNMWXF1dEJkOTIzd0JNMFBWdkZwR0gta1RJcmNMTVZqSl80anhpT3VWbUc4R0tUMlBMZjQyUVNENnFLLUxHQ3dFSmRXNnlWUmtxTVlIWWZfXzVNZUV5a1FNakIzOUhENHZlRw?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-22T13:23:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/Z4W6EOC3L5D7DIVXMU3YH5VAGA.jpg?auth=8daaf1fb8ed755b5d96fc1f1e95d4a0c1c9199acaa45b523503c874ae5563d15&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Alerta de lluvias en Ecuador: el Inamhi revela qué provincias podrían sufrir inundaciones hasta el martes",
-   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc1B4S09OeS11cnNfT1ZWTXNJZE5YVDh3Y0J0M19LS05EVDFSTTcxbEJvV2VMcVg0czAyX0hpRjlYTXdFV2E4THFLZmV4RmpLa294RlcxVmtPd1h3SjZSQ1VQMXRkb1NnOXloRUZjY1c3V1Zob1RkYkgyMG9ra0I0ODRNczgwSmdzaDZLaXNrN3hJU3RqaVlsczhsZTFyTU0?oc=5",
-   "medio": "El Diario Ecuador",
-   "fecha": "2026-11-22T13:15:33+00:00",
-   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17140F54594945711F121B1852434D76101E-2000x1125.jpg"
-  },
-  {
-   "titulo": "Ecuador Sub 17 vs. Uganda (22 Nov., 2026) Resultados en Vivo",
-   "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1RGROajNQdWRpeDdISmxmMk5OUlJIdVdJOG5UZlltVWhBTmJwdldDeDdTTk4tLXU2X0FxNDZzUmgxMnJoczZuaUlvMUtZS1N5TFc5QllwaFJ6ZFJvVzJYRmphR2dPeDBVNkE?oc=5",
-   "medio": "ESPN Ecuador",
-   "fecha": "2026-11-22T13:11:15+00:00",
+   "titulo": "Mexicano es encontrado vivo tras reportarse su desaparición en volcán de Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU29BN2FRcGkwQkdMeXM2eGF2MzNKLU9yRlNzVTZGaFc4anlSOGx1eGxBRVRMczR4R2ljUFZyeWpKVEZKY3hFcU1STEd5ZG1sclpMVFgyMVFoOXZPbG41WXpxYkhUajdseTAyTVcxQ0dCXzUzdC1sV3Vvc3VNdnlKNmdIcm1RNUtyYThFTTJ2SFRsSW1vTEtlSDdkbWFaUW04VDJ6RWF1R3pyeVFhNGZ2R3NVbVEzTmNsREVhOF9xUUk5ay1YSXRB?oc=5",
+   "medio": "LatinUS",
+   "fecha": "2026-11-23T00:17:40+00:00",
    "imagen": null
   }
  ]
