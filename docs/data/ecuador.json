@@ -1,13 +1,118 @@
 {
  "zona": "ecuador",
  "nombre": "Ecuador",
- "actualizado": "2026-11-28T02:17:37+00:00",
+ "actualizado": "2026-11-28T10:58:46+00:00",
  "noticias": [
+  {
+   "titulo": "Ecuador cierra sus fronteras ante las elecciones del domingo",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2tucWt0Vi1td2JkQ0dhZUxUSWRqRWJnOV9mNmpseVJrMlZjT2swS2JRakxYcGp5eXZxemhub3c1bzE3aEdQRXFZU2R1SW9nU2ppTlhFcWJtT0djOWt5bXNUTUdlNjRGcW9CSjczWmpKcmxUSjQ4VjJJdEZBV3JyeUtwT0xvNkl4UFBLbHVSSl9hdERLOC1Cc0FTUG9qd3ZHVXMxMlpB?oc=5",
+   "medio": "Euronews.com",
+   "fecha": "2026-11-28T10:29:27+00:00",
+   "imagen": "https://images.euronews.com/articles/stories/10/01/22/90/1200x675_cmsv2_7ac3a051-467a-56f8-aae6-0a85ff2662f1-10012290.jpg"
+  },
+  {
+   "titulo": "Los municipios de Ecuador votan bajo el asedio del crimen organizado",
+   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2dDcExaMWNaVUNsZXdpMGFjaDBKTzlQdTNmRHozaEJUUVROSHFsM1ByMjdtQVR2ZzFpM3hIMkRpX0VHcnBhX2p3Q0N3T01WclJRNkZOTE9QMU9HYzdkbTRRSjdlSlZFR3hocjhBNzQtT3FoNGhWeGZMT01DVU1lRUFRVU54eU9oSUxoSXpyZGVVbExsZmpGeWpjblRoNi1hNm9MMDBpNWw0Wi1yMGlpadIBxAFBVV95cUxPWE95MWpsbmpYY2FXS1ZKbjJVM1llSXBSSkFYVDFDcG5FZEZBdTZNZkdGeF9qT3BEVng5aFg3dnlfMWpRZF9uSFEydTR4RmtMXzhJY0JwVFEyZXJoZDJxWldZWDZnWmpFTnNsSWJMSm1ZQjQ3bFo2ai0tQlY0LWtqMUpBQ081bHhwWmZzWEp1ZmZPc3hRVktlczl0ZlJYQTJtZEpybkQtb3RNVnl6TkNvY2JqVl9ldnBMZ29yaUZNLTRKZi1Z?oc=5",
+   "medio": "EL PAÍS",
+   "fecha": "2026-11-28T09:30:00+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Definido el proximo camino para la Baby Tri Ecuador se medira a Grecia en los 16avos del Mundial",
+   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSHVndy1CNDU3Q1M2UERjcWlDUWxFV0ZrNUNzWV96RnFhNXFxYlp5c2NVLTdrcS1Db1M4SHJxSTF0dGwxS0tjY2NsejFSRzV5dXJGS2ZPSWE2eU9pa3dQUmJxbEVmUEwzbk9jTUc1N24zaTVoTkN5YzhMdG1Vc3U5b0FCTDNnMjVHMkRYWl9TRk9YRmlWSTZRVjk5NldVNGt2ZDlQMVdZOGhBTl90bHF0OTZjZlZwVm1wMlJmVGVaRUZrajQwejBzZDhfRURLVGdoYUV1bmRsTjF6SlhQNVpZ?oc=5",
+   "medio": "futbolecuador.com",
+   "fecha": "2026-11-28T09:09:11+00:00",
+   "imagen": "https://www.futbolecuador.com/imagenes/images/thumb640/485b05f0c546649e13d35acb07d72832.jpg"
+  },
+  {
+   "titulo": "Lluvias provocan alud en zona rural de Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGY5bEhrMU5UVmx6bWJmSWd2ZWdZYWFmbXptak02ZklNRmRCT2RaWDhuVklBbjRNa21QY3g0YmlfYnpBT1lMQ0wtOTU2VTFxblNlZ2FqUHZJVHZzWkVwZDZ6S09kOHlvNTc2emhnaVNmdW9PTWdHX1M4VE80bVBxbzdpMjhCa3piRlc1atIBkgFBVV95cUxOVlRteVliWG9SUWpHTDNrdjY1aDBFeDNpOXgxTUNVbkRrWk1UY21mNDlxTVp5Z0dvSVU4MTB4OHVkdmNTR3c3X3pabFNnSjhtenl6c0ZzSnFISXZsX3JxRkpYUDVNa2t0bzUzNFN6VGVjYnF2WDNqMk9NWmllejY3SWlrMkZZYkxYakZYYVFLVGE2QQ?oc=5",
+   "medio": "Pulso Diario San Luis",
+   "fecha": "2026-11-28T08:00:00+00:00",
+   "imagen": "https://blobcore.pulsoslp.com.mx/images/2026/11/28/lluvias-provocan-alud-en-zona-rural-de-ecuador-546156fa-focus-0-0-600-315.webp"
+  },
+  {
+   "titulo": "Ecuador restringe paso fronterizo con Colombia y Perú por elecciones locales",
+   "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORmJJa2NQaFRXb012TG9YTFQyWjQ2SUdIbWhVRkwtQ3k2SEdSWTVQSVNSM0dHaWZIR0g5WHJqWXVHT3U0RE1VY2gzalhEejBiR3NVOGkxd1hNSXQ4bS1UX0NqUzhZeklidWRzX1c2NG9jNGZmY3RfekNobFRoMC1KY3UwQnJsblXSAYcBQVVfeXFMTnYyak1sUXZtVjZ2RHRrOXdkUWhZWUxuR0Nnci1YTXNaYWRTV1NucnNLN2ZTRVpmU0l4eG41OEo5UUVLZnZlcUlhd3dLbkVCWFNZMlplREw0ejlsQXZ4QkFXSmNiZUk5bFI3UWRlbF92a3N2UmFtYVBNam5LbzhHR2xBV0t4cUFr?oc=5",
+   "medio": "La FM",
+   "fecha": "2026-11-28T07:37:47+00:00",
+   "imagen": "https://files.lafm.com.co/media/news-images/2025/11/19/144920/daniel-noboa-1200x675.jpg?w=1280"
+  },
+  {
+   "titulo": "Ecuador cerró las fronteras para impedir ingresos de extranjeros durante las elecciones seccionales",
+   "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcUFXc2NwanJnNTFVcVk2cjl5SlFCRWVjdjZSSTdfdlZBZGt3UUFuZngwckQ5ZTV2OWd4T0g2Rl83OTN6YTlPUkd4ekVqZGxTWXJzcUFWeFRuMll2dkZNc1p4U2k1OXVCdVNiSXpkY3R3MGF4OThsSUNoU3cxWk1RNlJoSzNwd0NuOEdndlNqb1A3TkI5clF3QUR4NnJmZWgxTnZuREJJOU5FaTZDZWUzcm9rNE9QODJrLW9RVW9MOUgzaDNKTFRONHlyTzB1eEV2YVZFRkJxalNUNUxJVGwxYnVOUWY4Rmp4aWlVOWl1VdIBigJBVV95cUxPVWU1b2lab3dTd1NFQkVXYXRqT1BWUU9KTjk3Y3htcHFiVzJEdTVZQXNObVBRYV9vblNYRy0zQms3TEpQU1VrYWxZdG40bG0wT3pZZm1hOWdkb0lOaFFxTjlKN0FjTGRHdFk1bjc3OGpLOWg3MDRSc3NyeEdjbldWMXhmc1hqNWczR0h4cGpCVEZyN19VS3hKaW14QTJGa2hrT3d6VG93UUxtaW1WRXd2c3FYMVF2NVFtVXZVTjdPMlJ5eXk4a3VFSlVqMHZBSEQ3aFdhbjFXd1RZbWtBeTlGTXNhWHB4ZTJ4VW9qMnNuakpKNDNCZXBhd0dVblhUbS02b3hUR3d4bWlFdw?oc=5",
+   "medio": "Infobae",
+   "fecha": "2026-11-28T07:10:00+00:00",
+   "imagen": "https://www.infobae.com/resizer/v2/4YLVD72EPRBTXL63YXQESQSLAM.JPG?auth=dffa3defe18f8b3063fb5087ba1dc0d0af6544e90bc0e20fa711df0c4ac900f0&smart=true&width=1024&height=512&quality=85"
+  },
+  {
+   "titulo": "Ecuador vota el 29-N: cómo votan los ecuatorianos en España",
+   "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSW1wX01PSFN1SE9vRUhobVBBX2VfQ1JhSVJKSFVjRHNKWkhrRGdFZFRDNTVzYy1pMzlVcElPQnhkbVMwQXNZZWtIQVZSQ29nRVJCR1FVV3JqLWF6MTZxZ0tCZjF4YkNUay1xZ3dBU24teWs5R3RrRDVMc3pqYlhqSExUZUxpZTdya05qNHNqM3MxUkE5OGt1eENrXzRSWnFiQkJNTUY5Q18xZzZPOWtJNFVMUGtKWEYzcEp6Q1plV3FjaHl5QVQ5N2h0RmxUTFJtRUpoYtIB2gFBVV95cUxORHV0ZVNvYU1WY0s1WVRMVGduS3paYi1DOS1Eb2d5V0lYQ2FCYm13SXVXMjV2SWN4TzJpeC1WMWNTeHpIS0Z6Q25ES2VIcmZEVVYwaHN1TEhST0JoRnFkWWtlUWYwVjhWNHFxVFpXemRlU1g5WEJnV3llSVNxbEZHLUZSS0VsYkI3MTdpQ3JSZ0hISmw3R0RHaWxtTFl5WWRxZHh2YThRYWE3QzdKT0xRT1l1cUFLWWhaM1ZiWG1BZGZaZEQ1UUsxVWI4MDBCcXlEZ0lGMzZXcXMtQQ?oc=5",
+   "medio": "Estrella Digital",
+   "fecha": "2026-11-28T07:00:00+00:00",
+   "imagen": "https://www.estrelladigital.es/media/estrelladigital/images/2026/11/27/2026112723184017664.jpg"
+  },
+  {
+   "titulo": "Elecciones seccionales en el «Nuevo Ecuador» de Daniel Noboa",
+   "enlace": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNXzM4SGZtdl9JM0tSb1Zaa0E5eWE3bUhCdDFtWGliajlsRUhOYUFkNnhfSnpzNXRMZmFvTjNhS0JGRHVSUlFJcnhneXJwSTZxc0JrSTgwSzRMZWdhaXI5MWJweHdrQWZBRjZOODR1eHNpZDFBTDVuMHB0dDlwM2R0NDdtMndnZ28?oc=5",
+   "medio": "Rebelion",
+   "fecha": "2026-11-28T05:23:15+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Ecuador necesita fortalecer su democracia desde las urnas",
+   "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVmtfcXlyOWh3RU5lRW9NTDRZYkx0a2tINFAtcDFZS3lLajdSTkJZTW5yUkh3dzdDcVF2SUo3Y04xd2lIRm8zYnhvSHdab0p5V1lvT2dONVJXVDhGTTR4R1FFZHNhNGpHQkgyN2J4R2g0R3RHbkJGLVV3OWhjNGJyYXh4SGJxaTNtbEhSUVAzUzl5anp3?oc=5",
+   "medio": "El Comercio",
+   "fecha": "2026-11-28T05:05:00+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/urnas-democracia-ecuador.jpg"
+  },
+  {
+   "titulo": "Policía de Ecuador incauta 2.8 toneladas de ketamina ocultas en un depósito aduanero",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDRXWlB1QTNyNTltbnEwU3pHd2ZiTU92VUQ3eUE1Zzl4eWVobTZMbWRISlFub3M5QkFRN1h1eFoyVVRrNktVMm5UanJtMEFRSTdWRDhWM0tGU1RrbG9wN2pTS2ltWEEzSmUyM3FXRUp6UENnbTlEN1VpQWVqLXBKSDlaY21LVzQ4bkk4RWgzcEFSVTQzNjFFei1uTmJTcDFPYkx0OUtGM1MweWJaSDNWWlpJRXJ6cm04Q1NKWGVSREZDVVZ2S19UVUo2SWFFQQ?oc=5",
+   "medio": "Prensa Libre",
+   "fecha": "2026-11-28T04:58:00+00:00",
+   "imagen": "https://www.prensalibre.com/wp-content/themes/ux_prensalibre/client/build/images/ahora/ahora.jpeg"
+  },
+  {
+   "titulo": "Silencio electoral antecede comicios en Ecuador en medio de polémicas",
+   "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSEVqeEhRT0dUd2d0UUIzaWd2Nl9vYXk3QUtSczdxcmoxYm1VcENRbWxxa3ljRlNfM2Zxejh3eXpmWVYtOWFYaHpNcnFoT2RrNDRyUmRQcDlNVFJTSHZfUkRfT1pwMF9vbUE0T2hGb285Z3hzaXR3X3FzOF9qSGFvbHJzd3pyYnVBOXJoWmgzV244MFByUm55czZvRll0bFVmanFhOS1n?oc=5",
+   "medio": "La Radio del Sur",
+   "fecha": "2026-11-28T04:57:22+00:00",
+   "imagen": null
+  },
+  {
+   "titulo": "Cuba perdió ante Ecuador y suma dos reveses en torneo en Venezuela",
+   "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV1UzekNHV3YzMk0zajFrSlk0Z3Z0Rklxb0M5ZE9oX3c5X2t2SEpQdHZfOHpaTXlPQkNXZlEybjExSjc3REpSVW0yMDl5Q19oV1hhXzVfU3lzUm8zZkVHRWJVOGNCRFRaVWVBT1VZZUtpc1ZyUHNIZHd0SFNENm1XdS1FSHVWWFNTcmRrRHJKVUY2QXVtSy05UHgxbHd2QWVySlllU0N0Q3lma3NtTXhxRW80TXduNm5t?oc=5",
+   "medio": "Juventud Rebelde",
+   "fecha": "2026-11-28T04:25:35+00:00",
+   "imagen": "https://www.juventudrebelde.cu/thumbs/600x600/aspectRatio/images/news/2026/11/2Q6u8g_27-11-2026_23.11.41.000000.jpg"
+  },
+  {
+   "titulo": "Ecuador cierra fronteras terrestres con Perú y Colombia para blindar las elecciones",
+   "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb1JJNVhrc2Y3ZWM1MWY2SUFTY2RqTV9wM09sOWNZU1MyNGNwM3ZqWXpoakpldXRyanVRelRJZWdLcHRnU0ZPd0xDU3ZTV2dXNEFINGx0VUxUV0ozV01ERFBuUjlTeGRNaHdGWlNKdy1rNFJqem1UWUZrbE1teGh3SFVEQTFhRDg3R3hvQ1FFTnJNRF9DU0pDMS1yNFdmYVJ2RHJLbHJVT2pmbUx4MnhENE5kdEVpLWhuM1dHTW0xUnFRdUxkWnVodUlxLWdJeGlDazNody1ZbTBZa1R3Tm9JaWdzZ1piTUZKLUdBN3NwN3IwU2ZOaVNOeA?oc=5",
+   "medio": "BioBioChile",
+   "fecha": "2026-11-28T03:25:23+00:00",
+   "imagen": "https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7035660-ecuador-cierra-fronteras-terrestres-con-peru-y-colombia-para-blindar-las-elecciones.jpg"
+  },
+  {
+   "titulo": "DEA destaca cooperación con Ecuador tras incautación de 2,8 toneladas de ketamina",
+   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3ZtSWtGNmpQcnNLM2lqVDdkX2QzZmlPUGNoR1h3NGY3RHJrQU0tQ0ItZTRwdG1wTlozNndUZ2FjWWdaanctLUxHdi1ydmg4ZHNrRFUtVnp6TVV0Njk0RHZsQ3YzUEgzQy02QUhjOGdXcDlYOXlTU01TbERqdVRqd0E4VVBZRE1PbFVzSjNMcE1NWDBYS1ZveGlyTm5EVEdRMk51bkh0NXpnX0hicU1XNFBUbXZNZGp5cl9hUWU4YlI5dERMT3kwdS1VN1VVUElnV1E?oc=5",
+   "medio": "El Telégrafo (por eliminar)",
+   "fecha": "2026-11-28T03:14:27+00:00",
+   "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/aa7eaefc0cbdea63f9ac40249dceed47_L.webp?t=6607ff607f62"
+  },
+  {
+   "titulo": "Ecuador registra 42 desbordamientos de ríos y esteros la noche de este viernes, 27 de noviembre",
+   "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMFAwSS0xQV9sUTcxYkEzWmpvNnl6TWU0Zmg4Ym9JQkpHVmJCRldMNzloTGZZUG1ORTM5RXZmalpnYWo0TE16TWZGY1lIUVBkOUoxOFAtSGR5VlEySHFXdnR0T2hwNjJDSXJCT1BkaklHRVdSTWwwNERIeFpLb01HbXR6ZGtDVkxoVU40akNveGFxS2NKVWdnUk1JbEdVcHVaY0lCSkVLbE5tc1VHNXR5XzN5SmJEcm5Ub1hFR0dUeFVEdWVCZ25GTnBuZkxiSGlkb2dCU1kzWFNkZEJqMHfSAfIBQVVfeXFMTU1SakRzaVBKV3VqaDRlSkRhNHVHSDItOERHMURsdzIxU3N2eUFHYjB5Y196aURhX1R0UjVHLS01YlpDNVFkZVBSZTFrOW5MQVc4aC0xWlFQQU9rSzRRa01DM081UUVfMUI0V3cxSDlIYmcyQkxSNjhGZ2JwaElpN1I4aW1FbUk0WWFOb0poay1zLTQtLVRKcFg2cXZoekl3SmllVXVNbVZMRXI0LTd4WmtMWWVrTGlQVUZFbEVfMktKV1lpYUVFcGFYa0w3NkpZRGZia0dTVEhHZ0trTTFoNmUtYmZIWlY1VlpFbzVJeVFDSXc?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-28T03:05:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/Y2AWWWFMPZBPLBL6SJENTLRTTA.jpg?auth=0189192b5bc0d08f0ce5294b7821de33f5cec67b0a7d93c5c54063871bdfe28b&width=1078&height=670&quality=75&smart=true"
+  },
   {
    "titulo": "Plantón en Ecuador por aumento salarial y derechos laborales",
    "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZThPd21PakIyUHczS3F3ZUcxX0NoVXJvQjhhQ1M3OXdhMGZTYUNLaDV2NEFvZmhZMEppYW5YUGNxbWRLejFSN0oyZ2RicTFaUnhRUHU0bXV2MjhOUXc3NXg5YTNOUXE0Z3NKeml3SGVHMEZWdGZOajZKQm1fSTFaSDVfOU11N2xMQ2FzYkFFN3d4cEJTQ2R1QmlIejVQM3JjT0tJ?oc=5",
    "medio": "Prensa Latina",
-   "fecha": "2026-11-28T02:08:27+00:00",
+   "fecha": "2026-11-28T02:33:00+00:00",
    "imagen": "https://www.prensa-latina.cu/wp-content/uploads/2026/11/HYLJk_XWEAASLMI-1.jpg"
   },
   {
@@ -16,41 +121,6 @@
    "medio": "Noticias Venevisión",
    "fecha": "2026-11-28T01:59:05+00:00",
    "imagen": "https://w2a-noticierovenevision-net.s3.amazonaws.com/public/media/images/elian-centeno-1-1-696x464-055097.jpg"
-  },
-  {
-   "titulo": "(VIDEO) Lugano sobre Ecuador y la Copa América 2028: “Es un momento único para un título o una final”",
-   "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMFZvbmZ3blcySjgxNk5XOW5zbVVNZUF4NWY0QkF3MU42dERwQ1hRNFA0aUhsNDdZbVFpeUJ2R2ZacFVMZVgzWTJhcFZBRUVjdHZPdlQwU3c0ZE9Ld3FVZVpUaFRLT3lXVUdSSlJHWThMLUY1eTJ0QXRvUDNWOHdOXzRVSzVLVzhCUy1pTXJaQ0ROV0pERDhPZEh0X0F3Y0pxMWJiUWZQWExZVXJVNkhwU0s2YjJGREo4aktrbTI1SVRKblJySWJJMXRaUFpScl9sRkE?oc=5",
-   "medio": "Studiofutbol",
-   "fecha": "2026-11-28T01:58:18+00:00",
-   "imagen": "https://studiofutbol.com.ec/wp-content/uploads/2026/11/Captura-de-pantalla-2026-11-17-104237.png"
-  },
-  {
-   "titulo": "Más de 4.000 damnificados en Los Ríos recibirán bono de contingencia",
-   "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaWJwZ3BHaTZKVW94ODlmX1BKUElkNjQ4SE51MUJSUVVLUGtYWWV6RWROdGd0Q3ZkdVRDWXNkSzQxa1ZXckkzRlVfdkU4ZWhvdXR1QnBvUEFBWGJLanRZQTRQWENnN1JwZkFjLUo2NklyWXJXbng1MVcwdzZFelR6YV9pdHQ1eFpYbEx5emcyM0xHQ1oxejJHVTdrSVhvTVhDbjA2N2w0SEJ5b0tMakhnWUJ2UE5Sall6eXfSAc4BQVVfeXFMTXUxcGpKX3U3RUlFdEhzdXZRajBBWE5LbjlTVVBGMVJWUXJBTlg5ZTNTRGVaVTQzUTM2U0RjM19raDFJNXR5b2hGN1ByQnhMU3dCWUt0RmJDY2xHMEJkeEZYLUI0MjdPLTdkNWN4RXRrVk0xN1hzS0ZHWjB6TlhqNE5INVg5RGtxTlNrdk5jd0l2Qk16UmZ1SXRjMUtoLUUtdEI4OGhrdGxpX1h5OUZSdlk2cHhBTkNUQVI1MTVWVE5MUTZLRktHa3VIYXhZbnc?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-28T01:57:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/274U6QMGRJHMHGSE4S5EVQ7T5M.jpg?auth=d2c25df089aafccf41b0a13ef4cfc4e7192caa0d526622f99c97f2f0faf1b98c&width=1005&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Suben a 34 los muertos por las fuertes lluvias provocadas por “El Niño” en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sV1RZaUJ6S0tGV0J6NFJrazJBdkIzWTFIN1ExTlpjU3lON1lMN2x4TEpralNzVU1nTEpiWWlkTXk2YW8yT2kwZ25ScUw0LTA?oc=5",
-   "medio": "El Comentario",
-   "fecha": "2026-11-28T01:49:38+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Ecuador limita el ingreso de extranjeros por las fronteras norte y sur hasta el 1 de diciembre, según Decreto",
-   "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU3llS2JQcjdNY3pOaUpja0ZjTk5yZnZ1YU9MOXFJcnVGNzJFQ1NWYWhaWTRJTWdLcTIzU3FrbEhuM0dlVHlDU191OFlDcWJNNzJMYTQ2X3AxUkgxbWJ2TGYxOXpSOXR3cUhRNDdvblA2Y2hCbG12S2NkM0d5RThGX2VkSzZrWkZVbUpXa1VFYThIN3lrNFVVMHIycjhMX1pfdWtXdkZ3YTRwcUQtYkhZMEdKNmFGampjMHhfYWpfa0h6WkdRV3c5T3FQQ21qeExyUzg5bjc3cEphWk55T3N3X21HNkd4a0tIWmtlXw?oc=5",
-   "medio": "Primicias",
-   "fecha": "2026-11-28T01:48:31+00:00",
-   "imagen": "https://imagenes.primicias.ec/files/og_thumbnail/files/fp/uploads/2026/05/21/6a0f96ddccf17.r_d.654-498-10000.jpeg"
-  },
-  {
-   "titulo": "Ecuador cierra sus fronteras por elecciones seccionales hasta el 1 de diciembre",
-   "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUTBBVDhkWWJvMVlRYTZpQ1FxZEU4X09TTlA4QjBpd2toREVKVnBZdkNEUjVMTkIzeVh4YzVYYlJybWszbUkzaklnczdza3JvWWFpWXZVTmxVR3lsY0NlNlRVbTRJYWZMSHk4MWo3TFlUbXZrakJiU19EbkN2UWR4dzd6bDd3SVJvRjI2U3hWOVNMd1ZsOElOaUFvR2RtMDAyUlNSaEpONjNhYVV4REhpVw?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-11-28T01:45:30+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/05/cf9fe6ec37a4684478d033636b8e4b14.jpg"
   },
   {
    "titulo": "Este es el rival de Ecuador para los 16avos del Mundial sub-17",
@@ -88,18 +158,11 @@
    "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png"
   },
   {
-   "titulo": "Lluvias en Ecuador por El Niño ya dejan 34 muertos y miles de afectados",
-   "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRlR3RTNiVkVwLVcyWkdSblRfOXZSR25tSVY4RF8xMFBHeFVmZlZocmZXLXVzcnpZQ3cyaWxxSWxwSUp5SFhodTk2cHdfLUR3amFvZms5SHhhQS1SZm5XbjRvakxHb2xMeF9pM2dZcTlVWHU0N0F1ZXJqLVFaUjBsOUNydzg3cGh3S3lyaEE2bi1NY0pVNm9oVWVZRFh6SWdkMlVmQlQzbFM?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-11-27T23:59:57+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/lluvias-en-ecaudor-el-nino-api-babahoyo-1024x683.png"
-  },
-  {
-   "titulo": "Efecto de El Niño: van 34 muertos en Ecuador por fuertes inundaciones que provocaron deslizamientos de tierra",
-   "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUTc3NmJWX3k3YUExbFdqOG1VT0hkbHZzZWpZY0E3djFwNlR0RElwUFdFSGlqLW82cFVjWmVveEgyMmRpdVdmcUhWWW10WXNYSXBXTVlONGlXY3RtMkpfS3Z0R3A4bmhpdmsxWjV6QndFY0VtWUlxRXRrLVF2a3Zyd2JQVlRLdXVPWXNiMnBXME13NS1MY05GSFQ0TlhGYmd2eElJVGNrS0Nack1HTG1fRUoxYjVhcTdJdzkyWFh2NWQ0dmtoMXRxVVRQamZvRzhwdWZVZURGVQ?oc=5",
-   "medio": "EL PAÍS Uruguay",
-   "fecha": "2026-11-27T23:54:29+00:00",
-   "imagen": null
+   "titulo": "Fenómeno de El Niño causa graves inundaciones en Perú y Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdl9PVGN4S0U3VUdwTi1xZUdZQkhjcVhhMTJocmJJbkdDNHloRlFFODJlZ2ItQTJWVzRUb2NsZVI2RkRIdlB1Tmt5Q0VMYUxfa0lINElWbzdvYlBxdFRxRWNlWjhYV1FISzNISDdBVFUxT0FXczFDM2lIMlJ1Q1UzYWdvSnNkSDlBT1VfR2NlQ2JGQjBEQ0NDMW5jS0ZuREtw?oc=5",
+   "medio": "RTVC Noticias",
+   "fecha": "2026-11-27T23:36:56+00:00",
+   "imagen": "https://rtvc-informativo.s3.amazonaws.com/assets/public/2026-11/fenomeno-de-el-nino-causa-inundaciones-en-peru-y-ecuador.jpg"
   },
   {
    "titulo": "Ecuador: ¿por qué Estados Unidos pausó las operaciones militares conjuntas contra el narcotráfico?",
@@ -107,13 +170,6 @@
    "medio": "El Comercio Perú",
    "fecha": "2026-11-27T22:59:32+00:00",
    "imagen": "https://elcomercio.pe/resizer/v2/NIC65C22JZA5BI4POJFBH5CBZE.jpg?auth=72dedcce1590e9e02dc04d1b53e5f7d7817a04915ea4cff13b9313e26519ff51&width=980&height=528&quality=75&smart=true"
-  },
-  {
-   "titulo": "Tristeza. Las lluvias por El Niño dejan 34 muertos en Ecuador y más de 126 mil afectados",
-   "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVM0WXo2TWw3SFVhcjVyNFVkSWtPcjRwRXVyYVZBQm1yalRTTHpBdDJ0MURsdjVsWnpld0EzS252cmh1OGhzb2dJdlpqQU0xS2dieTE3RkpseFJCZzZfNGZxTl9VYzFiNjhUSHZQQmJpRlc2TzFZS1FUTllrN1c0NWdpdlI0Q3hrdG1ISDIxZFhsU2E1Q053NHB4SnVGVk4yYzNnVEcydw?oc=5",
-   "medio": "La Voz del Interior",
-   "fecha": "2026-11-27T22:48:06+00:00",
-   "imagen": "https://www.lavoz.com.ar/2026/10/04/LNwYEPQGbh_1300x867.jpg"
   },
   {
    "titulo": "Ecuador vota bajo agua: El Niño mata a 34 y van 126.935 afectados",
@@ -128,13 +184,6 @@
    "medio": "El Telégrafo (por eliminar)",
    "fecha": "2026-11-27T22:14:22+00:00",
    "imagen": "https://www.eltelegrafo.com.ec/media/k2/items/cache/bb338122a8c7da11311c52cdc9af91c0_L.webp?t=d9da6c5b7232"
-  },
-  {
-   "titulo": "¡DOMINGO DE URNAS! España y Ecuador cierran campañas ante elecciones decisivas este 29 de noviembre",
-   "enlace": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5lZW9scVRuWEk3TERfcFJILWJVYWY4cDFJZEdHTEpqZGtCV0h2aFcxVDQ1YV9EazZMTlM0?oc=5",
-   "medio": "Howl.Link",
-   "fecha": "2026-11-27T22:08:33+00:00",
-   "imagen": "https://media.noticiaalminuto.com/wp-content/uploads/2026/11/Elecciones.jpg"
   },
   {
    "titulo": "Elecciones locales en Ecuador: Noboa busca desplazar al correísmo, que sufre la inhabilitación",
@@ -158,20 +207,6 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/NO24HQPR7RDUDMGRUW3Y63KAEM.jpg?auth=6120913f2a629bf189dad32c6d4792573a03ed688e4df465867a78a9987eb6ab&width=1271&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Video: Fuertes lluvias dejan 34 muertos y más de 100 mil damnificados en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONzhRdG5TMGxxb3FUNEx6UlVlV0I4SU9hVzgtZmFVWDEtaTNqbHZFZ21yb2FmOUtXRFZLQzNjbnZxUmxHQlhhWEZtU3ZrcVMyQmY0QjUwcXgxdldHc08yVEpIb2d1M1dHN2swaTgxeG80YmtSU1drOFhZWElkcmRrb1d2U0o4YW1XZWxkNjJzX1U0WEpFb0VJTlc2QVJKdmZs?oc=5",
-   "medio": "Quinta Fuerza",
-   "fecha": "2026-11-27T21:51:56+00:00",
-   "imagen": "https://quintafuerza.mx/api/v1/og/photo/video-fuertes-lluvias-dejan-muertos-mas-100-mil-damnificados-ecuador.jpg"
-  },
-  {
-   "titulo": "Venezuela debutó con contundente victoria sobre Ecuador en Pre Clasificatorios al FIBA AmeriCup 2029",
-   "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd2JYTmFQTGctLUZvbjYweG1ZdHZpbFZyYlVLeVhweldIVmk4Ykl1Y1FRV0o3QzRZZjNXcGdmUEFZZlI3M05EZWlhd2FlS3czWDM4REVsYjFVWktrdEYwRlIxdzNlNkJZd016dkRwQm1YTWtjWGhkQlJ2Wl85Ny02ZE5KYjdKQ3dBVTFYQllpYkVoeDBfU0tLUElzMXBMRkVSRE5EOGR5bllKNUJWTS1NWWU0UzJIRDhwWDdWT0lLdkRoWEdNaWZGbGh3?oc=5",
-   "medio": "DiarioVea",
-   "fecha": "2026-11-27T21:45:43+00:00",
-   "imagen": "https://diariovea.com.ve/wp-content/uploads/2026/11/Elian-Centeno-1-1.jpg"
-  },
-  {
    "titulo": "Ecuador suspende por seguridad atención del Registro Civil de Guayaquil a días de comicios",
    "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMzROZk40bXJMbzZyUUF4X2lObUlxeVVGWEQzdU5fLXZ0ZnVMVmhYTndKR0RUanVhdmdBR1pydUZmejZmWnQ1UF9ITEhnYVhKQlJIbTVnSUhJeGFESUZUN1p2Z2xPQ2d5eDQzd29FWHdGVk1GQzExY0thMmlrT1RrV1Q0NU9LeTBZd2N0REowTTFaSzFFYVBKTFczaFhzNEpEcS1Fc3Z3TFFoaG5ISjN2a0l2b1JWOEd5QUtxOFhISExJTjJpM3lzLUFndmh0SEIxWEh5MGpXaExBb1HSAfYBQVVfeXFMTmR6Y2FKaldINjlDanNtTEdQUkZOeFlIbE9SNzQyYVZ2aFRlZHBvQXlINEpobUlaV1FhaDJRUG1aR3o0c0hLWThSTE1hdjdGVHRnbmRiZkhLbjllbndxcy1NNmV6emFsdHZBS1JJWEVyNFh1S0hGRmQtV19IN1JvVzN4anNzSkFmc3FFdGtzaGZacFlxMGlQSXBIcGg0RG1wZ0ZoQ1M0R3M0Z2p3RmYtUTl6QXZETXBDLVhNcGg0MVR6TGtMQ0FZNzlWbVFyQUZKLThKYUxFeHlGV3RVRm5oaDBRUktId29MUGRVOFM4TjZXNXR4S2V3?oc=5",
    "medio": "Infobae",
@@ -186,13 +221,6 @@
    "imagen": null
   },
   {
-   "titulo": "Un mantense está entre los 18 rostros de los más buscados de Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGlEQzYtaEdQR2xSUjNpT2d6dlFuVDFCb3RQQWJfdUZuNEFtTUdyNlktVDZvUXpKZkZRWVBOUTJ6NFJTQ0wzYm1tdFk2RGpwUU5DbDhHSE1XRk42VnFjS24zTEx1R0drbjBMalhMSlQwLXd3X09KdW9wMmJtZWFNTldMZnZ1NzRQY1lhVHNXZ3BfNzlOb0tUM214QVdKeklwbXRUdnRwZXFNZWlmNE82TzFR?oc=5",
-   "medio": "El Diario Ecuador",
-   "fecha": "2026-11-27T21:18:41+00:00",
-   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17110F55574945741F171818524244721C12-2000x1125.jpg"
-  },
-  {
    "titulo": "Ecuador ya conoce a su rival para los 16avos de final del Mundial Sub-17",
    "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1NLQTU3eGpNVm9CR09kbXpVQVhCLTNEZ3A3QlQwNncwbDhNYktKZGFyVi1wT0lRN3BVRnExWVBsVFYzT1RSSGtUbFNkVE01RThuZWF5MFVxTDVKRXJibzdObmZER2tjNTJFSDV2cnBseXZsSkVsMzhUMXcwWE0zN3VGSDhfU2VXVFZoTjZ2LXIwN1d2T1NSYjVxTEY5NXhK?oc=5",
    "medio": "ESPN Deportes",
@@ -200,39 +228,32 @@
    "imagen": null
   },
   {
-   "titulo": "¿Viajará para votar? Estas vías tienen problemas por las lluvias en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFg1NVVYeWxtUmdpTlRScklyUWNjaGlKWXhMU2w0X2stYXlQZHRXcm1vd0hVcm9kdEduWWF6b3ZRZlRqOV9CbXRBd3otYUJwUlZtZ0pMR3NCR09QTTZIbG0zUjI4bDUzUWNzdTlKT0gzVFhjQURxNmg4X1pOOHZDSU9YMHdQVk1Bd2VrMFgtbzVGSldLTVYzTnFkQWgxdzAxcUlKWFlxTVdUV3RPa0lrbFdiTFphUQ?oc=5",
-   "medio": "El Diario Ecuador",
-   "fecha": "2026-11-27T20:54:58+00:00",
-   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17110F55544941741F171D18524244721D1F-2000x1125.jpg"
+   "titulo": "Primer Día Internacional contra el Matrimonio Infantil: en Ecuador, unas 30.000 niñas y adolescentes viven en uniones tempranas",
+   "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQ0g2R2NsMUdJODVacUdOMzg3SUZRQ3NCNVpOakpwbXJpX1NXbWJiT2FGbGVzdXQ5TkFRZjhuQ2hHMThrME5hcTdOOF8xbEx3eUZyQ2hNSnNkWDM4SE40d0Yxc3NOTW9Vc0s5VnVQM3cxNWZvLVpGbFNkWWM0aEM4b3Nsd05fZHd5dVVGQVkzd012QlI3TFNnZkRJc1JCM1dYd201Q0pBU29KQnZ3MTNJeGh2SkV0ck5HWmxmQUhRcFNPX3pLdXZraXNZLVhveExCRGJXTTNPVXc0YnF3RXplZF9scXNXekVwU1BjY21FVlg5REVGVXNDRnNEZlBoQXMwajl6M00xY9IBmwJBVV95cUxOX1pVY21NdGlRbjFLbllnS1NmWlltSHBKZHJFWmZNMkt2OUVKRW51OXNWYW5xWmVuOWdnV0hnc2RlQzROb0hsNTctallkWVpUX2NjN2NRVmtSR1FKNGtGd3lSV2s3cWNlbjlPVUQ3YzhlQUhHR2VDVTM5RUNOc0xOZURXOGk5SngzYldHLW1XSmlBYmdvM1Y0bThHeWNseUprLUQxdy1fLURpUzdXRHlVVElEbW1UMUNORDF5WkNkdi00a0RHMzc4UHJDTTF3REgtaXNHcW9SVFRwTzNvVm9CV1U5UnZBbVN6V3dGSGlPdUpTWjEycGJlTmNmTVZSX244ZDMxS2hPMlpZMmxKa1ZWVDNGRGdNbUJ2M00w?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-27T21:00:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/MISPCX5P2VB4ZNNL527TTLR7MY.jpg?auth=de95e46798f1de569de9e847f2f22e8dbad0ea72353d4da96efd696d0d61be05&width=893&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Copa América 2028 vuelve a Estados Unidos y Ecuador queda nuevamente relegado -",
-   "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXRFN0wxanBxVFVzWTJ6Q3ZBMXpKbXBHS2Rpb3Vfc0RhWWdsSHVlb3IxTVd6QTBNRG4ySHNVWVBWZE5JYVhCd1Q1SWpCSVB3aEZxV0hvWVFYa0dkazVVcTdPWWFocmxteVZ1VW1zSVZIMm5pVzRoMC1PR2hybTFSNkQ2YUJ6U3YzUW9rRlZySjM0RDJPMFU4?oc=5",
-   "medio": "Bendito Fútbol",
-   "fecha": "2026-11-27T20:35:11+00:00",
-   "imagen": "https://www.benditofutbol.com/wp-content/uploads/2026/11/Copa-America-2028-sera-en-Estados-Unidos-por-tercera-vez-en-12-anos.jpg"
+   "titulo": "Inundaciones por el fenómeno del Niño ya dejan 34 muertos y cerca de 47.000 damnificados en Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMmJld3hFTHViUXZTcFV5WjFKdWp2RUNMWGlrZlU1N095QkRTZ01vREMtTUYxYW1RMThNNlhyYzRMTE9jaksxNk1Ca05VdlRsQTV1SDZlQTJZTGNhd0IzdWVYcVc0Qk5NMVdZby1FWll4YlBNeFJRazB4WllUOHZrblJkQl9KczBzSXNyQmttNjdWS2tuSG5nRlZTZkc4Zlp3SXdDMG1XRFkxcloxNXlUOGdIU2VLUXpBc2F6VUs0UUdEemFnM1l6dmFna3dvY055M3JmUG5acVd3bzJKeHBxd2Nsb1o0aknSAewBQVVfeXFMT2luZHVPUlVfYVItbGVua2dqeVp6NUY1MzhHOWlHV2VJOGtsN2wxeWpIT1U3ME1YdnlvWnVlcWtCc0JCWTctRHFkNTdVc0pwbFBtVFpzSHBDZmNENG5rWkFZTHhmX1p5REwzQncxaFkxb2hlNjZCenNDREIzYzFENUdKVnlnRWlNQk9uTEZuN3pabm1fR0ZwcVkzTzJUWTJVZk52Q0dLRkprWVhHY0pEZUlvLVo5LXRBbHdITXZTbHcyeXFUa2g2c0M3Y1FlY09VckpCT0lMVHZnSU9pQ2FHdHhONWx6STd6bjdnNjM?oc=5",
+   "medio": "El Tiempo",
+   "fecha": "2026-11-27T20:56:22+00:00",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/27/6b09ecd996f79.jpeg"
+  },
+  {
+   "titulo": "Decreto 424 no confirma invasión de EE.UU.",
+   "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYS1tTUR3YWt4X2tGcXBCbTJPOTd0cnk5Z3duSGpNTXN5MVp2cmxtWDVrZjRrTlhkaVNtaEVTTTFyN1lGU0dvek9rZ2MtYTByRVJWQ3Q3X25qNEdEU1ZfM2UydmViZ0NRaVJ5VnN0ZUN1MkU4SGRoZFZSSFRJRzEyTTVpeE5rdjg5NS16Y0dPSl83S2lmMnp6VE1namlIVnc?oc=5",
+   "medio": "Ecuador Chequea",
+   "fecha": "2026-11-27T20:53:31+00:00",
+   "imagen": "https://d3tyyr0l6dag5l.cloudfront.net/wp-content/uploads/2026/11/27144325/Decreto-424verificacion.jpeg"
   },
   {
    "titulo": "Ley seca en Ecuador: ¿a qué hora empieza y cuándo termina por las elecciones del 29 de noviembre?",
    "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU3pxR3ZiYWdNalhXUUpCQlZSUHo3aUVvNEh3YmV4WGtzc08yVHpVWVdQODU3TDBoR2JPTklTSXQwSE5HRFd1SGdMMm1fdzAzMFJKU2g3SFQtT3Y5R1BnMkdILVFJQUxkMU5xQjlHN1JzWERxYWhENGg3akJuQzd3TEsxVkNmWmhtSDJDX3ZfUXBXZ2Z3WnBQMnEwNUJ2U195Z0xzc1E2RXZTOU5URmRidGJ1dDhhdE1ySnc?oc=5",
    "medio": "Confirmado.net",
    "fecha": "2026-11-27T20:31:33+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Inundaciones asociadas a El Niño dejan 34 muertos en Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW5BMWUxTkxnN2djY3hoMjlsVmxHWkxSSUl4NThmWVV1bV9RMC1FbEFNTnViQXBIWEdJNHFKMnBiUVBKZUFHMExETXlqOTZGckxGT2FWeFhnOTFkeUw0UUMzSHIxeDRxWWw1MGJXVW0xYUFORDJjaWt0VU5EaU5xSTFJUkVwS0J6RndrV3RPWDN5dElFVVZqNWVVa1ZKY09EMWN5bmVlY283SDJk?oc=5",
-   "medio": "Gestión",
-   "fecha": "2026-11-27T20:28:13+00:00",
-   "imagen": "https://gestion.pe/resizer/v2/2SGHWT7ONNGHLO6T5AH5HNTKXM.jpg?auth=4a597ee65d2feb2481bde9dc87e3358cf0a793029bf0faddcb80a22d98331bc6&width=980&height=528&quality=75&smart=true"
-  },
-  {
-   "titulo": "Registro Civil del Ecuador extiende sus horarios en las agencias de Guayaquil sin turno previo",
-   "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSmRMYUwxOHFDdFdvU21GM21OVTE2RmFHektmMXlTTUgxRzdMT0g5dGtuRTF0NHpTLVRHbXhlbFA1NlItZUJxdlFrOWJHOTRoSWZBaElKZm1VSFAxOGkyTGtWUlhRT3N1bWltdkRZaWZ3ajNxOEE0cWdiMlhjWUtlc2k1bE9DMTZvcDlpZGlsaVU4REJyNGFTMjlMNVpIOUNNZzEyNjNPb2c1dDE4OElPYkVPUTVSRHZaLTJTM0pjbHJOVG04OFdSNFNaMmdjejE1MnFHM2pOS21mcnNIWXNtNtIB9AFBVV95cUxQMjRkaUJkd24zRTMyM1pwVmpoaGxyZmhRYUdOREUyVllzc1h0NXdXVGV1TU0xRmMxMWk5QXM4RllZd0tqR0pRci1NVG9COXhRdWNGOGFLMHBiSGRNcVBkVGNrMjhLaEdObm1VLW5xVzBUY252OThZWUdMYVBBSWFDOGlET1d0NWJwU1hBc1ZhakZpM2tOTmRJSUx4SkphaDdmRk9RU1phUVJvT0w2Mm5lYnAyOHRZbm9iTHBXTHBucGVKenl6cVpURVY2dG1hQXZ6STFhZHc0NFEwNTZjaFo1N2lNX2xIRTluc3JEUTR4UTUtNmJp?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-27T20:15:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/PXTKB6JM4JDLDHAPHNN6JEL6KQ.jpg?auth=42fc7d4fa08c5cb38797a4f9843cc35b47a47e3aab5f409cd0c14adc32726d12&width=1190&height=670&quality=75&smart=true"
+   "imagen": "https://confirmado.net/wp-content/uploads/2026/11/ley-seca.png"
   },
   {
    "titulo": "Ecuador enfrentará a Grecia en los dieciseisavos de final del Mundial Sub-17",
@@ -250,10 +271,17 @@
   },
   {
    "titulo": "¿A qué hora juegan Palmeiras y Estudiantes de La Plata y por qué canal ver la final de la Libertadores en Ecuador?",
-   "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYTRqRzRoc1pBcEFlVEhjQTVWck5mOUswc2VGYXJacmVTNkpWbWt5LVFnVGtzelMxTjE4WWR0emFlUXBXaHN6Umx3SkdTTkhxSGlLQXFoVXRHaXdfc05CN25Rei1Wdmo0ekF3WHc2VTRxQXlSdkZRWUJjRVlVOERlTVhPUG1WNWxzVkV0aTZDX3pEX3hIaGZsQjZnTGVqelVxaVh2aWlEY1pubHhBbXNYdUVwYXhFWlY4RUNEaUxuWVE3aGY0TTJIbHRGaW5RVGlPd2tVNGJkZGNjSmdYa3RmMkc2WGs4Z2ZQRHNFVWc0WlBfMTJKZG1OOHJQekZSVUozalVmRGU1bGg?oc=5",
+   "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNm9qYUZhTmwzaDRBUDJYRjFRMjc4N1o1WEpWLXBXcGNSNFluZVBUTHpCX3ZiTVpkVUdsWk1qODZWdnNfTFVwdkNvY1ZCTHZFYVZ3OTh2TzctclY1VG5JR2NVWktCYVVBNFNSXzZuSl95MnMzUU5oM1ZJOElLMmptQW5YYVByVVhzeGlqaERmb3hwS0JlSzR4NFR5N0ZmR0RXRENIUEdTb0lNc291OXg1Wi1wa3BSd01ZaFpxd3VOMHJUNFFoSXpxc1FGS21oZ1A1cE5IeE5abkgxb1paMTBZS21rSlE2SHhmcVg2M2JmcUtMdWvSAYcCQVVfeXFMT0tkZXlSZV94MFZFa3hHdnprRnJUT2RyZE1pSU5VZjlxUV9WMHd0X0NlVE5aSWF1VTItc0YxZnVnU09wc3g5eFAtSnVwZHZXT0FzMWtHWUVOc1FiaVlCbS15X29zTW9TRlNrU09QdGlZMW85YkVDV0o5VzgyRjZVZmtrUVdCcmJ1VGtEdUlreElsT3Q0RU96VzRDcng5cFUyQ25Lb01WVDc3TVdRblpZeTFoWHRUVkR2TzZqSUVLamFqM3FwWEJwUWxSaUdVTHJYS0JWS1c5eUczTnBTSXdDQm40WnhZSDhlSldJc2tTVmI3SXJxeE1DUThBMDdna0xSOG5NVFVEdlk?oc=5",
    "medio": "El Universo",
    "fecha": "2026-11-27T20:01:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/ZW4FZJLZOJDYNNQHBVIBZS4DA4.jpg?auth=020cf7ceb84f2ba6bf03e6618d358094c5b48b622dcfedf7b1a787f2a65f8785&width=1190&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "Servando & Florentino regresan a Ecuador en 2027: fechas, ciudades y detalles de sus conciertos",
+   "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORlFVenBuT0R1Ull6aS01MFE5SkdiT3Q5VVFHelNBVWpUTE0tYlhoZExqZnI1SXdfSmZSZFhxNVJxc2lLbW85RVB4RDNpOEh1a1FvZ3V2MUt2M0JVUW55MElsc2lMMEhoRzRKQXBVdkVNWGNmdHlDVjRIRnozTWlNTE9PWUV6OWpTYTFaZDRlQ1ZwYV9KV2NwNVptOXdlR0ZhRW5oaWdzWWFud1M3dnh6aUhyUTBFT2h1TWQxNzA0dm9JLV9MbEgzYi1JRzlMdGprYkNIaG130gHbAUFVX3lxTE1qU3VfNU5HSzBYRnlyMXZqSk1kT0FkV1NTbXB1RGp5MU04ZEVZRDRXOERFRjkyZmdYMkpQZDBpc0hHbS1VN2hGclNUbDNLLUxFazJiV1c5VWlxVy0yakhFMXk5ZHJSRElnOTFJU3lXYi0xXzIzQl9ZUU0xZFZZWnQ2aUY1aUhkWUdET0NreXo4MFhzUGJ3bEdoeVctQVhlZEx0eURTU0Y5cnlxMkFtYkNnb245aVA5c0l1dS1WYXYtWUY0TlNpckJJN0VyT0xwTlhzRkd6dzZEUmF2QQ?oc=5",
+   "medio": "Vistazo",
+   "fecha": "2026-11-27T19:32:20+00:00",
+   "imagen": "https://www.vistazo.com/binrepository/1148x601/0c0/600d600/none/12727/XFXU/portadas-web-2026-11-27t142826_2779193_20261127142843.jpg"
   },
   {
    "titulo": "Gobierno de Noboa avanza en su plan para combatir la violencia en Ecuador: el rol de EE.UU.",
@@ -263,39 +291,11 @@
    "imagen": "https://gestion.pe/resizer/v2/VOLRF6DU2NFCNBTYZNECWFKCRI.png?auth=fd646f7e0842da23eb4002e7fa12f4a90c903f085c8e473ee018d27065096857&width=980&height=528&quality=75&smart=true"
   },
   {
-   "titulo": "Primer Día Internacional contra el Matrimonio Infantil: en Ecuador, unas 30.000 niñas y adolescentes viven en uniones tempranas",
-   "enlace": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQ0g2R2NsMUdJODVacUdOMzg3SUZRQ3NCNVpOakpwbXJpX1NXbWJiT2FGbGVzdXQ5TkFRZjhuQ2hHMThrME5hcTdOOF8xbEx3eUZyQ2hNSnNkWDM4SE40d0Yxc3NOTW9Vc0s5VnVQM3cxNWZvLVpGbFNkWWM0aEM4b3Nsd05fZHd5dVVGQVkzd012QlI3TFNnZkRJc1JCM1dYd201Q0pBU29KQnZ3MTNJeGh2SkV0ck5HWmxmQUhRcFNPX3pLdXZraXNZLVhveExCRGJXTTNPVXc0YnF3RXplZF9scXNXekVwU1BjY21FVlg5REVGVXNDRnNEZlBoQXMwajl6M00xY9IBmwJBVV95cUxOX1pVY21NdGlRbjFLbllnS1NmWlltSHBKZHJFWmZNMkt2OUVKRW51OXNWYW5xWmVuOWdnV0hnc2RlQzROb0hsNTctallkWVpUX2NjN2NRVmtSR1FKNGtGd3lSV2s3cWNlbjlPVUQ3YzhlQUhHR2VDVTM5RUNOc0xOZURXOGk5SngzYldHLW1XSmlBYmdvM1Y0bThHeWNseUprLUQxdy1fLURpUzdXRHlVVElEbW1UMUNORDF5WkNkdi00a0RHMzc4UHJDTTF3REgtaXNHcW9SVFRwTzNvVm9CV1U5UnZBbVN6V3dGSGlPdUpTWjEycGJlTmNmTVZSX244ZDMxS2hPMlpZMmxKa1ZWVDNGRGdNbUJ2M00w?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-27T19:28:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/MISPCX5P2VB4ZNNL527TTLR7MY.jpg?auth=de95e46798f1de569de9e847f2f22e8dbad0ea72353d4da96efd696d0d61be05&width=893&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Inteligencia artificial en Ecuador: quién supervisa su uso y qué falta regular",
-   "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWWpMUTVwdFBkMXlqVG5tLVQwUXF1OUtSMkQ2NS1oN2MzSmhNLURJRXdtRXBTekxKOWlqNVhiTEVZQXlqdTRnOGJHNHdNR0hJSm90ZmtKSm5jc1oxeTJ3d3VMMUtJem8tT3VRcHZETDN6ckJOZXJLWGhuR2gxSkRsaUlNYkFUTS1rb01ySHhNTWNUSjFyelhWYzNQRjVzdVc5NXY4V0l4cXUwNFdCUm9fdHVtNnRzYWRIRWRsZG9pXzFUeUlSWFRUdXdwSdIB3wFBVV95cUxNMENSRmlzdlhYWUxCVWoxUjhtSTc5VkN1SVRQLU5iRF9BbHIxTU1iejZfcnFLM2ZPcWUtSEdTWWpyR2o0Q3d6Z3l3SVNNTVM3UEZycG5GcTJCUllKZ29RdkNaWktIdTJqZ1lfTllDc1JBQmZKSlZwaWVfUXpNQ19SaWxnQ1lQOTNqQ2hpa01KZGV4UzBzUTMzbTFJMDFGMWY4dlh5MHhnZmFfazJTdU01N05adGJkRm5sek5iakNJaWo5Wk93SWUyelJVek5qeXF3YjVWRFZxR0RneklRdHZN?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-27T19:28:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/IL3UX4REPVCV3F75YNOALFZKDI.jpg?auth=edab2d0850ec3e191ea9e2df789afc18da7d68ffecd26598dec7be5e8a7246fa&width=1005&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Eryc Castillo sería convocado a la selección de Ecuador para la fecha FIFA de marzo",
    "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0RaUTl1TGhCZTBXZUVCeWw1MkZLUHBDeHBSREtFOGRMTWRXMThJUUpKZlROOWtnVjFmaGRERFVvX0tyQVpiV2tleHMtMHE0NWpoU0xIWlNuc3NVYVNaZmVYX191Rk43X2hPdmhmT0RnS19SdmdwVUdsQXhKajZWSmZCcDdlUG5QbmNUYnNOXy03dVp4QzZQQnZ0X0lTcE1PVnFDWHdEaUZ3ZEhZdnlycDVWV29sZ1BKLWt0MVFtdkJPRVJDX1BCanhBc1XSAeABQVVfeXFMTzNKTnhFMWE4T0V0Y2N3NHRHWlhKUkd2bGh6NzdEbFdrdFZab3hybW9lRnhWZHpJTE5qSTlsaTAwc0Z1ZGVvYXFRVDZrMFRQN0dPWnMzVkNuUFFFZ3FrQWpqMDBQaUJpM2VWcGpMWVgyM1hpbTAza3pOVVJWV3VYaWJHUXo2OVJUX0pOS0R3bTJpZjE5WjIxZVFKSGtmRFNDczlRbk4yLUZzeUxDWnhVNVowdlFkUEhhdHZ0MktWRllGRWpXY1FZV0t6OXFRVC1leWVOY3V5YkN5QXBXenA5eXU?oc=5",
    "medio": "El Universo",
    "fecha": "2026-11-27T19:14:00+00:00",
    "imagen": "https://www.eluniverso.com/resizer/v2/PUJKKTXW75BTRNYSYEJ6KIDVHQ.jpg?auth=06b0506476c8c2cad53df498af1667b0fa0c2d29518a44d561ec3a0b9a3a571c&width=893&height=670&quality=75&smart=true"
-  },
-  {
-   "titulo": "Fotografiar el voto sigue prohibido en Ecuador, ¿qué sanciones contempla la norma?",
-   "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUwybFc3a3lld2ZRblN1Q1dBSS1mZkZka3VVQi01TWtETGpZRThIMzFuVVB2Z3gwQUozZVZQQmZfLV9BaXBDOHhHcWFFdkhXRGJGb2VkZnE5dVdQV0U4MUFOd2dkRTJibXY3VVBJb1JoZElycDdHSWNBdXRKd2tCUnlUdVRsVTZ1S1VHRVF4TFBtZGxyTjBiQmVkN2dtX2hhcmtQQ2VkUGQ0V3FaX3c?oc=5",
-   "medio": "El Comercio",
-   "fecha": "2026-11-27T19:08:37+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/24582eb5b8d7000a125105090ead2418-1-scaled.jpg"
-  },
-  {
-   "titulo": "Ecuador Sub-17 se medirá ante la invicta Grecia en dieciseisavos de final del Mundial",
-   "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ3JkdXRQbTRVZkdRLUxfM2FJUjNwWHd0X3FoakdZYjd5NzdHZmszSVlaUnEzUURVSEhTOUJERXAzTlNJcTF4SW13WWFzZm5XWE1WdVlBRWc0ajJQd2o1UmVFdkN2a095Z3h3UUNpd1ljem9PelBpVm5MSWRXX1RiVjQwREFTY19xN1ZSRF9CMUNVbll2b1dIckV0bFhkQmd0blYzMmZ5Y0RYS3BvNTB4ZjBtUnZDUXpUeFZZckt2QWx6WEYydllN?oc=5",
-   "medio": "El Diario Ecuador",
-   "fecha": "2026-11-27T18:47:07+00:00",
-   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D17110F55524940731F171F18524244721312-2000x1125.jpg"
   },
   {
    "titulo": "Ecuador enfrentará a Grecia en los dieciseisavos de final del Mundial Sub-17 de Qatar 2026",
@@ -326,25 +326,11 @@
    "imagen": "https://studiofutbol.com.ec/wp-content/uploads/2026/11/HX-zd1PX0AEBHwz.jpg"
   },
   {
-   "titulo": "Elecciones locales en Ecuador continúan con voto desde casa de personas con discapacidad",
-   "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaW52U3dROS10azF5NnhkeXBGd3p1dlVNcmI1cEFsVGozTVVfMXRBNGR4b2k4NzRRcjZJY1BTZGNKMmVHVVBvSkFLSjE5ZDVtMmZPdDZrUjRpTnRTc1dNS3dTdDhtQnVGWk9WcTVZekZPQjgyRkhGS09LaXNTN042UGdUdnBqUXJhTjZaZXg2aHNmQ3MzQWNkODlYV2lReHJNLVB5WEJLZkNGbDlrUjY0?oc=5",
-   "medio": "HolaNews",
-   "fecha": "2026-11-27T18:21:30+00:00",
-   "imagen": "https://d3k76ktnld9l0g.cloudfront.net/wp-content/uploads/2026/11/27163550/rss-efe147f4d1ef516ed2f73ff3585818ecfdc478e4642w.jpg"
-  },
-  {
-   "titulo": "Ecuador: la FIP y la FEPALC alertan por la grave escalada de ataques contra la prensa",
-   "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOXMtVTV2bk9TSEdsT3g4Tm5LdmloWE9lY09aTkM3VWJwOFRXNGFFcEtpMHlkWVZjdzlLa1VPZVRyanV6RkYyTTBFQnZxWFpzR1Ffd1RMcE9BMm91d2pkTkxjQXhDYUg4NnoxbUc0c1hBc0daeXdaclIwcGFVLXFmTGJZRHVBcWhlUGtNdFRoZVVhX2E4ems2YnZndk5Pa2NPY0tTOG96RjljeUNWdDlQdkFqRnZKSm0xTEhGcHN5N3gzQVp4VXF5M3VYMFFIMnVVaFowanB2MU8yc1JaTlB6TE16aHdSdVQ4NGJhalg3S1BYUmc?oc=5",
+   "titulo": "Ecuador: la FIP y la FEPALC alertan por la grave escalada de ataques contra la prensa / FIP",
+   "enlace": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeGU2YkFUT3NGeFVSby1UUDJ3aU94cjJHOXBxRnlSa25jTm1vZ2ItSlNZbktPOVVid3JaaWR5ak9mNTBIODJmQjB2ZThHeUx5TndfZmtlQURCWjhfQ19JTVgzY2IzRlo4Z0VRajZSQUR2ZzBwemdrUW9ta0ZRb2RHY0p1aTIyRkhzbGpVTHVseWQtVUR4NHhXc2VhSEpabVljc2xJNERlNXlINTFVZGZsdmUyZlk0QUUyeUthRzJJLV9LbjJzVXBzd3BpTkRacENXckJrb0tYNXl6dXBSakFwYklobG1BbEJud0FTWUlVaDg5UmQxSXZuWlRZekpyYnZWZ2F2UFhuTjU5Zw?oc=5",
    "medio": "International Federation of Journalists - IFJ",
-   "fecha": "2026-11-27T18:20:48+00:00",
+   "fecha": "2026-11-27T18:24:07+00:00",
    "imagen": "https://www.ifj.org/fileadmin/_processed_/7/7/csm_Ecuador_amenaza_52b2f633a7.jpeg"
-  },
-  {
-   "titulo": "OEA alerta sobre violencia electoral en Ecuador y pide garantizar una jornada pacífica este 29 de noviembre",
-   "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczg3R21jekF2bVdhZlhyUnlmNGQ4MFdhWDhtcDVUZ3l0VjBEUFNSM19HTXhSY2o5M1pxQUxST3cxYm1QZTVKUWNYQ05PMDluUlpSTWh5TGdIZ2RJbWdXd1ZKeTFpOWNlelFuTlBjS21ibExuck8yZk1xU2drMm1tTnNLVFpqS0lUNzBEV3lrNmF1bkg2eXplRWtIOTVGUWY3TndBVy1NRnlmQdIBrwFBVV95cUxNMlRrQmduVHFwTW55MmQ4Vk1HYktMNW12RGRrUGVzOTVpX3MtNTRnVmVuaFI5WW1Mb04wckJTUzg4UEYwYTRxRU1idWloUTdVRGdFVlpVX2ltdlRwS3ZJcm9SR2U2TFhqNzE5N1F3VHNuY3MyaENmQ3haMEZESzVBRlBzQ0ZURjJRUGtwY0V2bC02REJqSjZQQ1ZJVHRDY3BLcXNuRWZBOTZMaC1nY3kw?oc=5",
-   "medio": "Vistazo",
-   "fecha": "2026-11-27T18:15:00+00:00",
-   "imagen": "https://www.vistazo.com/binrepository/900x601/0c1/600d600/none/12727/LRGN/oea_2779124_20261127133813.jpg"
   },
   {
    "titulo": "Mundial Sub-17: Ecuador tiene dos posibles rivales para los dieciseisavos de final",
@@ -354,32 +340,11 @@
    "imagen": "https://www.eluniverso.com/resizer/v2/PZT5UNUE7JFV5P2WKJDKU2P3PM.jpeg?auth=44e7c569d9537be58e04743ce2fdf0935f1d092bda43fc625c036383d8908a25&width=893&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Ecuador se enfrentará a Grecia en los 16avos de final del Mundial sub 17",
-   "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGhZa1ljd05XUDlKQVhjOTRjYThTbnJCM1RKRW9WS1kyUWE5ZUdUT3NkejdNMWxSbjVkbnVjY1hmaW9JeXJEV3UyaWlOdV9GRzVCdnRtcVgtTm5JakNmN1VGWi1lYXpzeEdJc2hQblUwcFN4d1VLc29lUmY0WTN0Z055VjhkamVHUE5LbHUxTlk5aFQ0bHVZSWliS1hQVE1GVVA2VTBDTXBOOWswckpIWVJocmNMUmtpN3lHbTQ4aTB6UdIBxwFBVV95cUxOUmpkSlNBOW1pWWNqeEZQZzJYZExOUDV1SDFvOEc1NnpqaS0yNDdrZTNMY1otM0d4MU9kZXNTU2haeGtkYWFWUVFPbnN0M1dyR0VYeXYzYXR4WDcwYk1mU0I1UUM5bVVCSzVvTThFYU9BR0l5Tk5pQXFSWkx6TjE2Nm1nYTdteFY5RGZnUkRtZzR0RjNONkdXLVNNY2pEZ2RPUk1JSUpyS3ZmaXM3enMxZzVpd2VrSDdtamlTcExQdVJaUGhfUUcw?oc=5",
-   "medio": "Ecuavisa",
-   "fecha": "2026-11-27T17:59:59+00:00",
-   "imagen": null
-  },
-  {
-   "titulo": "Fenómeno de El Niño en Ecuador: cómo mantener el sistema inmunológico equilibrado y prevenir enfermedades ante las intensas lluvias",
-   "enlace": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZHFBckV2bU9LUlBZejVMaHhVajJ5S0hWMDNnbmlheDAtbE1UOXU2d2UxRW4wdDNmZnRwYXZuVnJfanNjXzFaMTVINUwzVEwxNFhwSTNYZlJ6WWFaZ3JpRGdtcW9kZll2NklzTjdERzc3VVFCZ1EyVkZKUklLZ0lSb2N2TWFycGdWcS1vaXFiZFI0aXFYSkstZUJkc3pLN3NETjJpYnBKTFpBUW5kMVF3SlJ6UDVpWFk5dVNFOVFJbGlYc0NNTngxR082QlZLTlRZVjhYTW53UDFLTGg4MmlOZ2NhdWFCMDAwWnFiVVRzWmxuTlduOFI5YjNhMmxKbmRXVWhkVkFVam84ZXdJamfSAaICQVVfeXFMUEgwUFM0RWZpZmVCWHVYYU9QZ2llV0Y0ckpaN0xqdHRyVFR0TE5LLTZQaG5rd2xsM3ZkNkE3NVVBc09XRkNtT2pYZDlWSGhsdndBWlFqdFc0NXRzbFZCZWJ6aTVHME9FTXRBdEZKNE5rUUhfVEJIV09DME82OE1wOGdIYVJDZHBGZFJqSjV6bDc1RlNGQ3Z3SDFxUkpQOXdBeHk3U096b2ttSWNoYVh3OXM2dDZSbERPTzhXX3ZzX3hTVV95Rm40T2dQZE9KNkc1RllCc3RLWWdTRzJKYnBSUjlKdG9rRWlFMzFMRmp5b0VCQ2xjTUN6cnlpVk9RWjJEcWZlRTZ6YVQ4dHUwbTdsOGNtWTRyeHBqODZVbmVYQ0RaMVE?oc=5",
-   "medio": "El Universo",
-   "fecha": "2026-11-27T17:57:00+00:00",
-   "imagen": "https://www.eluniverso.com/resizer/v2/3PJFCR3S2BGWJJZWQP4YM7Y54I.jpg?auth=97cca9d29b64366f7a8aebb2f765dfa3d3100420b614d1698dc81d1fa35d8e98&width=1005&height=670&quality=75&smart=true"
-  },
-  {
    "titulo": "Ecuador cae al puesto 93 de 117 países con un dominio muy bajo del idioma inglés",
    "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRXZwWXhJN0szb25YUUpPMGhWTkZCaWZRQXdCeFZWakxhVjlrdFV3Q1NuY0lJMkhvVjFub041anBnYm5Ud1FEbV9QOEIzMnRhQmlhUWNpakRGVWpOaGs4QXkzRnFVMmxUeHJJaUMxNU02OF85T0o2c3JXc0V6bWw3aFFNQ3poSktzcTBDeWpnd1EtUEFHQ0ptYWpBRVBrcW9LN0tFZ1J1VmdWYktjTjJHX1pGZ0M5dW1FUHpER1dHS2N1SnVaREE?oc=5",
    "medio": "El Mercurio",
    "fecha": "2026-11-27T17:56:30+00:00",
    "imagen": "https://elmercurio.com.ec/wp-content/uploads/2026/11/Ingles-hablar.jpg"
-  },
-  {
-   "titulo": "Ecuador entra en silencio electoral previo a las Elecciones Seccionales y del CPCCS",
-   "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjRQeVVVTjFmdnBuRGctelhqTENnd29YUjhfRTM2dGc4cWVqMWs2dW5ZNWQ4WHVwaXhqc09Tc1VfVTJ3SmkwMVg4dVFwakZQbkZMTWtGc0ViSG9TU21CNE9CS2tVeC01SC1sX1FwR2E1b2hlcXV1YkVQYjNGaklNc1psSzRHUDhoVi1qWVVvYllLSHNETElvbWdUQ3FfNTJOWGs0SzhmdnB0a2s0Q3FJWDhMOEpCcXV0bFU2d2FmX2pSYkUtcFE?oc=5",
-   "medio": "La República EC",
-   "fecha": "2026-11-27T17:29:16+00:00",
-   "imagen": null
   },
   {
    "titulo": "Dónde y a qué hora ver en Ecuador la final de Libertadores que desafía el dominio brasileño",
@@ -396,32 +361,67 @@
    "imagen": null
   },
   {
-   "titulo": "Entra Ecuador en silencio electoral y ley seca previo a comicios",
-   "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1gyaGJfQ2pULXVIVVBCc3pKaW5ESDVlSHlSM1FEeUZYMWhQamZVMTdqdnZVRWo5UElieUhIOWdERUMxQzd4VjVuLVBiOFRuX1ctQWFvVV9URGpmbUwzcmpxWjAyZ2l2YXA1MUlVM1d3QUNESzkxLW42Mzd4V1V1djZiRkJUTllTbWhQYkJ6M0p2T2h2ZkpoTlVTZHBiTUJYYVdEb0hsMVU5NGJlOWItME5B?oc=5",
-   "medio": "HOY Tamaulipas",
-   "fecha": "2026-11-27T17:18:31+00:00",
-   "imagen": "https://www.hoytamaulipas.net/fbfoto/371478/Entra-Ecuador-en-silencio-electoral-y-ley-seca-previo-a-comicios.jpg"
+   "titulo": "Barcelona SC, a elecciones: el número de socios y la concurrencia histórica a la asamblea del club más popular del Ecuador",
+   "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWTNKUUU5TFNFanFSTmpHcUJBZXE0VWNnU1h5NXVMYWFBakZ6VWxCaUdDYnVZQW1idl8xbkFhOXUxSlZRSFNvX3hBclA2UVA2amxwUml2VTc0eGJJWklsUTdrdE5IelRCOENVblVIWnl1Mlhaekx3Q0I0eGNMSkVQa1B1TmwtOVd4R25RSzNidWVrS0hwN28wTW1LRVo2MzI1WFZsZ0k3dDdZNHFKUjFMZ2RIZlFPTDRidWw5UVh2bmR1aEpkTUUzNHJsbGlrMVZBUThjVnV5eXlhYUxDeHFsT0x4M25ZV3k2Z1g4LUI2YWdEajEtemhxWUZXUmprTmMxeEJxY1g3cTF4NmFQT29VVldQUdIBpwJBVV95cUxOekZrNGxETUpwVUZzZHVwT2JqM2Rkd0dQcHZLdV9SZFdGajE4SWlkN19KUmhQeWhjazNDeEIxbWhQWEFjSlVPcnNOX2hEb3JDWVFpZklRc2hvbWgtMkdMeV9ZbUQtR1dBTWI5a1RrY1BBNWdYSzJLaTlSTFE5YmNOSnlOdE05R01qT2hFT1NmYjZacnZZOFIzeWtCM0lPOFNaNUZEUGQ1UlZya3hVWmVuclFERnRmcWM0OFcxbHl3LU8yM0N3WnVtVkVBN09BZzRtVzNFMVdSM0pTQVl1OWRYM0h6dEhaUDZoWXp2NXByWFlUZlRFZnF1SlpRLTZqTndnWk5iVU5seTVNMko3cTloRUxIUno0eUFlNGxKQ1JYb0ZLYnNwWnNZ?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-27T16:59:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/YEZX4G4FQNFU3N3UOK3QAL6NLI.jpg?auth=0e8bf7d63697e823d45c7d13a4d307a487576c7915029c1d17ae40b8050b8178&width=893&height=670&quality=75&smart=true"
   },
   {
-   "titulo": "Dónde voto 2026: link para consultar dónde sufragar este domingo en las elecciones de Ecuador",
-   "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNy0xaGpRbVdwT3VWcWpGbkptbzEwN21ZdHNMVGlRSU5BckVXR2prSUpEZmF1d0FfNGpENUhpbXAwVnBjcXNkMzBOaUxJRDhNb1Y4Q3JjeGIyWXBtWkpXa245VlFVeWE4SmxCWGRrTEhxUWlkZVV2c1dyZVM4WFYzUlg4cjR1QW90aFExdVBrZkRTX1hDWWR6eEdKVUZRcnFJOWM2TUgxOTRVb01WRkhEdHZjR2tXS3FoVVJOLVVVVkgzSTQySjQxd2dDNVJqTUttRUhTd3V6NnJKWVRuLUxR0gHzAUFVX3lxTE9Cb1ZtOVc0MFdtY1ZvcV92TXBsdUN4Q3JiUnN6RC0waEI3bHduajMtUXBzQmI1OU95WXNhbnlZZFNHZ2t2cjFnSTNMY2p2NWN6TjVjbm1LQ3hxTUFnbWJ3bVhxXzl6d0h0X2pQeE5zd2E4WXB5RDMwUFpMZ3BEUWxQZzB3OXNFR2QyYllqV0luV2JrRVpXOTZqdWhuSUJVTWJRUHZFbXFYUUoycWUxYnh3UThNdTUteEpWMXA0bnA5c2E5OG5POUYyUjZfVGtYZ2lNT3JYb0J1ZEZvdEJJWWtwQ19maWFKVlppaGx5dUowNml0cw?oc=5",
-   "medio": "Bloomberg Línea",
-   "fecha": "2026-11-27T17:16:12+00:00",
-   "imagen": "https://www.bloomberglinea.com/resizer/v2/F76GXZ7POZHZZMWPC6WRGSLAPY.jpg?auth=38b3d6440d91e5e4db4e219083d345020aabf66bec4b0080c4034a08de6c2397&width=1200&height=675&quality=80&smart=true"
+   "titulo": "Grecia será el rival de Ecuador en los dieciseisavos de final del Mundial Sub-17: estos son los 3 impactos deportivos",
+   "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPV3lxam8yaEdVelZiM2RNSWI3VW1MUlQ4VXgwWXQ0bnFzOGhTQ055Q2ZlUDgwTzZCWFc5WDBtTnNZX2xtT3NRTWFuVld0RFVPeGNWVmI3TU9WTHFnMHdmNWFlMC1xTmhMNWxuNzB1VmoteWxXa1ItTENsVEY5MUZ1MHowb09QamNQWmhPdnpiNXpLb0U3QUJoRlEwOG1nZ1ZILXNpZ2o4dXMtc1FDcWRRSVNoVUtpdmgzRHVNakI5d1g1c0N5djJZSmRPS092Um1HVkg4aVRKWklLVnBJNXp6a0xKTnpoRDdqTHpwQno0ZGRsQnhwSXQtMNIBjAJBVV95cUxOb203MzkxRzlVdUUwbFR0V0Q4X1J1T05QNE5HMHhucmxPVnltT1RtMHdINzNONlo2elF5WnFRc3JiLUc4VHdKMzM0RmtiWThJbGZVbV9UWUo3ZWd4cUpSN0FKMUZHUDVJb1N6RjZOZ2VEWnNNbmF5eWQzRWNSb3dhakp4X2JOVHdGSjV6dTFQU0VocXkzeHZwQm9ZTGVaN0xQQ0x1cDlibVIyYnRuT0EzTHAwUk02RVRtclA4RFM4amRhQkZ5b0pITmVxcEpoVlFTZzdGa21xenp4VG5ZdHExU2w4amREOEwwSUhvUWNXWVBnZkpZdWN5ZmlEWGlCUnpkOFNycnZlb09qSjVw?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-27T16:42:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/ATJE7V633RF4PMHBB4QKVSPHGI.jpg?auth=7400ab8affcbc1c5f1b05cd5a0d51bfbf3938160bad60c6750f83863376d736a&width=510&height=383&quality=75&smart=true"
   },
   {
-   "titulo": "ECUADOR: Crianza de cuyes busca espacio en mercados de exportación.",
-   "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0ZQUnB2VC10ODVEZEtqQndiVC1MTzNlZ0FrUkV3MkI4dmt3d2FtYU9ZLXN2dmpLT0d0TXJmNDk0Ulo3TTNyNGdoaS1wem02YWNFUWZuYVlFN3VSVDRzSkhHbFozZ0tjbFhIMHI5Y1Y0b25OTGo0X2Q5eWxyaUlDTFhMRkpLcUE0b0tKbXU1ZHExeXJIclBLdElZTkJ4STVibnF0cA?oc=5",
-   "medio": "El Productor (Ecuador)",
-   "fecha": "2026-11-27T16:55:16+00:00",
+   "titulo": "Universidad Católica vs. Independiente del Valle en la fecha 8: un duelo de la Liga Pro con tinte a una final anticipada de la Copa Ecuador 2026",
+   "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVEEtRE8ydTNnWllxenNCNUhlQkdtUjdmNFlPbEJ0dUc2WFcyX2RVWUVPaWZYLXl3cm53aWJjeVRSNjFsa0dzeVRqOTVVdWo0ajkzNEk3eUFQUlZRQ0Zpb2ZnOEhYRVZieWRCOHJvTVBrX0RCUDR4OTJTdEVncUdiWm5oUFpucGcwVG93aWVmS2tjZ2NKN2VLbjZzQmt2QjZlUDZuNEg2UWFKd0RWV1c1S1FiV3JZaHJ1M3RZVl8xeUF2NWVrLThUSU1tMXM1RmdqZTROWFg3NnZxSGtvN3hsS2tkYlhoTVpaa29Na2VRNnU2cFV3djlQb2FvVjlLUl9VV1VQMWZRcGd0NFZodzgxcGVJMNIBpwJBVV95cUxQWFNHRVhmaDJIRWNNZE9XZTZwVTVlLVFrYWdabFQ2ZnoyRE1ldlNibWpoNGdHVEhDMEFFZHVHRU4zUEU3RXRLRXc4MUJSSl9OblRrVGVCUlpJY0RjOFNKNE5TS2Fad1J2THM1UDkyNXhTN05KWFZldlhiREVDUHE2aHMxWHJhRThXQ2Q5aXMwVUVZSm9vVGdISWtUcUt4NkR2NlliMUJTX3hVaHZLckFlRGNSR3MxczhlWS01T0txSFBJVDBNT1dzRTgwbUd1RVRRNm1adEs0WFBqWEpVb1RKT09Rb0RQRU9Bd0pWMGluNmRxdGxFU0hhZ25hUFFEaGtBQW9wNm94amdoM2FOSEYwQzgtYXhWTGJXYUJHVjdHM2EwWTBOTHlr?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-27T16:42:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/KNRKRARWY5HOZONHQQM5FIRN6E.jpg?auth=14d20aa3680227b85cdf64fd9e277ba2473e72cbbb6419cd5bd7cdfcad9d89f1&width=843&height=670&quality=75&smart=true"
+  },
+  {
+   "titulo": "La Selección de Ecuador, con la cabeza en los próximos amistosos: el destino que baraja Gallardo para la nu...",
+   "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPOVFQSjZ0eDFrWnlScnlYV3g2LUVUelFLeDI4WFRCOFBFcnFVdG9fTVVRUGx1SXh0UV90cDItSGV6OVBobDEzTHNMcGFfeVc0WU1NcFd6M05CU2lwSlN2UVUxZUxZaVRQeUotZU1LbDVCYVJhYnpKckxmSUkyMHNwdUpGX0hBQm5MTU9hbTlkR2Z4SFM2bHllOGhPOG4zT1REZ1BMS0dHQ19TdklFQTRKODExTGROc050TFdSbjVhMW9vdWhtQk1pMVgweWFKYTAwQ1VPbU8yYlBMSmJrUjBXQWp0Y21fdGozbncxVGxZUVI5bFYybXNPN1NTc3U5Y3hBSXZBMGhR0gGLAkFVX3lxTFB3S2JIR1JodmtTNkF0T2xlUVlXbkREeV9zMVl3ejN5WGJiWEIta0dRYUtLcFd4ZkVYSkNYMnZoeVozR0FJTGZHTWRVOTFoU1g2WmYwQ1RrbTl5bjZHTFhlcnRxN0M2dnRKZVBsZkNrblVpNlFnOWVLU1RUa3oxZVdYWGliSXpUNnZ0RmNrcDB0U0VPZ0VwMGlsMlk0OHVvbEJZTmE1eFE2LVBoMmFMMVdtdDBrRl8tVWc5d1NVQ0FzaFNZVy1QLXZkVXBqZ1AwMzUtV1VNRXhfNjF3eTA1c205UUhfZTZuQTN3NUJLc1ZKLW1QMndhQjNpRVZZV2ZjQ0RCN2FjNTVLNEZvSQ?oc=5",
+   "medio": "DSports",
+   "fecha": "2026-11-27T16:39:45+00:00",
    "imagen": null
   },
   {
-   "titulo": "¿Cuánto es la multa por incumplir la ley seca en Ecuador durante las elecciones?",
-   "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdzN3d0VORmhLYXdBZUtfbHBWVnAyY3hBNXFndVVXNy1GQlBMdFN6TWdBaThEOEFEdnNPaGxOV2xhSUpYV3ZMdUo1YWo3OUNLSDRxbVJPZFByM0xGcl96N0oyRzJrVEJVSTlVSmxMWE9NaVdJLXpYYkNwWVdHVmJRZmtydFhMRFJlYlE?oc=5",
+   "titulo": "Mundial Sub-17: ¿cuándo se jugarán los dieciseisavos de final y qué día jugaría Ecuador?",
+   "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORUt6Sl8wOVoxRDFjXzM1WEhRZjdBWU80WkRISXh2U3JSSklqYktCcUxKY0RmSnljdXFKS3J6S3dEam5QYVE2bkRhNHI2a1FXYmQ3Y0RDelZ2UEVMd1BIbzYwTHNndS01ZHJCTUVQaDZVVnNCQmpxb2p1XzhLSmNDcXlmNE1RR1dZazJyVExYZVlfMWFoMUNENXNwYWhhbFBrdjRnemctQ0t1N080eVVnWFRGZmdqRERudll0OXkwclhucEk1ZnI3YUxBQ3ZkZ9IB4gFBVV95cUxNamFESnJBZ0RBWFkzRkowQXpyTUphN05fVHZNX05Wem5saUZ2ZnlhZlNwcXQ1VUd0c0tGQjF0RVJNbmx3YVU2QXhJZDRmeTNVaHEzc2M0NHRxZllWVS0tM19hbmRwdGMtc180X0dmNmQxZjI5YUppQmhZUE5od3hzVTJoWFhCQWxOQ19DRW5kUy04djY3Nmp6cHdaZ2pOaUlwYld6V0Zsa1JNS3FsNi1DWi1DRnlEZnh4bmw5RjBDVC1WUl8tdHVhd241V1VmVDJobjRPUFpocEY5YWZySzlSMnF3?oc=5",
+   "medio": "El Universo",
+   "fecha": "2026-11-27T16:35:00+00:00",
+   "imagen": "https://www.eluniverso.com/resizer/v2/STVLFMSH5RCD3G4QJG4XEOBRJM.jpg?auth=79182f8a4f4bc899d4a22f2b481bf9541930a2095f5c3baeda443dc1b2f5c212&width=510&height=383&quality=75&smart=true"
+  },
+  {
+   "titulo": "Qué pasa si no voto en Ecuador este domingo 29 de noviembre",
+   "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHJ5TjI1YjJkNDFOa3ljUjBjU1dFNndvWnZyS3Rkd0VZTjhJcURiWWZBZ1VhdXVHOU1yTEY4bG1Ia0JWek9JM3BpYnBQeVNteWZUakZzMTYxYzZLaG9wY2tGVDZYN09sdlc3RG1McHZjbDBYZ3N1UEpsc2VtWG9BSjhqTHdnLXBLQlgwa043TDJLSEs5cTNGZnUzNUI2bnhmcE83Q1NQZWZuekwyZXJBVk9kd9IBxwFBVV95cUxNV0hxeE1zd0RtQjBDVjdpdzR3ZS1HT3Voejg0Y094MDlfeFo3cjNEaldoNUV5ai01SUxpMldJdkNoNkdINDlJZDFfZ3dDdTd3bTlkV3lkakd1bUdiV0hGdS0tVGNFVnhESXpCSkxlZXJiRThuZ3ZOemxsTWpFdElWVzZ5TE5zdTFybUhoRGc0cU04aEIyWWh5Vk1BSDhZMmZ1NkVIdE4tOVNURVlCc2RRNTZkcTVRQXJySnN3UXlHNnloRG5lNDJB?oc=5",
+   "medio": "Bloomberg Línea",
+   "fecha": "2026-11-27T16:24:41+00:00",
+   "imagen": "https://www.bloomberglinea.com/resizer/v2/2PYZ553ZWBASZEKYUDCZUJF4MM.jpg?auth=81b200e51f84edaeaa34f68accb6d48032cf9d0acd3f0c5ffe31f15eb2a4b122&width=1200&height=675&quality=80&smart=true"
+  },
+  {
+   "titulo": "Ley seca en Ecuador arranca este viernes 27 de noviembre por elecciones, ¿hasta cuándo dura?",
+   "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVjVmTWxodS11cnV6aUZhdEczU2xhZEQyRDZLSkdRT1Q2b3hXLWxtTHJ2X2tSLVE5aXd4V2VwQktZXzlTd2pzM09BeWRHZnZEbWt2X3dxSS14RHVwanJZZmRYTmVtMjI1d0RwbkFLVFVHM1RUMGZFaWpnRkNweXdGSkhNUU5qNTRuaW1BVVN3eERYb3F6NE1seE1pRFFfZW42X205eFZWUU92dTk4eGJYVHV3Nlkzb0U?oc=5",
    "medio": "El Comercio",
-   "fecha": "2026-11-27T16:53:43+00:00",
-   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/multa-ley-seca.jpg"
+   "fecha": "2026-11-27T16:02:20+00:00",
+   "imagen": "https://media.elcomercio.com/wp-content/uploads/2026/11/ley-seca-1.jpg"
+  },
+  {
+   "titulo": "Ecuador. La guerra contra las drogas y la historia detrás de ella están fracasando",
+   "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRlNwRFZBTHZmMnhrYlJUT2JuSER6SEJkNlk4VEJxSFRRamg5U0ppYUNuRXF1c3l5ZmRWWEttaTZBNm9YanNoOUxGV2NXTmhHa2lOdWRIY25ISzJvYUIwaGx2QVhOVjUxTXoxNkZMbV9NdUJyNWhrMEdRN1Zaa1ZjaG1VbnlqS09jUmNNZlJoZkZkeDVaSFhodnZnVkQ0Zm9uQ3R1U3NCNEsyYWNsZjRmN1c0MzFZUzh0SktOVkV6QW0yN0ZWLVlnWFNYOEE?oc=5",
+   "medio": "Resumen Latinoamericano -",
+   "fecha": "2026-11-27T15:52:02+00:00",
+   "imagen": "https://www.resumenlatinoamericano.org/wp-content/uploads/2026/11/69567df413004-768x432-1.jpg"
+  },
+  {
+   "titulo": "Qué saber de las elecciones en Ecuador para elegir autoridades locales",
+   "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZk5LZ0UxUXdtOGl5aUw2MGt1Nnp4Nm1yTmNLeXdZeEFPVWlIUnJTYlpiTXluMjhlblkyeGljcmMxTEx6TDk0bU15S2lVMl9kdlZTS21iOVpSUmxZdk1kUWJwR3VSaFN3YkNGRVRvZWZ4V2NXOTVmOGV3bFFGR1lhR2phMTdxRkp1MkZ0WmV3NnVUb1JranBIWGJlN19obXdOc1BEa2V5U2Ywa1lYcFJqcnRjejRLY0x1ZUViQTdTb2NnX2l2MkpYWDN1NTU5ODNZOW53RGxwYkhLLXJHQU1jcjJJTmI4LWFoQ2Yza1pzM0dZR0oxRE55bk13Z2dTTUxiWldITlBlNzA?oc=5",
+   "medio": "Telemundo Delmarva",
+   "fecha": "2026-11-27T15:31:01+00:00",
+   "imagen": "https://bloximages.newyork1.vip.townnews.com/telemundodelmarva.com/content/tncms/custom/image/0e86271e-c55a-11eb-8535-b74a0e3b6e65.png?resize=600%2C315"
   }
  ]
 }
